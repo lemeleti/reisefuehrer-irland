@@ -7,3 +7,6 @@
 *.launch
 RemoteSystemsTempFiles
 
+# Sonar
+.scannerwork
+sonar.bat
