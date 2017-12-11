@@ -19,6 +19,31 @@ body {
 	font-family: Merriweather, 'Helvetica Neue', Arial, sans-serif
 }
 
+pre {
+	font-family: Merriweather, 'Helvetica Neue', Arial, sans-serif !important;
+	white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+pre.light {
+	color: #FFF !important;
+}
+
+td {
+	vertical-align: top
+}
+
+.text-left {
+	text-align: left
+}
+
+.warning {
+	color: orange;
+}
+
 hr {
 	max-width: 50px;
 	border-width: 3px;

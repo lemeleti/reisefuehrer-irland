@@ -43,21 +43,18 @@
 </section>
 
 <section id="spaziergaenge" class="bg-dark text-white">
-    <div class="container text-center">
-        <h2 class="mb-4">Free Download at Start Bootstrap!</h2>
-        <a class="btn btn-light btn-xl sr-button"
-            href="http://startbootstrap.com/template-overviews/creative/">Download Now!</a>
-        <hr class="light my-4">
-        <div class="w3-content w3-display-container">
-          <img class="mySlides" src="img/portfolio/fullsize/1.jpg" style="width:100%">
-          <img class="mySlides" src="img/portfolio/fullsize/2.jpg" style="width:100%">
-          <img class="mySlides" src="img/portfolio/fullsize/3.jpg" style="width:100%">
-          <img class="mySlides" src="img/portfolio/fullsize/4.jpg" style="width:100%">
-          <img class="mySlides" src="img/portfolio/fullsize/5.jpg" style="width:100%">
-          <img class="mySlides" src="img/portfolio/fullsize/6.jpg" style="width:100%">
-
-          <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-          <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 mx-auto text-center">
+                <h2 class="section-heading">Rundg&auml;nge</h2>
+                <p style="color: red;">Hier kommt die Karte f&uuml;r alle Touren hin</p>
+                <hr class="light my-4">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 mx-auto text-center">
+                <?php include TEMPLATES_PATH . '/politik_block.php' ?>
+            </div>
         </div>
     </div>
 </section>
