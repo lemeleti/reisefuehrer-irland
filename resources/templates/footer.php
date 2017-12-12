@@ -9,8 +9,9 @@
         <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
 
         <!-- Custom scripts for this template -->
-        <!-- <script src="js/creative.min.js"></script>-->
+        <script src="js/creative.min.js"></script>
         <script src="js/slideshow.js"></script>
+        <script src="js/custom.js"></script>
 
     </body>
 </html>
