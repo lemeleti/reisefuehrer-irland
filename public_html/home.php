@@ -4,11 +4,11 @@
     require_once TEMPLATES_PATH . '/header.php';
     require_once TEMPLATES_PATH . '/nav.php';
 ?>
-<section class="bg-primary" id="about">
+<section class="bg-primary" id="dublin">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 mx-auto text-center">
-                <h2 class="section-heading text-white">Wer sind wir!</h2>
+                <h2 class="section-heading text-white">Dublin</h2>
                 <hr class="light my-4">
                 <p class="text-faded mb-4">Lorem ipsum dolor sit amet, consectetur
                     adipiscing elit, sed do eiusmod tempor incididunt ut labore et
@@ -23,11 +23,11 @@
     </div>
 </section>
 
-<section id="dublin">
+<section id="about">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 mx-auto text-center">
-                <h2 class="section-heading">Dublin</h2>
+                <h2 class="section-heading">Wer sind wir!</h2>
                 <hr class="my-4">
                 <p class="mb-4">Lorem ipsum dolor sit amet, consectetur
                     adipiscing elit, sed do eiusmod tempor incididunt ut labore et
@@ -48,9 +48,13 @@
             <div class="col-lg-8 mx-auto text-center">
                 <h2 class="section-heading">Rundg&auml;nge</h2>
                 <p style="color: red;">Hier kommt die Karte f&uuml;r alle Touren hin</p>
-                <hr class="light my-4">
             </div>
         </div>
+    </div>
+</section>
+
+<section id="politik" class="bg-secondary text-white">
+    <div class="container">
         <div class="row">
             <div class="col-lg-8 mx-auto text-center">
                 <?php include TEMPLATES_PATH . '/politik_block.php' ?>

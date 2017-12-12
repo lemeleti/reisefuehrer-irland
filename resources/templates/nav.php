@@ -14,14 +14,19 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger"
-                            href="#about">Home</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger"
-                            href="#about">&Uuml;ber</a></li>
+                        <li class="nav-item"><a id="home" class="nav-link js-scroll-trigger"
+                            href="#dublin">Home</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger"
                             href="#dublin">Dublin</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger"
-                            href="#spaziergaenge">Spazierg&auml;nge</a></li>
+                            href="#about">&Uuml;ber Uns</a></li>
+                        <li class="nav-item dropdown">
+                        	<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Spazierg&auml;nge <b class="caret"></b></a>
+                        	<ul class="dropdown-menu">
+                                <li class="nav-item"><a class="nav-link js-scroll-trigger"
+                                    href="#politik">Politik</a></li>
+                        	</ul>
+                        </li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger"
                             href="#impressum">Impressum</a></li>
                     </ul>
