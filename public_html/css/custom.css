@@ -1,0 +1,54 @@
+@media (min-width: 767px) {
+    .navbar-nav .dropdown-menu .caret {
+	transform: rotate(-90deg);
+    }
+}
+
+.dropdown-menu {
+	border: 0px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #808080;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+	color: #f05f40;
+}
+
+
+pre {
+	font-family: Merriweather, 'Helvetica Neue', Arial, sans-serif !important;
+	white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+td {
+	vertical-align: top
+}
+
+div.hideContent {
+    overflow: hidden;
+    line-height: 1em;
+    height: 2em;
+}
+
+div.showContent {
+    line-height: 1em;
+    height: auto;
+}
+
+.text-left {
+	text-align: left
+}
+
+.warning {
+	color: orange;
+}
+
+.custom-url, .custom-url:focus, .custom-url:hover  {
+	color: #0c0c0c;
+}
