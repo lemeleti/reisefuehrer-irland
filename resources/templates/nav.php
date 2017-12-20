@@ -5,7 +5,7 @@
         <nav class="navbar navbar-expand-lg navbar-light fixed-top navbar-shrink"
             id="mainNav">
             <div class="container">
-                <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand js-scroll-trigger" href="#page-top">Reisef&uuml;hrer Irland</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button"
                     data-toggle="collapse" data-target="#navbarResponsive"
                     aria-controls="navbarResponsive" aria-expanded="false"
@@ -23,6 +23,8 @@
                         	<ul class="dropdown-menu">
                                 <li class="nav-item"><a class="nav-link js-scroll-trigger"
                                     href="#politik">Politik</a></li>
+                                <li class="nav-item"><a class="nav-link js-scroll-trigger"
+                                    href="#oasen">Oasen</a></li>
                         	</ul>
                         </li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger"

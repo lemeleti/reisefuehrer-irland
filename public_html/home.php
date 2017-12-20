@@ -63,6 +63,16 @@
     </div>
 </section>
 
+<section id="oasen" class="text-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 mx-auto text-center">
+                <?php include TEMPLATES_PATH . '/oasen_block.php' ?>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section id="impressum">
     <div class="container">
         <div class="row">
