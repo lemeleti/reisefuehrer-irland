@@ -1,26 +1,46 @@
-var slideIndex = 1;
-// TODO: optimize slider loop when all sliders are set! 
-for (var i = 1; i <= 9; i++) {
-	showDivs("slides_" + i, slideIndex);
+// init
+var slides = $("div.slides");
+var slideIndexes = new Array(slides.length);
+
+for (var i = 0; i < slideIndexes.length; i++) {
+	slideIndexes[i] = 1;
 }
 
-function plusDivs(slider, n) {
-	showDivs(slider, slideIndex += n);
+// show
+slides.each(function(index) {
+	showDivs(this, slideIndexes[index], index);
+});
+
+function plusDivs(element, n) {
+	/*
+	 * If slider has been found in the array, increase its index by 1 and call
+	 * the show function
+	 */
+	for (var i = 0; i < slides.length; i++) {
+		if (slides[i] == element) {
+			slideIndexes[i] += n;
+			showDivs(element, slideIndexes[i], i);
+			break;
+		}
+	}
 }
 
-function showDivs(slider, n) {
-	var i;
-	var x = document.getElementsByClassName(slider);
-	if (x.length > 0) {
-		if (n > x.length) {
-			slideIndex = 1;
+/*
+ * Check if index exists. If not set low or max value based on the user action.
+ * Afterwards display the new image.
+ */
+function showDivs(element, newIndex, slideIndex) {
+	var images = element.getElementsByTagName("IMG");
+	if (images.length > 0) {
+		if (newIndex > images.length) {
+			slideIndexes[slideIndex] = 1;
 		}
-		if (n < 1) {
-			slideIndex = x.length;
+		if (newIndex < 1) {
+			slideIndexes[slideIndex] = images.length;
 		}
-		for (i = 0; i < x.length; i++) {
-			x[i].style.display = "none";
+		for (var i = 0; i < images.length; i++) {
+			images[i].style.display = "none";
 		}
-		x[slideIndex - 1].style.display = "block";
+		images[slideIndexes[slideIndex] - 1].style.display = "block";
 	}
 }
