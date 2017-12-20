@@ -1,6 +1,6 @@
 @media (min-width: 767px) {
     .navbar-nav .dropdown-menu .caret {
-	transform: rotate(-90deg);
+		transform: rotate(-90deg);
     }
 }
 
@@ -16,7 +16,6 @@
 	color: #f05f40;
 }
 
-
 pre {
 	font-family: Merriweather, 'Helvetica Neue', Arial, sans-serif !important;
 	white-space: pre-wrap;       /* Since CSS 2.1 */
@@ -30,10 +29,21 @@ hr {
 	margin:0 auto !important
 }
 
-@media (min-width: 992px) {
-	section {
-		padding: 10.5rem 0
-	}
+section {
+	padding: 4rem 0;
+	background-color: grey;
+	opacity: 0.7;
+    filter: alpha(opacity=70); /* For IE8 and earlier */
+	width: 80%;
+	margin-left: 10%
+}
+
+#page-top {
+	background-color: black;
+}
+
+table {
+	width: 100%
 }
 
 td {
@@ -49,10 +59,6 @@ div.hideContent {
 div.showContent {
     line-height: 1em;
     height: auto;
-}
-
-.text-left {
-	text-align: left
 }
 
 .warning {

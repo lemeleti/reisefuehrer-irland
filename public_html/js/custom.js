@@ -1,3 +1,7 @@
+$(document).ready(function(){
+	$("#page-top > section:first").css("margin-top", "50px");
+});
+
 // show/hide content
 $(function() {
 	var $content = $("div.content");
