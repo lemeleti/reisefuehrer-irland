@@ -26,6 +26,16 @@ pre {
     word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
 
+hr {
+	margin:0 auto !important
+}
+
+@media (min-width: 992px) {
+	section {
+		padding: 10.5rem 0
+	}
+}
+
 td {
 	vertical-align: top
 }
