@@ -29,6 +29,10 @@ hr {
 	margin:0 auto !important
 }
 
+.slides img {
+	width: 100%;
+}
+
 section {
 	padding: 4rem 0;
 	background-color: grey;

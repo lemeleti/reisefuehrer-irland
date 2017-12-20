@@ -33,12 +33,12 @@
 <pre class="text-white">Am besten das Geb&auml;ude von der anderen Seite des Flusses betrachten.</pre>
 <hr class="light my-4">
 <div class="w3-content w3-display-container slides">
-    <img src="img/portfolio/fullsize/1.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/2.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/3.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/4.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/5.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/6.jpg" style="width: 100%">
+    <img src="img/portfolio/fullsize/1.jpg">
+    <img src="img/portfolio/fullsize/2.jpg">
+    <img src="img/portfolio/fullsize/3.jpg">
+    <img src="img/portfolio/fullsize/4.jpg">
+    <img src="img/portfolio/fullsize/5.jpg">
+    <img src="img/portfolio/fullsize/6.jpg">
 
     <button class="w3-button w3-black w3-display-left" onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
     <button class="w3-button w3-black w3-display-right" onclick="plusDivs(this.parentElement,1)">&#10095;</button>
@@ -73,16 +73,16 @@
 <br />
 <hr class="light my-4">
 <div class="w3-content w3-display-container slides">
-    <img src="img/politics/fullsize/IMG_7358.JPG" style="width: 100%">
-    <img src="img/politics/fullsize/IMG_7336.JPG" style="width: 100%">
-    <img src="img/politics/fullsize/IMG_7340.JPG" style="width: 100%">
+    <img src="img/politics/fullsize/IMG_7358.JPG">
+    <img src="img/politics/fullsize/IMG_7336.JPG">
+    <img src="img/politics/fullsize/IMG_7340.JPG">
 
     <button class="w3-button w3-black w3-display-left" onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
     <button class="w3-button w3-black w3-display-right" onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <hr class="light my-4">
 <div class="content">
-<p>Die City Hall ist eines der besten Beispiele f&uuml;r die georgianische Architektur und wurde 1769 bis 1779 gebaut. Das Geb&auml;ude wurde urspr&uuml;nglich als B&ouml;rse genutzt wurde aber nach einer wirtschaftlichen Krise im 19 Jh. 1851 von der Dublin City Corporation gekauft und f&uuml;r die Stadtverwaltung aufbereitet. Auch dieses Geb&auml;ude wurde von den Irischen Rebellen im Osteraufstand 1916 besetzt und 1922 nach der Erlangung der Unabh&auml;ngigkeit bezog die Regierung provisorisch die City Hall als Hauptquartier. Leider musste 1995 die Stadt¬verwaltung 1995 die City Hall wegen Platz Problem verlassen. Aber jeden ersten Montag im Monat kehrt der Stadtrat zur&uuml;ck in die City Hall. Heute gibt es im Kellergew&ouml;lbe eine Ausstellung, die Einblick in die Entwicklung der Stadt geben soll.</p>
+<p>Die City Hall ist eines der besten Beispiele f&uuml;r die georgianische Architektur und wurde 1769 bis 1779 gebaut. Das Geb&auml;ude wurde urspr&uuml;nglich als B&ouml;rse genutzt wurde aber nach einer wirtschaftlichen Krise im 19 Jh. 1851 von der Dublin City Corporation gekauft und f&uuml;r die Stadtverwaltung aufbereitet. Auch dieses Geb&auml;ude wurde von den Irischen Rebellen im Osteraufstand 1916 besetzt und 1922 nach der Erlangung der Unabh&auml;ngigkeit bezog die Regierung provisorisch die City Hall als Hauptquartier. Leider musste 1995 die Stadtverwaltung die City Hall wegen Platz Problem verlassen. Aber jeden ersten Montag im Monat kehrt der Stadtrat zur&uuml;ck in die City Hall. Heute gibt es im Kellergew&ouml;lbe eine Ausstellung, die Einblick in die Entwicklung der Stadt geben soll.</p>
 </div>
 <div class="show-more">
     <a class="custom-url" href="#">mehr...</a>
@@ -111,12 +111,12 @@
 <br />
 <hr class="light my-4">
 <div class="w3-content w3-display-container slides">
-    <img src="img/portfolio/fullsize/1.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/2.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/3.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/4.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/5.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/6.jpg" style="width: 100%">
+    <img src="img/portfolio/fullsize/1.jpg">
+    <img src="img/portfolio/fullsize/2.jpg">
+    <img src="img/portfolio/fullsize/3.jpg">
+    <img src="img/portfolio/fullsize/4.jpg">
+    <img src="img/portfolio/fullsize/5.jpg">
+    <img src="img/portfolio/fullsize/6.jpg">
 
     <button class="w3-button w3-black w3-display-left" onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
     <button class="w3-button w3-black w3-display-right" onclick="plusDivs(this.parentElement,1)">&#10095;</button>
@@ -159,12 +159,12 @@
 <pre class="text-white">Ziel von Protestm&auml;rschen und Kundgebungen.</pre>
 <hr class="light my-4">
 <div class="w3-content w3-display-container slides">
-    <img src="img/portfolio/fullsize/1.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/2.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/3.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/4.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/5.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/6.jpg" style="width: 100%">
+    <img src="img/portfolio/fullsize/1.jpg">
+    <img src="img/portfolio/fullsize/2.jpg">
+    <img src="img/portfolio/fullsize/3.jpg">
+    <img src="img/portfolio/fullsize/4.jpg">
+    <img src="img/portfolio/fullsize/5.jpg">
+    <img src="img/portfolio/fullsize/6.jpg">
 
     <button class="w3-button w3-black w3-display-left" onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
     <button class="w3-button w3-black w3-display-right" onclick="plusDivs(this.parentElement,1)">&#10095;</button>
@@ -209,19 +209,19 @@
 <br />
 <hr class="light my-4">
 <div class="w3-content w3-display-container slides">
-    <img src="img/portfolio/fullsize/1.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/2.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/3.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/4.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/5.jpg" style="width: 100%">
-    <img src="img/portfolio/fullsize/6.jpg" style="width: 100%">
+    <img src="img/portfolio/fullsize/1.jpg">
+    <img src="img/portfolio/fullsize/2.jpg">
+    <img src="img/portfolio/fullsize/3.jpg">
+    <img src="img/portfolio/fullsize/4.jpg">
+    <img src="img/portfolio/fullsize/5.jpg">
+    <img src="img/portfolio/fullsize/6.jpg">
 
     <button class="w3-button w3-black w3-display-left" onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
     <button class="w3-button w3-black w3-display-right" onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <hr class="light my-4">
 <div class="content">
-<p>Das Government Building wurde von Sir Aston Webb und Thomas Manley entworfen und gebaut. Das Geb&auml;ude wurde von 1904 bis 1922 erbaut und beherbergt Regierungs¬b&uuml;ros. Heute ist das Ministerium des Premierministers, die Ratskammer, das Finanzministerium und das B&uuml;ro des Generalstaatsanwalts im Government Buildings untergebracht.</p>
+<p>Das Government Building wurde von Sir Aston Webb und Thomas Manley entworfen und gebaut. Das Geb&auml;ude wurde von 1904 bis 1922 erbaut und beherbergt Regierungsb&uuml;ros. Heute ist das Ministerium des Premierministers, die Ratskammer, das Finanzministerium und das B&uuml;ro des Generalstaatsanwalts im Government Buildings untergebracht.</p>
 </div>
 <div class="show-more">
     <a class="custom-url" href="#">mehr...</a>
