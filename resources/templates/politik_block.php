@@ -33,12 +33,12 @@
 <pre>Am besten das Geb&auml;ude von der anderen Seite des Flusses betrachten.</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides">
-    <img src="img/portfolio/fullsize/1.jpg">
-    <img src="img/portfolio/fullsize/2.jpg">
-    <img src="img/portfolio/fullsize/3.jpg">
-    <img src="img/portfolio/fullsize/4.jpg">
-    <img src="img/portfolio/fullsize/5.jpg">
-    <img src="img/portfolio/fullsize/6.jpg">
+    <img src="img/portfolio/thumbnails/1.jpg">
+    <img src="img/portfolio/thumbnails/2.jpg">
+    <img src="img/portfolio/thumbnails/3.jpg">
+    <img src="img/portfolio/thumbnails/4.jpg">
+    <img src="img/portfolio/thumbnails/5.jpg">
+    <img src="img/portfolio/thumbnails/6.jpg">
 
     <button class="w3-button w3-black w3-display-left" onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
     <button class="w3-button w3-black w3-display-right" onclick="plusDivs(this.parentElement,1)">&#10095;</button>
@@ -111,12 +111,12 @@
 <br />
 <hr class="my-4">
 <div class="w3-content w3-display-container slides">
-    <img src="img/portfolio/fullsize/1.jpg">
-    <img src="img/portfolio/fullsize/2.jpg">
-    <img src="img/portfolio/fullsize/3.jpg">
-    <img src="img/portfolio/fullsize/4.jpg">
-    <img src="img/portfolio/fullsize/5.jpg">
-    <img src="img/portfolio/fullsize/6.jpg">
+    <img src="img/portfolio/thumbnails/1.jpg">
+    <img src="img/portfolio/thumbnails/2.jpg">
+    <img src="img/portfolio/thumbnails/3.jpg">
+    <img src="img/portfolio/thumbnails/4.jpg">
+    <img src="img/portfolio/thumbnails/5.jpg">
+    <img src="img/portfolio/thumbnails/6.jpg">
 
     <button class="w3-button w3-black w3-display-left" onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
     <button class="w3-button w3-black w3-display-right" onclick="plusDivs(this.parentElement,1)">&#10095;</button>
@@ -159,12 +159,12 @@
 <pre>Ziel von Protestm&auml;rschen und Kundgebungen.</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides">
-    <img src="img/portfolio/fullsize/1.jpg">
-    <img src="img/portfolio/fullsize/2.jpg">
-    <img src="img/portfolio/fullsize/3.jpg">
-    <img src="img/portfolio/fullsize/4.jpg">
-    <img src="img/portfolio/fullsize/5.jpg">
-    <img src="img/portfolio/fullsize/6.jpg">
+    <img src="img/portfolio/thumbnails/1.jpg">
+    <img src="img/portfolio/thumbnails/2.jpg">
+    <img src="img/portfolio/thumbnails/3.jpg">
+    <img src="img/portfolio/thumbnails/4.jpg">
+    <img src="img/portfolio/thumbnails/5.jpg">
+    <img src="img/portfolio/thumbnails/6.jpg">
 
     <button class="w3-button w3-black w3-display-left" onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
     <button class="w3-button w3-black w3-display-right" onclick="plusDivs(this.parentElement,1)">&#10095;</button>
@@ -209,12 +209,12 @@
 <br />
 <hr class="my-4">
 <div class="w3-content w3-display-container slides">
-    <img src="img/portfolio/fullsize/1.jpg">
-    <img src="img/portfolio/fullsize/2.jpg">
-    <img src="img/portfolio/fullsize/3.jpg">
-    <img src="img/portfolio/fullsize/4.jpg">
-    <img src="img/portfolio/fullsize/5.jpg">
-    <img src="img/portfolio/fullsize/6.jpg">
+    <img src="img/portfolio/thumbnails/1.jpg">
+    <img src="img/portfolio/thumbnails/2.jpg">
+    <img src="img/portfolio/thumbnails/3.jpg">
+    <img src="img/portfolio/thumbnails/4.jpg">
+    <img src="img/portfolio/thumbnails/5.jpg">
+    <img src="img/portfolio/thumbnails/6.jpg">
 
     <button class="w3-button w3-black w3-display-left" onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
     <button class="w3-button w3-black w3-display-right" onclick="plusDivs(this.parentElement,1)">&#10095;</button>
