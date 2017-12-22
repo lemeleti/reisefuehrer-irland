@@ -2,10 +2,10 @@
 #page-top {
 	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif !important;
 	background: url('../img/bridge-background-small.jpg') no-repeat fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+	-webkit-background-size: cover !important;
+	-moz-background-size: cover !important;
+	-o-background-size: cover !important;
+	background-size: cover !important;
 }
 
 .container-fluid {
@@ -13,6 +13,11 @@
 	/* Fall-back for browsers that don't support rgba */
 	background: rgb(255, 255, 255);
 	background: rgba(255, 255, 255, .9);
+}
+
+.content-container {
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 .width-80 {
@@ -93,9 +98,23 @@ pre {
 	word-wrap: break-word; /* Internet Explorer 5.5+ */
 }
 
+p {
+	text-align: justify !important;
+	word-break: break-all;
+	word-break: break-word; /* Webkit-Browser */
+}
+
 hr {
 	border-color: #000;
 	margin: 0 auto !important
+}
+
+hr.large {
+	max-width: 80%;
+}
+
+hr.vertical-center {
+	margin-top: 8rem !important;
 }
 
 section {
