@@ -4,7 +4,7 @@
         <nav class="navbar navbar-expand-lg navbar-light fixed-top navbar-shrink width-80"
             id="mainNav">
             <div class="container">
-                <a class="navbar-brand js-scroll-trigger" href="#page-top">Reisef&uuml;hrer Irland</a>
+                <a class="navbar-brand js-scroll-trigger" href="#page-top">Reisef&uuml;hrer</a>
                 <button class="navbar-toggler navbar-toggler-right custom-toggler" type="button"
                     data-toggle="collapse" data-target="#navbarResponsive"
                     aria-controls="navbarResponsive" aria-expanded="false"
