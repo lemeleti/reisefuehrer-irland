@@ -1,9 +1,43 @@
+/* global */
+#page-top {
+	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif !important;
+	background: url('../img/bridge-background-small.jpg') no-repeat fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.container-fluid {
+	padding: 4rem 0;
+	/* Fall-back for browsers that don't support rgba */
+	background: rgb(255, 255, 255);
+	background: rgba(255, 255, 255, .9);
+}
+
+.width-80 {
+	width: 80% !important;
+	margin: auto !important
+}
+
+.warning {
+	color: orange;
+}
+
+.custom-url, .custom-url:focus, .custom-url:hover {
+	color: #0c0c0c;
+}
+
 @media ( min-width : 767px) {
 	.navbar-nav .dropdown-menu .caret {
 		transform: rotate(-90deg);
 	}
+	#page-top {
+		background: url('../img/bridge-background-large.jpg') no-repeat fixed;
+	}
 }
 
+/* nav */
 #mainNav {
 	background-color: black !important
 }
@@ -20,6 +54,15 @@
 #mainNav .navbar-nav>li.nav-item>a.nav-link.active, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active
 	{
 	color: white !important
+}
+
+.custom-toggler.navbar-toggler {
+	border-color: rgb(192, 192, 192);
+}
+
+.custom-toggler .navbar-toggler-icon {
+	background-image:
+		url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.7)' stroke-width='4' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
 
 .dropdown-menu {
@@ -40,6 +83,7 @@
 	color: white;
 }
 
+/* tags */
 pre {
 	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif !important;
 	white-space: pre-wrap; /* Since CSS 2.1 */
@@ -53,33 +97,8 @@ hr {
 	margin: 0 auto !important
 }
 
-.slides img {
-	width: 100%;
-}
-
 section {
 	padding: 0 0;
-}
-
-.width-80 {
-	width: 80% !important;
-	margin: auto !important
-}
-
-.container-fluid {
-	padding: 4rem 0;
-	/* Fall-back for browsers that don't support rgba */
-	background: rgb(255, 255, 255);
-	background: rgba(255, 255, 255, .9);
-}
-
-#page-top {
-	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif !important;
-	background: url('../img/bridge-background.jpg') no-repeat fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
 }
 
 table {
@@ -90,6 +109,12 @@ td {
 	vertical-align: top
 }
 
+/* slider */
+.slides img {
+	width: 100%;
+}
+
+/* show/hide */
 div.hideContent {
 	overflow: hidden;
 	line-height: 1.5;
@@ -99,12 +124,4 @@ div.hideContent {
 div.showContent {
 	line-height: 1.5;
 	height: auto;
-}
-
-.warning {
-	color: orange;
-}
-
-.custom-url, .custom-url:focus, .custom-url:hover {
-	color: #0c0c0c;
 }
