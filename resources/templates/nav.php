@@ -1,8 +1,7 @@
 
     <body id="page-top">
-
         <!-- Navigation -->
-        <nav class="navbar navbar-expand-lg navbar-light fixed-top navbar-shrink"
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top navbar-shrink width-80"
             id="mainNav">
             <div class="container">
                 <a class="navbar-brand js-scroll-trigger" href="#page-top">Reisef&uuml;hrer Irland</a>
@@ -21,7 +20,7 @@
                         <li class="nav-item dropdown">
                         	<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Spazierg&auml;nge <b class="caret"></b></a>
                         	<ul class="dropdown-menu">
-                                <li class="nav-item"><a class="nav-link js-scroll-trigger"
+                                <li class="nav-item odd-color"><a class="nav-link js-scroll-trigger"
                                     href="#politik">Politik</a></li>
                                 <li class="nav-item"><a class="nav-link js-scroll-trigger"
                                     href="#oasen">Oasen</a></li>
