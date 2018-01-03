@@ -51,15 +51,19 @@ function showDivs(element, newIndex, slideIndex) {
 			slideIndexes[slideIndex] = images.length;
 		}
 		for (var i = 0; i < images.length; i++) {
-			if($(window).width() <= 760) {
-				// mobile
-				$(images[i]).attr("src", $(images[i]).attr("src").replace("fullsize", "thumbnails"));
-			} else {
-				// tablet or bigger
-				$(images[i]).attr("src", $(images[i]).attr("src").replace("thumbnails", "fullsize"));
-			}
+			toggleImageSource(image, i);
 			images[i].style.display = "none";
 		}
 		images[slideIndexes[slideIndex] - 1].style.display = "block";
+	}
+}
+
+function toggleImageSource(image, i) {
+	if($(window).width() <= 760) {
+		// mobile
+		$(images[i]).attr("src", $(images[i]).attr("src").replace("fullsize", "thumbnails"));
+	} else {
+		// tablet or bigger
+		$(images[i]).attr("src", $(images[i]).attr("src").replace("thumbnails", "fullsize"));
 	}
 }
