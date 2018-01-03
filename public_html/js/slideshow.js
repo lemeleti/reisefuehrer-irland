@@ -7,9 +7,18 @@ for (var i = 0; i < slideIndexes.length; i++) {
 }
 
 // show
-slides.each(function(index) {
-	showDivs(this, slideIndexes[index], index);
+showSlides();
+
+// trigger event (rotate mobile or tablet)
+$(window).resize(function() {
+	showSlides();
 });
+
+function showSlides() {
+	slides.each(function(index) {
+		showDivs(this, slideIndexes[index], index);
+	});
+}
 
 function plusDivs(element, n) {
 	/*
@@ -32,7 +41,7 @@ function plusDivs(element, n) {
 function showDivs(element, newIndex, slideIndex) {
 	var images = element.getElementsByTagName("IMG");
 	if (images.length > 0) {
-		if(images.length == 1) {
+		if (images.length == 1) {
 			$(element).find("BUTTON").remove();
 		}
 		if (newIndex > images.length) {
@@ -42,6 +51,13 @@ function showDivs(element, newIndex, slideIndex) {
 			slideIndexes[slideIndex] = images.length;
 		}
 		for (var i = 0; i < images.length; i++) {
+			if($(window).width() <= 760) {
+				// mobile
+				$(images[i]).attr("src", $(images[i]).attr("src").replace("fullsize", "thumbnails"));
+			} else {
+				// tablet or bigger
+				$(images[i]).attr("src", $(images[i]).attr("src").replace("thumbnails", "fullsize"));
+			}
 			images[i].style.display = "none";
 		}
 		images[slideIndexes[slideIndex] - 1].style.display = "block";
