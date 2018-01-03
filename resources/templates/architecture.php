@@ -67,7 +67,7 @@ Erwachsene 4.20 &euro;</pre>
 <hr class="my-4">
 <pre>Kein Besuch w&auml;hrend den Gottesdiensten m&ouml;glich.</pre>
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/architecture/fullsize/IMG_5172.JPG" />
+	<img src="img/architecture/thumbnails/IMG_5172.JPG" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -119,7 +119,7 @@ So 12:30-14:30</pre>
 <pre>Erwachsene 6.50 &euro; (evt. Kombination mit Dublinia)</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/architecture/fullsize/IMG_5088.JPG" />
+	<img src="img/architecture/thumbnails/IMG_5088.JPG" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -156,9 +156,9 @@ Studenten 3.50 &euro;</pre>
 <hr class="my-4">
 <pre>Achtung: wird f&uuml;r Staatsempf&auml;nge und Konferenzen gebraucht, mit eingeschr&auml;nkten &Ouml;ffnungszeiten.</pre>
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/architecture/fullsize/IMG_7345.JPG" /> <img
-		src="img/architecture/fullsize/IMG_7349.JPG" /> <img
-		src="img/architecture/fullsize/IMG_7352.JPG" />
+	<img src="img/architecture/thumbnails/IMG_7345.JPG" /> <img
+		src="img/architecture/thumbnails/IMG_7349.JPG" /> <img
+		src="img/architecture/thumbnails/IMG_7352.JPG" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -201,8 +201,8 @@ Fr-Sa 9:00-19:00
 So 11:00-18:00</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/architecture/fullsize/IMG_7401.JPG" /> <img
-		src="img/architecture/fullsize/IMG_7408.JPG" />
+	<img src="img/architecture/thumbnails/IMG_7401.JPG" /> <img
+		src="img/architecture/thumbnails/IMG_7408.JPG" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -270,11 +270,11 @@ Mo-Sa 9:30-17:00
 So 12:00-16:30</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/architecture/fullsize/IMG_7555.JPG" /> <img
-		src="img/architecture/fullsize/IMG_5222.JPG" /> <img
-		src="img/architecture/fullsize/IMG_7553.JPG" /> <img
-		src="img/architecture/fullsize/IMG_7561.JPG" /> <img
-		src="img/architecture/fullsize/IMG_5223.JPG" />
+	<img src="img/architecture/thumbnails/IMG_7555.JPG" /> <img
+		src="img/architecture/thumbnails/IMG_5222.JPG" /> <img
+		src="img/architecture/thumbnails/IMG_7553.JPG" /> <img
+		src="img/architecture/thumbnails/IMG_7561.JPG" /> <img
+		src="img/architecture/thumbnails/IMG_5223.JPG" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -309,7 +309,7 @@ So 12:00-16:30</pre>
 <pre>5 min</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/architecture/fullsize/IMG_7382.JPG" />
+	<img src="img/architecture/thumbnails/IMG_7382.JPG" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -339,9 +339,9 @@ So 12:00-16:30</pre>
 <pre>Mo-Fr 09:00-17:00</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/architecture/fullsize/IMG_7454.JPG" /> <img
-		src="img/architecture/fullsize/IMG_7445.JPG" /> <img
-		src="img/architecture/fullsize/IMG_7450.JPG" />
+	<img src="img/architecture/thumbnails/IMG_7454.JPG" /> <img
+		src="img/architecture/thumbnails/IMG_7445.JPG" /> <img
+		src="img/architecture/thumbnails/IMG_7450.JPG" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -375,8 +375,8 @@ So 12:00-16:30</pre>
 <pre>10 min</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/architecture/fullsize/IMG_7457.JPG" /> <img
-		src="img/architecture/fullsize/IMG_7466.JPG" />
+	<img src="img/architecture/thumbnails/IMG_7457.JPG" /> <img
+		src="img/architecture/thumbnails/IMG_7466.JPG" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -405,8 +405,8 @@ So 12:00-16:30</pre>
 <pre>10 min</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/architecture/fullsize/IMG_7472.JPG" /> <img
-		src="img/architecture/fullsize/IMG_7483.JPG" />
+	<img src="img/architecture/thumbnails/IMG_7472.JPG" /> <img
+		src="img/architecture/thumbnails/IMG_7483.JPG" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -440,9 +440,9 @@ So 12:00-16:30</pre>
 <pre>Je nach Vorstellung.</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/architecture/fullsize/IMG_7496.JPG" /> <img
-		src="img/architecture/fullsize/IMG_7504.JPG" /> <img
-		src="img/architecture/fullsize/IMG_7507.JPG" />
+	<img src="img/architecture/thumbnails/IMG_7496.JPG" /> <img
+		src="img/architecture/thumbnails/IMG_7504.JPG" /> <img
+		src="img/architecture/thumbnails/IMG_7507.JPG" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -471,9 +471,9 @@ So 12:00-16:30</pre>
 <hr class="my-4">
 <pre>Besichtigung von Aussen.</pre>
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/architecture/fullsize/IMG_7534.JPG" /> <img
-		src="img/architecture/fullsize/IMG_7529.JPG" /> <img
-		src="img/architecture/fullsize/IMG_7531.JPG" />
+	<img src="img/architecture/thumbnails/IMG_7534.JPG" /> <img
+		src="img/architecture/thumbnails/IMG_7529.JPG" /> <img
+		src="img/architecture/thumbnails/IMG_7531.JPG" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>

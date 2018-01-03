@@ -74,9 +74,9 @@
 <pre>Mo-Sa 10:00-17:15 (So Geschlosen)</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/politics/fullsize/IMG_7358.JPG" />
-	<img src="img/politics/fullsize/IMG_7336.JPG" />
-	<img src="img/politics/fullsize/IMG_7340.JPG" />
+	<img src="img/politics/thumbnails/IMG_7358.JPG" />
+	<img src="img/politics/thumbnails/IMG_7336.JPG" />
+	<img src="img/politics/thumbnails/IMG_7340.JPG" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -111,8 +111,8 @@ Do 10:00-17:00
 (nur Teile da im Gebrauch von der Bank)</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/politics/fullsize/IMG_7391.JPG" />
-	<img src="img/politics/fullsize/IMG_7387.JPG" />
+	<img src="img/politics/thumbnails/IMG_7391.JPG" />
+	<img src="img/politics/thumbnails/IMG_7387.JPG" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -185,7 +185,7 @@ kostenlose F&uuml;hrung</pre>
 (Karten am Sa ab 09:30 in der National Gallery erh&auml;ltlich)</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/politics/fullsize/IMG_7588.JPG" />
+	<img src="img/politics/thumbnails/IMG_7588.JPG" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>

@@ -70,8 +70,8 @@ So &amp; Feiertage 09:30-Sonnenuntergang</pre>
 <pre>Park / Oase</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/oasen/fullsize/IMG_7426.JPG" />
-	<img src="img/oasen/fullsize/IMG_7431.JPG" />
+	<img src="img/oasen/thumbnails/IMG_7426.JPG" />
+	<img src="img/oasen/thumbnails/IMG_7431.JPG" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -107,7 +107,7 @@ Juli 21:30, Aug 21:00, Sept 20:00,
 Okt 19:00, Nov 17:00, Dez 16:30</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/oasen/fullsize/IMG_7581.JPG" />
+	<img src="img/oasen/thumbnails/IMG_7581.JPG" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -146,7 +146,7 @@ M&auml;rz-Okt Mo-Sa 08:00-18:00. So 10:00-18:00
 <pre>Park / Oase</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/oasen/fullsize/IMG_7619.JPG" />
+	<img src="img/oasen/thumbnails/IMG_7619.JPG" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
