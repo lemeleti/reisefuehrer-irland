@@ -19,7 +19,7 @@
 <a class="custom-url" target="_blank" href="http://www.phoenixpark.ie/">www.phoenixpark.ie</a>
 </pre>
 <hr class="my-4">
-<h4>Ungef&auml;hre Dauer des Besuches</h4>
+<h4>Ungef&auml;hre Dauer des Besuchs</h4>
 <pre>2 h</pre>
 <h4>Beschreibung</h4>
 <pre>Park / Oase / Zoo</pre>

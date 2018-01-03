@@ -1,4 +1,4 @@
-<h3 class="mb-4">Architekture</h3>
+<h3 class="mb-4">Architektur</h3>
 <!-- TODO: insert map -->
 <p style="color: red;">Hier kommt die Karte f&uuml;r Architektur hin</p>
 <hr class="my-4">
@@ -143,7 +143,7 @@ So 12:30-14:30</pre>
 <a class="custom-url" target="_blank" href="http://www.dublincastle.ie/">www.dublincastle.ie</a>
 </pre>
 <hr class="my-4">
-<h4>Ungef&auml;hre Dauer des Besuches</h4>
+<h4>Ungef&auml;hre Dauer des Besuchs</h4>
 <pre>ca. 1.5 h</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Sa 9:45-17:45
@@ -192,7 +192,7 @@ Studenten 3.50 &euro;</pre>
 <hr class="my-4">
 <h4>Baustil</h4>
 <pre>Viktorianischer Baustil</pre>
-<h4>Ungef&auml;hre Dauer des Besuches</h4>
+<h4>Ungef&auml;hre Dauer des Besuchs</h4>
 <pre>20 min bis zu 1 h</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Mi 9:00-19:00
@@ -305,7 +305,7 @@ So 12:00-16:30</pre>
 <h3>Ha'penny Bridge</h3>
 <pre>Bachelors Walk, North City, Dublin, Irland</pre>
 <hr class="my-4">
-<h4>Ungef&auml;hre Dauer des Besuches</h4>
+<h4>Ungef&auml;hre Dauer des Besuchs</h4>
 <pre>5 min</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
@@ -371,7 +371,7 @@ So 12:00-16:30</pre>
 <h3>Sean O'Casey Bridge</h3>
 <pre>Sean O'Casey Bridge, South-East Inner City</pre>
 <hr class="my-4">
-<h4>Ungef&auml;hre Dauer des Besuches</h4>
+<h4>Ungef&auml;hre Dauer des Besuchs</h4>
 <pre>10 min</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
@@ -401,7 +401,7 @@ So 12:00-16:30</pre>
 <hr class="my-4">
 <h4>Baujahr</h4>
 <pre>2007 - 2009</pre>
-<h4>Ungef&auml;hre Dauer des Besuches</h4>
+<h4>Ungef&auml;hre Dauer des Besuchs</h4>
 <pre>10 min</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
@@ -440,8 +440,7 @@ So 12:00-16:30</pre>
 <pre>Je nach Vorstellung.</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-    <img src="img/architecture/thumbnails/IMG_7496.JPG" /> <img
-        src="img/architecture/thumbnails/IMG_7504.JPG" /> <img
+    <img src="img/architecture/thumbnails/IMG_7496.JPG" /><img
         src="img/architecture/thumbnails/IMG_7507.JPG" />
 
     <button class="w3-button w3-black w3-display-left"

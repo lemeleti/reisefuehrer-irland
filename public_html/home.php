@@ -43,7 +43,7 @@ require_once TEMPLATES_PATH . '/nav.php';
         <div class="row">
             <div class="col-lg-8 mx-auto text-center">
                 <div class="content-container">
-                    <h2 class="section-heading">Wer sind wir!</h2>
+                    <h2 class="section-heading">Wer sind wir</h2>
                     <hr class="my-4">
                     <p class="mb-4">Wir sind vier Studierende aus der
                         Berufsmittelschule Winterthur. F&uuml;r unsere Maturit&auml;tsarbeit
@@ -103,7 +103,7 @@ require_once TEMPLATES_PATH . '/nav.php';
     </div>
 </section>
 
-<section id="politik">
+<section id="politic">
     <div class="container-fluid width-80">
         <div class="row">
             <div class="col-lg-8 mx-auto text-center">
