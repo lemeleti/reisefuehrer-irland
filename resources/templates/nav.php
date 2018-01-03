@@ -18,15 +18,15 @@
                         <li class="nav-item"><a class="nav-link js-scroll-trigger"
                             href="#about">&Uuml;ber Uns</a></li>
                         <li class="nav-item dropdown">
-                        	<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Spazierg&auml;nge <b class="caret"></b></a>
-                        	<ul class="dropdown-menu">
+                            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Spazierg&auml;nge <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
                                 <li class="nav-item"><a class="nav-link js-scroll-trigger"
                                     href="#architecure">Architektur</a></li>
                                 <li class="nav-item"><a class="nav-link js-scroll-trigger"
                                     href="#oasen">Oasen</a></li>
                                 <li class="nav-item"><a class="nav-link js-scroll-trigger"
                                     href="#politik">Politik</a></li>
-                        	</ul>
+                            </ul>
                         </li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger"
                             href="#impressum">Impressum</a></li>
