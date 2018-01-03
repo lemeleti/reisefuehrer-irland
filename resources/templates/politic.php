@@ -141,7 +141,7 @@ Do 10:00-17:00
 <pre>Mo-Fr 08:00-21:30
 (Sa &amp; So geschlossen)
 (Achtung verst&auml;rkte Sicherheitskontrollen)</pre>
-<h4>F&uuml;rungen</h4>
+<h4>F&uuml;hrungen</h4>
 <pre>Mo &amp; Fr 10:30 &amp; 14:30
 kostenlose F&uuml;hrung</pre>
 <hr class="my-4">
@@ -179,7 +179,7 @@ kostenlose F&uuml;hrung</pre>
 <pre>Nur mit F&uuml;hrung zu besichtigen.</pre>
 <h4>Beschreibung</h4>
 <pre>Ministerium des Premierministers, die Ratskammer, Ort der Regierungssitzungen, B&uuml;ro des Generalstaatsanwaltes.</pre>
-<h4>F&uuml;rungen</h4>
+<h4>F&uuml;hrungen</h4>
 <pre>Sa 10:30, 11:30, 12:30 und 13:30 kostenlos
 (Achtung &Auml;nderungen aufgrund aktueller Anl&auml;sse m&ouml;glich)
 (Karten am Sa ab 09:30 in der National Gallery erh&auml;ltlich)</pre>

@@ -70,6 +70,7 @@ require_once TEMPLATES_PATH . '/nav.php';
 			<div class="col-lg-8 mx-auto text-center">
 				<div class="content-container">
 	                <?php include TEMPLATES_PATH . '/architecture.php' ?>
+    				<hr class="vertical-center large">
 				</div>
 			</div>
 		</div>
@@ -82,6 +83,7 @@ require_once TEMPLATES_PATH . '/nav.php';
 			<div class="col-lg-8 mx-auto text-center">
 				<div class="content-container">
 	                <?php include TEMPLATES_PATH . '/oasen.php' ?>
+    				<hr class="vertical-center large">
 				</div>
 			</div>
 		</div>
@@ -94,7 +96,6 @@ require_once TEMPLATES_PATH . '/nav.php';
 			<div class="col-lg-8 mx-auto text-center">
 				<div class="content-container">
                     <?php include TEMPLATES_PATH . '/politic.php' ?>
-    				<hr class="vertical-center large">
 				</div>
 			</div>
 		</div>
