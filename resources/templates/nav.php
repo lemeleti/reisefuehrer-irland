@@ -21,9 +21,11 @@
                         	<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Spazierg&auml;nge <b class="caret"></b></a>
                         	<ul class="dropdown-menu">
                                 <li class="nav-item"><a class="nav-link js-scroll-trigger"
-                                    href="#politik">Politik</a></li>
+                                    href="#architecure">Architektur</a></li>
                                 <li class="nav-item"><a class="nav-link js-scroll-trigger"
                                     href="#oasen">Oasen</a></li>
+                                <li class="nav-item"><a class="nav-link js-scroll-trigger"
+                                    href="#politik">Politik</a></li>
                         	</ul>
                         </li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger"
