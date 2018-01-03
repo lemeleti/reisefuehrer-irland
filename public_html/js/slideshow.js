@@ -32,6 +32,9 @@ function plusDivs(element, n) {
 function showDivs(element, newIndex, slideIndex) {
 	var images = element.getElementsByTagName("IMG");
 	if (images.length > 0) {
+		if(images.length == 1) {
+			$(element).find("BUTTON").remove();
+		}
 		if (newIndex > images.length) {
 			slideIndexes[slideIndex] = 1;
 		}
