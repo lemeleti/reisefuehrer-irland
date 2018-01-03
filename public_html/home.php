@@ -46,7 +46,7 @@ require_once TEMPLATES_PATH . '/nav.php';
 					<h2 class="section-heading">Wer sind wir!</h2>
 					<hr class="my-4">
 					<p class="mb-4">Wir sind vier Studierende aus der
-						Berufsmittelschule Winterthur. F&uuml;r unsere Maturaarbeit
+						Berufsmittelschule Winterthur. F&uuml;r unsere Maturit&auml;tsarbeit
 						durften wir ein kreatives Projekt gestalten zum Oberthema Dublin.
 						Um dir die Stadt Dublin n&auml;her zu bringen, haben wir vor Ort
 						unsere Spazierg&auml;nge entworfen. F&uuml;r junge Erwachsene im
