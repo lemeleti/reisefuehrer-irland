@@ -51,14 +51,14 @@ function showDivs(element, newIndex, slideIndex) {
 			slideIndexes[slideIndex] = images.length;
 		}
 		for (var i = 0; i < images.length; i++) {
-			toggleImageSource(image, i);
+			toggleImageSource(images, i);
 			images[i].style.display = "none";
 		}
 		images[slideIndexes[slideIndex] - 1].style.display = "block";
 	}
 }
 
-function toggleImageSource(image, i) {
+function toggleImageSource(images, i) {
 	if($(window).width() <= 760) {
 		// mobile
 		$(images[i]).attr("src", $(images[i]).attr("src").replace("fullsize", "thumbnails"));
