@@ -273,8 +273,7 @@ So 12:00-16:30</pre>
     <img src="img/architecture/thumbnails/IMG_7555.JPG" /> <img
         src="img/architecture/thumbnails/IMG_5222.JPG" /> <img
         src="img/architecture/thumbnails/IMG_7553.JPG" /> <img
-        src="img/architecture/thumbnails/IMG_7561.JPG" /> <img
-        src="img/architecture/thumbnails/IMG_5223.JPG" />
+        src="img/architecture/thumbnails/IMG_7561.JPG" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
