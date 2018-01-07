@@ -99,7 +99,6 @@ pre {
 
 p {
 	text-align: justify !important;
-	word-break: break-all;
 	word-break: break-word; /* Webkit-Browser */
 }
 
