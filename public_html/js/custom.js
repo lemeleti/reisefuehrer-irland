@@ -13,14 +13,6 @@ $(".js-scroll-trigger").click(function() {
     $('.dropdown-menu').removeClass("show");
 });
 
-// background fixing
-if(is_client_apple_device()) {
-	$(window).scroll(function() {
-		  var scrolledY = $(window).scrollTop();
-		  $('#page-top').css('background-position', 'center ' + ((scrolledY)) + 'px');
-	});
-}
-
 // show/hide content
 $(function() {
     var $content = $("div.content");
@@ -45,3 +37,13 @@ $(".show-more a").on("click", function(e) {
 
     $this.text(linkText);
 });
+
+//background fixing
+//TODO: check if works
+if(is_client_apple_device()) {
+	$(window).scroll(function() {
+		  var scrolledY = $(window).scrollTop();
+		  $('#page-top').css('background-attachment', 'scroll');
+		  $('#page-top').css('background-position', 'center ' + scrolledY + 'px');
+	});
+}
