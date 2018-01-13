@@ -14,11 +14,12 @@ $(".js-scroll-trigger").click(function() {
 });
 
 // background fixing
-$(window).scroll(function() {
-	  var scrolledY = $(window).scrollTop();
-	  $('#page-top').css('background-position', 'center ' + ((scrolledY)) + 'px');
-});
-
+if(is_client_apple_device()) {
+	$(window).scroll(function() {
+		  var scrolledY = $(window).scrollTop();
+		  $('#page-top').css('background-position', 'center ' + ((scrolledY)) + 'px');
+	});
+}
 
 // show/hide content
 $(function() {

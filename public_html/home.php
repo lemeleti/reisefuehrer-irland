@@ -149,5 +149,15 @@ require_once TEMPLATES_PATH . '/nav.php';
 	</div>
 </section>
 <?php
+if( !function_exists('mobile_user_agent_switch') ){
+    function is_client_apple_device() {
+        return stristr($_SERVER['HTTP_USER_AGENT'],'ipad') || stristr($_SERVER['HTTP_USER_AGENT'],'iphone');
+    }
+
+    if (is_client_apple_device()) {
+        echo "<script>$('#page-top').css('background-attachment', 'scroll')</script>";
+    }
+}
+
 require_once TEMPLATES_PATH . '/footer.php';
 ?>
