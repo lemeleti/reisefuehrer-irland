@@ -24,17 +24,17 @@ function initMap() {
 		displayRoutes(entry.map, entry.routes);
 		
 		// Trigger map redraw when dom element is resized
-		google.maps.event.addDomListener(window, 'resize', resizeTrigger);
+		google.maps.event.addDomListener(window, 'resize', resizeTrigger(entry));
 
 		// Preserve map perspective when after resize
-		google.maps.event.addListener(entry.map, 'resize', resizeListener);
+		google.maps.event.addListener(entry.map, 'resize', resizeListener(entry));
 	}
 }
-function resizeTrigger() {
+function resizeTrigger(entry) {
 	google.maps.event.trigger(entry.map, 'resize');
 }
 
-function resizeListener() {
+function resizeListener(entry) {
 	var center = entry.map.getCenter();
 	google.maps.event.addListenerOnce(entry.map, 'center_changed', function() {
 		entry.map.setCenter(center);
@@ -221,7 +221,7 @@ function processRequests(map, requestArray, renderArray){
 					strokeColor: '#' + requestArray[i].route.strokeColor
 				}
 			});
-
+			
 			// Use this new renderer with the result
 			renderArray[i].setDirections(result);
 			// and start the next request

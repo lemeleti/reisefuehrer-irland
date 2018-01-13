@@ -1,14 +1,14 @@
 /* global */
 #page-top {
 	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif !important;
+	
 	background-image: url('../img/bridge-background-small.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-	-webkit-background-size: cover !important;
-	-moz-background-size: cover !important;
-	-o-background-size: cover !important;
-	background-size: cover !important;
-	height: 100vh;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
 .container-fluid {
@@ -38,8 +38,6 @@
 	}
 	#page-top {
 		background-image: url('../img/bridge-background-large.jpg');
-	    background-repeat: no-repeat;
-	    background-attachment: fixed;
 	}
 }
 
