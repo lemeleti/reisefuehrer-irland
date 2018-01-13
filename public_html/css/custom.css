@@ -11,6 +11,15 @@
 	background-size: cover;
 }
 
+/* mobile */
+@media only screen 
+and (min-device-width : 700px) 
+and (max-device-width : 1024px)  {
+	#page-top {
+    	background-attachment: scroll;
+	}
+}
+
 .container-fluid {
 	padding: 4rem 0;
 	/* Fall-back for browsers that don't support rgba */
