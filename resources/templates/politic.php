@@ -1,6 +1,8 @@
 <h3 class="mb-4">Politik</h3>
-<!-- TODO: insert map -->
-<p style="color: red;">Hier kommt die Karte f&uuml;r Politik hin</p>
+<div class="map" id="map3"></div>
+<!-- TODO: insert legend of points -->
+<h3>Ungef&auml;hre Gehzeit</h3>
+<pre>60 min</pre>
 <hr class="my-4">
 <h3 class="mb-4">Beschreibung</h3>
 <div class="content">
@@ -24,13 +26,13 @@
 </div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3>Four Courts (Gerichtsgeb&auml;de)</h3>
+<h3 id="four-courts">Four Courts (Gerichtsgeb&auml;de)</h3>
 <pre>Inns Quay 25, Dublin 8</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
-<pre>Mo-Fr 09:00 - 18:00
-(Sa &amp; So Geschlossen)
-<strong class="warning">(Achtung verst&auml;rkte Sicherheitskontrollen)</strong>
+<pre>Mo-Fr 09:00-18:00
+Sa und So Geschlossen
+(Achtung verst&auml;rkte Sicherheitskontrollen)
 </pre>
 <hr class="my-4">
 <pre>Am besten das Geb&auml;ude von der anderen Seite des Flusses betrachten.</pre>
@@ -65,13 +67,14 @@
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3>City Hall (ehem. Rathaus)</h3>
+<h3 id="city-hall">City Hall (ehem. Rathaus)</h3>
 <pre>Dame St, Dublin 2
 <a class="custom-url" target="_blank" href="http://www.dublincity.ie/">www.dublincity.ie</a>
 </pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
-<pre>Mo-Sa 10:00-17:15 (So Geschlosen)</pre>
+<pre>Mo-Sa 10:00-17:15
+So Geschlosen</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/politics/thumbnails/IMG_7358.JPG" />
@@ -102,7 +105,7 @@
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3>Irish Parliament House / Bank of Ireland</h3>
+<h3 id="irish-parliament-house-bank-of-ireland">Irish Parliament House / Bank of Ireland</h3>
 <pre>College Green, Temple Bar, Dublin</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
@@ -131,7 +134,7 @@ Do 10:00-17:00
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3>Leinster House (ehem. Herzogspalast) / Parlamentshaus</h3>
+<h3 id="leinster-house">Leinster House (ehem. Herzogspalast) / Parlamentshaus</h3>
 <pre>Kildare St, Dublin 2
 <a class="custom-url" target="_blank"
         href="http://www.oireachtas.ie/parliament/">www.oireachtas.ie/parliament</a>
@@ -139,10 +142,10 @@ Do 10:00-17:00
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Fr 08:00-21:30
-(Sa &amp; So geschlossen)
+Sa und So geschlossen
 (Achtung verst&auml;rkte Sicherheitskontrollen)</pre>
 <h4>F&uuml;hrungen</h4>
-<pre>Mo &amp; Fr 10:30 &amp; 14:30
+<pre>Mo und Fr 10:30 und 14:30
 kostenlose F&uuml;hrung</pre>
 <hr class="my-4">
 <pre>Ziel von Protestm&auml;rschen und Kundgebungen.</pre>
@@ -169,7 +172,7 @@ kostenlose F&uuml;hrung</pre>
 </div>
 <!-- Platz 5 -->
 <hr class="my-4 large">
-<h3>Government Buildings</h3>
+<h3 id="government-buildings">Government Buildings</h3>
 <pre>Upper Merrion St, Dublin 2
 <a class="custom-url" target="_blank"
         href="https://www.taoiseach.gov.ie/eng/splash/">www.taoiseach.gov.ie/eng/splash</a>
@@ -178,7 +181,7 @@ kostenlose F&uuml;hrung</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Nur mit F&uuml;hrung zu besichtigen.</pre>
 <h4>Beschreibung</h4>
-<pre>Ministerium des Premierministers, die Ratskammer, Ort der Regierungssitzungen, B&uuml;ro des Generalstaatsanwaltes.</pre>
+<pre>Ministerium des Premierministers, die Ratskammer, Ort der Regierungssitzungen und B&uuml;ro des Generalstaatsanwaltes.</pre>
 <h4>F&uuml;hrungen</h4>
 <pre>Sa 10:30, 11:30, 12:30 und 13:30 kostenlos
 (Achtung &Auml;nderungen aufgrund aktueller Anl&auml;sse m&ouml;glich)

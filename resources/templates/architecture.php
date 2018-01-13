@@ -1,6 +1,8 @@
 <h3 class="mb-4">Architektur</h3>
-<!-- TODO: insert map -->
-<p style="color: red;">Hier kommt die Karte f&uuml;r Architektur hin</p>
+<div class="map" id="map1"></div>
+<!-- TODO: insert legend of points -->
+<h3>Ungef&auml;hre Gehzeit</h3>
+<pre>1 h 39 min</pre>
 <hr class="my-4">
 <h3 class="mb-4">Beschreibung</h3>
 <div class="content">
@@ -31,26 +33,24 @@
 </div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3>St. Patrick's Cathedral</h3>
+<h3 id="st-patricks-cathedral">St. Patrick's Cathedral</h3>
 <pre>St Patrick's Close, Wood Quay, Dublin 8, Irland
 <a class="custom-url" target="_blank"
         href="http://www.stpatrickscathedral.ie/">www.stpatrickscathedral.ie</a>
 </pre>
 <hr class="my-4">
-<h4>Baustil</h4>
-<pre>Gotische Architektur</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>M&auml;rz-Oktober
 
 Mo-Fr 9:00-17:00
 Sa 9:00-18:00
-So 9:00-10:30 / 12:30-14:30 / 16:30-18:00
+So 9:00-10:30, 12:30-14:30 und 16:30-18:00
 
 November-Februar
 
 Mo-Fr 9:00-17:00
 Sa 9:00-17:00
-So 9:00-10:30 / 12:30-14:30</pre>
+So 9:00-10:30 und 12:30-14:30</pre>
 <h4>Beschreibung</h4>
 <pre>Kirche</pre>
 <h4>Preis</h4>
@@ -62,8 +62,10 @@ Gruppen: (ab 10 P)
 Sch&uuml;ler / Studenten 3.70 &euro;
 Erwachsene 4.20 &euro;</pre>
 <h4>F&uuml;hrung</h4>
-<pre>T&auml;glich 10:30, 11:30, 15:00, 15:30
+<pre>T&auml;glich 10:30, 11:30, 15:00 und 15:30
 (im Eintrittspreis enthalten)</pre>
+<h4>Baustil</h4>
+<pre>Gotische Architektur</pre>
 <hr class="my-4">
 <pre>Kein Besuch w&auml;hrend den Gottesdiensten m&ouml;glich.</pre>
 <div class="w3-content w3-display-container slides my-4">
@@ -92,24 +94,22 @@ Erwachsene 4.20 &euro;</pre>
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3>Christ Church Cathedral</h3>
+<h3 id="christ-church-cathedral">Christ Church Cathedral</h3>
 <pre>Christchurch Pl, Dublin 8, Irland
 <a class="custom-url" target="_blank"
         href="http://www.christchurchcathedral.ie/de/besucher/">www.christchurchcathedral.ie/de/besucher</a>
 </pre>
 <hr class="my-4">
-<h4>Baustil</h4>
-<pre>Fr&uuml;hgotik</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>M&auml;rz-Oktober
 
 Mo-Sa 9:30-18:00
-So 12:30-14:30 / 16:30-18:00
+So 12:30-14:30 und 16:30-18:00
 
 April-September
 
 Mo-Sa 9:30-19:00
-So 12:30-14:30 / 16:30-19:00
+So 12:30-14:30 und 16:30-19:00
 
 November-Februar
 
@@ -117,6 +117,8 @@ Mo-Sa 9:30-17:00
 So 12:30-14:30</pre>
 <h4>Preis</h4>
 <pre>Erwachsene 6.50 &euro; (evt. Kombination mit Dublinia)</pre>
+<h4>Baustil</h4>
+<pre>Fr&uuml;hgotik</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/architecture/thumbnails/IMG_5088.JPG" />
@@ -138,7 +140,7 @@ So 12:30-14:30</pre>
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3>Dublin Castle</h3>
+<h3 id="dublin-castle">Dublin Castle</h3>
 <pre>Dame St, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincastle.ie/">www.dublincastle.ie</a>
 </pre>
@@ -147,7 +149,7 @@ So 12:30-14:30</pre>
 <pre>ca. 1.5 h</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Sa 9:45-17:45
-Sonn- &amp; Feiertage 12:00-16:45</pre>
+Sonn- und Feiertage 12:00-16:45</pre>
 <h4>Preis</h4>
 <pre>kostenloser Eintritt</pre>
 <h4>F&uuml;hrungen</h4>
@@ -184,14 +186,12 @@ Studenten 3.50 &euro;</pre>
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3>St. Stephens Green Shopping Center</h3>
+<h3 id="st-stephens-green-shopping-center">St. Stephens Green Shopping Center</h3>
 <pre>Stephens Green West, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="https://www.stephensgreen.com/">www.stephensgreen.com</a>
 </pre>
 <hr class="my-4">
-<h4>Baustil</h4>
-<pre>Viktorianischer Baustil</pre>
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
 <pre>20 min bis zu 1 h</pre>
 <h4>&Ouml;ffnungszeiten</h4>
@@ -199,6 +199,8 @@ Studenten 3.50 &euro;</pre>
 Do 9:00-21:00
 Fr-Sa 9:00-19:00
 So 11:00-18:00</pre>
+<h4>Baustil</h4>
+<pre>Viktorianischer Baustil</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/architecture/thumbnails/IMG_7401.JPG" /> <img
@@ -220,7 +222,7 @@ So 11:00-18:00</pre>
 </div>
 <!-- Platz 5 -->
 <hr class="my-4 large">
-<h3>Irish Nationalbibliothek</h3>
+<h3 id="national-library-of-ireland">National Library of Ireland</h3>
 <pre>National Library of Ireland, 2/3 Kildare Street
 <a class="custom-url" target="_blank" href="http://www.nli.ie/">www.nli.ie</a>
 </pre>
@@ -228,7 +230,7 @@ So 11:00-18:00</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>verschieden je nach Abteilung, Hauptgeb&auml;ude
 Mo 17:00-19:45
-Di-Fr 10:30-12:30 / 14:00-16:00
+Di-Fr 10:30-12:30 und 14:00-16:00
 Sa 9:30-12:45</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
@@ -253,7 +255,7 @@ Sa 9:30-12:45</pre>
 </div>
 <!-- Platz 6 -->
 <hr class="my-4 large">
-<h3>Trinity College</h3>
+<h3 id="trinity-college">Trinity College</h3>
 <pre>College Green, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.tcd.ie/">www.tcd.ie</a>
 </pre>
@@ -301,7 +303,7 @@ So 12:00-16:30</pre>
 </div>
 <!-- Platz 7 -->
 <hr class="my-4 large">
-<h3>Ha'penny Bridge</h3>
+<h3 id="ha-penny-bridge">Ha'penny Bridge</h3>
 <pre>Bachelors Walk, North City, Dublin, Irland</pre>
 <hr class="my-4">
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
@@ -329,13 +331,13 @@ So 12:00-16:30</pre>
 </div>
 <!-- Platz 8 -->
 <hr class="my-4 large">
-<h3>Custom House (Umweltministerium)</h3>
+<h3 id="custom-house">Custom House (Umweltministerium)</h3>
 <pre>North Dock, Dublin 1, Irland</pre>
 <hr class="my-4">
-<h4>Baustil</h4>
-<pre>Neoklassizismus</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Fr 09:00-17:00</pre>
+<h4>Baustil</h4>
+<pre>Neoklassizismus</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/architecture/thumbnails/IMG_7454.JPG" /> <img
@@ -367,7 +369,7 @@ So 12:00-16:30</pre>
 </div>
 <!-- Platz 9 -->
 <hr class="my-4 large">
-<h3>Sean O'Casey Bridge</h3>
+<h3 id="sean-o-casey-bridge">Sean O'Casey Bridge</h3>
 <pre>Sean O'Casey Bridge, South-East Inner City</pre>
 <hr class="my-4">
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
@@ -395,11 +397,11 @@ So 12:00-16:30</pre>
 </div>
 <!-- Platz 10 -->
 <hr class="my-4 large">
-<h3>Samuel Beckett Bridge</h3>
+<h3 id="samuel-beckett-bridge">Samuel Beckett Bridge</h3>
 <pre>Samuel Beckett Bridge, Dublin 2</pre>
 <hr class="my-4">
 <h4>Baujahr</h4>
-<pre>2007 - 2009</pre>
+<pre>2007-2009</pre>
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
 <pre>10 min</pre>
 <hr class="my-4">
@@ -427,15 +429,13 @@ So 12:00-16:30</pre>
 </div>
 <!-- Platz 11 -->
 <hr class="my-4 large">
-<h3>Bord Gais Energy Theater</h3>
+<h3 id="bord-gais-energy-theater">Bord Gais Energy Theater</h3>
 <pre>Grand Canal Square, Docklands, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.bordgaisenergytheatre.ie/">www.bordgaisenergytheatre.ie</a>
 </pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
-<pre>Je nach Vorstellung.</pre>
-<h4>Preis</h4>
 <pre>Je nach Vorstellung.</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
@@ -458,7 +458,7 @@ So 12:00-16:30</pre>
 </div>
 <!-- Platz 12 -->
 <hr class="my-4 large">
-<h3>Alliance Building</h3>
+<h3 id="alliance-building">Alliance Building</h3>
 <pre>South Lotts Road
 <a class="custom-url" target="_blank"
         href="http://www.bordgaisenergytheatre.ie/">www.bordgaisenergytheatre.ie</a>

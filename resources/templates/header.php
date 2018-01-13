@@ -5,7 +5,7 @@
         <meta charset="UTF-8"/>
         <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <meta name="author" content="co-authored by Anabel Baumgartner, C&eacute;line Girardier, Leandro Meleti, Silke Bigler" />
+        <meta name="author" content="co-authored by Anabel B., C&eacute;line G., Leandro Meleti, Silke B." />
         <meta name="description" content="" />
         <meta name="keywords" content="reisef&uuml;hrer, dublin, tour, ferien, low-budget, irland, map, essen, restaurant, pub, museum, coffee"/>
 
@@ -30,4 +30,6 @@
         <!-- Custom styles for this template -->
         <link href="css/creative.min.css" rel="stylesheet"/>
         <link href="css/custom.css" rel="stylesheet"/>
+        <link href="css/custom-print.css" rel="stylesheet"/>
+        <link href="css/maps.css" rel="stylesheet"/>
     </head>

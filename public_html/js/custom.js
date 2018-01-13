@@ -26,7 +26,7 @@ $(".show-more a").on("click", function(e) {
     var linkText = $this.text().toUpperCase();
 
     if (linkText === "MEHR...") {
-        linkText = "weniger...";
+        linkText = "...weniger";
         $content.addClass("showContent");
         $content.removeClass("hideContent");
     } else {
