@@ -13,6 +13,13 @@ $(".js-scroll-trigger").click(function() {
     $('.dropdown-menu').removeClass("show");
 });
 
+// background fixing
+$(window).scroll(function() {
+	  var scrolledY = $(window).scrollTop();
+	  $('#page-top').css('background-position', 'center ' + ((scrolledY)) + 'px');
+});
+
+
 // show/hide content
 $(function() {
     var $content = $("div.content");

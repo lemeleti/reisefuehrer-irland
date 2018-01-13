@@ -148,7 +148,6 @@ require_once TEMPLATES_PATH . '/nav.php';
 		</div>
 	</div>
 </section>
-
 <?php
 require_once TEMPLATES_PATH . '/footer.php';
 ?>
