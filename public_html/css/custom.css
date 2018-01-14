@@ -3,7 +3,23 @@
 	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif !important;
 }
 
-/* TODO: backgorund image is not sharp and startpage is not full height!*/
+header.masthead {
+	padding-top: 40vh;
+	min-height: 0;
+	background-image: none;
+}
+
+@media ( min-width : 767px) {
+	.navbar-nav .dropdown-menu .caret {
+		transform: rotate(-90deg);
+	}
+	
+	header.masthead {
+		padding-top: 15vh;
+	}
+}
+
+/* TODO: backgorund image is not sharp */
 @media  (orientation: portrait) {
 	#page-top {
 		background-image: url('../img/IMG_3050-small.jpg');
@@ -16,8 +32,15 @@
 		background-size: cover;
 	}
 	
-	header.masthead {
+	#page-start {
 		background-image: url('../img/IMG_3050-small.jpg');
+	    background-repeat: no-repeat;
+	    background-attachment: fixed;
+	    background-position: center top;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
 	}
 }
 
@@ -33,8 +56,21 @@
 		background-size: cover;
 	}
 	
-	header.masthead {
+	#page-start {
 		background-image: url('../img/IMG_3049-small.jpg');
+	    background-repeat: no-repeat;
+	    background-attachment: fixed;
+	    background-position: center top;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
+
+	header.masthead {
+		padding-top: 40vh;
+		min-height: 0;
+		background-image: none;
 	}
 }
 
@@ -50,8 +86,15 @@
 		background-size: cover;
 	}
 	
-	header.masthead {
+	#page-start {
 		background-image: url('../img/IMG_3050-small.jpg');
+	    background-repeat: no-repeat;
+	    background-attachment: fixed;
+	    background-position: center top;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
 	}
 }
 
@@ -67,8 +110,15 @@
 		background-size: cover;
 	}
 	
-	header.masthead {
+	#page-start {
 		background-image: url('../img/IMG_3049-small.jpg');
+	    background-repeat: no-repeat;
+	    background-attachment: fixed;
+	    background-position: center top;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
 	}
 }
 
@@ -92,12 +142,6 @@
 
 .custom-url, .custom-url:focus, .custom-url:hover {
 	color: #0c0c0c;
-}
-
-@media ( min-width : 767px) {
-	.navbar-nav .dropdown-menu .caret {
-		transform: rotate(-90deg);
-	}
 }
 
 /* nav */
