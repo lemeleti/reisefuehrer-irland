@@ -3,7 +3,7 @@
 	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif !important;
 }
 
-
+/* TODO: backgorund image is not sharp and startpage is not full height!*/
 @media  (orientation: portrait) {
 	#page-top {
 		background-image: url('../img/IMG_3050-small.jpg');

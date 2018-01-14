@@ -6,13 +6,13 @@ require_once realpath(dirname(__FILE__) . '/../resources/config.php');
  * uncomment only for development and upload then the thumbnails,
  * because most images are to big to allocate the allowed memory size
  */
-
+/*
   require_once LIBRARY_PATH . '/thumbnail_library.php';
   $thumbnailWidth = 640;
   createThumbnails("img/architecture/fullsize/","img/architecture/thumbnails/", $thumbnailWidth);
   createThumbnails("img/oasen/fullsize/","img/oasen/thumbnails/", $thumbnailWidth);
   createThumbnails("img/politics/fullsize/","img/politics/thumbnails/", $thumbnailWidth);
-
+*/
 
 require_once TEMPLATES_PATH . '/header.php';
 require_once TEMPLATES_PATH . '/nav.php';
