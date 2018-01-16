@@ -7,12 +7,12 @@ require_once realpath(dirname(__FILE__) . '/../resources/config.php');
  * because most images are to big to allocate the allowed memory size
  */
 /*
-  require_once LIBRARY_PATH . '/thumbnail_library.php';
-  $thumbnailWidth = 640;
-  createThumbnails("img/architecture/fullsize/","img/architecture/thumbnails/", $thumbnailWidth);
-  createThumbnails("img/oasen/fullsize/","img/oasen/thumbnails/", $thumbnailWidth);
-  createThumbnails("img/politics/fullsize/","img/politics/thumbnails/", $thumbnailWidth);
-*/
+ * require_once LIBRARY_PATH . '/thumbnail_library.php';
+ * $thumbnailWidth = 640;
+ * createThumbnails("img/architecture/fullsize/","img/architecture/thumbnails/", $thumbnailWidth);
+ * createThumbnails("img/oasen/fullsize/","img/oasen/thumbnails/", $thumbnailWidth);
+ * createThumbnails("img/politics/fullsize/","img/politics/thumbnails/", $thumbnailWidth);
+ */
 
 require_once TEMPLATES_PATH . '/header.php';
 require_once TEMPLATES_PATH . '/nav.php';
@@ -32,6 +32,44 @@ require_once TEMPLATES_PATH . '/nav.php';
 						fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 						proident, sunt in culpa qui officia deserunt mollit anim id est
 						laborum.</p>
+
+					<div class="w3-content w3-display-container slides my-4">
+						<img src="img/sample/ausschnitt.jpg" />
+
+						<button class="w3-button w3-black w3-display-left"
+							onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
+						<button class="w3-button w3-black w3-display-right"
+							onclick="plusDivs(this.parentElement,1)">&#10095;</button>
+					</div>
+
+					<div class="w3-content w3-display-container slides my-4">
+						<img src="img/sample/schwarz.jpg" />
+
+						<button class="w3-button w3-black w3-display-left"
+							onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
+						<button class="w3-button w3-black w3-display-right"
+							onclick="plusDivs(this.parentElement,1)">&#10095;</button>
+					</div>
+
+					<div class="w3-content w3-display-container slides my-4">
+						<img src="img/sample/grau.jpg" />
+
+						<button class="w3-button w3-black w3-display-left"
+							onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
+						<button class="w3-button w3-black w3-display-right"
+							onclick="plusDivs(this.parentElement,1)">&#10095;</button>
+					</div>
+
+					<div class="w3-content w3-display-container slides my-4">
+						<img src="img/sample/grau.jpg" />
+						<img src="img/sample/schwarz.jpg" />
+						<img src="img/sample/ausschnitt.jpg" />
+
+						<button class="w3-button w3-black w3-display-left"
+							onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
+						<button class="w3-button w3-black w3-display-right"
+							onclick="plusDivs(this.parentElement,1)">&#10095;</button>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -77,6 +115,8 @@ require_once TEMPLATES_PATH . '/nav.php';
 					<pre>Brauchst du Zeit, um abzuschalten oder einfach einmal die Zeit zu geniessen und dies erst noch an der frischen Luft, dann wirst du hier sicher f&uuml;ndig</pre>
 					<h5>Politik (Farbe)</h5>
 					<pre>Dieser Spaziergang f&uuml;hrt dich zu historischen und heute wichtigen Geb&auml;uden, die mit dem Thema Politik zu tun haben.</pre>
+					<h5>Sehenswert (Farbe)</h5>
+					<pre>Dieser Spaziergang f&uuml;hrt dich vorbei an bekannten Geb&auml;uden, Orten und Sehensw&uuml;rdigkeiten.</pre>
 				</div>
 			</div>
 		</div>
@@ -121,6 +161,18 @@ require_once TEMPLATES_PATH . '/nav.php';
 	</div>
 </section>
 
+<section id="worth-seeing">
+	<div class="container-fluid root-container-width">
+		<div class="row">
+			<div class="col-lg-8 mx-auto text-center">
+				<div class="content-container">
+                    <?php include TEMPLATES_PATH . '/worth-seeing.php' ?>
+                </div>
+			</div>
+		</div>
+	</div>
+</section>
+
 <section id="impressum">
 	<div class="container-fluid root-container-width">
 		<div class="row">
@@ -135,24 +187,23 @@ require_once TEMPLATES_PATH . '/nav.php';
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-lg-4 ml-auto text-center">
-				<i class="fa fa-phone fa-3x mb-3 sr-contact"></i>
-				<p class="text-center">123-456-6789</p>
-			</div>
-			<div class="col-lg-4 mr-auto text-center">
+          	<div class="col-lg-4 ml-auto text-center">
 				<i class="fa fa-envelope-o fa-3x mb-3 sr-contact"></i>
 				<p class="text-center">
-					<a href="mailto:your-email@your-domain.com">feedback@startbootstrap.com</a>
+					<a href="mailto:info@reisefuehrer-irland.ch ">info@reisefuehrer-irland.ch </a>
 				</p>
 			</div>
+    		<div class="col-lg-4 mr-auto text-center">
+    			<i class="fa fa-user-circle-o fa-3x mb-3 sr-contact"></i>
+    			<p class="text-center">Website created by Leandro Meleti</p>
+    		</div>
 		</div>
 	</div>
 </section>
 <?php
-// TODO: check if works
-if( !function_exists('mobile_user_agent_switch') ){
+if (! function_exists('mobile_user_agent_switch')) {
     function is_client_apple_device() {
-        return stristr($_SERVER['HTTP_USER_AGENT'],'ipad') || stristr($_SERVER['HTTP_USER_AGENT'],'iphone');
+        return stristr($_SERVER['HTTP_USER_AGENT'], 'ipad') || stristr($_SERVER['HTTP_USER_AGENT'], 'iphone');
     }
 }
 

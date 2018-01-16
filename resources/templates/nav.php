@@ -26,6 +26,8 @@
                                     href="#oasen">Oasen</a></li>
                                 <li class="nav-item"><a class="nav-link js-scroll-trigger"
                                     href="#politic">Politik</a></li>
+                                <li class="nav-item"><a class="nav-link js-scroll-trigger"
+                                    href="#worth-seeing">Sehenswert</a></li>
                             </ul>
                         </li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger"
