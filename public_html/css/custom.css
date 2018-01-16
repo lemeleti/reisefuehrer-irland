@@ -76,7 +76,7 @@ header.masthead {
 
 @media  (min-width : 767px) and (orientation: portrait) {
 	#page-top {
-		background-image: url('../img/IMG_3050-large.jpg');
+		background-image: url('../img/IMG_3050-large.JPG');
 	    background-repeat: no-repeat;
 	    background-attachment: fixed;
 	    background-position: center top;
@@ -100,7 +100,7 @@ header.masthead {
 
 @media  (min-width : 767px) and (orientation: landscape) {
 	#page-top {
-		background-image: url('../img/IMG_3049-large.jpg');
+		background-image: url('../img/IMG_3049-large.JPG');
 	    background-repeat: no-repeat;
 	    background-attachment: fixed;
 	    background-position: center top;

@@ -12,7 +12,6 @@
                         <h1 class="text-uppercase">
                             <strong>Reisetipps</strong>
                         </h1>
-                        <hr>
                     </div>
                     <div class="col-lg-8 mx-auto">
                         <a class="btn btn-secondary btn-xl" href="home.php">Find Out More</a>

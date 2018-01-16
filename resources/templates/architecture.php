@@ -33,7 +33,7 @@
 </div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="st-patricks-cathedral">St. Patrick's Cathedral</h3>
+<h3 id="st-patricks-cathedral-architecture">St. Patrick's Cathedral</h3>
 <pre>St Patrick's Close, Wood Quay, Dublin 8, Irland
 <a class="custom-url" target="_blank"
         href="http://www.stpatrickscathedral.ie/">www.stpatrickscathedral.ie</a>
@@ -140,13 +140,13 @@ So 12:30-14:30</pre>
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="dublin-castle">Dublin Castle</h3>
+<h3 id="dublin-castle-architecture">Dublin Castle</h3>
 <pre>Dame St, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincastle.ie/">www.dublincastle.ie</a>
 </pre>
 <hr class="my-4">
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
-<pre>ca. 1.5 h</pre>
+<pre>ca. 1 h 30 min</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Sa 9:45-17:45
 Sonn- und Feiertage 12:00-16:45</pre>

@@ -67,7 +67,7 @@ Sa und So Geschlossen
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="city-hall">City Hall (ehem. Rathaus)</h3>
+<h3 id="city-hall-politic">City Hall (ehem. Rathaus)</h3>
 <pre>Dame St, Dublin 2
 <a class="custom-url" target="_blank" href="http://www.dublincity.ie/">www.dublincity.ie</a>
 </pre>

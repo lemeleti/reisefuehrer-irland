@@ -1,26 +1,21 @@
-/*
- * Maybe the map with all routes there should be only one Marker in the center of the route
- * because the api does not support this much markers
- * -> no waypoints (or the middle one) and supress start and end marker
- *
- */
-
 function initMap() {
 	// Initialize Maps
 	var allRoutes = loadJson('allRoutes.json');
 	
 	var maps = [];
-	maps.push(createMap('map', allRoutes));
 	
 	for (var r = 0; r < allRoutes.length; r++) { 
 		var route = allRoutes[r];
 		var mapId = 'map' + route['id'];
 		maps.push(createMap(mapId, route));
 	}
+	// push at last for sameMarkerArray
+	maps.push(createMap('map', allRoutes));
 	
+	var sameMarkerArray = [];
 	// configure maps
 	for (var entry of maps) {
-		displayMarkers(entry.map, entry.routes);
+		displayMarkers(entry.map, entry.routes, sameMarkerArray);
 		displayRoutes(entry.map, entry.routes);
 		
 		// Trigger map redraw when dom element is resized
@@ -72,22 +67,22 @@ function loadJson(file) {
 	return data;
 }
 
-function displayMarkers(map, routes) {
+function displayMarkers(map, routes, sameMarkerArray) {
 	var shape = {
 		coord: [1, 1, 1, 20, 18, 20, 18 , 1],
 		type: 'poly'
 	};
-	
+		
 	if(routes instanceof Array) {		
 		for (var j = 0; j < routes.length; j++) {
 			var route = routes[j];
-			setMarkers(map, route, shape);
+			setMarkers(map, route, shape, sameMarkerArray);
 		}
 	} else {
-		setMarkers(map, routes, shape);
+		setMarkers(map, routes, shape, sameMarkerArray);
 	}
 	
-	function setMarkers(map, route, shape) {
+	function setMarkers(map, route, shape, sameMarkerArray) {
 		var locations = route['points'];
 		
 		for (var i = 0; i < locations.length; i++) {
@@ -95,34 +90,65 @@ function displayMarkers(map, routes) {
 
 			var myLatLng = new google.maps.LatLng(place[1], place[2]);
 			
+			var id = place[3];
+			var name = place[0];
 			var color = place[4];
-			var pinImage = new google.maps.MarkerImage("http://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|" + color,
+			var pinImage = new google.maps.MarkerImage("http://chart.googleapis.com/"
+					+ "chart?chst=d_map_pin_letter&chld=%E2%80%A2|" + color,
 			        new google.maps.Size(21, 34),
 			        new google.maps.Point(0,0),
 			        new google.maps.Point(10, 34));
 			
-			var marker = new google.maps.Marker({
-				position: myLatLng,
-				icon: pinImage,
-				map: map,
-				shape: shape,
-				title: place[0],
-				url: place[3]
-			});
-			
-			google.maps.event.addListener(marker, 'click', function() {
-				window.location.href = this.url;
+			if (color == "D3D3D3") {
+				var lastMinusIndex = id.lastIndexOf("-");
+				var p = id.substring(0, lastMinusIndex);
+				
+				if (!arrayContains(p, sameMarkerArray)) {
+					sameMarkerArray.push(p);
+					createMarker(map, myLatLng, pinImage, shape, name, id, true);
+				} else {
+					createMarker(map, myLatLng, pinImage, shape, name, id, false);
+				}
+			} else {
+				createMarker(map, myLatLng, pinImage, shape, name, id, true);
+			}
+		}
+	}
+	
+	function arrayContains(needle, arrhaystack) {
+	    return (arrhaystack.indexOf(needle) > -1);
+	}
+	
+	function createMarker(map, myLatLng, pinImage, shape, name, id
+			, linkSameMarkerForMultipleRoutes) {
+		var marker = new google.maps.Marker({
+			position: myLatLng,
+			icon: pinImage,
+			map: map,
+			shape: shape,
+			title: name,
+			url: id
+		});
+		
+		google.maps.event.addListener(marker, 'click', function() {
+			if (linkSameMarkerForMultipleRoutes) {
 				var mapDiv = $(this.url);
+				
+				// copied from template creative.min.js
 				$("html, body").animate({
 					scrollTop : mapDiv.offset().top - 70
 				}, 1e3, "easeInOutExpo");
-			});
-		}
+			} else {
+				// nothing to do 
+			}
+		});
 	}
 }
 
-// Let's make an array of requests which will become individual polylines on the
-// map.
+/*
+ * Let's make an array of requests 
+ * which will become individual polylines on the map.
+ */ 
 function displayRoutes(map, routes){
 	var requestArray = [];
 	var renderArray = [];

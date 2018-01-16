@@ -59,7 +59,7 @@
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="st-stephens-green">St. Stephen's Green</h3>
+<h3 id="st-stephens-green-oasen">St. Stephen's Green</h3>
 <pre>St Stephen's Green, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.ststephensgreenpark.ie/">www.ststephensgreenpark.ie</a>
