@@ -13,7 +13,7 @@
         <script src="js/slideshow.js"></script>
         <script src="js/custom.js"></script>
         <script src="js/maps.js"></script>
-		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCEllN8xXYe2LO5DTyPJ_yMbhy__B_g78g&callback=initMap"
-		async defer></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCEllN8xXYe2LO5DTyPJ_yMbhy__B_g78g&callback=initMap"
+        async defer></script>
     </body>
 </html>
