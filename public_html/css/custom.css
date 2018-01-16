@@ -6,16 +6,13 @@
 header.masthead {
 	padding-top: 40vh;
 	min-height: 0;
+	height: auto;
 	background-image: none;
 }
 
 @media ( min-width : 767px) {
 	.navbar-nav .dropdown-menu .caret {
 		transform: rotate(-90deg);
-	}
-	
-	header.masthead {
-		padding-top: 15vh;
 	}
 }
 
@@ -65,12 +62,6 @@ header.masthead {
 		-moz-background-size: cover;
 		-o-background-size: cover;
 		background-size: cover;
-	}
-
-	header.masthead {
-		padding-top: 40vh;
-		min-height: 0;
-		background-image: none;
 	}
 }
 
