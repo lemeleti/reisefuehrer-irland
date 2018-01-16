@@ -39,7 +39,7 @@ $(".show-more a").on("click", function(e) {
 });
 
 //background fixing
-//TODO: check if works
+//TODO: check if works (does not work)
 if(is_client_apple_device()) {
 	$(window).scroll(function() {
 		  var scrolledY = $(window).scrollTop();
