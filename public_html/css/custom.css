@@ -16,20 +16,8 @@ header.masthead {
 	}
 }
 
-/* TODO: backgorund image is not sharp */
 @media  (orientation: portrait) {
-	#page-top {
-		background-image: url('../img/IMG_3050-small.jpg');
-	    background-repeat: no-repeat;
-	    background-attachment: fixed;
-	    background-position: center top;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		-o-background-size: cover;
-		background-size: cover;
-	}
-	
-	#page-start {
+	#page-top, #page-start {
 		background-image: url('../img/IMG_3050-small.jpg');
 	    background-repeat: no-repeat;
 	    background-attachment: fixed;
@@ -42,18 +30,7 @@ header.masthead {
 }
 
 @media  (orientation: landscape) {
-	#page-top {
-		background-image: url('../img/IMG_3049-small.jpg');
-	    background-repeat: no-repeat;
-	    background-attachment: fixed;
-	    background-position: center top;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		-o-background-size: cover;
-		background-size: cover;
-	}
-	
-	#page-start {
+	#page-top, #page-start {
 		background-image: url('../img/IMG_3049-small.jpg');
 	    background-repeat: no-repeat;
 	    background-attachment: fixed;
@@ -66,50 +43,15 @@ header.masthead {
 }
 
 @media  (min-width : 767px) and (orientation: portrait) {
-	#page-top {
-		background-image: url('../img/IMG_3050-large.JPG');
-	    background-repeat: no-repeat;
-	    background-attachment: fixed;
-	    background-position: center top;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		-o-background-size: cover;
-		background-size: cover;
-	}
-	
-	#page-start {
-		background-image: url('../img/IMG_3050-small.jpg');
-	    background-repeat: no-repeat;
-	    background-attachment: fixed;
-	    background-position: center top;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		-o-background-size: cover;
-		background-size: cover;
+	#page-top, #page-start {
+		background-image: url('../img/IMG_3050-large.jpg');
+	    
 	}
 }
 
 @media  (min-width : 767px) and (orientation: landscape) {
-	#page-top {
+	#page-top, #page-start {
 		background-image: url('../img/IMG_3049-large.JPG');
-	    background-repeat: no-repeat;
-	    background-attachment: fixed;
-	    background-position: center top;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		-o-background-size: cover;
-		background-size: cover;
-	}
-	
-	#page-start {
-		background-image: url('../img/IMG_3049-small.jpg');
-	    background-repeat: no-repeat;
-	    background-attachment: fixed;
-	    background-position: center top;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		-o-background-size: cover;
-		background-size: cover;
 	}
 }
 
