@@ -23,6 +23,8 @@
                                 <li class="nav-item"><a class="nav-link js-scroll-trigger"
                                     href="#architecure">Architektur</a></li>
                                 <li class="nav-item"><a class="nav-link js-scroll-trigger"
+                                    href="#music">Musik</a></li>
+                                <li class="nav-item"><a class="nav-link js-scroll-trigger"
                                     href="#oasen">Oasen</a></li>
                                 <li class="nav-item"><a class="nav-link js-scroll-trigger"
                                     href="#politic">Politik</a></li>

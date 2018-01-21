@@ -201,7 +201,7 @@ function displayRoutes(map, routes){
 			origin: origin,
 			destination: destination,
 			waypoints: waypoints,
-			optimizeWaypoints: true,
+			//optimizeWaypoints: true, // fastes way
 			travelMode: 'WALKING',
 			unitSystem: google.maps.UnitSystem.METRIC
 		}
