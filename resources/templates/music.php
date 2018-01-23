@@ -183,7 +183,7 @@ So 12:30-23:30</pre>
 </div>
 <!-- Platz 5 -->
 <hr class="my-4 large">
-<h3 id="o-neill-s-pub-and-kitchen">O'Neill's Pub and Kitchen</h3>
+<h3 id="o-neill-s-pub-and-kitchen-music">O'Neill's Pub and Kitchen</h3>
 <pre>2 Suffolk Street, Dublin 2, Irland
 <a class="custom-url" target="_blank"
 		href="http://www.oneillspubdublin.com//">www.oneillspubdublin.com</a>

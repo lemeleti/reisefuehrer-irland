@@ -20,7 +20,7 @@
 </div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="st-patricks-cathedral-worth-seeing">St. Patrick's Cathedral</h3>
+<h3 id="st-patricks-cathedral-worth_seeing">St. Patrick's Cathedral</h3>
 <pre>St Patrick's Close, Wood Quay, Dublin 8, Irland
 <a class="custom-url" target="_blank"
         href="http://www.stpatrickscathedral.ie/">www.stpatrickscathedral.ie</a>
@@ -80,7 +80,7 @@ Erwachsene 4.20 &euro;</pre>
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="dublin-castle-worth-seeing">Dublin Castle</h3>
+<h3 id="dublin-castle-worth_seeing">Dublin Castle</h3>
 <pre>Dame St, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincastle.ie/">www.dublincastle.ie</a>
 </pre>
@@ -91,16 +91,14 @@ Erwachsene 4.20 &euro;</pre>
 <pre>Mo-Sa 9:45-17:45
 Sonn- und Feiertage 12:00-16:45</pre>
 <h4>Preis</h4>
-<pre>kostenloser Eintritt</pre>
-<h4>F&uuml;hrungen</h4>
-<pre>Erwachsene 4.50 &euro;
-Studenten 3.50 &euro;</pre>
+<pre>Erwachsene 7 &euro;
+Studenten 6 &euro;</pre>
 <hr class="my-4">
-<pre>Achtung: wird f&uuml;r Staatsempf&auml;nge und Konferenzen gebraucht, mit eingeschr&auml;nkten &Ouml;ffnungszeiten.</pre>
+<pre>Auf der F&uuml;hrung sieht man Prunks&auml;le, Reste der Stadtmauer aus der Wikingerzeit und den Mittelalter-Turm. Es hat ein Museumscaf&eacute;. Achtung: wird f&uuml;r Staatsempf&auml;nge und Konferenzen gebraucht, mit eingeschr&auml;nkten &Ouml;ffnungszeiten.</pre>
 <div class="w3-content w3-display-container slides my-4">
-    <img src="img/architecture/thumbnails/IMG_7345.JPG" /> <img
-        src="img/architecture/thumbnails/IMG_7349.JPG" /> <img
-        src="img/architecture/thumbnails/IMG_7352.JPG" />
+    <img src="img/history/thumbnails/-Dublin-Castle.jpg" /> <img
+        src="img/history/thumbnails/28744593794_dc461db9b6_b.jpg" /> <img
+        src="img/history/thumbnails/IMG_7351.JPG" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -127,7 +125,7 @@ Studenten 3.50 &euro;</pre>
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="city-hall-worth-seeing">City Hall (ehem. Rathaus)</h3>
+<h3 id="city-hall-worth_seeing">City Hall (ehem. Rathaus)</h3>
 <pre>Dame St, Dublin 2
 <a class="custom-url" target="_blank" href="http://www.dublincity.ie/">www.dublincity.ie</a>
 </pre>
@@ -165,7 +163,7 @@ So Geschlosen</pre>
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="st-stephens-green-worth-seeing">St. Stephen's Green</h3>
+<h3 id="st-stephens-green-worth_seeing">St. Stephen's Green</h3>
 <pre>St Stephen's Green, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.ststephensgreenpark.ie/">www.ststephensgreenpark.ie</a>

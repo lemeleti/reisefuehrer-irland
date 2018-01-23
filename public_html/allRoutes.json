@@ -3,13 +3,13 @@
 		"id": 1,
 		"points": [
 			["St. Patrick's Cathedral", 53.3395150, -6.2714770, "#st-patricks-cathedral-architecture", "D3D3D3"],
-			["Christ Church Cathedral", 53.3435130, -6.2710600, "#christ-church-cathedral", "D3D3D3"],
+			["Christ Church Cathedral", 53.3435130, -6.2710600, "#christ-church-cathedral-architecture", "D3D3D3"],
 			["Dublin Castle", 53.3428860, -6.2674280, "#dublin-castle-architecture", "D3D3D3"],
 			["St. Stephens Green Shopping Center", 53.3399900, -6.2624160, "#st-stephens-green-shopping-center", "0000FF"],
 			["National Library of Ireland", 53.3410980, -6.2544820, "#national-library-of-ireland", "0000FF"],
-			["Trinity College", 53.3437940, -6.2545720, "#trinity-college", "D3D3D3"],
+			["Trinity College", 53.3437940, -6.2545720, "#trinity-college-architecture", "D3D3D3"],
 			["Ha'penny Bridge", 53.3463230, -6.2630980, "#ha-penny-bridge", "0000FF"],
-			["Custom House", 53.3487040, -6.2531380, "#custom-house", "D3D3D3"],
+			["Custom House", 53.3487040, -6.2531380, "#custom-house-architecture", "D3D3D3"],
 			["Sean O'Casey Bridge", 53.3471350, -6.2480380, "#sean-o-casey-bridge", "0000FF"],
 			["Samuel Beckett Bridge", 53.3468700, -6.2412520, "#samuel-beckett-bridge", "0000FF"],
 			["Bord Gais Energy Theater", 53.3442130, -6.2401040, "#bord-gais-energy-theater", "0000FF"],
@@ -41,10 +41,10 @@
 	{
 		"id": 4,
 		"points": [
-			["St. Patrick's Cathedral", 53.3395150, -6.2714770, "#st-patricks-cathedral-worth-seeing", "D3D3D3"],
-			["Dublin Castle", 53.3428860, -6.2674280, "#dublin-castle-worth-seeing", "D3D3D3"],
-			["City Hall", 53.3438640,-6.2671750, "#city-hall-worth-seeing", "D3D3D3"],
-			["St. Stephen's Green", 53.3381740, -6.2591190, "#st-stephens-green-worth-seeing", "D3D3D3"],
+			["St. Patrick's Cathedral", 53.3395150, -6.2714770, "#st-patricks-cathedral-worth_seeing", "D3D3D3"],
+			["Dublin Castle", 53.3428860, -6.2674280, "#dublin-castle-worth_seeing", "D3D3D3"],
+			["City Hall", 53.3438640,-6.2671750, "#city-hall-worth_seeing", "D3D3D3"],
+			["St. Stephen's Green", 53.3381740, -6.2591190, "#st-stephens-green-worth_seeing", "D3D3D3"],
 			["The Little Museum of Dublin", 53.3396120, -6.2583260 , "#the-little-museum-of-dublin", "FFFF00"],
 			["National Museum an der Kildare Street", 53.3402230, -6.2549210 , "#national-museum-an-der-kildare-street", "FFFF00"]
 		], 
@@ -57,8 +57,33 @@
 			["Irish Rock n' Roll Museum", 53.3448650, -6.2645990, "#irish-rockand-roll-museum", "00FFFF"],
 			["The Church", 53.3486200, -6.2667010, "#the-church-music", "D3D3D3"],
 			["The Brazen Head", 53.3449330, -6.2763320, "#the-brazen-head", "00FFFF"],
-			["O'Neill's Pub and Kitchen", 53.3439050, -6.2607610, "#o-neill-s-pub-and-kitchen", "00FFFF"]
+			["O'Neill's Pub and Kitchen", 53.3439050, -6.2607610, "#o-neill-s-pub-and-kitchen-music", "D3D3D3"]
 		], 
 		"strokeColor": "00FFFF"
+	},
+	{
+		"id": 6,
+		"points": [
+			["The Duke", 53.3419780, -6.2587800, "#the-duke", "0F0F0F"],
+			["O'Neill's Pub and Kitchen", 53.3439050, -6.2607610, "#o-neill-s-pub-and-kitchen-night", "D3D3D3"],
+			["Temple Bar", 53.3449380, -6.2674730, "#temple-bar", "0F0F0F"],
+			["O'Connel Bridge", 53.3472490, -6.2592740, "#o-connel-bridge-night", "D3D3D3"],
+			["The Spire", 53.3498090, -6.2602550, "#the-spire", "0F0F0F"]
+		], 
+		"strokeColor": "0F0F0F"
+	},
+	{
+		"id": 7,
+		"points": [
+			["Dublin Castle", 53.3428860, -6.2674280, "#dublin-castle-history", "D3D3D3"],
+			["Georgianische Gebaeude", 53.3392220, -6.2504750, "#georgianische-gebaeude", "CC00CC"],
+			["Custom House", 53.3487040, -6.2531380, "#custom-house-history", "D3D3D3"],
+			["O'Connel Bridge", 53.3472490, -6.2592740, "#o-connel-bridge-history", "D3D3D3"],
+			["Dublinia", 53.3431490, -6.2720610, "#dublinia", "CC00CC"],
+			["Christ Church Cathedral", 53.3435130, -6.2710600, "#christ-church-cathedral-history", "D3D3D3"],
+			["Grafton Street", 53.3421500, -6.2598450, "#grafton-street", "CC00CC"],
+			["Trinity College", 53.3437940, -6.2545720, "#trinity-college-history", "D3D3D3"]
+		], 
+		"strokeColor": "CC00CC"
 	}
 ]

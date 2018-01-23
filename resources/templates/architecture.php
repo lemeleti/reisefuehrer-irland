@@ -94,34 +94,48 @@ Erwachsene 4.20 &euro;</pre>
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="christ-church-cathedral">Christ Church Cathedral</h3>
+<h3 id="christ-church-cathedral-architecture">Christ Church Cathedral</h3>
 <pre>Christchurch Pl, Dublin 8, Irland
 <a class="custom-url" target="_blank"
         href="http://www.christchurchcathedral.ie/de/besucher/">www.christchurchcathedral.ie/de/besucher</a>
 </pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
-<pre>M&auml;rz-Oktober
+<pre>Montag-Samstag:
 
-Mo-Sa 9:30-18:00
-So 12:30-14:30 und 16:30-18:00
+April, Mai, September und Oktober
 
-April-September
+09:30-18:00 Uhr (letzter Zutritt 17:15 Uhr)
 
-Mo-Sa 9:30-19:00
-So 12:30-14:30 und 16:30-19:00
+Juni-August
 
-November-Februar
+09:30-19:00 Uhr (letzter Zutritt 18:15 Uhr)
 
-Mo-Sa 9:30-17:00
-So 12:30-14:30</pre>
+November-M&auml;rz
+
+09:30-17:00 Uhr (letzter Zutritt 16:15 Uhr)
+</pre>
 <h4>Preis</h4>
-<pre>Erwachsene 6.50 &euro; (evt. Kombination mit Dublinia)</pre>
+<pre>Einzelticket
+
+Erwachsene 6 &euro;
+Senioren 4 &euro;
+Studenten 3 &euro;
+Kinder(unter 16) 2 &euro;
+Familien(2 Erwachsene, 2 Kinder unter 16) 14 &euro;
+
+Gruppen(ab 10 Personen)
+
+Erwachsene 5 &euro;
+Senioren 2.50 &euro;
+Studenten 2.50 &euro;
+Kinder(unter 16) 1.50 &euro;
+</pre>
 <h4>Baustil</h4>
 <pre>Fr&uuml;hgotik</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-    <img src="img/architecture/thumbnails/IMG_5088.JPG" />
+    <img src="img/history/thumbnails/4095831289_b190f62546_b.jpg" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -151,16 +165,14 @@ So 12:30-14:30</pre>
 <pre>Mo-Sa 9:45-17:45
 Sonn- und Feiertage 12:00-16:45</pre>
 <h4>Preis</h4>
-<pre>kostenloser Eintritt</pre>
-<h4>F&uuml;hrungen</h4>
-<pre>Erwachsene 4.50 &euro;
-Studenten 3.50 &euro;</pre>
+<pre>Erwachsene 7 &euro;
+Studenten 6 &euro;</pre>
 <hr class="my-4">
-<pre>Achtung: wird f&uuml;r Staatsempf&auml;nge und Konferenzen gebraucht, mit eingeschr&auml;nkten &Ouml;ffnungszeiten.</pre>
+<pre>Auf der F&uuml;hrung sieht man Prunks&auml;le, Reste der Stadtmauer aus der Wikingerzeit und den Mittelalter-Turm. Es hat ein Museumscaf&eacute;. Achtung: wird f&uuml;r Staatsempf&auml;nge und Konferenzen gebraucht, mit eingeschr&auml;nkten &Ouml;ffnungszeiten.</pre>
 <div class="w3-content w3-display-container slides my-4">
-    <img src="img/architecture/thumbnails/IMG_7345.JPG" /> <img
-        src="img/architecture/thumbnails/IMG_7349.JPG" /> <img
-        src="img/architecture/thumbnails/IMG_7352.JPG" />
+    <img src="img/history/thumbnails/-Dublin-Castle.jpg" /> <img
+        src="img/history/thumbnails/28744593794_dc461db9b6_b.jpg" /> <img
+        src="img/history/thumbnails/IMG_7351.JPG" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -255,7 +267,7 @@ Sa 9:30-12:45</pre>
 </div>
 <!-- Platz 6 -->
 <hr class="my-4 large">
-<h3 id="trinity-college">Trinity College</h3>
+<h3 id="trinity-college-architecture">Trinity College</h3>
 <pre>College Green, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.tcd.ie/">www.tcd.ie</a>
 </pre>
@@ -331,7 +343,7 @@ So 12:00-16:30</pre>
 </div>
 <!-- Platz 8 -->
 <hr class="my-4 large">
-<h3 id="custom-house">Custom House (Umweltministerium)</h3>
+<h3 id="custom-house-architecture">Custom House (Umweltministerium)</h3>
 <pre>North Dock, Dublin 1, Irland</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
@@ -340,9 +352,7 @@ So 12:00-16:30</pre>
 <pre>Neoklassizismus</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-    <img src="img/architecture/thumbnails/IMG_7454.JPG" /> <img
-        src="img/architecture/thumbnails/IMG_7445.JPG" /> <img
-        src="img/architecture/thumbnails/IMG_7450.JPG" />
+    <img src="img/history/thumbnails/Custom_House_Dublin_01.JPG" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>

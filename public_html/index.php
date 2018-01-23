@@ -14,7 +14,7 @@
                         </h1>
                     </div>
                     <div class="col-lg-8 mx-auto">
-                        <a class="btn btn-secondary btn-xl" href="home.php">Find Out More</a>
+                        <a class="btn btn-secondary btn-xl" href="home.php">Start</a>
                     </div>
                 </div>
             </div>

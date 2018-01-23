@@ -10,11 +10,12 @@ require_once realpath(dirname(__FILE__) . '/../resources/config.php');
 // require_once LIBRARY_PATH . '/thumbnail_library.php';
 // $thumbnailWidth = 640;
 // createThumbnails("img/architecture/fullsize/","img/architecture/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/history/fullsize/","img/history/thumbnails/", $thumbnailWidth);
 // createThumbnails("img/music/fullsize/","img/music/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/night/fullsize/","img/night/thumbnails/", $thumbnailWidth);
 // createThumbnails("img/oasen/fullsize/","img/oasen/thumbnails/", $thumbnailWidth);
 // createThumbnails("img/politics/fullsize/","img/politics/thumbnails/", $thumbnailWidth);
 // createThumbnails("img/worth-seeing/fullsize/","img/worth-seeing/thumbnails/", $thumbnailWidth);
-
 
 require_once TEMPLATES_PATH . '/header.php';
 require_once TEMPLATES_PATH . '/nav.php';
@@ -27,17 +28,17 @@ require_once TEMPLATES_PATH . '/nav.php';
 					<h2 class="section-heading">Dublin</h2>
 					<hr class="my-4">
 					<p class="mb-4">Dublin, die Hauptstadt Irlands, liegt an der
-						Ostk&uuml;ste der Insel. Die Stadt wird durch den Fluss Liffey in einen
-						Nord- und einen S&uuml;dteil gegliedert. Der Flughafen liegt etwas
-						ausserhalb, die Verbindung mit dem &ouml;ffentlichen Verkehr ist aber
-						sehr gut organisiert. Dublin hat eine wirklich sch&ouml;ne Altstadt,
-						die uns stark an London erinnert. Temple bar, ein besonders
-						beliebter Stadtteil, ist sehr interessant, die Gassen sind dort
-						ges&auml;umt mit Gesch&auml;ften, Restaurants und Pubs. Durch Dublins
-						Strassen fahren Doppeldeckerbusse und &uuml;ber die Liffey f&uuml;hren viele
-						sehenswerte Br&uuml;cken. Am Ufer gibt es zahlreiche B&auml;nke, auf denen
-						man sich eine Pause g&ouml;nnen und den Fluss oder die Leute beobachten
-						kann.</p>
+						Ostk&uuml;ste der Insel. Die Stadt wird durch den Fluss Liffey in
+						einen Nord- und einen S&uuml;dteil gegliedert. Der Flughafen liegt
+						etwas ausserhalb, die Verbindung mit dem &ouml;ffentlichen Verkehr
+						ist aber sehr gut organisiert. Dublin hat eine wirklich
+						sch&ouml;ne Altstadt, die uns stark an London erinnert. Temple
+						bar, ein besonders beliebter Stadtteil, ist sehr interessant, die
+						Gassen sind dort ges&auml;umt mit Gesch&auml;ften, Restaurants und
+						Pubs. Durch Dublins Strassen fahren Doppeldeckerbusse und
+						&uuml;ber die Liffey f&uuml;hren viele sehenswerte Br&uuml;cken.
+						Am Ufer gibt es zahlreiche B&auml;nke, auf denen man sich eine
+						Pause g&ouml;nnen und den Fluss oder die Leute beobachten kann.</p>
 				</div>
 			</div>
 		</div>
@@ -79,8 +80,12 @@ require_once TEMPLATES_PATH . '/nav.php';
 					<!-- TODO: Legende der Touren -->
 					<h5>Architektur (Farbe)</h5>
 					<pre>Dieser Spaziergang f&uuml;hrt dich quer durch ganz Dublin an wichtigen architektonischen Bauten vorbei. Die Zeitepoche reicht vom Mittelalter bis zur heutigen Zeit.</pre>
+					<h5>Geschichte (Farbe)</h5>
+					<pre>Interessiert dich Geschichte? Aber willst du Dir dein Wissen nicht nur aus Museen und B&uuml;chern holen? Dann findest du den kleinen Exkurs in die Dubliner Geschichte sicher spannend. Dieser Spaziergang f&uuml;hrt dich durch vergangene Zeiten und vermittelt Dir ein paar Eindr&uuml;cke. Wenn Dir etwas besonders gef&auml;llt, steht es dir frei, ob du noch mehr aus dieser Zeit entdecken willst.</pre>
 					<h5>Musik (Farbe)</h5>
 					<pre>In Dublin ist Musik sehr wichtig. In vielen Pubs kann man traditionelle Livemusik erleben, aber auch Rock'n Roll, Jazz und Klassik spielen eine wichtige Rolle. Aus Dublin kommt Irlands ber&uuml;hmteste Rockband U2. Dieser Spaziergang f&uuml;r Dich an Orte, die mit Musik zu tun haben.</pre>
+					<h5>Nacht (Farbe)</h5>
+					<pre>In Dublin kann man auch am Abend viel sehen und erleben. Es gibt zahlreiche Pubs und Restaurants und viele Br&uuml;cken &uuml;ber die Liffey sind nachts beleuchtet. Ein sehr beliebtes Viertel ist Temple Bar, dort hat es an jeder zweiten Ecke ein Pub oder eine Bar.</pre>
 					<h5>Oasen (Farbe)</h5>
 					<pre>Brauchst du Zeit, um abzuschalten oder einfach einmal die Zeit zu geniessen und dies erst noch an der frischen Luft, dann wirst du hier sicher f&uuml;ndig</pre>
 					<h5>Politik (Farbe)</h5>
@@ -106,12 +111,38 @@ require_once TEMPLATES_PATH . '/nav.php';
 	</div>
 </section>
 
+<section id="history">
+	<div class="container-fluid root-container-width">
+		<div class="row">
+			<div class="col-lg-8 mx-auto text-center">
+				<div class="content-container">
+                    <?php include TEMPLATES_PATH . '/history.php' ?>
+                    <hr class="vertical-center large">
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
 <section id="music">
 	<div class="container-fluid root-container-width">
 		<div class="row">
 			<div class="col-lg-8 mx-auto text-center">
 				<div class="content-container">
                     <?php include TEMPLATES_PATH . '/music.php' ?>
+                    <hr class="vertical-center large">
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="night">
+	<div class="container-fluid root-container-width">
+		<div class="row">
+			<div class="col-lg-8 mx-auto text-center">
+				<div class="content-container">
+                    <?php include TEMPLATES_PATH . '/night.php' ?>
                     <hr class="vertical-center large">
 				</div>
 			</div>
