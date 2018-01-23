@@ -12,10 +12,9 @@ function initMap() {
 	// push at last for sameMarkerArray
 	maps.push(createMap('map', allRoutes));
 	
-	var sameMarkerArray = [];
 	// configure maps
 	for (var entry of maps) {
-		displayMarkers(entry.map, entry.routes, sameMarkerArray);
+		displayMarkers(entry.map, entry.routes);
 		displayRoutes(entry.map, entry.routes);
 		
 		// Trigger map redraw when dom element is resized
@@ -67,22 +66,22 @@ function loadJson(file) {
 	return data;
 }
 
-function displayMarkers(map, routes, sameMarkerArray) {
+function displayMarkers(map, routes) {
 	var shape = {
 		coord: [1, 1, 1, 20, 18, 20, 18 , 1],
 		type: 'poly'
 	};
 		
-	if(routes instanceof Array) {		
+	if(routes instanceof Array) {
 		for (var j = 0; j < routes.length; j++) {
 			var route = routes[j];
-			setMarkers(map, route, shape, sameMarkerArray);
+			setMarkers(map, route, shape, false);
 		}
 	} else {
-		setMarkers(map, routes, shape, sameMarkerArray);
+		setMarkers(map, routes, shape, true);
 	}
 	
-	function setMarkers(map, route, shape, sameMarkerArray) {
+	function setMarkers(map, route, shape, isSingleRoute) {
 		var locations = route['points'];
 		
 		for (var i = 0; i < locations.length; i++) {
@@ -99,24 +98,9 @@ function displayMarkers(map, routes, sameMarkerArray) {
 			        new google.maps.Point(0,0),
 			        new google.maps.Point(10, 34));
 			
-			if (color == "D3D3D3") {
-				var lastMinusIndex = id.lastIndexOf("-");
-				var p = id.substring(0, lastMinusIndex);
-				
-				if (!arrayContains(p, sameMarkerArray)) {
-					sameMarkerArray.push(p);
-					createMarker(map, myLatLng, pinImage, shape, name, id, true);
-				} else {
-					createMarker(map, myLatLng, pinImage, shape, name, id, false);
-				}
-			} else {
-				createMarker(map, myLatLng, pinImage, shape, name, id, true);
-			}
+			var linkMarker = (color == "D3D3D3" && isSingleRoute);
+			createMarker(map, myLatLng, pinImage, shape, name, id, linkMarker);
 		}
-	}
-	
-	function arrayContains(needle, arrhaystack) {
-	    return (arrhaystack.indexOf(needle) > -1);
 	}
 	
 	function createMarker(map, myLatLng, pinImage, shape, name, id
