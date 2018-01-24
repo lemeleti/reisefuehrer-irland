@@ -20,6 +20,10 @@
 		display: none;
 	}
 	
+	.map {
+		display: none;
+	}
+	
 	div.hideContent {
 		overflow: visible;
 		height: auto;
