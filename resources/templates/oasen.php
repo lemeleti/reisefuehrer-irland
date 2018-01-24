@@ -98,7 +98,7 @@ So und Feiertage 09:30-Sonnenuntergang</pre>
 <!-- Platz 3 -->
 <hr class="my-4 large">
 <h3 id="merrion-square-park">Merrion Square Park</h3>
-<pre>Merrion Square, Dublin, &Eacute;ire
+<pre>Merrion Square, Dublin, &Eacute;ire, Irland
 <a class="custom-url" target="_blank" href="http://www.merrionsquare.ie/">www.merrionsquare.ie</a>
 </pre>
 <hr class="my-4">
