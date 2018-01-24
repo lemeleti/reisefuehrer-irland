@@ -193,8 +193,7 @@ So 12:30-23:30</pre>
 <pre>1 h</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Do 8:00-23:30
-Fr 8:00-0:30
-Sa 8:00-0:30
+Fr und Sa 8:00-0:30
 So 8:00-23:00</pre>
 <h4>Beschreibung</h4>
 <pre>Pub und Restaurant mit Livemusik</pre>
