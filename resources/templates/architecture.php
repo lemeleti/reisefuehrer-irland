@@ -230,7 +230,7 @@ So 11:00-18:00</pre>
 <!-- Platz 5 -->
 <hr class="my-4 large">
 <h3 id="national-library-of-ireland">National Library of Ireland</h3>
-<pre>National Library of Ireland, 2/3 Kildare Street
+<pre>National Library of Ireland, 2/3 Kildare Street, Irland
 <a class="custom-url" target="_blank" href="http://www.nli.ie/">www.nli.ie</a>
 </pre>
 <hr class="my-4">
@@ -375,7 +375,7 @@ So 12:00-16:30</pre>
 <!-- Platz 9 -->
 <hr class="my-4 large">
 <h3 id="sean-o-casey-bridge">Sean O'Casey Bridge</h3>
-<pre>Sean O'Casey Bridge, South-East Inner City</pre>
+<pre>Sean O'Casey Bridge, South-East Inner City, Irland</pre>
 <hr class="my-4">
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
 <pre>10 min</pre>
@@ -403,7 +403,7 @@ So 12:00-16:30</pre>
 <!-- Platz 10 -->
 <hr class="my-4 large">
 <h3 id="samuel-beckett-bridge">Samuel Beckett Bridge</h3>
-<pre>Samuel Beckett Bridge, Dublin 2</pre>
+<pre>Samuel Beckett Bridge, Dublin 2, Irland</pre>
 <hr class="my-4">
 <h4>Baujahr</h4>
 <pre>2007-2009</pre>
@@ -464,7 +464,7 @@ So 12:00-16:30</pre>
 <!-- Platz 12 -->
 <hr class="my-4 large">
 <h3 id="alliance-building">Alliance Building</h3>
-<pre>South Lotts Road
+<pre>South Lotts Road, Irland
 <a class="custom-url" target="_blank"
         href="http://www.bordgaisenergytheatre.ie/">www.bordgaisenergytheatre.ie</a>
 </pre>
