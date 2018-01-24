@@ -75,7 +75,7 @@ require_once TEMPLATES_PATH . '/nav.php';
 		<div class="row">
 			<div class="col-lg-8 mx-auto text-center">
 				<div class="content-container">
-					<h2 class="section-heading">Rundg&auml;nge</h2>
+					<h2 class="section-heading">Spazierg&auml;nge</h2>
 					<div class="map" id="map"></div>
 					<!-- TODO: Legende der Touren -->
 					<h5>Architektur (Farbe)</h5>
