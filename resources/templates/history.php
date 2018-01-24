@@ -161,9 +161,7 @@ Oktober-Februar
 <pre>Du kannst die Eintrittskarte entweder online oder vor Ort kaufen.
 
 Erwachsene:         9.50 &euro;
-Studenten/Rentner:  8.50 &euro;
-Kinder:             6.50 &euro;
-Familien:           25.00 &euro; (2 Erwachsene &amp; 2 Kinder)
+Studenten:  8.50 &euro;
 
 Du kannst auch eine erm&auml;ssigte Kombikarte f&uuml;r Dublinia und die benachbarte Christ Church Cathedral kaufen.
 </pre>
@@ -215,17 +213,12 @@ November-M&auml;rz
 <pre>Einzelticket
 
 Erwachsene 6 &euro;
-Senioren 4 &euro;
 Studenten 3 &euro;
-Kinder(unter 16) 2 &euro;
-Familien(2 Erwachsene, 2 Kinder unter 16) 14 &euro;
 
 Gruppen(ab 10 Personen)
 
 Erwachsene 5 &euro;
-Senioren 2.50 &euro;
 Studenten 2.50 &euro;
-Kinder(unter 16) 1.50 &euro;
 </pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
