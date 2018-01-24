@@ -55,11 +55,11 @@ So 9:00-10:30 und 12:30-14:30</pre>
 <pre>Kirche</pre>
 <h4>Preis</h4>
 <pre>Einzelpersonen
-Sch&uuml;ler / Studenten 4.50 &euro;
+Studenten 4.50 &euro;
 Erwachsene 5.50 &euro;
 
 Gruppen: (ab 10 P)
-Sch&uuml;ler / Studenten 3.70 &euro;
+Studenten 3.70 &euro;
 Erwachsene 4.20 &euro;</pre>
 <h4>F&uuml;hrung</h4>
 <pre>T&auml;glich 10:30, 11:30, 15:00 und 15:30
