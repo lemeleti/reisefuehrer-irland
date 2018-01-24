@@ -6,10 +6,13 @@
 	.container-fluid {
 		padding: 0 0;
 	}
-	
+	.root-container-width {
+		width: 100vw !important;
+		margin: auto !important
+	}
 	hr.vertical-center {
-	margin-top: 2rem !important;
-	margin-bottom: 0 !important;
+		margin-top: 2rem !important;
+		margin-bottom: 0 !important;
 	}
 
 	#mainNav {
@@ -17,6 +20,10 @@
 	}
 	
 	.slides {
+		display: none;
+	}
+	
+	.show-more {
 		display: none;
 	}
 	
