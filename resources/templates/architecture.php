@@ -119,17 +119,12 @@ November-M&auml;rz
 <pre>Einzelticket
 
 Erwachsene 6 &euro;
-Senioren 4 &euro;
 Studenten 3 &euro;
-Kinder(unter 16) 2 &euro;
-Familien(2 Erwachsene, 2 Kinder unter 16) 14 &euro;
 
 Gruppen(ab 10 Personen)
 
 Erwachsene 5 &euro;
-Senioren 2.50 &euro;
 Studenten 2.50 &euro;
-Kinder(unter 16) 1.50 &euro;
 </pre>
 <h4>Baustil</h4>
 <pre>Fr&uuml;hgotik</pre>
