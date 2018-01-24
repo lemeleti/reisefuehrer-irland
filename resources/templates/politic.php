@@ -27,7 +27,7 @@
 <!-- Platz 1 -->
 <hr class="my-4 large">
 <h3 id="four-courts">Four Courts (Gerichtsgeb&auml;de)</h3>
-<pre>Inns Quay 25, Dublin 8</pre>
+<pre>Inns Quay 25, Dublin 8, Irland</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Fr 09:00-18:00
@@ -68,7 +68,7 @@ Sa und So Geschlossen
 <!-- Platz 2 -->
 <hr class="my-4 large">
 <h3 id="city-hall-politic">City Hall (ehem. Rathaus)</h3>
-<pre>Dame St, Dublin 2
+<pre>Dame St, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincity.ie/">www.dublincity.ie</a>
 </pre>
 <hr class="my-4">
@@ -106,7 +106,7 @@ So Geschlosen</pre>
 <!-- Platz 3 -->
 <hr class="my-4 large">
 <h3 id="irish-parliament-house-bank-of-ireland">Irish Parliament House / Bank of Ireland</h3>
-<pre>College Green, Temple Bar, Dublin</pre>
+<pre>College Green, Temple Bar, Dublin, Irland</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Fr 10:00-16:00
@@ -135,7 +135,7 @@ Do 10:00-17:00
 <!-- Platz 4 -->
 <hr class="my-4 large">
 <h3 id="leinster-house">Leinster House (ehem. Herzogspalast) / Parlamentshaus</h3>
-<pre>Kildare St, Dublin 2
+<pre>Kildare St, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.oireachtas.ie/parliament/">www.oireachtas.ie/parliament</a>
 </pre>
@@ -173,7 +173,7 @@ kostenlose F&uuml;hrung</pre>
 <!-- Platz 5 -->
 <hr class="my-4 large">
 <h3 id="government-buildings">Government Buildings</h3>
-<pre>Upper Merrion St, Dublin 2
+<pre>Upper Merrion St, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="https://www.taoiseach.gov.ie/eng/splash/">www.taoiseach.gov.ie/eng/splash</a>
 </pre>
