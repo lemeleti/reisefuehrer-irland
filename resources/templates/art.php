@@ -9,7 +9,7 @@
 <!-- Platz 1 -->
 <hr class="my-4 large">
 <h3 id="four-courts-art">Four Courts</h3>
-<pre>St. Andrew’s Ln, Irland (hinter dem Hangar Nachtclub)</pre>
+<pre>St. Andrew's Ln, Irland (hinter dem Hangar Nachtclub)</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
 	<img src="img/art/thumbnails/1. St Andres Ln.JPG" />
@@ -20,7 +20,7 @@
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-	<p>Zwischen der Dame Street und der St Andrews’s Street befindet sich
+	<p>Zwischen der Dame Street und der St Andrews's Street befindet sich
 		der Nachtclub Hangar. An seiner Fassade findest du ein &uuml;bergrosses
 		Bild von einem jungen Mann. Es wurde vom K&uuml;nstler-Kollektiv Subset
 		gesprayt. In und um Dublin findet man viele Bilder von diesen
