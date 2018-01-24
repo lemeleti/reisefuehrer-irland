@@ -121,7 +121,6 @@ require_once TEMPLATES_PATH . '/nav.php';
 				<div class="content-container">
 					<h2 class="section-heading">Spazierg&auml;nge</h2>
 					<div class="map" id="map"></div>
-					<!-- TODO: Legende der Touren -->
 					<h5>Architektur (Farbe)</h5>
 					<pre>Dieser Spaziergang f&uuml;hrt dich quer durch ganz Dublin an wichtigen architektonischen Bauten vorbei. Die Zeitepoche reicht vom Mittelalter bis zur heutigen Zeit.</pre>
 					<h5>Geschichte (Farbe)</h5>

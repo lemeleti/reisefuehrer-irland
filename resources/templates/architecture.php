@@ -241,8 +241,7 @@ Di-Fr 10:30-12:30 und 14:00-16:00
 Sa 9:30-12:45</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-    <!-- TODO: Bild folgt (Irish Nationalbibliothek) -->
-    <img src="img/portfolio/thumbnails/1.jpg" />
+    <img src="img/architecture/thumbnails/National Library of Ireland.png" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>

@@ -37,8 +37,7 @@ Sa und So Geschlossen
 <hr class="my-4">
 <pre>Am besten das Geb&auml;ude von der anderen Seite des Flusses betrachten.</pre>
 <div class="w3-content w3-display-container slides my-4">
-    <!-- TODO: Bild folgt (Four Courts (Gerichtsgeb&auml;de)) -->
-    <img src="img/portfolio/thumbnails/1.jpg" />
+    <img src="img/politics/thumbnails/Four Courts Dublin.png" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -150,8 +149,7 @@ kostenlose F&uuml;hrung</pre>
 <hr class="my-4">
 <pre>Ziel von Protestm&auml;rschen und Kundgebungen.</pre>
 <div class="w3-content w3-display-container slides my-4">
-    <!-- TODO: Bild folgt (Leinster House (ehem. Herzogspalast) / Parlamentshaus) -->
-    <img src="img/portfolio/thumbnails/1.jpg">
+    <img src="img/politics/thumbnails/Leinster House.png">
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>

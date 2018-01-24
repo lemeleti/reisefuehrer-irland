@@ -28,8 +28,7 @@
 <hr class="my-4">
 <pre>Geniesse die Erholungsoase in mitten der Stadt.</pre>
 <div class="w3-content w3-display-container slides my-4">
-    <!-- TODO: Bild folgt (Phoenix Park) -->
-    <img src="img/portfolio/thumbnails/1.jpg" />
+    <img src="img/oasen/thumbnails/Phoenix  Park.png" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
