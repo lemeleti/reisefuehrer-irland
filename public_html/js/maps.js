@@ -136,8 +136,10 @@ function displayMarkers(map, routes) {
 function displayRoutes(map, routes){
 	var requestArray = [];
 	var renderArray = [];
-
+	var delayDirectionsRequest = false;
+	
 	if(routes instanceof Array) {	
+		delayDirectionsRequest = true;
 		for (var r = 0; r < routes.length; r++) {
 			var route = routes[r];
 			setRoutes(route, requestArray);
@@ -194,10 +196,10 @@ function displayRoutes(map, routes){
 		requestArray.push({"route": route, "request": request});	
 	}
 	
-	processRequests(map, requestArray, renderArray);
+	processRequests(map, requestArray, renderArray, delayDirectionsRequest);
 }
 
-function processRequests(map, requestArray, renderArray){
+function processRequests(map, requestArray, renderArray, delayDirectionsRequest){
 	// Counter to track request submission and process one at a time;
 	var i = 0;
 
@@ -234,8 +236,10 @@ function processRequests(map, requestArray, renderArray){
 			
 			// Use this new renderer with the result
 			renderArray[i].setDirections(result);
-			// wait because the google maps directions api receives to much requests
-			wait(400);
+			if(delayDirectionsRequest) {
+				// wait because the google maps directions api receives to much requests
+				wait(1000);
+			}
 			// and start the next request
 			nextRequest();
 		} else {
