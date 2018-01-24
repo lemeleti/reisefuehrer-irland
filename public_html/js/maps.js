@@ -234,9 +234,21 @@ function processRequests(map, requestArray, renderArray){
 			
 			// Use this new renderer with the result
 			renderArray[i].setDirections(result);
+			// wait because the google maps directions api receives to much requests
+			wait(400);
 			// and start the next request
 			nextRequest();
+		} else {
+			console.log('Directionservice Error: ' + status);
 		}
+	}
+	
+	function wait(ms){
+	   var start = new Date().getTime();
+	   var end = start;
+	   while(end < start + ms) {
+		   end = new Date().getTime();
+	   }
 	}
 	
 	function nextRequest(){
