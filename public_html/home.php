@@ -7,17 +7,17 @@ require_once realpath(dirname(__FILE__) . '/../resources/config.php');
  * because most images are to big to allocate the allowed memory size
  */
 
-require_once LIBRARY_PATH . '/thumbnail_library.php';
-$thumbnailWidth = 640;
-createThumbnails("img/architecture/fullsize/","img/architecture/thumbnails/", $thumbnailWidth);
-createThumbnails("img/art/fullsize/","img/art/thumbnails/", $thumbnailWidth);
-createThumbnails("img/history/fullsize/","img/history/thumbnails/", $thumbnailWidth);
-createThumbnails("img/kulinarik/fullsize/","img/kulinarik/thumbnails/", $thumbnailWidth);
-createThumbnails("img/music/fullsize/","img/music/thumbnails/", $thumbnailWidth);
-createThumbnails("img/night/fullsize/","img/night/thumbnails/", $thumbnailWidth);
-createThumbnails("img/oasen/fullsize/","img/oasen/thumbnails/", $thumbnailWidth);
-createThumbnails("img/politics/fullsize/","img/politics/thumbnails/", $thumbnailWidth);
-createThumbnails("img/worth-seeing/fullsize/","img/worth-seeing/thumbnails/", $thumbnailWidth);
+// require_once LIBRARY_PATH . '/thumbnail_library.php';
+// $thumbnailWidth = 640;
+// createThumbnails("img/architecture/fullsize/","img/architecture/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/art/fullsize/","img/art/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/history/fullsize/","img/history/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/kulinarik/fullsize/","img/kulinarik/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/music/fullsize/","img/music/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/night/fullsize/","img/night/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/oasen/fullsize/","img/oasen/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/politics/fullsize/","img/politics/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/worth-seeing/fullsize/","img/worth-seeing/thumbnails/", $thumbnailWidth);
 
 require_once TEMPLATES_PATH . '/header.php';
 require_once TEMPLATES_PATH . '/nav.php';
