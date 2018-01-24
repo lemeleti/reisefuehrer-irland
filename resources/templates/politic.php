@@ -26,7 +26,7 @@
 </div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="four-courts">Four Courts (Gerichtsgeb&auml;de)</h3>
+<h3 id="four-courts-politic">Four Courts (Gerichtsgeb&auml;de)</h3>
 <pre>Inns Quay 25, Dublin 8, Irland</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>

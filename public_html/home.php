@@ -7,15 +7,17 @@ require_once realpath(dirname(__FILE__) . '/../resources/config.php');
  * because most images are to big to allocate the allowed memory size
  */
 
-// require_once LIBRARY_PATH . '/thumbnail_library.php';
-// $thumbnailWidth = 640;
-// createThumbnails("img/architecture/fullsize/","img/architecture/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/history/fullsize/","img/history/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/music/fullsize/","img/music/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/night/fullsize/","img/night/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/oasen/fullsize/","img/oasen/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/politics/fullsize/","img/politics/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/worth-seeing/fullsize/","img/worth-seeing/thumbnails/", $thumbnailWidth);
+require_once LIBRARY_PATH . '/thumbnail_library.php';
+$thumbnailWidth = 640;
+createThumbnails("img/architecture/fullsize/","img/architecture/thumbnails/", $thumbnailWidth);
+createThumbnails("img/art/fullsize/","img/art/thumbnails/", $thumbnailWidth);
+createThumbnails("img/history/fullsize/","img/history/thumbnails/", $thumbnailWidth);
+createThumbnails("img/kulinarik/fullsize/","img/kulinarik/thumbnails/", $thumbnailWidth);
+createThumbnails("img/music/fullsize/","img/music/thumbnails/", $thumbnailWidth);
+createThumbnails("img/night/fullsize/","img/night/thumbnails/", $thumbnailWidth);
+createThumbnails("img/oasen/fullsize/","img/oasen/thumbnails/", $thumbnailWidth);
+createThumbnails("img/politics/fullsize/","img/politics/thumbnails/", $thumbnailWidth);
+createThumbnails("img/worth-seeing/fullsize/","img/worth-seeing/thumbnails/", $thumbnailWidth);
 
 require_once TEMPLATES_PATH . '/header.php';
 require_once TEMPLATES_PATH . '/nav.php';
@@ -39,6 +41,48 @@ require_once TEMPLATES_PATH . '/nav.php';
 						&uuml;ber die Liffey f&uuml;hren viele sehenswerte Br&uuml;cken.
 						Am Ufer gibt es zahlreiche B&auml;nke, auf denen man sich eine
 						Pause g&ouml;nnen und den Fluss oder die Leute beobachten kann.</p>
+					<div class="w3-content w3-display-container slides my-4">
+						<img src="img/sample/weiss.jpg" />
+
+						<button class="w3-button w3-black w3-display-left"
+							onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
+						<button class="w3-button w3-black w3-display-right"
+							onclick="plusDivs(this.parentElement,1)">&#10095;</button>
+					</div>
+					<div class="w3-content w3-display-container slides my-4">
+						<img src="img/sample/grau.jpg" />
+
+						<button class="w3-button w3-black w3-display-left"
+							onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
+						<button class="w3-button w3-black w3-display-right"
+							onclick="plusDivs(this.parentElement,1)">&#10095;</button>
+					</div>
+					<div class="w3-content w3-display-container slides my-4">
+						<img src="img/sample/schwarz.jpg" />
+
+						<button class="w3-button w3-black w3-display-left"
+							onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
+						<button class="w3-button w3-black w3-display-right"
+							onclick="plusDivs(this.parentElement,1)">&#10095;</button>
+					</div>
+					<div class="w3-content w3-display-container slides my-4">
+						<img src="img/sample/ausschnitt.jpg" />
+
+						<button class="w3-button w3-black w3-display-left"
+							onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
+						<button class="w3-button w3-black w3-display-right"
+							onclick="plusDivs(this.parentElement,1)">&#10095;</button>
+					</div>
+					<div class="w3-content w3-display-container slides my-4">
+						<img src="img/sample/weiss.jpg" /> <img src="img/sample/grau.jpg" />
+						<img src="img/sample/schwarz.jpg" /> <img
+							src="img/sample/ausschnitt.jpg" />
+
+						<button class="w3-button w3-black w3-display-left"
+							onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
+						<button class="w3-button w3-black w3-display-right"
+							onclick="plusDivs(this.parentElement,1)">&#10095;</button>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -82,6 +126,10 @@ require_once TEMPLATES_PATH . '/nav.php';
 					<pre>Dieser Spaziergang f&uuml;hrt dich quer durch ganz Dublin an wichtigen architektonischen Bauten vorbei. Die Zeitepoche reicht vom Mittelalter bis zur heutigen Zeit.</pre>
 					<h5>Geschichte (Farbe)</h5>
 					<pre>Interessiert dich Geschichte? Aber willst du Dir dein Wissen nicht nur aus Museen und B&uuml;chern holen? Dann findest du den kleinen Exkurs in die Dubliner Geschichte sicher spannend. Dieser Spaziergang f&uuml;hrt dich durch vergangene Zeiten und vermittelt Dir ein paar Eindr&uuml;cke. Wenn Dir etwas besonders gef&auml;llt, steht es dir frei, ob du noch mehr aus dieser Zeit entdecken willst.</pre>
+					<h5>Kulinarik (Farbe)</h5>
+					<pre>Wenn du nicht nur Burger und Pommes essen und nach dem Guinness Abend am n&auml;chsten Morgen einen hervorragenden Kaffee mit oder ohne Brunch geniessen m&ouml;chtest, sind diese Restaurants perfekt.</pre>
+					<h5>Kunst (Farbe)</h5>
+					<pre>Der Spaziergang ist ideal f&uuml;r Leute, die nicht nur in Museen verweilen wollen, sondern parallel zur Kunst auch die wundersch&ouml;ne Stadt entdecken m&ouml;chten. Die Tour beschr&auml;nkt sich auf Streetart und kann gut mit anderen Touren kombiniert werden. Streetart ist sehr lebendig und immer im Wandel, daher kann sich viel ver&auml;ndern und wir garantieren nicht, dass die beschriebenen Kunstwerke noch vorhanden sind, wenn du sie dir ansehen willst. Unser Tipp: Achte beim Flanieren auch auf die Nebengassen, Streetart versteckt sich genau dort, wo man nicht darauf achtet.</pre>
 					<h5>Musik (Farbe)</h5>
 					<pre>In Dublin ist Musik sehr wichtig. In vielen Pubs kann man traditionelle Livemusik erleben, aber auch Rock'n Roll, Jazz und Klassik spielen eine wichtige Rolle. Aus Dublin kommt Irlands ber&uuml;hmteste Rockband U2. Dieser Spaziergang f&uuml;r Dich an Orte, die mit Musik zu tun haben.</pre>
 					<h5>Nacht (Farbe)</h5>
@@ -117,6 +165,32 @@ require_once TEMPLATES_PATH . '/nav.php';
 			<div class="col-lg-8 mx-auto text-center">
 				<div class="content-container">
                     <?php include TEMPLATES_PATH . '/history.php' ?>
+                    <hr class="vertical-center large">
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="kulinarik">
+	<div class="container-fluid root-container-width">
+		<div class="row">
+			<div class="col-lg-8 mx-auto text-center">
+				<div class="content-container">
+                    <?php include TEMPLATES_PATH . '/kulinarik.php' ?>
+                    <hr class="vertical-center large">
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="art">
+	<div class="container-fluid root-container-width">
+		<div class="row">
+			<div class="col-lg-8 mx-auto text-center">
+				<div class="content-container">
+                    <?php include TEMPLATES_PATH . '/art.php' ?>
                     <hr class="vertical-center large">
 				</div>
 			</div>
