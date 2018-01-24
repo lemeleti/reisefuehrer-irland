@@ -9,9 +9,12 @@
             <div class="container my-auto">
                 <div class="row">
                     <div class="col-lg-10 mx-auto">
-                        <h1 class="text-uppercase">
-                            <strong>Reisetipps</strong>
+                        <h1 class="text-uppercase text-border-black">
+                            <strong>Interaktive Homepage &uuml;ber Dublin</strong>
                         </h1>
+                        <h2 class="text-border-black">
+                            <strong>Spazierg&auml;nge und Besuchstipps f&uuml;r Junge Erwachsene</strong>
+                        </h2>
                     </div>
                     <div class="col-lg-8 mx-auto">
                         <a class="btn btn-secondary btn-xl" href="home.php">Start</a>
