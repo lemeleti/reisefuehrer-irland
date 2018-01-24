@@ -5,17 +5,17 @@
 			["St. Patrick's Cathedral", 53.3395150, -6.2714770, "#st-patricks-cathedral-architecture", "D3D3D3"],
 			["Christ Church Cathedral", 53.3435130, -6.2710600, "#christ-church-cathedral-architecture", "D3D3D3"],
 			["Dublin Castle", 53.3428860, -6.2674280, "#dublin-castle-architecture", "D3D3D3"],
-			["St. Stephens Green Shopping Center", 53.3399900, -6.2624160, "#st-stephens-green-shopping-center", "C0D6E4"],
-			["National Library of Ireland", 53.3410980, -6.2544820, "#national-library-of-ireland", "C0D6E4"],
+			["St. Stephens Green Shopping Center", 53.3399900, -6.2624160, "#st-stephens-green-shopping-center", "417FA7"],
+			["National Library of Ireland", 53.3410980, -6.2544820, "#national-library-of-ireland", "417FA7"],
 			["Trinity College", 53.3437940, -6.2545720, "#trinity-college-architecture", "D3D3D3"],
-			["Ha'penny Bridge", 53.3463230, -6.2630980, "#ha-penny-bridge", "C0D6E4"],
+			["Ha'penny Bridge", 53.3463230, -6.2630980, "#ha-penny-bridge", "417FA7"],
 			["Custom House", 53.3487040, -6.2531380, "#custom-house-architecture", "D3D3D3"],
-			["Sean O'Casey Bridge", 53.3471350, -6.2480380, "#sean-o-casey-bridge", "C0D6E4"],
-			["Samuel Beckett Bridge", 53.3468700, -6.2412520, "#samuel-beckett-bridge", "C0D6E4"],
-			["Bord Gais Energy Theater", 53.3442130, -6.2401040, "#bord-gais-energy-theater", "C0D6E4"],
-			["Alliance Building", 53.3388680, -6.2340850, "#alliance-building", "C0D6E4"]
+			["Sean O'Casey Bridge", 53.3471350, -6.2480380, "#sean-o-casey-bridge", "417FA7"],
+			["Samuel Beckett Bridge", 53.3468700, -6.2412520, "#samuel-beckett-bridge", "417FA7"],
+			["Bord Gais Energy Theater", 53.3442130, -6.2401040, "#bord-gais-energy-theater", "417FA7"],
+			["Alliance Building", 53.3388680, -6.2340850, "#alliance-building", "417FA7"]
 		], 
-		"strokeColor": "C0D6E4"
+		"strokeColor": "417FA7"
 	},
 	{
 		"id": 2,
