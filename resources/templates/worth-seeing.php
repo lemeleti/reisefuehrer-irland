@@ -217,7 +217,7 @@ So und Feiertage 09:30-Sonnenuntergang</pre>
 Di 8:00-17:00</pre>
 <h4>Preis</h4>
 <pre>Erwachsene 10 &euro;
-Studierende 8 &euro;</pre>
+Studenten 8 &euro;</pre>
 <h4>F&uuml;hrungen</h4>
 <pre>Immer zur vollen Stunde, im Eintrittspreis inbegriffen, empfohlen. Vorbestellung sehr empfohlen.</pre>
 <hr class="my-4">
