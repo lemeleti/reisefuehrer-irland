@@ -98,8 +98,7 @@ function displayMarkers(map, routes) {
 			        new google.maps.Point(0,0),
 			        new google.maps.Point(10, 34));
 			
-			var linkMarker = (color == "D3D3D3" && isSingleRoute);
-			createMarker(map, myLatLng, pinImage, shape, name, id, linkMarker);
+			createMarker(map, myLatLng, pinImage, shape, name, id, isSingleRoute);
 		}
 	}
 	
