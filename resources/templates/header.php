@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <meta name="author" content="co-authored by Anabel B., C&eacute;line G., Leandro Meleti, Silke B." />
         <meta name="description" content="Reisetipps f&uuml;r Jugendliche mit wenig Budget in Dublin." />
-        <meta name="keywords" content="reisef&uuml;hrer, dublin, tour, ferien, low-budget, irland, map, essen, restaurant, pub, museum, coffee"/>
+        <meta name="keywords" content="'Leandro Meleti',reisef&uuml;hrer, dublin, tour, ferien, low-budget, irland, map, essen, restaurant, pub, museum, coffee"/>
 
         <title>Reisef&uuml;hrer Dublin</title>
 
