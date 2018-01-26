@@ -106,8 +106,8 @@ require_once TEMPLATES_PATH . '/nav.php';
                         Interessensgebiet einen Spaziergang findest. Wir hoffen, wir
                         k&ouml;nnen dir mit unserer Arbeit einige Vorbereitungszeit
                         f&uuml;r deine Reise nach Dublin abnehmen. Viel Spass beim
-                        St&ouml;bern w&uuml;nschen dir Anabel B., C&eacute;line G.,
-                        Leandro M. und Silke B.</p>
+                        St&ouml;bern w&uuml;nschen dir Anabel, C&eacute;line,
+                        Leandro und Silke</p>
                 </div>
             </div>
         </div>
