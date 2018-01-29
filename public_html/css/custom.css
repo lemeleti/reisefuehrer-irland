@@ -4,7 +4,7 @@
 }
 
 header.masthead {
-	padding-top: 40vh;
+	padding-top: 25vh;
 	min-height: 0;
 	height: auto;
 	background-image: none;
@@ -123,6 +123,10 @@ header.masthead {
 }
 
 /* tags */
+h2, h3, h4, h5 {
+	font-weight: bold;
+}
+
 pre {
 	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif !important;
 	white-space: pre-wrap; /* Since CSS 2.1 */
