@@ -7,13 +7,13 @@
 <h3 class="mb-4">Beschreibung</h3>
 <div class="content">
     <p class="mb-4">Die Tour startet bei der St. Patricks Cathedral,
-        Irlands nationaler Kathedrale. Weiter geht's zum Dublin Castle, einer
+        Irlands nationaler Kathedrale. Weiter geht es zum Dublin Castle, einer
         Burg aus dem Mittelalter. Ein paar Schritte weiter steht die City
-        Hall, das historische Rathaus von Dublin. Von dort f&uuml;hrt der Weg durch
-        Temple Bar, das bekannteste Stadtviertel von Dublin auf der s&uuml;dlichen
-        Seite des Flusses Liffey. Danach geht's durch den St. Stephens
-        Greenpark zu etwas Kultur beim little Museum of Dublin. Die Tour endet
-        beim National Museum an der Kildare Street.</p>
+        Hall, das historische Rathaus von Dublin. Von dort f&uuml;hrt der Weg
+        durch Temple Bar, das bekannteste Stadtviertel von Dublin auf der
+        s&uuml;dlichen Seite des Flusses Liffey. Danach geht es durch den St.
+        Stephens Greenpark zu etwas Kultur beim Little Museum of Dublin. Die
+        Tour endet beim National Museum an der Kildare Street.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -27,27 +27,27 @@
 </pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
-<pre>M&auml;rz-Oktober
-
+<pre>
+    <b>M&auml;rz-Oktober</b>
 Mo-Fr 9:00-17:00
 Sa 9:00-18:00
 So 9:00-10:30, 12:30-14:30 und 16:30-18:00
 
-November-Februar
-
+<b>November-Februar</b>
 Mo-Fr 9:00-17:00
 Sa 9:00-17:00
 So 9:00-10:30 und 12:30-14:30</pre>
 <h4>Beschreibung</h4>
 <pre>Kirche</pre>
 <h4>Preis</h4>
-<pre>Einzelpersonen
-Studenten 4.50 &euro;
-Erwachsene 5.50 &euro;
+<pre>
+    <b>Einzelpersonen</b>
+Studierende: 4.50 &euro;
+Erwachsene: 5.50 &euro;
 
-Gruppen: (ab 10 P)
-Studenten 3.70 &euro;
-Erwachsene 4.20 &euro;</pre>
+<b>Gruppen (ab 10 P)</b>
+Studierende: 3.70 &euro;
+Erwachsene: 4.20 &euro;</pre>
 <h4>F&uuml;hrung</h4>
 <pre>T&auml;glich 10:30, 11:30, 15:00 und 15:30
 (im Eintrittspreis enthalten)</pre>
@@ -91,10 +91,10 @@ Erwachsene 4.20 &euro;</pre>
 <pre>Mo-Sa 9:45-17:45
 Sonn- und Feiertage 12:00-16:45</pre>
 <h4>Preis</h4>
-<pre>Erwachsene 7 &euro;
-Studenten 6 &euro;</pre>
+<pre>Studierende: 6 &euro;
+Erwachsene: 7 &euro;</pre>
 <hr class="my-4">
-<pre>Auf der F&uuml;hrung sieht man Prunks&auml;le, Reste der Stadtmauer aus der Wikingerzeit und den Mittelalter-Turm. Es hat ein Museumscaf&eacute;. Achtung: wird f&uuml;r Staatsempf&auml;nge und Konferenzen gebraucht, mit eingeschr&auml;nkten &Ouml;ffnungszeiten.</pre>
+<pre>Auf der F&uuml;hrung sieht man Prunks&auml;le, Reste der Stadtmauer aus der Wikingerzeit und den Mittelalter-Turm. Es hat ein Museumscaf&eacute;. Achtung: Wird f&uuml;r Staatsempf&auml;nge und Konferenzen gebraucht, mit eingeschr&auml;nkten &Ouml;ffnungszeiten.</pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/history/thumbnails/-Dublin-Castle.jpg" /> <img
         src="img/history/thumbnails/28744593794_dc461db9b6_b.jpg" /> <img
@@ -132,7 +132,7 @@ Studenten 6 &euro;</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Sa 10:00-17:15
-So Geschlosen</pre>
+So geschlossen</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/politics/thumbnails/IMG_7358.JPG" /> <img
@@ -145,18 +145,18 @@ So Geschlosen</pre>
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Die City Hall (1769-1779) ist eines der besten Beispiele der
-        georgianischen Architektur erbaut. Das Geb&auml;ude wurde
-        urspr&uuml;nglich als B&ouml;rse genutzt, wurde aber nach einer
-        wirtschaftlichen Krise im 19. Jahrhundert 1851 von der Dublin City
-        Corporation gekauft und f&uuml;r die Stadtverwaltung eingerichtet.
-        Auch dieses Geb&auml;ude wurde von den irischen Rebellen im
-        Osteraufstand 1916 besetzt. Nach der Erlangung der Unabh&auml;ngigkeit
-        1922 bezog die Regierung provisorisch die City Hall als Hauptquartier.
-        1995 musste die Stadtverwaltung die City Hall wegen Platzproblemen
-        verlassen. Aber jeden ersten Montag im Monat kehrt der Stadtrat
-        zur&uuml;ck in die City Hall. Heute gibt es im Kellergew&ouml;lbe eine
-        Ausstellung, die Einblick in die Entwicklung der Stadt gibt.</p>
+    <p>Die City Hall (1769-1779) ist eines der besten Beispiele f&uuml;
+        georgianischen Architektur. Das Geb&auml;ude wurde urspr&uuml;nglich
+        als B&ouml;rse genutzt, wurde aber nach einer wirtschaftlichen Krise
+        im 19. Jahrhundert 1851 von der Dublin City Corporation gekauft und
+        f&uuml;r die Stadtverwaltung eingerichtet. Auch dieses Geb&auml;ude
+        wurde von den irischen Rebellen im Osteraufstand 1916 besetzt. Nach
+        der Erlangung der Unabh&auml;ngigkeit 1922 bezog die Regierung
+        provisorisch die City Hall als Hauptquartier. 1995 musste die
+        Stadtverwaltung die City Hall wegen Platzproblemen verlassen. Aber
+        jeden ersten Montag im Monat kehrt der Stadtrat zur&uuml;ck in die
+        City Hall. Heute gibt es im Kellergew&ouml;lbe eine Ausstellung, die
+        Einblick in die Entwicklung der Stadt gibt.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -171,11 +171,11 @@ So Geschlosen</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Sa 07:30-Sonnenuntergang
-So und Feiertage 09:30-Sonnenuntergang</pre>
+Sonn- und Feiertage 09:30-Sonnenuntergang</pre>
 <h4>Beschreibung</h4>
 <pre>Park / Oase</pre>
 <h4>F&uuml;hrungen</h4>
-<pre>auf Anfrage sp&auml;testens einen Monat vor Durchf&uuml;hrung</pre>
+<pre>auf Anfrage, sp&auml;testens einen Monat vor Durchf&uuml;hrung</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/oasen/thumbnails/IMG_7426.JPG" /> <img
@@ -187,7 +187,7 @@ So und Feiertage 09:30-Sonnenuntergang</pre>
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Der Park mit einem grossen Teich l&auml;dt zum Verweilen im
+    <p>Der Park mit dem grossen Teich l&auml;dt zum Verweilen im
         Stadtinnern ein. Dieser Park hat eine lange Geschichte. Der Stephen's
         Green wurde vor 1815 noch als Weideland f&uuml;r Schafe und K&uuml;he
         genutzt. Ab 1815 wurde das umliegende Land f&uuml;r Bebauungen
@@ -216,12 +216,12 @@ So und Feiertage 09:30-Sonnenuntergang</pre>
 <pre>T&auml;glich 9:30-17:00
 Di 8:00-17:00</pre>
 <h4>Preis</h4>
-<pre>Erwachsene 10 &euro;
-Studenten 8 &euro;</pre>
+<pre>Studierende: 8 &euro;
+Erwachsene: 10 &euro;</pre>
 <h4>F&uuml;hrungen</h4>
 <pre>Immer zur vollen Stunde, im Eintrittspreis inbegriffen, empfohlen. Vorbestellung sehr empfohlen.</pre>
 <hr class="my-4">
-<pre>Das von aussen unscheinbare Museum &uuml;berrascht mit einer interessanten Ausstellung &uuml;ber das 20. Jahrhundert in Dublin. Im Untergeschoss befindet sich ein kleines Caf&eacute;. Die Nachfrage ist sehr gross, es ist empfehlenswert die Tickets vorab zu kaufen.</pre>
+<pre>Das von aussen unscheinbare Museum &uuml;berrascht mit einer interessanten Ausstellung &uuml;ber das 20. Jahrhundert in Dublin. Im Untergeschoss befindet sich ein kleines Caf&eacute;. Die Nachfrage ist sehr gross, es ist empfehlenswert, die Tickets vorab zu kaufen.</pre>
 <div class="w3-content w3-display-container slides my-4">
     <!-- TODO: Bild folgt (The Little Museum of Dublin) -->
     <img src="img/portfolio/thumbnails/1.jpg" />
@@ -232,11 +232,12 @@ Studenten 8 &euro;</pre>
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Das Museum geh&ouml;rt zu den beliebtesten Museen der Stadt. Die Objekte,
-        die ausgestellt sind, wurden ausschliesslich von Dubliner gespendet.
-        W&auml;hrend eines Besuches kannst du viel &uuml;ber die Geschichte Irlands
-        lernen. Vom Besuch der Queen Victoria, &uuml;ber interessante Anekdoten der
-        Guides bis hin zur Erfolgsgeschichte der Band U2.</p>
+    <p>Das Museum geh&ouml;rt zu den beliebtesten Museen der Stadt. Die
+        Objekte, die ausgestellt sind, wurden ausschliesslich von Dubliner
+        gespendet. W&auml;hrend eines Besuches kannst du viel &uuml;ber die
+        Geschichte Irlands lernen. Vom Besuch der Queen Victoria, &uuml;ber
+        interessante Anekdoten der Guides bis hin zur Erfolgsgeschichte der
+        Band U2.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -255,7 +256,7 @@ Studenten 8 &euro;</pre>
 <pre>Di-Sa 10:00-17:00
 So 14:00-17:00</pre>
 <h4>Beschreibung</h4>
-<pre>arch&auml;ologisches Museum</pre>
+<pre>Arch&auml;ologisches Museum</pre>
 <h4>Preis</h4>
 <pre>Gratis</pre>
 <hr class="my-4">
@@ -272,10 +273,10 @@ So 14:00-17:00</pre>
 <div class="content">
     <p>Zum National Museum geh&ouml;ren vier verschiedene Museen an
         unterschiedlichen Orten. Dasjenige an der Kildare Street ist das
-        ber&uuml;hmteste. Die arch&auml;ologische Sammlung zeigt die interessantesten
-        Objekte der irischen Kultur. Zum Beispiel die "Schatzkammer" mit
-        kunstgewerblichen Gegenst&auml;nden aus dem Mittelalter oder Objekte zu den
-        Wikingern in Irland.</p>
+        ber&uuml;hmteste. Die arch&auml;ologische Sammlung zeigt die
+        interessantesten Objekte der irischen Kultur. Zum Beispiel die
+        "Schatzkammer" mit kunstgewerblichen Gegenst&auml;nden aus dem
+        Mittelalter oder Objekte zu den Wikingern in Irland.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>

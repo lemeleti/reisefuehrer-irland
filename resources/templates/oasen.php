@@ -7,9 +7,10 @@
 <h3 class="mb-4">Beschreibung</h3>
 <div class="content">
     <p class="mb-4">Dieser Stadtrundgang ist kein Rundgang im klassischen
-        Sinn, denn bei Oasen geht es darum die Zeit zu geniessen oder eine
-        Pause zumachen. Deshalb stelle ich dir hier einige M&ouml;glichkeiten vor,
-        sich in einem der vielen Dubliner P&auml;rke zu erholen.</p>
+        Sinn, denn bei Oasen geht es darum, die Zeit zu geniessen oder eine
+        Pause zu machen. Deshalb stellen wir dir hier einige
+        M&ouml;glichkeiten vor, dich in einem der vielen Dubliner P&auml;rke
+        zu erholen.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -26,7 +27,7 @@
 <h4>Beschreibung</h4>
 <pre>Park / Oase / Zoo</pre>
 <hr class="my-4">
-<pre>Geniesse die Erholungsoase in mitten der Stadt.</pre>
+<pre>Geniesse die Erholungsoase inmitten der Stadt.</pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/oasen/thumbnails/Phoenix  Park.png" />
 
@@ -39,18 +40,18 @@
     <p>
         Der Phoenix Park wird von der Dubliner Bev&ouml;lkerung als
         Naherholungsgebiet gen&uuml;tzt. Mit seiner Gr&ouml;sse von 7.07 km<sup>2</sup>
-        ist er der gr&ouml;sste Park Europas. Er ist beinahe doppelt so gross wie
-        der Central Park in New York. Der Park ist nicht nach seinem
+        ist er der gr&ouml;sste Park Europas. Er ist beinahe doppelt so gross
+        wie der Central Park in New York. Der Park ist nicht nach seinem
         Namensvetter dem Feuervogel benannt, sondern der Name stammt aus dem
         irischen "Fionn Uisce", was etwa so viel wie "klares Wasser" bedeutet.
         Der Park wurde im 17. Jahrhundert f&uuml;r die englischen Gouverneure
         errichtet und als Jagdgebiet genutzt. Seit 1747 steht der Park der
-        &Ouml;ffentlichkeit zur Verf&uuml;gung. Im Park finden das ganze Jahr hindurch
-        verschiedene Veranstaltungen statt, z.B. der 10 km "Phoenix Park Run"
-        oder die Kleingartenausstellung "Bloom". Wenn man sich ein wenig von
-        den Hauptwegen entfernt, kann man den Hirschherden beim Grasen
-        zusehen. Auch der Dubliner Zoo, der sich im Park befindet, bietet die
-        M&ouml;glichkeit, Tiere zu beobachten.
+        &Ouml;ffentlichkeit zur Verf&uuml;gung. Im Park finden das ganze Jahr
+        hindurch verschiedene Veranstaltungen statt, z.B. der 10 km "Phoenix
+        Park Run" oder die Kleingartenausstellung "Bloom". Wenn man sich ein
+        wenig von den Hauptwegen entfernt, kann man den Hirschherden beim
+        Grasen zusehen. Auch der Dubliner Zoo, der sich im Park befindet,
+        bietet die M&ouml;glichkeit, Tiere zu beobachten.
     </p>
 </div>
 <div class="show-more">
@@ -66,13 +67,13 @@
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Sa 07:30-Sonnenuntergang
-So und Feiertage 09:30-Sonnenuntergang</pre>
+Sonn- und Feiertage 09:30-Sonnenuntergang</pre>
 <h4>Beschreibung</h4>
 <pre>Park / Oase</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
-    <img src="img/oasen/thumbnails/IMG_7426.JPG" />
-    <img src="img/oasen/thumbnails/IMG_7431.JPG" />
+    <img src="img/oasen/thumbnails/IMG_7426.JPG" /> <img
+        src="img/oasen/thumbnails/IMG_7431.JPG" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -80,16 +81,17 @@ So und Feiertage 09:30-Sonnenuntergang</pre>
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Der Park mit einem grossen Teich l&auml;dt zum Verweilen im Stadtinnern
-        ein. Dieser Park hat eine lange Geschichte. Der Stephen's Green wurde
-        vor 1815 noch als Weideland f&uuml;r Schafe und K&uuml;he genutzt. Ab 1815 wurde
-        das umliegende Land f&uuml;r Bebauungen freigegeben, so dass sich der Park
-        heute inmitten des Stadtzentrums befindet. Zuerst war die Benutzung
-        des Parks nur f&uuml;r die Anwohner der neuen Bauten gedacht. Doch 1880
-        wurde der Park neu gestaltet und von der Familie Guinness und Baron
-        Ardilaun der &Ouml;ffentlichkeit zug&auml;nglich gemacht. Manche Angestellten,
-        die rund um den Park arbeiten, g&ouml;nnen sich hier eine Pause. Im Sommer
-        finden im Pavillon Konzerte statt.</p>
+    <p>Der Park mit dem grossen Teich l&auml;dt zum Verweilen im
+        Stadtinnern ein. Dieser Park hat eine lange Geschichte. Der Stephen's
+        Green wurde vor 1815 noch als Weideland f&uuml;r Schafe und K&uuml;he
+        genutzt. Ab 1815 wurde das umliegende Land f&uuml;r Bebauungen
+        freigegeben, so dass sich der Park heute inmitten des Stadtzentrums
+        befindet. Zuerst war die Benutzung des Parks nur f&uuml;r die Anwohner
+        der neuen Bauten gedacht. Doch 1880 wurde der Park neu gestaltet und
+        von der Familie Guinness und Baron Ardilaun der &Ouml;ffentlichkeit
+        zug&auml;nglich gemacht. Manche Angestellten, die rund um den Park
+        arbeiten, g&ouml;nnen sich hier eine Pause. Im Sommer finden im
+        Pavillon Konzerte statt.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -98,13 +100,14 @@ So und Feiertage 09:30-Sonnenuntergang</pre>
 <hr class="my-4 large">
 <h3 id="merrion-square-park">Merrion Square Park</h3>
 <pre>Merrion Square, Dublin, &Eacute;ire, Irland
-<a class="custom-url" target="_blank" href="http://www.merrionsquare.ie/">www.merrionsquare.ie</a>
+<a class="custom-url" target="_blank"
+        href="http://www.merrionsquare.ie/">www.merrionsquare.ie</a>
 </pre>
 <hr class="my-4">
 <h4>Schliessungszeiten</h4>
-<pre>Jan 16:30, Feb 17:00, M&auml;rz 18:00
-April 20:00, Mai 21:00, Juni 21:30
-Juli 21:30, Aug 21:00, Sept 20:00
+<pre>Jan 16:30, Feb 17:00, M&auml;r 18:00
+Apr 20:00, Mai 21:00, Jun 21:30
+Jul 21:30, Aug 21:00, Sep 20:00
 Okt 19:00, Nov 17:00, Dez 16:30</pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
@@ -118,15 +121,15 @@ Okt 19:00, Nov 17:00, Dez 16:30</pre>
 <div class="content">
     <p>Der im georgianischen Stil erbaute Merrion Square Park heisst
         offiziell "Archbishop Ryan Park" und ist nach seinem Schenker benannt.
-        Denn dieser Platz wurde 1930 von der Kirche gepachtet zum Bau einer
-        Kathedrale. Jedoch kam es nie zur Verwirklichung dieser Pl&auml;ne. 1974
-        wurde der rechteckige Platz der Stadt Dublin geschenkt, die ihn als
-        Park er&ouml;ffnete. Der Park ist bekannt f&uuml;r seine Sammlung an
-        historischen Strassenlampen und Skulpturen. In der s&uuml;d&ouml;stlichen Ecke
-        des Parks befindet sich ein Luftschutzbunker aus der Zeit des Zweiten
-        Weltkriegs. In diesem Bunker konnten 1100 Personen Schutz vor
-        Luftangriffen finden. Seit 2010 ist der Park Teil des European Garden
-        Heritage Network.</p>
+        Denn dieser Platz wurde 1930 von der Kirche zum Bau einer Kathedrale
+        gepachtet. Jedoch kam es nie zur Verwirklichung dieser Pl&auml;ne.
+        1974 wurde der rechteckige Platz der Stadt Dublin geschenkt, die ihn
+        als Park er&ouml;ffnete. Der Park ist bekannt f&uuml;r seine Sammlung
+        an historischen Strassenlampen und Skulpturen. In der
+        s&uuml;d&ouml;stlichen Ecke des Parks befindet sich ein
+        Luftschutzbunker aus der Zeit des Zweiten Weltkriegs. In diesem Bunker
+        konnten 1100 Personen Schutz vor Luftangriffen finden. Seit 2010 ist
+        der Park Teil des European Garden Heritage Network.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -135,19 +138,24 @@ Okt 19:00, Nov 17:00, Dez 16:30</pre>
 <hr class="my-4 large">
 <h3 id="iveagh-garden">Iveagh Garden</h3>
 <pre>Clonmel St, Saint Kevin's, Dublin 2, Irland
-<a class="custom-url" target="_blank" href="http://www.iveaghgardens.ie/">www.iveaghgardens.ie</a>
+<a class="custom-url" target="_blank"
+        href="http://www.iveaghgardens.ie/">www.iveaghgardens.ie</a>
 </pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
-<pre>Jan und Dez
-Mo-Sa 08:00-15:30, So 10:00-15:30
+<pre>
+    <b>Januar und Dezember</b>
+Mo-Sa 08:00-15:30
+So 10:00-15:30
 
-Feb und Nov
-Mo-Sa 08:00-16:00, So 10:00-16:00
+<b>Februar und November</b>
+Mo-Sa 08:00-16:00
+So 10:00-16:00
 
-M&auml;rz-Okt
-Mo-Sa 08:00-18:00, So 10:00-18:00
-&Ouml;ffnungszeiten k&ouml;nnen zwischen M&auml;rz und Oktober ver&auml;ndert sein da es Events gibt.</pre>
+<b>M&auml;rz-Oktober</b>
+Mo-Sa 08:00-18:00
+So 10:00-18:00
+&Ouml;ffnungszeiten k&ouml;nnen zwischen M&auml;rz und Oktober ver&auml;ndert sein, da es Events gibt.</pre>
 <h4>Beschreibung</h4>
 <pre>Park / Oase</pre>
 <hr class="my-4">
@@ -161,8 +169,8 @@ Mo-Sa 08:00-18:00, So 10:00-18:00
 </div>
 <div class="content">
     <p>Der ehemalige Privatgarten der Guinness-Familie aus dem 19.
-        Jahrhundert ist ein &ouml;ffentlicher Garten, der ganz versteckt in der
-        Stadt liegt. Speziell an diesem Garten ist die einzige
+        Jahrhundert ist ein &ouml;ffentlicher Garten, der ganz versteckt in
+        der Stadt liegt. Speziell an diesem Garten ist die einzige
         Bogenschiessbahn von Irland, unter der ein Elefant begraben liegt. Das
         Labyrinth, die Stauten, die Brunnen und der Wasserfall geben dem
         Garten einen mystisch m&auml;rchenhaften Touch.</p>

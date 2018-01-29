@@ -6,27 +6,27 @@
 <hr class="my-4">
 <h3 class="mb-4">Beschreibung</h3>
 <div class="content">
-    <p class="mb-4">Die Tour startet bei den &auml;ltesten Kathedralen in Dublin
-        und geht dann zum Dublin Castle, das sich im Lauf der Zeit sehr
-        ver&auml;ndert hat. So wurde es urspr&uuml;nglich als Burg erbaut. Durch
-        zahlreiche Nutzungs&auml;nderungen und Renovationen wurde es immer mehr zu
-        einem Schloss. Der Spaziergang f&uuml;hrt weiter zum markantesten
-        Einkaufszentrum von Dublin, das mit seiner Metall-Glaskonstruktion
-        sehr eindrucksvoll ist. Danach spazierst du zur Irischen
-        Nationalbibliothek, die 1890 er&ouml;ffnet wurde. Die noch bekanntere
-        Bibliothek der Stadt ist im Trinity College. Bekannt ist sie vor allem
-        durch das "Book of Kells". Es folgt nun eine Br&uuml;cke, die Ha'penny
-        Bridge, die ihren Namen durch den verlangten Zollbetrag erhalten hat.
-        Dann spazierst du dem Liffey entlang und erreichst einen monumentalen
-        Bau, das Custom House, das heutige Umweltministerium. Darauf folgen
-        zwei moderne Br&uuml;cken. Eine davon ist die Samuel Beckett Bridge von
-        Santiago Calatrava, die der Harfe, dem Wahrzeichen der Iren,
-        nachempfunden wurde. Im modernen und lebendigen Quartier Docklands
-        angekommen, sind wir auch schon bei den letzten zwei Bauten unseres
-        Spaziergangs. Das Bord Gais Energy Theater vom Architekten Daniel
-        Libeskind ist das beste Beispiel f&uuml;r zeitgen&ouml;ssische Architektur im
-        Quartier. Als letztes Geb&auml;ude siehst du den ehemaligen Gasometer, der
-        als Wohnhaus ausgebaut wurde.</p>
+    <p class="mb-4">Die Tour startet bei den &auml;ltesten Kathedralen in
+        Dublin und geht dann zum Dublin Castle, das sich im Lauf der Zeit sehr
+        ver&auml;ndert hat. So wurde es urspr&uuml;nglich als Burg erbaut.
+        Durch zahlreiche Nutzungs&auml;nderungen und Renovationen wurde es
+        immer mehr zu einem Schloss. Der Spaziergang f&uuml;hrt weiter zum
+        markantesten Einkaufszentrum von Dublin, das mit seiner
+        Metall-Glaskonstruktion sehr eindrucksvoll ist. Danach spazierst du
+        zur Irischen Nationalbibliothek, die 1890 er&ouml;ffnet wurde. Die
+        noch bekanntere Bibliothek der Stadt ist im Trinity College. Bekannt
+        ist sie vor allem durch das "Book of Kells". Es folgt nun eine
+        Br&uuml;cke, die Ha'penny Bridge, die ihren Namen durch den verlangten
+        Zollbetrag erhalten hat. Dann spazierst du dem Liffey entlang und
+        erreichst einen monumentalen Bau, das Custom House, das heutige
+        Umweltministerium. Darauf folgen zwei moderne Br&uuml;cken. Eine davon
+        ist die Samuel Beckett Bridge von Santiago Calatrava, die der Harfe,
+        dem Wahrzeichen der Iren, nachempfunden wurde. Im modernen und
+        lebendigen Quartier Docklands angekommen, sind wir auch schon bei den
+        letzten zwei Bauten unseres Spaziergangs. Das Bord Gais Energy Theater
+        vom Architekten Daniel Libeskind ist das beste Beispiel f&uuml;r
+        zeitgen&ouml;ssische Architektur im Quartier. Als letztes Geb&auml;ude
+        siehst du den ehemaligen Gasometer, der als Wohnhaus ausgebaut wurde.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -40,27 +40,27 @@
 </pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
-<pre>M&auml;rz-Oktober
-
+<pre>
+    <b>M&auml;rz-Oktober</b>
 Mo-Fr 9:00-17:00
 Sa 9:00-18:00
 So 9:00-10:30, 12:30-14:30 und 16:30-18:00
 
-November-Februar
-
+<b>November-Februar</b>
 Mo-Fr 9:00-17:00
 Sa 9:00-17:00
 So 9:00-10:30 und 12:30-14:30</pre>
 <h4>Beschreibung</h4>
 <pre>Kirche</pre>
 <h4>Preis</h4>
-<pre>Einzelpersonen
-Studenten 4.50 &euro;
-Erwachsene 5.50 &euro;
+<pre>
+    <b>Einzelpersonen</b>
+Studierende: 4.50 &euro;
+Erwachsene: 5.50 &euro;
 
-Gruppen: (ab 10 P)
-Studenten 3.70 &euro;
-Erwachsene 4.20 &euro;</pre>
+<b>Gruppen (ab 10 Personen)</b>
+Studierende: 3.70 &euro;
+Erwachsene: 4.20 &euro;</pre>
 <h4>F&uuml;hrung</h4>
 <pre>T&auml;glich 10:30, 11:30, 15:00 und 15:30
 (im Eintrittspreis enthalten)</pre>
@@ -77,17 +77,18 @@ Erwachsene 4.20 &euro;</pre>
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Die St. Patrick's Cathedral heisst vollst&auml;ndig Ard-Eaglais Naomh
-        P&aacute;draig. Sie ist nicht nur die gr&ouml;sste Kathedrale Dublins, sondern
-        auch die gr&ouml;sste von ganz Irland. Dieser Ort ist f&uuml;r die Iren sehr
-        wichtig, weil man annimmt, dass hier die Quelle lag, an der St.
-        Patrick bekehrte Christen getauft hatte. Urspr&uuml;nglich gab es nur eine
-        Holzkappelle. Das Geb&auml;ude wurde dann stetig vergr&ouml;ssert, bis 1270 das
-        mittlerweile 91 Meter lange Schiff mit Chor entstand. Die Kathedrale
-        wurde mit Hilfe der Guinness-Familie umfassend renoviert, weshalb eine
-        B&uuml;ste von Mr. Benjamin Guinness vor dem Geb&auml;ude steht. 1742 wurde hier
-        der Messias von G.F. H&auml;ndel uraufgef&uuml;hrt. In der Kathedrale ist eine
-        Ausstellung zu besichtigen, die das Wirken von St. Patrick zeigt.</p>
+    <p>Die St. Patrick's Cathedral heisst vollst&auml;ndig Ard-Eaglais
+        Naomh P&aacute;draig. Sie ist nicht nur die gr&ouml;sste Kathedrale
+        Dublins, sondern auch die gr&ouml;sste von ganz Irland. Dieser Ort ist
+        f&uuml;r die Iren sehr wichtig, weil man annimmt, dass hier die Quelle
+        lag, an der St. Patrick bekehrte Christen getauft hatte.
+        Urspr&uuml;nglich gab es nur eine Holzkappelle. Das Geb&auml;ude wurde
+        dann stetig vergr&ouml;ssert, bis 1270 das mittlerweile 91 Meter lange
+        Schiff mit Chor entstand. Die Kathedrale wurde mit Hilfe der
+        Guinness-Familie umfassend renoviert, weshalb eine B&uuml;ste von Mr.
+        Benjamin Guinness vor dem Geb&auml;ude steht. 1742 wurde hier der
+        Messias von G.F. H&auml;ndel uraufgef&uuml;hrt. In der Kathedrale ist
+        eine Ausstellung zu besichtigen, die das Wirken von St. Patrick zeigt.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -101,30 +102,25 @@ Erwachsene 4.20 &euro;</pre>
 </pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
-<pre>Montag-Samstag:
+<pre>
+    <b>April, Mai, September und Oktober</b>
+Mo-Sa 09:30-18:00 Uhr (letzter Zutritt 17:15 Uhr)
 
-April, Mai, September und Oktober
+<b>Juni-August</b>
+Mo-Sa 09:30-19:00 Uhr (letzter Zutritt 18:15 Uhr)
 
-09:30-18:00 Uhr (letzter Zutritt 17:15 Uhr)
-
-Juni-August
-
-09:30-19:00 Uhr (letzter Zutritt 18:15 Uhr)
-
-November-M&auml;rz
-
-09:30-17:00 Uhr (letzter Zutritt 16:15 Uhr)
+<b>November-M&auml;rz</b>
+Mo-Sa 09:30-17:00 Uhr (letzter Zutritt 16:15 Uhr)
 </pre>
 <h4>Preis</h4>
-<pre>Einzelticket
+<pre>
+    <b>Einzelticket</b>
+Studierende: 3 &euro;
+Erwachsene: 6 &euro;
 
-Erwachsene 6 &euro;
-Studenten 3 &euro;
-
-Gruppen(ab 10 Personen)
-
-Erwachsene 5 &euro;
-Studenten 2.50 &euro;
+<b>Gruppen (ab 10 Personen)</b>
+Studierende: 2.50 &euro;
+Erwachsene: 5 &euro;
 </pre>
 <h4>Baustil</h4>
 <pre>Fr&uuml;hgotik</pre>
@@ -138,11 +134,11 @@ Studenten 2.50 &euro;
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Die Christ Church Cathedral ist die &auml;ltere der mittelalterlichen
-        Kathedralen, die in Dublin stehen. Sie befindet sich an der Stelle, an
-        der vorher eine h&ouml;lzerne Kirche der Wikinger stand. In der Krypta sind
-        eine mumifizierte Katze und eine Ratte zu sehen, die im Roman von
-        James Joyce als Tom und Jerry vorkommen.</p>
+    <p>Die Christ Church Cathedral ist die &auml;ltere der beiden
+        mittelalterlichen Kathedralen, die in Dublin stehen. Sie befindet sich
+        an der Stelle, an der vorher eine h&ouml;lzerne Kirche der Wikinger
+        stand. In der Krypta sind eine mumifizierte Katze und eine Ratte zu
+        sehen, die im Roman von James Joyce als Tom und Jerry vorkommen.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -160,10 +156,11 @@ Studenten 2.50 &euro;
 <pre>Mo-Sa 9:45-17:45
 Sonn- und Feiertage 12:00-16:45</pre>
 <h4>Preis</h4>
-<pre>Erwachsene 7 &euro;
-Studenten 6 &euro;</pre>
+<pre>Studierende: 6 &euro;
+Erwachsene: 7 &euro;
+</pre>
 <hr class="my-4">
-<pre>Auf der F&uuml;hrung sieht man Prunks&auml;le, Reste der Stadtmauer aus der Wikingerzeit und den Mittelalter-Turm. Es hat ein Museumscaf&eacute;. Achtung: wird f&uuml;r Staatsempf&auml;nge und Konferenzen gebraucht, mit eingeschr&auml;nkten &Ouml;ffnungszeiten.</pre>
+<pre>Auf der F&uuml;hrung sieht man Prunks&auml;le, Reste der Stadtmauer aus der Wikingerzeit und den Mittelalter-Turm. Es hat ein Museumscaf&eacute;. Achtung: Wird f&uuml;r Staatsempf&auml;nge und Konferenzen gebraucht, mit eingeschr&auml;nkten &Ouml;ffnungszeiten.</pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/history/thumbnails/-Dublin-Castle.jpg" /> <img
         src="img/history/thumbnails/28744593794_dc461db9b6_b.jpg" /> <img
@@ -177,23 +174,25 @@ Studenten 6 &euro;</pre>
 <div class="content">
     <p>Nach vielen Umbauten aus dem 17.-20. Jahrhundert wurde aus der
         ehemaligen mittelalterlichen Burg immer mehr ein Schloss. Das Castle
-        hatte schon viele Nutzungen. So diente es als milit&auml;risches Fort zur
-        Verteidigung, als Gef&auml;ngnis, Schatzkammer, Gericht und Sitz der
-        englischen Verwaltung von Irland. 1907 wurden die irischen Kronjuwelen
-        aus dem Dublin Castle gestohlen. Im Ballsaal "St. Patrick's Hall"
-        feierte Queen Victoria 1897 ihren 60. Geburtstag. Auch f&uuml;r politische
-        Verhandlungen wurde das Geb&auml;ude benutzt. So wurde hier ein Teil der
-        Friedensgespr&auml;che von Nordirland gef&uuml;hrt. Heute wird es nur noch f&uuml;r
-        repr&auml;sentative Veranstaltungen wie Staatsempf&auml;nge oder die
-        Amtseinf&uuml;hrung des Pr&auml;sidenten gebraucht. Im Dublin Castle gibt es
-        verschiedene Museen.</p>
+        hatte viele Nutzungen. So diente es als milit&auml;risches Fort zur
+        Verteidigung, als Gef&auml;ngnis, Schatzkammer, Gericht und als Sitz
+        der englischen Verwaltung von Irland. 1907 wurden die irischen
+        Kronjuwelen aus dem Dublin Castle gestohlen. Im Ballsaal "St.
+        Patrick's Hall" feierte Queen Victoria 1897 ihren 60. Geburtstag. Auch
+        f&uuml;r politische Verhandlungen wurde das Geb&auml;ude benutzt. So
+        wurde hier ein Teil der Friedensgespr&auml;che von Nordirland
+        gef&uuml;hrt. Heute wird es nur noch f&uuml;r repr&auml;sentative
+        Veranstaltungen wie Staatsempf&auml;nge oder die Amtseinf&uuml;hrung
+        des Pr&auml;sidenten gebraucht. Im Dublin Castle gibt es verschiedene
+        Museen.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="st-stephens-green-shopping-center">St. Stephens Green Shopping Center</h3>
+<h3 id="st-stephens-green-shopping-center">St. Stephens Green Shopping
+    Center</h3>
 <pre>Stephens Green West, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="https://www.stephensgreen.com/">www.stephensgreen.com</a>
@@ -219,10 +218,10 @@ So 11:00-18:00</pre>
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Das Geb&auml;ude f&auml;llt durch seine imposante Metall-Glaskonstruktion auf.
-        Es befindet sich direkt neben dem St. Stephens Green Park auf der
-        Westseite. Das 1988 erbaute Einkaufszentrum war damals das gr&ouml;sste
-        Einkaufszentrum Irlands.</p>
+    <p>Das Geb&auml;ude f&auml;llt durch seine imposante
+        Metall-Glaskonstruktion auf. Es befindet sich direkt neben dem St.
+        Stephens Green Park auf der Westseite. Das 1988 erbaute
+        Einkaufszentrum war damals das gr&ouml;sste Einkaufszentrum Irlands.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -249,12 +248,12 @@ Sa 9:30-12:45</pre>
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Die irische Nationalbibliothek, die 1890 er&ouml;ffnet wurde, ist eine
-        Pr&auml;senzbibliothek. Das heisst die B&uuml;cher k&ouml;nnen nur vor Ort angesehen
-        und nicht ausgeliehen werden. Die Sammlung der Nationalbibliothek
-        umfasst mehr als 8 Millionen Einzelst&uuml;cke. Es hat eine permanente
-        Ausstellung, die das Leben und die Werke von William Butler Yeats, dem
-        Dichter und Nobelpreistr&auml;ger, zeigen.</p>
+    <p>Die irische Nationalbibliothek, die 1890 er&ouml;ffnet wurde, ist
+        eine Pr&auml;senzbibliothek. Das heisst, die B&uuml;cher k&ouml;nnen
+        nur vor Ort angesehen und nicht ausgeliehen werden. Die Sammlung der
+        Nationalbibliothek umfasst mehr als 8 Millionen Einzelst&uuml;cke. Es
+        hat eine permanente Ausstellung, die das Leben und die Werke von
+        William Butler Yeats, dem Dichter und Nobelpreistr&auml;ger, zeigen.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -267,13 +266,12 @@ Sa 9:30-12:45</pre>
 </pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
-<pre>Mai-September
-
+<pre>
+    <b>Mai-September</b>
 Mo-Sa 9:30-17:00
 So 9:30-16:45
 
-Oktober-April
-
+<b>Oktober-April</b>
 Mo-Sa 9:30-17:00
 So 12:00-16:30</pre>
 <hr class="my-4">
@@ -290,18 +288,19 @@ So 12:00-16:30</pre>
 </div>
 <div class="content">
     <p>
-        Das Trinity College befand sich zur Gr&uuml;ndungszeit noch vor den Toren
-        der Stadt, heute ist es der Mittelpunkt von Dublin. Das College wurde
-        1592 von K&ouml;nigin Elisabeth I f&uuml;r protestantische Studenten gegr&uuml;ndet
-        und hiess damals "College of the Holy and Undivided Trinity of Queen
-        Elisabeth near Dublin". Das Gel&auml;nde mit 190'000 m<sup>2</sup> umfasst
-        Sportpl&auml;tze, die Bibliothek, eine Kapelle, den bekannten Glockenturm,
-        Schulgeb&auml;ude und viele weitere Geb&auml;ude. Die Bibliothek des Trinity
-        College umfasst 4,5 Millionen B&uuml;cher, unter denen sich alte Drucke,
-        historische Handschriften und Manuskripte befinden. Das bekannteste
-        Buch ist das "Book of Kells", das jeden Tag eine andere ge&ouml;ffnete
-        Seite zeigt. Der sch&ouml;nste Raum in der Bibliothek ist der Long Room mit
-        64 Metern L&auml;nge und 12 Metern H&ouml;he.
+        Das Trinity College befand sich zur Gr&uuml;ndungszeit noch vor den
+        Toren der Stadt, heute ist es der Mittelpunkt von Dublin. Das College
+        wurde 1592 von K&ouml;nigin Elisabeth I f&uuml;r protestantische
+        Studenten gegr&uuml;ndet und hiess damals "College of the Holy and
+        Undivided Trinity of Queen Elisabeth near Dublin". Das Gel&auml;nde
+        mit 190'000 m<sup>2</sup> umfasst Sportpl&auml;tze, die Bibliothek,
+        eine Kapelle, den bekannten Glockenturm, Schulgeb&auml;ude und viele
+        weitere Geb&auml;ude. Die Bibliothek des Trinity College umfasst 4,5
+        Millionen B&uuml;cher, unter denen sich alte Drucke, historische
+        Handschriften und Manuskripte befinden. Das bekannteste Buch ist das
+        "Book of Kells", das jeden Tag eine andere ge&ouml;ffnete Seite zeigt.
+        Der sch&ouml;nste Raum in der Bibliothek ist der Long Room mit 64
+        Metern L&auml;nge und 12 Metern H&ouml;he.
     </p>
 </div>
 <div class="show-more">
@@ -324,13 +323,14 @@ So 12:00-16:30</pre>
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Diese Br&uuml;cke hat eine lange Tradition in Dublin. Sie verbindet den
-        Stadtteil Temple Bar und die Einkaufsstrasse rund um die Henry Street
-        &uuml;ber den Fluss Liffey. Es ist eine reine Fussg&auml;ngerbr&uuml;cke, die 1816
-        gebaut wurde. Ihren Namen bekam sie, weil man fr&uuml;her einen halben bzw.
-        einen Penny als Zoll f&uuml;r die &Uuml;berquerung zahlen musste. Heute befinden
-        sich an den weiss gestrichenen gusseisernen Br&uuml;stungen viele love
-        locks (Liebesschl&ouml;sser).</p>
+    <p>Diese Br&uuml;cke hat eine lange Tradition in Dublin. Sie verbindet
+        den Stadtteil Temple Bar und die Einkaufsstrasse rund um die Henry
+        Street &uuml;ber den Fluss Liffey. Es ist eine reine
+        Fussg&auml;ngerbr&uuml;cke, die 1816 gebaut wurde. Ihren Namen bekam
+        sie, weil man fr&uuml;her einen halben bzw. einen Penny als Zoll
+        f&uuml;r die &Uuml;berquerung zahlen musste. Heute befinden sich an
+        den weiss gestrichenen gusseisernen Br&uuml;stungen viele love locks
+        (Liebesschl&ouml;sser).</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -355,18 +355,19 @@ So 12:00-16:30</pre>
 </div>
 <div class="content">
     <p>Das Custom House (1781-1791) wurde vom Architekten James Gandos als
-        Gesellenst&uuml;ck erbaut, danach folgten einige weitere Prestigebauten in
-        Dublin wie zum Beispiel das "Four Courts". Das imposante Geb&auml;ude hat
-        eine L&auml;nge von 114 Metern und eine markant hohe Kuppel. Die Kuppel von
-        60 Metern wird gekr&ouml;nt von einer &uuml;berlebensgrossen Statue des Handels.
-        Der Bau kostete damals eine Summe von 200'000 Pfund und verschaffte
-        vielen Handwerkern in Dublin Arbeit. Urspr&uuml;nglich wurde das Geb&auml;ude
-        als Amt f&uuml;r Z&ouml;lle von ankommenden Schiffen gebraucht, bis der Hafen
-        weiter flussabw&auml;rts verlegt wurde. Im B&uuml;rgerkrieg 1921 wurde dieses
-        Geb&auml;ude schwer besch&auml;digt, was zu einer umfassenden Renovation f&uuml;hrte.
-        Einem Brand fiel die ganze Innengestaltung von J. Gandons zum Opfer,
-        was auch zum Einsturz der Kuppel f&uuml;hrte. Diese wurde wiederaufgebaut,
-        aber in einem anderen Kalksandstein.</p>
+        Gesellenst&uuml;ck erbaut. Danach folgten einige weitere
+        Prestigebauten in Dublin wie zum Beispiel das "Four Courts". Das
+        imposante Geb&auml;ude hat eine L&auml;nge von 114 Metern und eine
+        markante Kuppel. Die Kuppel von 60 Metern Höhe wird gekr&ouml;nt von
+        einer &uuml;berlebensgrossen Statue des Handels. Der Bau kostete
+        damals eine Summe von 200'000 Pfund und verschaffte vielen Handwerkern
+        in Dublin Arbeit. Urspr&uuml;nglich wurde das Geb&auml;ude als Amt
+        f&uuml;r Z&ouml;lle von ankommenden Schiffen gebraucht, bis der Hafen
+        weiter flussabw&auml;rts verlegt wurde. Im B&uuml;rgerkrieg 1921 wurde
+        dieses Geb&auml;ude schwer besch&auml;digt, was zu einer umfassenden
+        Renovation f&uuml;hrte. Einem Brand fiel die ganze Innengestaltung von
+        J. Gandons zum Opfer, was auch zum Einsturz der Kuppel f&uuml;hrte.
+        Diese wurde wiederaufgebaut, aber in einem anderen Kalksandstein.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -389,12 +390,13 @@ So 12:00-16:30</pre>
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Die Schr&auml;gseilbr&uuml;cke Sean O'Casey Bridge, die 2005 vom Architekten
-        Cyril O'Neil erbaut wurde, &uuml;berquert den Fluss Liffey und verbindet
-        das s&uuml;dliche und das n&ouml;rdliche Hafenviertel. Die Br&uuml;cke ist knapp 100
-        Meter lang und kann um 90 Grad geschwenkt werden, um grossen Schiffen
-        die Durchfahrt zu erm&ouml;glichen. 2006 erhielt der Entwurf der Br&uuml;cke die
-        Auszeichnung "Beste Fussg&auml;ngerbr&uuml;cke" verliehen.</p>
+    <p>Die Schr&auml;gseilbr&uuml;cke Sean O'Casey Bridge, die 2005 vom
+        Architekten Cyril O'Neil erbaut wurde, &uuml;berquert den Fluss Liffey
+        und verbindet das s&uuml;dliche und das n&ouml;rdliche Hafenviertel.
+        Die Br&uuml;cke ist knapp 100 Meter lang und kann um 90 Grad
+        geschwenkt werden, um grossen Schiffen die Durchfahrt zu
+        erm&ouml;glichen. 2006 erhielt der Entwurf der Br&uuml;cke die
+        Auszeichnung "Beste Fussg&auml;ngerbr&uuml;cke".</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -419,14 +421,15 @@ So 12:00-16:30</pre>
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Die Br&uuml;cke des spanischen Architekten und Bauingenieurs Santiago
-        Calatrava ist einer Harfe nachempfunden, die das Wahrzeichen Irlands
-        darstellt. Die Br&uuml;cke wurde nach dem irischen Literaten Samuel Beckett
-        benannt. Sie ist 120 Meter lang und ist an der h&ouml;chsten Spitze 48
-        Meter hoch. Die Br&uuml;cke verbindet die Macken Street auf der S&uuml;dseite
-        mit der Guild Street auf der Nordseite. Sie liegt im modernen
-        Stadtteil Docklands. Die Br&uuml;cke kann um 90 Grad gedreht werden, damit
-        grosse Schiffe passieren k&ouml;nnen.</p>
+    <p>Die Br&uuml;cke des spanischen Architekten und Bauingenieurs
+        Santiago Calatrava ist einer Harfe nachempfunden, die das Wahrzeichen
+        Irlands darstellt. Die Br&uuml;cke wurde nach dem irischen Literaten
+        Samuel Beckett benannt. Sie ist 120 Meter lang und ist an der
+        h&ouml;chsten Spitze 48 Meter hoch. Die Br&uuml;cke verbindet die
+        Macken Street auf der S&uuml;dseite mit der Guild Street auf der
+        Nordseite. Sie liegt im modernen Stadtteil Docklands. Die Br&uuml;cke
+        kann um 90 Grad gedreht werden, damit grosse Schiffe passieren
+        k&ouml;nnen.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -471,7 +474,7 @@ So 12:00-16:30</pre>
 <h4>Beschreibung</h4>
 <pre>Wohnhaus</pre>
 <hr class="my-4">
-<pre>Besichtigung von Aussen.</pre>
+<pre>Besichtigung von aussen.</pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/architecture/thumbnails/IMG_7534.JPG" /> <img
         src="img/architecture/thumbnails/IMG_7529.JPG" /> <img
@@ -485,8 +488,8 @@ So 12:00-16:30</pre>
 <div class="content">
     <p>Der ehemalige Gasometer wurde in seinem bestehenden Stahlger&uuml;st
         erhalten, aber neu ausgebaut. Heute bestehen die Fassaden
-        haupts&auml;chlich aus Glas und dem Stahlger&uuml;st. Zurzeit wird das Geb&auml;ude
-        als Wohnhaus bewohnt.</p>
+        haupts&auml;chlich aus Glas und dem Stahlger&uuml;st. Zurzeit wird das
+        Geb&auml;ude als Wohnhaus bewohnt.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>

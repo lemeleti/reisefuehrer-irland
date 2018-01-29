@@ -17,10 +17,10 @@
 <pre>Mo-Sa 9:45-17:45
 Sonn- und Feiertage 12:00-16:45</pre>
 <h4>Preis</h4>
-<pre>Erwachsene 7 &euro;
-Studenten 6 &euro;</pre>
+<pre>Studierende: 6 &euro;
+Erwachsene: 7 &euro;</pre>
 <hr class="my-4">
-<pre>Auf der F&uuml;hrung sieht man Prunks&auml;le, Reste der Stadtmauer aus der Wikingerzeit und den Mittelalter-Turm. Es hat ein Museumscaf&eacute;. Achtung: wird f&uuml;r Staatsempf&auml;nge und Konferenzen gebraucht, mit eingeschr&auml;nkten &Ouml;ffnungszeiten.</pre>
+<pre>Auf der F&uuml;hrung sieht man Prunks&auml;le, Reste der Stadtmauer aus der Wikingerzeit und den Mittelalter-Turm. Es hat ein Museumscaf&eacute;. Achtung: Wird f&uuml;r Staatsempf&auml;nge und Konferenzen gebraucht, mit eingeschr&auml;nkten &Ouml;ffnungszeiten.</pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/history/thumbnails/-Dublin-Castle.jpg" /> <img
         src="img/history/thumbnails/28744593794_dc461db9b6_b.jpg" /> <img
@@ -32,18 +32,19 @@ Studenten 6 &euro;</pre>
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Das Dublin Castle hat eine sehr grosse Bedeutung f&uuml;r die irische
-        Geschichte. Es war n&auml;mlich von 1204 bis 1922 der Hauptsitz der
-        Engl&auml;nder, die in diesen 700 Jahren &uuml;ber die Irl&auml;nder herrschten. Der
-        Repr&auml;sentant der englischen Monarchie residierte dort. Das Dublin
-        Castle steht auf einer Anh&ouml;he, wo einst Wikinger gewohnt hatten. Es
-        wurde urspr&uuml;nglich vom K&ouml;nig Johann von England als Festung erbaut und
-        hatte vier miteinander verbundene T&uuml;rme. Bei einem schweren Brand 1684
-        wurden grosse Teile des alten Geb&auml;udes zerst&ouml;rt. Die Engl&auml;nder bauten
-        es in den folgenden Jahrzehnten zwar wieder auf, aber weniger als Burg
-        sondern mehr als Schloss. So kann man heute noch viel vom Bauwerk
-        bewundern. Ausserdem wird das Castle manchmal noch f&uuml;r Staatsempf&auml;nge
-        und andere wichtige Anl&auml;sse genutzt.</p>
+    <p>Das Dublin Castle hat eine sehr grosse Bedeutung f&uuml;r die
+        irische Geschichte. Es war n&auml;mlich von 1204 bis 1922 der
+        Hauptsitz der Engl&auml;nder, die 700 Jahre lang &uuml;ber die
+        Irl&auml;nder herrschten. Der Repr&auml;sentant der englischen
+        Monarchie residierte dort. Das Dublin Castle steht auf einer
+        Anh&ouml;he, wo einst Wikinger gewohnt hatten. Es wurde
+        urspr&uuml;nglich von K&ouml;nig Johann von England als Festung erbaut
+        und hatte vier miteinander verbundene T&uuml;rme. Bei einem schweren
+        Brand 1684 wurden grosse Teile des alten Geb&auml;udes zerst&ouml;rt.
+        Die Engl&auml;nder bauten es in den folgenden Jahrzehnten zwar wieder
+        auf, aber weniger als Burg sondern mehr als Schloss. So kann man heute
+        noch viel vom Bauwerk bewundern. Ausserdem wird das Castle manchmal
+        f&uuml;r Staatsempf&auml;nge und andere wichtige Anl&auml;sse genutzt.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -65,13 +66,14 @@ Studenten 6 &euro;</pre>
 </div>
 <div class="content">
     <p>Der Georgianische Baustil wurde in Dublin um 1714 vom englischen
-        K&ouml;nig Georg eingef&uuml;hrt. Er wollte, dass neue &ouml;ffentliche und private
-        Geb&auml;ude in Dublin im gleichen Stil erbaut werden. Seine drei
-        Nachfolger hiessen alle ebenfalls Georg und waren der gleichen
-        Meinung. Der Baustil, der ihren Namen erhielt, orientiere sich stark
-        an der Bauweise der alten Griechen und R&ouml;mer. Er endete mit dem Tod
-        von K&ouml;nig Georg IV 1830. Viele georgianische H&auml;user sind unterdessen
-        zwar abgerissen, einige aber haben sich erhalten.</p>
+        K&ouml;nig Georg eingef&uuml;hrt. Er wollte, dass neue
+        &ouml;ffentliche und private Geb&auml;ude in Dublin im gleichen Stil
+        erbaut wurden. Seine drei Nachfolger hiessen alle ebenfalls Georg und
+        waren der gleichen Meinung. Der Baustil, der seinen Namen erhielt,
+        orientierte sich stark an der Bauweise der alten Griechen und
+        R&ouml;mer. Er endete mit dem Tod von K&ouml;nig Georg IV. 1830. Viele
+        georgianische H&auml;user sind unterdessen zwar abgerissen, einige
+        aber haben sich erhalten.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -94,9 +96,9 @@ Studenten 6 &euro;</pre>
 </div>
 <div class="content">
     <p>Das Custom House wird heute als Umweltministerium und
-        Kommunalverwaltung genutzt. Fr&uuml;her war es das Zollamt, das von James
-        Gandon im klassischen Stil erbaut wurde. Mehr Infos beim Rundgang
-        Architektur.</p>
+        Kommunalverwaltung genutzt. Fr&uuml;her war es das Zollamt, das von
+        James Gandon im klassischen Stil erbaut wurde. Mehr Infos beim
+        Rundgang Architektur.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -132,8 +134,8 @@ Studenten 6 &euro;</pre>
         ber&uuml;hmter englischer Architekt, der in Dublin im 18. und
         fr&uuml;hen 19.Jahrhundert viele grosse, &ouml;ffentliche Bauten
         erstellte und so das Aussehen der Stadt pr&auml;gte. Nachts ist die
-        Br&uuml;cke sch&ouml;n beleuchtet, aber auch tags&uuml;ber ist sie
-        sehr sch&ouml;n anzusehen.</p>
+        Br&uuml;cke beleuchtet, aber auch tags&uuml;ber ist sie sehr
+        sch&ouml;n anzusehen.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -147,12 +149,13 @@ Studenten 6 &euro;</pre>
 </pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
-<pre>t&auml;glich ge&ouml;ffnet
+<pre>
+    <b>t&auml;glich ge&ouml;ffnet</b>
 
-M&auml;rz-September
+<b>M&auml;rz-September</b>
 10:00-18:30 Uhr (letzter Einlass: 17:30 Uhr)
 
-Oktober-Februar
+<b>Oktober-Februar</b>
 10:00-17:30 Uhr (letzter Einlass: 16:30 Uhr)
 </pre>
 <h4>Beschreibung</h4>
@@ -160,8 +163,8 @@ Oktober-Februar
 <h4>Preis</h4>
 <pre>Du kannst die Eintrittskarte entweder online oder vor Ort kaufen.
 
-Erwachsene:         9.50 &euro;
-Studenten:  8.50 &euro;
+Studierende: 8.50 &euro;
+Erwachsene: 9.50 &euro;
 
 Du kannst auch eine erm&auml;ssigte Kombikarte f&uuml;r Dublinia und die benachbarte Christ Church Cathedral kaufen.
 </pre>
@@ -178,8 +181,8 @@ Du kannst auch eine erm&auml;ssigte Kombikarte f&uuml;r Dublinia und die benachb
     <p>M&ouml;chtest du die Geschichte von den Wikingern in Dublin kennen
         lernen? Interessiert Dich das Mittelalter? Dann ist die Dublinia genau
         das Richtige f&uuml;r dich. Die Ausstellung befindet sich in einem
-        Nebengeb&auml;ude der Christ Church Kathedrale. Am Ende des Besuchs lohnt
-        es sich, knapp hundert Stufen auf den St. Michael's Tower
+        Nebengeb&auml;ude der Christ Church Kathedrale. Am Ende des Besuchs
+        lohnt es sich, knapp hundert Stufen auf den St. Michael's Tower
         hinaufzusteigen und die Aussicht auf Dublin zu geniessen. Es gibt ein
         kleines Caf&eacute; und einen Souvenirshop.</p>
 </div>
@@ -195,30 +198,25 @@ Du kannst auch eine erm&auml;ssigte Kombikarte f&uuml;r Dublinia und die benachb
 </pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
-<pre>Montag-Samstag:
+<pre>
+    <b>April, Mai, September und Oktober</b>
+Mo-Sa 09:30-18:00 Uhr (letzter Zutritt 17:15 Uhr)
 
-April, Mai, September und Oktober
+<b>Juni-August</b>
+Mo-Sa 09:30-19:00 Uhr (letzter Zutritt 18:15 Uhr)
 
-09:30-18:00 Uhr (letzter Zutritt 17:15 Uhr)
-
-Juni-August
-
-09:30-19:00 Uhr (letzter Zutritt 18:15 Uhr)
-
-November-M&auml;rz
-
-09:30-17:00 Uhr (letzter Zutritt 16:15 Uhr)
+<b>November-M&auml;rz</b>
+Mo-Sa 09:30-17:00 Uhr (letzter Zutritt 16:15 Uhr)
 </pre>
 <h4>Preis</h4>
-<pre>Einzelticket
+<pre>
+    <b>Einzelticket</b>
+Studierende: 3 &euro;
+Erwachsene: 6 &euro;
 
-Erwachsene 6 &euro;
-Studenten 3 &euro;
-
-Gruppen(ab 10 Personen)
-
-Erwachsene 5 &euro;
-Studenten 2.50 &euro;
+<b>Gruppen (ab 10 Personen)</b>
+Studierende: 2.50 &euro;
+Erwachsene: 5 &euro;
 </pre>
 <hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
@@ -230,15 +228,16 @@ Studenten 2.50 &euro;
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Bereits 1038 stand hier eine h&ouml;lzerne Kirche der Wikinger. Im Jahr
-        1240 errichtete der englische Adelige Richard de Clare die steinerne
-        Kirche im gotischen Stil, die heutige Christ Church Cathedral. Im 15.
-        Jahrhundert ereignete sich hier etwas Interessantes: Betr&uuml;ger
-        versuchten, aus einem einfachen Jungen einen Herrscher zu machen. Sie
-        kr&ouml;nten den zehnj&auml;hrigen Lambert Simnel zum K&ouml;nig Eduard VI. Er sollte
-        den K&ouml;nig Heinrich VII von England entthronen. Der Versuch scheiterte
-        aber, die Betr&uuml;ger wurden bestraft und der Junge begnadigt. Mehr Infos
-        zur Kirche gibt es beim Rundgang Architektur.</p>
+    <p>Bereits 1038 stand hier eine h&ouml;lzerne Kirche der Wikinger. Im
+        Jahr 1240 errichtete der englische Adelige Richard de Clare die
+        steinerne Kirche im gotischen Stil, die heutige Christ Church
+        Cathedral. Im 15. Jahrhundert ereignete sich hier etwas Interessantes:
+        Betr&uuml;ger versuchten, aus einem einfachen Jungen einen Herrscher
+        zu machen. Sie kr&ouml;nten den zehnj&auml;hrigen Lambert Simnel zum
+        K&ouml;nig Eduard VI. Er sollte den K&ouml;nig Heinrich VII. von
+        England entthronen. Der Versuch scheiterte aber, die Betr&uuml;ger
+        wurden bestraft und der Junge begnadigt. Mehr Infos zur Kirche gibt es
+        beim Rundgang Architektur.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -264,15 +263,16 @@ Studenten 2.50 &euro;
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Die Grafton Street ist die Haupteinkaufsstrasse Dublins. Sie f&uuml;hrt
-        vom Trinity College zum St. Stephen`s Green. Die Strasse ist nach dem
-        Duke of Grafton benannt und wurde von der Dawson-Familie ausgebaut. Du
-        findest in den Seitenstrassen auch das Haus des Dekans des Trinity
-        Colleges aus dem 18. Jahrhundert und die ber&uuml;hmte Statue Molly Malone.
-        Der Sage nach war die junge Sch&ouml;nheit die Tochter eines Fischh&auml;ndlers
-        aus Temple Bar. Sie soll tags&uuml;ber Meeresfr&uuml;chte verkauft und nachts
-        den M&auml;nnern den Kopf verdreht haben. Heute ist diese Strasse einer der
-        teuersten Einkaufsstrassen der Welt.</p>
+    <p>Die Grafton Street ist die Haupteinkaufsstrasse Dublins. Sie
+        f&uuml;hrt vom Trinity College zum St. Stephen`s Green. Die Strasse
+        ist nach dem Duke of Grafton benannt und wurde von der Dawson-Familie
+        ausgebaut. Du findest in den Seitenstrassen auch das Haus des Dekans
+        des Trinity Colleges aus dem 18. Jahrhundert und die ber&uuml;hmte
+        Statue Molly Malone. Der Sage nach war die junge Sch&ouml;nheit die
+        Tochter eines Fischh&auml;ndlers aus Temple Bar. Sie soll
+        tags&uuml;ber Meeresfr&uuml;chte verkauft und nachts den M&auml;nnern
+        den Kopf verdreht haben. Heute ist diese Strasse einer der teuersten
+        Einkaufsstrassen der Welt.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -285,13 +285,12 @@ Studenten 2.50 &euro;
 </pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
-<pre>Mai-September
-
+<pre>
+    <b>Mai-September</b>
 Mo-Sa 9:30-17:00
 So 9:30-16:45
 
-Oktober-April
-
+<b>Oktober-April</b>
 Mo-Sa 9:30-17:00
 So 12:00-16:30</pre>
 <hr class="my-4">
@@ -308,19 +307,20 @@ So 12:00-16:30</pre>
 </div>
 <div class="content">
     <p>Das Trinity College in Dublin ist eine der renommiertesten
-        Universit&auml;ten Irlands. Das College wurde vor &uuml;ber 400 Jahren von
-        K&ouml;nigin Elisabeth I von England gegr&uuml;ndet. Urspr&uuml;nglich waren nur
-        protestantische Studenten zugelassen. Elisabeth war n&auml;mlich selbst
-        protestantisch und wollte ihren Glauben im katholischen Irland
-        verbreiten. Mit der protestantischen Uni hoffte sie, "die Iren zu
-        zivilisieren". Nach rund 200 Jahren wurden katholische Studenten doch
-        noch zugelassen. Lange durften keine Frauen studieren. Dies &auml;nderte
-        erst 1904, als der Vorsitzende namens William Edward Hartpole Lecky
-        starb. In der sch&ouml;nen alten Bibliothek gibt es rund 200'000 wertvolle
+        Universit&auml;ten Irlands. Das College wurde vor &uuml;ber 400 Jahren
+        von K&ouml;nigin Elisabeth I. von England gegr&uuml;ndet.
+        Urspr&uuml;nglich waren nur protestantische Studenten zugelassen.
+        Elisabeth war n&auml;mlich selbst protestantisch und wollte ihren
+        Glauben im katholischen Irland verbreiten. Mit der protestantischen
+        Uni hoffte sie, "die Iren zu zivilisieren". Nach rund 200 Jahren
+        wurden katholische Studenten doch noch zugelassen. Lange durften keine
+        Frauen studieren. Dies &auml;nderte sich erst 1904, als der
+        Vorsitzende namens William Edward Hartpole Lecky starb. In der
+        sch&ouml;nen alten Bibliothek gibt es rund 200'000 wertvolle
         B&uuml;cher. Dort befindet sich auch das Book of Kells, das einen
-        unsch&auml;tzbaren Wert hat. Das dicke Buch der Kelten ist rund 1200 Jahre
-        alt und enth&auml;lt lateinische Bibeltexte und kunstvolle, keltische
-        Malereien.</p>
+        unsch&auml;tzbaren Wert hat. Das dicke Buch der Kelten ist rund 1200
+        Jahre alt und enth&auml;lt lateinische Bibeltexte und kunstvolle,
+        keltische Malereien.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
