@@ -10,6 +10,23 @@ header.masthead {
 	background-image: none;
 }
 
+header.masthead h2 {
+    font-size: 1.5rem;
+}
+
+@media (min-width: 992px) {
+	header.masthead h2 {
+	    font-size: 2rem;
+	}
+}
+
+@media (min-width: 1200px) {
+	header.masthead h2 {
+	    font-size: 2.5rem;
+	}
+}
+
+
 @media ( min-width : 767px) {
 	.navbar-nav .dropdown-menu .caret {
 		transform: rotate(-90deg);
