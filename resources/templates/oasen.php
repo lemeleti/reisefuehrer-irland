@@ -1,9 +1,7 @@
 <h3 class="mb-4">Oasen</h3>
 <div class="map" id="map2"></div>
-<!-- TODO: insert legend of points -->
 <h3>Ungef&auml;hre Gehzeit</h3>
 <pre>60 min</pre>
-<hr class="my-4">
 <h3 class="mb-4">Beschreibung</h3>
 <div class="content">
     <p class="mb-4">Dieser Stadtrundgang ist kein Rundgang im klassischen
@@ -17,7 +15,7 @@
 </div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="phoenix-park">Phoenix Park</h3>
+<h3 id="phoenix-park">Phoenix Park<sub>40</sub></h3>
 <pre>Phoenix Park, Dublin 8, Irland
 <a class="custom-url" target="_blank" href="http://www.phoenixpark.ie/">www.phoenixpark.ie</a>
 </pre>
@@ -25,7 +23,7 @@
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
 <pre>2 h</pre>
 <h4>Beschreibung</h4>
-<pre>Park / Oase / Zoo</pre>
+<pre>Zoo</pre>
 <hr class="my-4">
 <pre>Geniesse die Erholungsoase inmitten der Stadt.</pre>
 <div class="w3-content w3-display-container slides my-4">
@@ -59,7 +57,7 @@
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="st-stephens-green-oasen">St. Stephen's Green</h3>
+<h3 id="st-stephens-green-oasen">St. Stephen's Green<sub>41</sub></h3>
 <pre>St Stephen's Green, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.ststephensgreenpark.ie/">www.ststephensgreenpark.ie</a>
@@ -68,9 +66,6 @@
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Sa 07:30-Sonnenuntergang
 Sonn- und Feiertage 09:30-Sonnenuntergang</pre>
-<h4>Beschreibung</h4>
-<pre>Park / Oase</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/oasen/thumbnails/IMG_7426.JPG" /> <img
         src="img/oasen/thumbnails/IMG_7431.JPG" />
@@ -98,7 +93,7 @@ Sonn- und Feiertage 09:30-Sonnenuntergang</pre>
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="merrion-square-park">Merrion Square Park</h3>
+<h3 id="merrion-square-park">Merrion Square Park<sub>42</sub></h3>
 <pre>Merrion Square, Dublin, &Eacute;ire, Irland
 <a class="custom-url" target="_blank"
         href="http://www.merrionsquare.ie/">www.merrionsquare.ie</a>
@@ -109,7 +104,6 @@ Sonn- und Feiertage 09:30-Sonnenuntergang</pre>
 Apr 20:00, Mai 21:00, Jun 21:30
 Jul 21:30, Aug 21:00, Sep 20:00
 Okt 19:00, Nov 17:00, Dez 16:30</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/oasen/thumbnails/IMG_7581.JPG" />
 
@@ -136,7 +130,7 @@ Okt 19:00, Nov 17:00, Dez 16:30</pre>
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="iveagh-garden">Iveagh Garden</h3>
+<h3 id="iveagh-garden">Iveagh Garden<sub>43</sub></h3>
 <pre>Clonmel St, Saint Kevin's, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.iveaghgardens.ie/">www.iveaghgardens.ie</a>
@@ -156,9 +150,6 @@ So 10:00-16:00
 Mo-Sa 08:00-18:00
 So 10:00-18:00
 &Ouml;ffnungszeiten k&ouml;nnen zwischen M&auml;rz und Oktober ver&auml;ndert sein, da es Events gibt.</pre>
-<h4>Beschreibung</h4>
-<pre>Park / Oase</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/oasen/thumbnails/IMG_7619.JPG" />
 

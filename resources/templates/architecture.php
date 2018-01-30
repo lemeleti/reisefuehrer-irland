@@ -1,9 +1,7 @@
 <h3 class="mb-4">Architektur</h3>
 <div class="map" id="map1"></div>
-<!-- TODO: insert legend of points -->
 <h3>Ungef&auml;hre Gehzeit</h3>
 <pre>1 h 39 min</pre>
-<hr class="my-4">
 <h3 class="mb-4">Beschreibung</h3>
 <div class="content">
     <p class="mb-4">Die Tour startet bei den &auml;ltesten Kathedralen in
@@ -33,7 +31,7 @@
 </div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="st-patricks-cathedral-architecture">St. Patrick's Cathedral</h3>
+<h3 id="st-patricks-cathedral-architecture">St. Patrick's Cathedral<sub>1</sub></h3>
 <pre>St Patrick's Close, Wood Quay, Dublin 8, Irland
 <a class="custom-url" target="_blank"
         href="http://www.stpatrickscathedral.ie/">www.stpatrickscathedral.ie</a>
@@ -95,7 +93,7 @@ Erwachsene: 4.20 &euro;</pre>
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="christ-church-cathedral-architecture">Christ Church Cathedral</h3>
+<h3 id="christ-church-cathedral-architecture">Christ Church Cathedral<sub>2</sub></h3>
 <pre>Christchurch Pl, Dublin 8, Irland
 <a class="custom-url" target="_blank"
         href="http://www.christchurchcathedral.ie/de/besucher/">www.christchurchcathedral.ie/de/besucher</a>
@@ -127,7 +125,6 @@ Erwachsene: 5 &euro;
 </pre>
 <h4>Baustil</h4>
 <pre>Fr&uuml;hgotik</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/history/thumbnails/4095831289_b190f62546_b.jpg" />
 
@@ -148,7 +145,7 @@ Erwachsene: 5 &euro;
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="dublin-castle-architecture">Dublin Castle</h3>
+<h3 id="dublin-castle-architecture">Dublin Castle<sub>3</sub></h3>
 <pre>Dame St, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincastle.ie/">www.dublincastle.ie</a>
 </pre>
@@ -195,7 +192,7 @@ Erwachsene: 7 &euro;
 <!-- Platz 4 -->
 <hr class="my-4 large">
 <h3 id="st-stephens-green-shopping-center">St. Stephens Green Shopping
-    Center</h3>
+    Center<sub>4</sub></h3>
 <pre>Stephens Green West, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="https://www.stephensgreen.com/">www.stephensgreen.com</a>
@@ -210,7 +207,6 @@ Fr-Sa 9:00-19:00
 So 11:00-18:00</pre>
 <h4>Baustil</h4>
 <pre>Viktorianischer Baustil</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/architecture/thumbnails/IMG_7401.JPG" /> <img
         src="img/architecture/thumbnails/IMG_7408.JPG" />
@@ -231,7 +227,7 @@ So 11:00-18:00</pre>
 </div>
 <!-- Platz 5 -->
 <hr class="my-4 large">
-<h3 id="national-library-of-ireland">National Library of Ireland</h3>
+<h3 id="national-library-of-ireland">National Library of Ireland<sub>5</sub></h3>
 <pre>National Library of Ireland, 2/3 Kildare Street, Irland
 <a class="custom-url" target="_blank" href="http://www.nli.ie/">www.nli.ie</a>
 </pre>
@@ -241,7 +237,6 @@ So 11:00-18:00</pre>
 Mo 17:00-19:45
 Di-Fr 10:30-12:30 und 14:00-16:00
 Sa 9:30-12:45</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/architecture/thumbnails/National Library of Ireland.png" />
 
@@ -263,7 +258,7 @@ Sa 9:30-12:45</pre>
 </div>
 <!-- Platz 6 -->
 <hr class="my-4 large">
-<h3 id="trinity-college-architecture">Trinity College</h3>
+<h3 id="trinity-college-architecture">Trinity College<sub>6</sub></h3>
 <pre>College Green, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.tcd.ie/">www.tcd.ie</a>
 </pre>
@@ -277,7 +272,6 @@ So 9:30-16:45
 <b>Oktober-April</b>
 Mo-Sa 9:30-17:00
 So 12:00-16:30</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/architecture/thumbnails/IMG_7555.JPG" /> <img
         src="img/architecture/thumbnails/IMG_5222.JPG" /> <img
@@ -311,12 +305,11 @@ So 12:00-16:30</pre>
 </div>
 <!-- Platz 7 -->
 <hr class="my-4 large">
-<h3 id="ha-penny-bridge">Ha'penny Bridge</h3>
+<h3 id="ha-penny-bridge">Ha'penny Bridge<sub>7</sub></h3>
 <pre>Bachelors Walk, North City, Dublin, Irland</pre>
 <hr class="my-4">
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
 <pre>5 min</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/architecture/thumbnails/IMG_7382.JPG" />
 
@@ -340,14 +333,13 @@ So 12:00-16:30</pre>
 </div>
 <!-- Platz 8 -->
 <hr class="my-4 large">
-<h3 id="custom-house-architecture">Custom House (Umweltministerium)</h3>
+<h3 id="custom-house-architecture">Custom House (Umweltministerium)<sub>8</sub></h3>
 <pre>North Dock, Dublin 1, Irland</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Fr 09:00-17:00</pre>
 <h4>Baustil</h4>
 <pre>Neoklassizismus</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/history/thumbnails/Custom_House_Dublin_01.JPG" />
 
@@ -377,12 +369,11 @@ So 12:00-16:30</pre>
 </div>
 <!-- Platz 9 -->
 <hr class="my-4 large">
-<h3 id="sean-o-casey-bridge">Sean O'Casey Bridge</h3>
+<h3 id="sean-o-casey-bridge">Sean O'Casey Bridge<sub>9</sub></h3>
 <pre>Sean O'Casey Bridge, South-East Inner City, Irland</pre>
 <hr class="my-4">
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
 <pre>10 min</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/architecture/thumbnails/IMG_7457.JPG" /> <img
         src="img/architecture/thumbnails/IMG_7466.JPG" />
@@ -406,14 +397,13 @@ So 12:00-16:30</pre>
 </div>
 <!-- Platz 10 -->
 <hr class="my-4 large">
-<h3 id="samuel-beckett-bridge">Samuel Beckett Bridge</h3>
+<h3 id="samuel-beckett-bridge">Samuel Beckett Bridge<sub>10</sub></h3>
 <pre>Samuel Beckett Bridge, Dublin 2, Irland</pre>
 <hr class="my-4">
 <h4>Baujahr</h4>
 <pre>2007-2009</pre>
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
 <pre>10 min</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/architecture/thumbnails/IMG_7472.JPG" /> <img
         src="img/architecture/thumbnails/IMG_7483.JPG" />
@@ -439,7 +429,7 @@ So 12:00-16:30</pre>
 </div>
 <!-- Platz 11 -->
 <hr class="my-4 large">
-<h3 id="bord-gais-energy-theater">Bord Gais Energy Theater</h3>
+<h3 id="bord-gais-energy-theater">Bord Gais Energy Theater<sub>11</sub></h3>
 <pre>Grand Canal Square, Docklands, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.bordgaisenergytheatre.ie/">www.bordgaisenergytheatre.ie</a>
@@ -447,7 +437,6 @@ So 12:00-16:30</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Je nach Vorstellung.</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/architecture/thumbnails/IMG_7496.JPG" /><img
         src="img/architecture/thumbnails/IMG_7507.JPG" />
@@ -468,7 +457,7 @@ So 12:00-16:30</pre>
 </div>
 <!-- Platz 12 -->
 <hr class="my-4 large">
-<h3 id="alliance-building">Alliance Building</h3>
+<h3 id="alliance-building">Alliance Building<sub>12</sub></h3>
 <pre>South Lotts Road, Irland
 <a class="custom-url" target="_blank"
         href="http://www.bordgaisenergytheatre.ie/">www.bordgaisenergytheatre.ie</a>

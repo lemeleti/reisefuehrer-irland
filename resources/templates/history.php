@@ -1,12 +1,11 @@
 <h3 class="mb-4">Geschichte</h3>
 <div class="map" id="map7"></div>
-<!-- TODO: insert legend of points -->
 <hr class="my-4">
 <h3 class="mb-4">Beschreibung</h3>
 <pre>Die Tour kann an beliebiger Stelle gestartet werden.</pre>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="dublin-castle-history">Dublin Castle</h3>
+<h3 id="dublin-castle-history">Dublin Castle<sub>3</sub></h3>
 <pre>Dame St, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincastle.ie/">www.dublincastle.ie</a>
 </pre>
@@ -51,11 +50,10 @@ Erwachsene: 7 &euro;</pre>
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="georgianische-gebaeude">Georgianische Geb&auml;ude</h3>
+<h3 id="georgianische-gebaeude">Georgianische Geb&auml;ude<sub>13</sub></h3>
 <pre>Merion Square, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincastle.ie/">www.dublincastle.ie</a>
 </pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/history/thumbnails/570858_15a00b7a.jpg" />
 
@@ -80,12 +78,11 @@ Erwachsene: 7 &euro;</pre>
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="custom-house-history">Custom House (Umweltministerium)</h3>
+<h3 id="custom-house-history">Custom House (Umweltministerium)<sub>8</sub></h3>
 <pre>North Dock, Dublin 1, Irland</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Fr 09:00-17:00</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/history/thumbnails/Custom_House_Dublin_01.JPG" />
 
@@ -105,12 +102,11 @@ Erwachsene: 7 &euro;</pre>
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="o-connel-bridge-history">O'Connel Bridge</h3>
+<h3 id="o-connel-bridge-history">O'Connel Bridge<sub>14</sub></h3>
 <pre>O'Connell Bridge, Dublin, Irland</pre>
 <hr class="my-4">
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
 <pre>10 min</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/night/thumbnails/IMG_7011.jpg" /> <img
         src="img/night/thumbnails/O'Connell_Street_Dublin2.JPG" /> <img
@@ -142,7 +138,7 @@ Erwachsene: 7 &euro;</pre>
 </div>
 <!-- Platz 5 -->
 <hr class="my-4 large">
-<h3 id="dublinia">Dublinia</h3>
+<h3 id="dublinia">Dublinia<sub>15</sub></h3>
 <pre>Christchurch, St Michaels Hill, Merchants Quay, Dublin 8, Irland
 <a class="custom-url" target="_blank"
         href="http://www.dublinia.ie/german/">www.dublinia.ie</a>
@@ -170,7 +166,6 @@ Erwachsene: 9.50 &euro;
 
 Du kannst auch eine erm&auml;ssigte Kombikarte f&uuml;r Dublinia und die benachbarte Christ Church Cathedral kaufen.
 </pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/history/thumbnails/IMG_5088.JPG" />
 
@@ -193,7 +188,7 @@ Du kannst auch eine erm&auml;ssigte Kombikarte f&uuml;r Dublinia und die benachb
 </div>
 <!-- Platz 6 -->
 <hr class="my-4 large">
-<h3 id="christ-church-cathedral-history">Christ Church Cathedral</h3>
+<h3 id="christ-church-cathedral-history">Christ Church Cathedral<sub>2</sub></h3>
 <pre>Christchurch Pl, Dublin 8, Irland
 <a class="custom-url" target="_blank"
         href="http://www.christchurchcathedral.ie/de/besucher/">www.christchurchcathedral.ie/de/besucher</a>
@@ -223,7 +218,6 @@ Erwachsene: 6 &euro;
 Studierende: 2.50 &euro;
 Erwachsene: 5 &euro;
 </pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/history/thumbnails/4095831289_b190f62546_b.jpg" />
 
@@ -249,7 +243,7 @@ Erwachsene: 5 &euro;
 </div>
 <!-- Platz 7 -->
 <hr class="my-4 large">
-<h3 id="grafton-street">Grafton Street</h3>
+<h3 id="grafton-street">Grafton Street<sub>16</sub></h3>
 <pre>Grafton Street, Irland
 <a class="custom-url" target="_blank"
         href="http://www.christchurchcathedral.ie/de/besucher/">www.christchurchcathedral.ie/de/besucher</a>
@@ -257,7 +251,6 @@ Erwachsene: 5 &euro;
 <hr class="my-4">
 <h4>Beschreibung</h4>
 <pre>Einkaufsstrasse</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <!-- TODO: Bild folgt (Grafton Street) -->
     <img src="img/portfolio/thumbnails/1.jpg" />
@@ -284,7 +277,7 @@ Erwachsene: 5 &euro;
 </div>
 <!-- Platz 8 -->
 <hr class="my-4 large">
-<h3 id="trinity-college-history">Trinity College</h3>
+<h3 id="trinity-college-history">Trinity College<sub>6</sub></h3>
 <pre>College Green, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.tcd.ie/">www.tcd.ie</a>
 </pre>
@@ -298,7 +291,6 @@ So 9:30-16:45
 <b>Oktober-April</b>
 Mo-Sa 9:30-17:00
 So 12:00-16:30</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/architecture/thumbnails/IMG_7555.JPG" /> <img
         src="img/architecture/thumbnails/IMG_5222.JPG" /> <img

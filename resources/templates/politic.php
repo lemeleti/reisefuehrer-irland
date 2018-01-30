@@ -1,9 +1,7 @@
 <h3 class="mb-4">Politik</h3>
 <div class="map" id="map3"></div>
-<!-- TODO: insert legend of points -->
 <h3>Ungef&auml;hre Gehzeit</h3>
 <pre>60 min</pre>
-<hr class="my-4">
 <h3 class="mb-4">Beschreibung</h3>
 <div class="content">
     <p class="mb-4">Die Tour startet beim Gerichtsgeb&auml;ude von Dublin,
@@ -27,7 +25,7 @@
 </div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="four-courts-politic">Four Courts (Gerichtsgeb&auml;de)</h3>
+<h3 id="four-courts-politic">Four Courts (Gerichtsgeb&auml;de)<sub>44</sub></h3>
 <pre>Inns Quay 25, Dublin 8, Irland</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
@@ -68,7 +66,7 @@ Sa und So geschlossen
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="city-hall-politic">City Hall</h3>
+<h3 id="city-hall-politic">City Hall<sub>45</sub></h3>
 <h3>(ehem. Rathaus)</h3>
 <pre>Dame St, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincity.ie/">www.dublincity.ie</a>
@@ -77,7 +75,6 @@ Sa und So geschlossen
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Sa 10:00-17:15
 So geschlossen</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/politics/thumbnails/IMG_7358.JPG" /> <img
         src="img/politics/thumbnails/IMG_7336.JPG" /> <img
@@ -108,14 +105,13 @@ So geschlossen</pre>
 <!-- Platz 3 -->
 <hr class="my-4 large">
 <h3 id="irish-parliament-house-bank-of-ireland">Irish Parliament House /
-    Bank of Ireland</h3>
+    Bank of Ireland<sub>46</sub></h3>
 <pre>College Green, Temple Bar, Dublin, Irland</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Fr 10:00-16:00
 Do 10:00-17:00
 (nur Teile, da im Gebrauch von der Bank)</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/politics/thumbnails/IMG_7391.JPG" /> <img
         src="img/politics/thumbnails/IMG_7387.JPG" />
@@ -138,7 +134,7 @@ Do 10:00-17:00
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="leinster-house">Leinster House (ehem. Herzogpalast) / Parlamentshaus</h3>
+<h3 id="leinster-house">Leinster House / Parlamentshaus<sub>47</sub></h3>
 <pre>Kildare St, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.oireachtas.ie/parliament/">www.oireachtas.ie/parliament</a>
@@ -175,7 +171,7 @@ kostenlose F&uuml;hrung</pre>
 </div>
 <!-- Platz 5 -->
 <hr class="my-4 large">
-<h3 id="government-buildings">Government Buildings</h3>
+<h3 id="government-buildings">Government Buildings<sub>48</sub></h3>
 <pre>Upper Merrion St, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="https://www.taoiseach.gov.ie/eng/splash/">www.taoiseach.gov.ie/eng/splash</a>
@@ -189,7 +185,6 @@ kostenlose F&uuml;hrung</pre>
 <pre>Sa 10:30, 11:30, 12:30 und 13:30 kostenlos
 (Achtung &Auml;nderungen aufgrund aktueller Anl&auml;sse m&ouml;glich)
 (Karten am Sa ab 09:30 in der National Gallery erh&auml;ltlich)</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/politics/thumbnails/IMG_7588.JPG" />
 

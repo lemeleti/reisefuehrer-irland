@@ -1,12 +1,11 @@
 <h3 class="mb-4">Kulinarik</h3>
 <div class="map" id="map8"></div>
-<!-- TODO: insert legend of points -->
 <hr class="my-4">
 <h3 class="mb-4">Beschreibung</h3>
 <pre>Die Tour kann an beliebiger Stelle gestartet werden.</pre>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="vice-coffee">Vice Coffee</h3>
+<h3 id="vice-coffee">Vice Coffee<sub>17</sub></h3>
 <pre>54 Abbey Street Middle, North City, Dublin, Irland
 <a class="custom-url" target="_blank"
         href="http://www.vicecoffeeinc.com/">www.vicecoffeeinc.com</a>
@@ -16,7 +15,6 @@
 <pre>Mo-So 11:00-18:00 Uhr</pre>
 <h4>Beschreibung</h4>
 <pre>Specialty Coffee Shop</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/kulinarik/thumbnails/IMG_5119.JPG" /> <img
         src="img/kulinarik/thumbnails/IMG_5121.JPG" /> <img
@@ -44,7 +42,7 @@
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="love-supreme">Love Supreme</h3>
+<h3 id="love-supreme">Love Supreme<sub>18</sub></h3>
 <pre>57 Manor St, Stoneybatter, Irland
 <a class="custom-url" target="_blank" href="http://www.lovesupreme.ie/">www.lovesupreme.ie</a>
 </pre>
@@ -54,7 +52,6 @@
 Di geschlossen
 Sa und So 10:00-17:00 Uhr
 </pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/kulinarik/thumbnails/IMG_5749.jpg" /> <img
         src="img/kulinarik/thumbnails/IMG_5164.JPG" /> <img
@@ -78,7 +75,7 @@ Sa und So 10:00-17:00 Uhr
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="wuff">Wuff</h3>
+<h3 id="wuff">Wuff<sub>19</sub></h3>
 <pre>23 Benburb St, Arran Quay, Dublin 7, Irland
 <a class="custom-url" target="_blank" href="http://www.wuff.ie/">www.wuff.ie</a>
 </pre>
@@ -112,7 +109,7 @@ So 10:00-16:00 Uhr
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="nando-s">Nando's</h3>
+<h3 id="nando-s">Nando's<sub>20</sub></h3>
 <pre>12 St Andrew's St, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.nandos.ie/">www.nandos.ie</a>
 </pre>
@@ -124,7 +121,6 @@ So 12:00-22:00 Uhr
 </pre>
 <h4>Beschreibung</h4>
 <pre>Fast-Food-Konzept mit sehr gutem Essen.</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/kulinarik/thumbnails/nandos.jpg" />
 
@@ -144,14 +140,13 @@ So 12:00-22:00 Uhr
 </div>
 <!-- Platz 5 -->
 <hr class="my-4 large">
-<h3 id="farm">Farm</h3>
+<h3 id="farm">Farm<sub>21</sub></h3>
 <pre>3 Dawson St, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.thefarmfood.ie/">www.thefarmfood.ie</a>
 </pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-So 12:00-22:00 Uhr</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <!-- TODO: Bild folgt (Farm) -->
     <img src="img/portfolio/thumbnails/1.jpg" />
@@ -171,7 +166,7 @@ So 12:00-22:00 Uhr
 </div>
 <!-- Platz 6 -->
 <hr class="my-4 large">
-<h3 id="beanhive-coffee">Beanhive Coffee</h3>
+<h3 id="beanhive-coffee">Beanhive Coffee<sub>22</sub></h3>
 <pre>Dawson Street Dawson St, Dublin 2, D02 FY28, Irland
 <a class="custom-url" target="_blank" href="http://www.beanhive.ie/">www.beanhive.ie</a>
 </pre>
@@ -180,7 +175,6 @@ So 12:00-22:00 Uhr
 <pre>Mo-Fr 7:15-18:00 Uhr
 Sa und So 9:00-18:00 Uhr
 </pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/kulinarik/thumbnails/IMG_5770.jpg" /> <img
         src="img/kulinarik/thumbnails/IMG_5772.jpg" />
@@ -202,7 +196,7 @@ Sa und So 9:00-18:00 Uhr
 </div>
 <!-- Platz 7 -->
 <hr class="my-4 large">
-<h3 id="the-church-kulinarik">The Church</h3>
+<h3 id="the-church-kulinarik">The Church<sub>23</sub></h3>
 <pre>Junction of Mary St &amp; Jervis St, North City, Dublin 1, Irland
 <a class="custom-url" target="_blank" href="http://www.thechurch.ie/">www.thechurch.ie</a>
 </pre>
@@ -213,7 +207,6 @@ Fr und Sa 10:30-02:30
 So 11:30-23:00</pre>
 <h4>Beschreibung</h4>
 <pre>Restaurant und Pub</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/music/thumbnails/IMG_5830.jpg" />
 

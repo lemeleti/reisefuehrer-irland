@@ -1,9 +1,7 @@
 <h3 class="mb-4">Musik</h3>
 <div class="map" id="map5"></div>
-<!-- TODO: insert legend of points -->
 <h3>Ungef&auml;hre Gehzeit</h3>
 <pre>60 min</pre>
-<hr class="my-4">
 <h3 class="mb-4">Beschreibung</h3>
 <div class="content">
     <p class="mb-4">Die Tour startet bei der Schleuse am Grand Canal. Dort
@@ -19,7 +17,7 @@
 </div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="grand-canal-doc">Grand Canal Doc</h3>
+<h3 id="grand-canal-doc">Grand Canal Doc<sub>33</sub></h3>
 <pre>Hanover Quay 84 Hanover Dock, Dublin 2, Irland</pre>
 <hr class="my-4">
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
@@ -65,7 +63,7 @@
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="irish-rockand-roll-museum">Irish Rock &amp; Roll Museum</h3>
+<h3 id="irish-rockand-roll-museum">Irish Rock &amp; Roll Museum<sub>34</sub></h3>
 <pre>Curved Street, Temple Bar, Dublin 2, Irland</pre>
 <hr class="my-4">
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
@@ -100,7 +98,7 @@ Kann nur in einer F&uuml;hrung besichtigt werden! (nicht rollstuhlg&auml;ngig)</
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="the-church-music">The Church</h3>
+<h3 id="the-church-music">The Church<sub>23</sub></h3>
 <pre>Junction of Mary St &amp; Jervis St, North City, Dublin 1, Irland
 <a class="custom-url" target="_blank" href="http://www.thechurch.ie/">www.thechurch.ie</a>
 </pre>
@@ -111,7 +109,6 @@ Fr und Sa 10:30-02:30
 So 11:30-23:00</pre>
 <h4>Beschreibung</h4>
 <pre>Restaurant und Pub</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/music/thumbnails/IMG_5830.jpg" />
 
@@ -141,7 +138,7 @@ So 11:30-23:00</pre>
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="the-brazen-head">The Brazen Head</h3>
+<h3 id="the-brazen-head">The Brazen Head<sub>35</sub></h3>
 <pre>20 Lower Bridge St, Merchants Quay, Dublin 8, Irland
 <a class="custom-url" target="_blank" href="http://www.brazenhead.com/">www.brazenhead.com</a>
 </pre>
@@ -186,7 +183,7 @@ So 12:30-23:30</pre>
 </div>
 <!-- Platz 5 -->
 <hr class="my-4 large">
-<h3 id="o-neill-s-pub-and-kitchen-music">O'Neill's Pub and Kitchen</h3>
+<h3 id="o-neill-s-pub-and-kitchen-music">O'Neill's Pub and Kitchen<sub>36</sub></h3>
 <pre>2 Suffolk Street, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.oneillspubdublin.com/">www.oneillspubdublin.com</a>

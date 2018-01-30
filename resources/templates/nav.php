@@ -18,7 +18,10 @@
                         <li class="nav-item"><a class="nav-link js-scroll-trigger"
                             href="#about">&Uuml;ber Uns</a></li>
                         <li class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Spazierg&auml;nge <b class="caret"></b></a>
+                            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+                            	Spazierg&auml;nge
+                            	<span class="caret"></span>
+                            </a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item"><a class="nav-link js-scroll-trigger"
                                     href="#architecure">Architektur</a></li>

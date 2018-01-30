@@ -1,16 +1,13 @@
 <h3 class="mb-4">Kunst</h3>
 <div class="map" id="map9"></div>
-<!-- TODO: insert legend of points -->
 <h3>Ungef&auml;hre Gehzeit</h3>
 <pre>1 h</pre>
-<hr class="my-4">
 <h3 class="mb-4">Beschreibung</h3>
 <pre>Die Tour kann an beliebiger Stelle gestartet werden.</pre>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="four-courts-art">Four Courts</h3>
+<h3 id="four-courts-art">Four Courts<sub>24</sub></h3>
 <pre>St. Andrew's Ln, Irland (hinter dem Hangar Nachtclub)</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/art/thumbnails/1. St Andres Ln.JPG" />
 
@@ -31,9 +28,8 @@
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="bp-fallon">BP Fallon</h3>
+<h3 id="bp-fallon">BP Fallon<sub>25</sub></h3>
 <pre>Tempel Ln S, Irland</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/art/thumbnails/IMG_5101.JPG" />
 
@@ -61,7 +57,7 @@
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="the-city-is-my-garden">The city is my garden</h3>
+<h3 id="the-city-is-my-garden">The city is my garden<sub>26</sub></h3>
 <pre>Nr. 1 Liffey Street Upper, Irland</pre>
 <hr class="my-4">
 <pre>Wenn du dieses Street-Art-Kunstwerk sehen willst, kombinierst du den Besuch am besten mit einem Shopping-Trip. Es befindet sich n&auml;mlich an der ber&uuml;hmtesten Einkaufsstrasse von Dublin.</pre>
@@ -84,12 +80,11 @@
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="drei-verschiedene-streetarts">Drei verschiedene Street-Arts</h3>
+<h3 id="drei-verschiedene-streetarts">Drei verschiedene Street-Arts<sub>27</sub></h3>
 <pre>Temple Ln, Irland</pre>
 <hr class="my-4">
 <h4>Beschreibung</h4>
 <pre>In der N&auml;he vom ber&uuml;hmten BP Fallon Bild findet man drei wundersch&ouml;ne Kunstwerke.</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/art/thumbnails/IMG_5109.JPG" /> <img
         src="img/art/thumbnails/IMG_5105.JPG" /> <img
@@ -118,9 +113,8 @@
 </div>
 <!-- Platz 5 -->
 <hr class="my-4 large">
-<h3 id="trash-animals">Trash Animals</h3>
+<h3 id="trash-animals">Trash Animals<sub>28</sub></h3>
 <pre>Tara Street, Irland</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/art/thumbnails/IMG_6105.JPG" />
 
@@ -141,9 +135,8 @@
 </div>
 <!-- Platz 6 -->
 <hr class="my-4 large">
-<h3 id="dead-meat">Dead Meat</h3>
+<h3 id="dead-meat">Dead Meat<sub>29</sub></h3>
 <pre>Merrion Row, Irland</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/art/thumbnails/IMG_5184.JPG" />
 
@@ -162,9 +155,8 @@
 </div>
 <!-- Platz 7 -->
 <hr class="my-4 large">
-<h3 id="gregorianische-tueren">Georgianische T&uuml;ren</h3>
+<h3 id="gregorianische-tueren">Georgianische T&uuml;ren<sub>30</sub></h3>
 <pre>Merrion Square, Irland</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <!-- TODO: Bild folgt (Gregorianische T&uuml;ren) -->
     <img src="img/portfolio/thumbnails/1.jpg" />
@@ -189,11 +181,10 @@
 </div>
 <!-- Platz 8 -->
 <hr class="my-4 large">
-<h3 id="subset-football">Subset Football</h3>
+<h3 id="subset-football">Subset Football<sub>31</sub></h3>
 <pre>Haymarket, Irland
 <a class="custom-url" target="_blank" href="http://www.subset.ie/">www.subset.ie</a>
 </pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/art/thumbnails/IMG_5945.JPG" />
 
@@ -213,9 +204,8 @@
 </div>
 <!-- Platz 9 -->
 <hr class="my-4 large">
-<h3 id="vadis-und-tilf">Vadis und Tilf</h3>
+<h3 id="vadis-und-tilf">Vadis und Tilf<sub>32</sub></h3>
 <pre>Smithfield, Irland</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/art/thumbnails/IMG_5134.JPG" />
 

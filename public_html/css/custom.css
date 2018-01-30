@@ -90,6 +90,11 @@ header.masthead h2 {
 	margin: auto !important
 }
 
+.full-width {
+	width: 100vw !important;
+	margin: auto !important
+}
+
 .custom-url, .custom-url:focus, .custom-url:hover {
 	color: #0c0c0c;
 }
@@ -139,13 +144,18 @@ header.masthead h2 {
 	color: #000;
 }
 
+#quellen pre {
+	text-align: left !important; 
+	font-family: Courier, 'Andale Mono', Arial, sans-serif;
+}
+
 /* tags */
 h2, h3, h4, h5 {
 	font-weight: bold;
 }
 
 pre {
-	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif !important;
+	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 	white-space: pre-wrap; /* Since CSS 2.1 */
 	white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
 	white-space: -pre-wrap; /* Opera 4-6 */
@@ -200,3 +210,10 @@ div.showContent {
 	line-height: 1.5;
 	height: auto;
 }
+
+/* icon */
+.icon {
+	width: 40px;
+	height: 35px;
+}
+

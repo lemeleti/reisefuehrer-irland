@@ -41,48 +41,6 @@ require_once TEMPLATES_PATH . '/nav.php';
                         &uuml;ber den Liffey f&uuml;hren viele sehenswerte Br&uuml;cken.
                         Am Ufer gibt es zahlreiche B&auml;nke, auf denen man sich eine
                         Pause g&ouml;nnen und den Fluss oder die Leute beobachten kann.</p>
-                    <div class="w3-content w3-display-container slides my-4">
-                        <img src="img/sample/weiss.jpg" />
-
-                        <button class="w3-button w3-black w3-display-left"
-                            onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
-                        <button class="w3-button w3-black w3-display-right"
-                            onclick="plusDivs(this.parentElement,1)">&#10095;</button>
-                    </div>
-                    <div class="w3-content w3-display-container slides my-4">
-                        <img src="img/sample/grau.jpg" />
-
-                        <button class="w3-button w3-black w3-display-left"
-                            onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
-                        <button class="w3-button w3-black w3-display-right"
-                            onclick="plusDivs(this.parentElement,1)">&#10095;</button>
-                    </div>
-                    <div class="w3-content w3-display-container slides my-4">
-                        <img src="img/sample/schwarz.jpg" />
-
-                        <button class="w3-button w3-black w3-display-left"
-                            onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
-                        <button class="w3-button w3-black w3-display-right"
-                            onclick="plusDivs(this.parentElement,1)">&#10095;</button>
-                    </div>
-                    <div class="w3-content w3-display-container slides my-4">
-                        <img src="img/sample/ausschnitt.jpg" />
-
-                        <button class="w3-button w3-black w3-display-left"
-                            onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
-                        <button class="w3-button w3-black w3-display-right"
-                            onclick="plusDivs(this.parentElement,1)">&#10095;</button>
-                    </div>
-                    <div class="w3-content w3-display-container slides my-4">
-                        <img src="img/sample/weiss.jpg" /> <img src="img/sample/grau.jpg" />
-                        <img src="img/sample/schwarz.jpg" /> <img
-                            src="img/sample/ausschnitt.jpg" />
-
-                        <button class="w3-button w3-black w3-display-left"
-                            onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
-                        <button class="w3-button w3-black w3-display-right"
-                            onclick="plusDivs(this.parentElement,1)">&#10095;</button>
-                    </div>
                 </div>
             </div>
         </div>
@@ -120,7 +78,6 @@ require_once TEMPLATES_PATH . '/nav.php';
             <div class="col-lg-8 mx-auto text-center">
                 <div class="content-container">
                     <h2 class="section-heading">Spazierg&auml;nge</h2>
-                    <hr class="vertical-center">
                     <div class="map" id="map"></div>
                     <h5>Architektur (Farbe)</h5>
                     <pre>Dieser Spaziergang f&uuml;hrt dich quer durch ganz Dublin an wichtigen architektonischen Bauten vorbei. Die Zeitepoche reicht vom Mittelalter bis zur heutigen Zeit.</pre>
@@ -269,6 +226,7 @@ require_once TEMPLATES_PATH . '/nav.php';
                 <div class="content-container">
                     <h2 class="section-heading">Impressum</h2>
                     <hr class="my-4">
+            		<a href="quellen.php">Quellen</a>
                 </div>
             </div>
         </div>

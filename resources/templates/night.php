@@ -1,9 +1,7 @@
 <h3 class="mb-4">By Night</h3>
 <div class="map" id="map6"></div>
-<!-- TODO: insert legend of points -->
 <h3>Ungef&auml;hre Gehzeit</h3>
 <pre>19 min</pre>
-<hr class="my-4">
 <h3 class="mb-4">Beschreibung</h3>
 <div class="content">
     <p class="mb-4">Der Spaziergang startet beim Pub The Duke, das jeden
@@ -18,7 +16,7 @@
 </div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="the-duke">The Duke</h3>
+<h3 id="the-duke">The Duke<sub>37</sub></h3>
 <pre>9 Duke St, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.thedukedublin.com/491-2/">www.thedukedublin.com</a>
@@ -31,8 +29,8 @@
 <h4>Beschreibung</h4>
 <pre>Pub</pre>
 <h4>Preis</h4>
-<pre>Studierende 11 &euro;
-Erwachsene 13 &euro;</pre>
+<pre>Studierende: 11 &euro;
+Erwachsene: 13 &euro;</pre>
 <hr class="my-4">
 <pre>Der Pub Crawl findet jeden Abend um 17:30 statt. Die Kneipentour lohnt sich vor allem dann, wenn man gut Englisch versteht und ein bisschen &uuml;ber die Geschichte von Dublin Bescheid weiss.</pre>
 <div class="w3-content w3-display-container slides my-4">
@@ -59,7 +57,7 @@ Erwachsene 13 &euro;</pre>
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="o-neill-s-pub-and-kitchen-night">O'Neill's Pub and Kitchen</h3>
+<h3 id="o-neill-s-pub-and-kitchen-night">O'Neill's Pub and Kitchen<sub>36</sub></h3>
 <pre>2 Suffolk Street, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.oneillspubdublin.com/">www.oneillspubdublin.com</a>
@@ -106,11 +104,10 @@ So 8:00-23:00</pre>
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="temple-bar">Temple Bar</h3>
+<h3 id="temple-bar">Temple Bar<sub>38</sub></h3>
 <hr class="my-4">
 <h4>Beschreibung</h4>
 <pre>beliebtes Stadtviertel in Dublin</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/night/thumbnails/IMG_6943.jpg" /> <img
         src="img/night/thumbnails/IMG_6947.jpg" />
@@ -135,12 +132,11 @@ So 8:00-23:00</pre>
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="o-connel-bridge-night">O'Connel Bridge</h3>
+<h3 id="o-connel-bridge-night">O'Connel Bridge<sub>14</sub></h3>
 <pre>O'Connell Bridge, Dublin, Irland</pre>
 <hr class="my-4">
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
 <pre>10 min</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/night/thumbnails/IMG_7011.jpg" /> <img
         src="img/night/thumbnails/O'Connell_Street_Dublin2.JPG" /> <img
@@ -172,14 +168,13 @@ So 8:00-23:00</pre>
 </div>
 <!-- Platz 5 -->
 <hr class="my-4 large">
-<h3 id="the-spire">The Spire</h3>
+<h3 id="the-spire">The Spire<sub>39</sub></h3>
 <pre>O'Connell Street Upper, North City, Dublin, Irland</pre>
 <hr class="my-4">
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
 <pre>10 min</pre>
 <h4>Beschreibung</h4>
 <pre>Wahrzeichen</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/night/thumbnails/IMG_7006.jpg" /> <img
         src="img/night/thumbnails/IMG_7048.jpg" />

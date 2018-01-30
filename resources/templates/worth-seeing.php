@@ -1,9 +1,7 @@
 <h3 class="mb-4">Sehenswertes</h3>
 <div class="map" id="map4"></div>
-<!-- TODO: insert legend of points -->
 <h3>Ungef&auml;hre Gehzeit</h3>
 <pre>40 min</pre>
-<hr class="my-4">
 <h3 class="mb-4">Beschreibung</h3>
 <div class="content">
     <p class="mb-4">Die Tour startet bei der St. Patricks Cathedral,
@@ -20,7 +18,7 @@
 </div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="st-patricks-cathedral-worth_seeing">St. Patrick's Cathedral</h3>
+<h3 id="st-patricks-cathedral-worth_seeing">St. Patrick's Cathedral<sub>1</sub></h3>
 <pre>St Patrick's Close, Wood Quay, Dublin 8, Irland
 <a class="custom-url" target="_blank"
         href="http://www.stpatrickscathedral.ie/">www.stpatrickscathedral.ie</a>
@@ -80,7 +78,7 @@ Erwachsene: 4.20 &euro;</pre>
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="dublin-castle-worth_seeing">Dublin Castle</h3>
+<h3 id="dublin-castle-worth_seeing">Dublin Castle<sub>3</sub></h3>
 <pre>Dame St, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincastle.ie/">www.dublincastle.ie</a>
 </pre>
@@ -125,7 +123,7 @@ Erwachsene: 7 &euro;</pre>
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="city-hall-worth_seeing">City Hall</h3>
+<h3 id="city-hall-worth_seeing">City Hall<sub>46</sub></h3>
 <h3>(ehem. Rathaus)</h3>
 <pre>Dame St, Dublin 2
 <a class="custom-url" target="_blank" href="http://www.dublincity.ie/">www.dublincity.ie</a>
@@ -134,7 +132,6 @@ Erwachsene: 7 &euro;</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Sa 10:00-17:15
 So geschlossen</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/politics/thumbnails/IMG_7358.JPG" /> <img
         src="img/politics/thumbnails/IMG_7336.JPG" /> <img
@@ -164,7 +161,7 @@ So geschlossen</pre>
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="st-stephens-green-worth_seeing">St. Stephen's Green</h3>
+<h3 id="st-stephens-green-worth_seeing">St. Stephen's Green<sub>42</sub></h3>
 <pre>St Stephen's Green, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.ststephensgreenpark.ie/">www.ststephensgreenpark.ie</a>
@@ -173,11 +170,8 @@ So geschlossen</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Sa 07:30-Sonnenuntergang
 Sonn- und Feiertage 09:30-Sonnenuntergang</pre>
-<h4>Beschreibung</h4>
-<pre>Park / Oase</pre>
 <h4>F&uuml;hrungen</h4>
 <pre>auf Anfrage, sp&auml;testens einen Monat vor Durchf&uuml;hrung</pre>
-<hr class="my-4">
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/oasen/thumbnails/IMG_7426.JPG" /> <img
         src="img/oasen/thumbnails/IMG_7431.JPG" />
@@ -205,7 +199,7 @@ Sonn- und Feiertage 09:30-Sonnenuntergang</pre>
 </div>
 <!-- Platz 5 -->
 <hr class="my-4 large">
-<h3 id="the-little-museum-of-dublin">The Little Museum of Dublin</h3>
+<h3 id="the-little-museum-of-dublin">The Little Museum of Dublin<sub>49</sub></h3>
 <pre>St Stephen's Green, Dublin 15, Irland
 <a class="custom-url" target="_blank"
         href="https://www.littlemuseum.ie/">www.littlemuseum.ie</a>
@@ -246,7 +240,7 @@ Erwachsene: 10 &euro;</pre>
 <!-- Platz 6 -->
 <hr class="my-4 large">
 <h3 id="national-museum-an-der-kildare-street">National Museum an der
-    Kildare Street</h3>
+    Kildare Street<sub>50</sub></h3>
 <pre>2 Kildare Street, Dublin, Irland
 <a class="custom-url" target="_blank" href="https://www.museum.ie/">www.museum.ie</a>
 </pre>
