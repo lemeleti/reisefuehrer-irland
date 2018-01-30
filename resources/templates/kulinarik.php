@@ -230,9 +230,9 @@ So 11:30-23:00</pre>
         Empore ausgestattet und bekam wertvolle Buntglas-Fenster sowie eine
         sch&ouml;ne Orgel aus der Werkstatt des ber&uuml;hmten Orgelbauers
         Renatus Harris. Doch 1967 wurde die Kirche geschlossen und verfiel.
-        Nach einer umfassenden Renovation, er&ouml;ffnete darin 2005 das
+        Nach einer umfassenden Renovation er&ouml;ffnete darin 2005 das
         Restaurant/Pub. Weil die Umwandlung sorgf&auml;ltig erfolgte, kann man
-        die wundersch&ouml;nen Fenster und die Orgel noch immer bestaunen. Wie
+        die wundersch&ouml;nen Fenster und die Orgel noch immer bewundern. Wie
         in vielen Pubs in Dublin darf Live Musik nicht fehlen, diese spielt
         vorne beim ehemaligen Altar. The Church ist das beste Pub, um ein
         Guinness zu trinken, weil hier der Gr&uuml;nder von Guinness einst

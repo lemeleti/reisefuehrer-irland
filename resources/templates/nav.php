@@ -31,13 +31,13 @@
                                 <li class="nav-item"><a class="nav-link js-scroll-trigger"
                                     href="#music">Musik</a></li>
                                 <li class="nav-item"><a class="nav-link js-scroll-trigger"
-                                    href="#night">Nacht</a></li>
+                                    href="#night">By Night</a></li>
                                 <li class="nav-item"><a class="nav-link js-scroll-trigger"
                                     href="#oasen">Oasen</a></li>
                                 <li class="nav-item"><a class="nav-link js-scroll-trigger"
                                     href="#politic">Politik</a></li>
                                 <li class="nav-item"><a class="nav-link js-scroll-trigger"
-                                    href="#worth-seeing">Sehenswert</a></li>
+                                    href="#worth-seeing">Sehenswertes</a></li>
                             </ul>
                         </li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger"

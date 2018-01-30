@@ -1,4 +1,4 @@
-<h3 class="mb-4">Sehenswert</h3>
+<h3 class="mb-4">Sehenswertes</h3>
 <div class="map" id="map4"></div>
 <!-- TODO: insert legend of points -->
 <h3>Ungef&auml;hre Gehzeit</h3>
@@ -258,7 +258,7 @@ So 14:00-17:00</pre>
 <h4>Beschreibung</h4>
 <pre>Arch&auml;ologisches Museum</pre>
 <h4>Preis</h4>
-<pre>Gratis</pre>
+<pre>Eintritt frei</pre>
 <hr class="my-4">
 <pre>Tipp: Achtung viel Publikum am Wochenende, w&auml;hrend den irischen Schulferien und in der Hochsaison im Sommer. Es gibt ein Museumscaf&eacute;.</pre>
 <div class="w3-content w3-display-container slides my-4">

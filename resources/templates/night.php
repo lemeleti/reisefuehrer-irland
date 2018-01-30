@@ -1,4 +1,4 @@
-<h3 class="mb-4">Nacht</h3>
+<h3 class="mb-4">By Night</h3>
 <div class="map" id="map6"></div>
 <!-- TODO: insert legend of points -->
 <h3>Ungef&auml;hre Gehzeit</h3>

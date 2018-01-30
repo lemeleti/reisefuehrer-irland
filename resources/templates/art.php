@@ -103,7 +103,7 @@
 </div>
 <div class="content">
     <p>Die drei Bilder sind von verschiedenen K&uuml;nstlern und bilden
-        eine Open-Air-Ausstellung an der Temple (Lane?). Das erste Bild von
+        eine Open-Air-Ausstellung an der Temple Lane. Das erste Bild von
         links ist vom englischen K&uuml;nstler Dan Leo, der in Irland wohnhaft
         ist. Er verwendet verschiedene Farben, durch dieses Stilmittel erkennt
         man seine in ganz Irland verstreuten Werke sofort. Das mittlere Bild

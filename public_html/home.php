@@ -83,6 +83,7 @@ require_once TEMPLATES_PATH . '/nav.php';
                         <button class="w3-button w3-black w3-display-right"
                             onclick="plusDivs(this.parentElement,1)">&#10095;</button>
                     </div>
+                    <hr class="vertical-center large">
                 </div>
             </div>
         </div>
@@ -108,6 +109,7 @@ require_once TEMPLATES_PATH . '/nav.php';
                         f&uuml;r deine Reise nach Dublin abnehmen. Viel Spass beim
                         St&ouml;bern w&uuml;nschen dir Anabel, C&eacute;line, Leandro und
                         Silke</p>
+                    <hr class="vertical-center large">
                 </div>
             </div>
         </div>
@@ -120,6 +122,7 @@ require_once TEMPLATES_PATH . '/nav.php';
             <div class="col-lg-8 mx-auto text-center">
                 <div class="content-container">
                     <h2 class="section-heading">Spazierg&auml;nge</h2>
+                    <hr class="vertical-center">
                     <div class="map" id="map"></div>
                     <h5>Architektur (Farbe)</h5>
                     <pre>Dieser Spaziergang f&uuml;hrt dich quer durch ganz Dublin an wichtigen architektonischen Bauten vorbei. Die Zeitepoche reicht vom Mittelalter bis zur heutigen Zeit.</pre>
@@ -131,14 +134,15 @@ require_once TEMPLATES_PATH . '/nav.php';
                     <pre>Der Spaziergang ist ideal f&uuml;r Leute, die nicht nur in Museen verweilen wollen, sondern parallel zur Kunst auch die wundersch&ouml;ne Stadt entdecken m&ouml;chten. Die Tour beschr&auml;nkt sich auf Street-Art und kann gut mit anderen Touren kombiniert werden. Street-Art ist sehr lebendig und immer im Wandel, daher kann sich viel ver&auml;ndern und wir garantieren nicht, dass die beschriebenen Kunstwerke noch vorhanden sind, wenn du sie dir ansehen willst. Unser Tipp: Achte beim Flanieren auch auf die Nebengassen, Street-Art versteckt sich genau dort, wo man nicht darauf achtet.</pre>
                     <h5>Musik (Farbe)</h5>
                     <pre>In Dublin ist Musik sehr wichtig. In vielen Pubs kann man traditionelle Livemusik erleben, aber auch Rock'n Roll, Jazz und Klassik spielen eine wichtige Rolle. Aus Dublin kommt Irlands ber&uuml;hmteste Rockband U2. Dieser Spaziergang f&uuml;r dich an Orte, die mit Musik zu tun haben.</pre>
-                    <h5>Nacht (Farbe)</h5>
+                    <h5>By Night (Farbe)</h5>
                     <pre>In Dublin kann man auch am Abend viel sehen und erleben. Es gibt zahlreiche Pubs und Restaurants und viele Br&uuml;cken &uuml;ber den Liffey sind nachts beleuchtet. Ein sehr beliebtes Viertel ist Temple Bar, dort hat es an jeder zweiten Ecke ein Pub oder eine Bar.</pre>
                     <h5>Oasen (Farbe)</h5>
                     <pre>Brauchst du Zeit, um abzuschalten oder einfach einmal die Zeit zu geniessen und dies erst noch an der frischen Luft, dann wirst du hier sicher f&uuml;ndig.</pre>
                     <h5>Politik (Farbe)</h5>
                     <pre>Dieser Spaziergang f&uuml;hrt dich zu historischen und heute wichtigen Geb&auml;uden, die mit dem Thema Politik zu tun haben.</pre>
-                    <h5>Sehenswert (Farbe)</h5>
+                    <h5>Sehenswertes (Farbe)</h5>
                     <pre>Dieser Spaziergang f&uuml;hrt dich vorbei an bekannten Geb&auml;uden, Orten und Sehensw&uuml;rdigkeiten.</pre>
+                    <hr class="vertical-center large">
                 </div>
             </div>
         </div>
@@ -242,6 +246,7 @@ require_once TEMPLATES_PATH . '/nav.php';
             <div class="col-lg-8 mx-auto text-center">
                 <div class="content-container">
                     <?php include TEMPLATES_PATH . '/politic.php' ?>
+                    <hr class="vertical-center large">
                 </div>
             </div>
         </div>
@@ -254,6 +259,7 @@ require_once TEMPLATES_PATH . '/nav.php';
             <div class="col-lg-8 mx-auto text-center">
                 <div class="content-container">
                     <?php include TEMPLATES_PATH . '/worth-seeing.php' ?>
+                    <hr class="vertical-center large">
                 </div>
             </div>
         </div>
