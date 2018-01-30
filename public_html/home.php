@@ -292,14 +292,5 @@ require_once TEMPLATES_PATH . '/nav.php';
     </div>
 </section>
 <?php
-// TODO: entfernen, wenns nicht funktioniert
-if (! function_exists('mobile_user_agent_switch')) {
-
-    function is_client_apple_device()
-    {
-        return stristr($_SERVER['HTTP_USER_AGENT'], 'ipad') || stristr($_SERVER['HTTP_USER_AGENT'], 'iphone');
-    }
-}
-
 require_once TEMPLATES_PATH . '/footer.php';
 ?>
