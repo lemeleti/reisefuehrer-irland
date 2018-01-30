@@ -150,7 +150,7 @@ Erwachsene: 7 &euro;</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>
-    <b>t&auml;glich ge&ouml;ffnet</b>
+<b>t&auml;glich ge&ouml;ffnet</b>
 
 <b>M&auml;rz-September</b>
 10:00-18:30 Uhr (letzter Einlass: 17:30 Uhr)
@@ -199,7 +199,7 @@ Du kannst auch eine erm&auml;ssigte Kombikarte f&uuml;r Dublinia und die benachb
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>
-    <b>April, Mai, September und Oktober</b>
+<b>April, Mai, September und Oktober</b>
 Mo-Sa 09:30-18:00 Uhr (letzter Zutritt 17:15 Uhr)
 
 <b>Juni-August</b>
@@ -210,7 +210,7 @@ Mo-Sa 09:30-17:00 Uhr (letzter Zutritt 16:15 Uhr)
 </pre>
 <h4>Preis</h4>
 <pre>
-    <b>Einzelticket</b>
+<b>Einzelticket</b>
 Studierende: 3 &euro;
 Erwachsene: 6 &euro;
 
@@ -286,7 +286,7 @@ Erwachsene: 5 &euro;
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>
-    <b>Mai-September</b>
+<b>Mai-September</b>
 Mo-Sa 9:30-17:00
 So 9:30-16:45
 

@@ -41,7 +41,7 @@
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>
-    <b>M&auml;rz-Oktober</b>
+<b>M&auml;rz-Oktober</b>
 Mo-Fr 9:00-17:00
 Sa 9:00-18:00
 So 9:00-10:30, 12:30-14:30 und 16:30-18:00
@@ -54,7 +54,7 @@ So 9:00-10:30 und 12:30-14:30</pre>
 <pre>Kirche</pre>
 <h4>Preis</h4>
 <pre>
-    <b>Einzelpersonen</b>
+<b>Einzelpersonen</b>
 Studierende: 4.50 &euro;
 Erwachsene: 5.50 &euro;
 
@@ -103,7 +103,7 @@ Erwachsene: 4.20 &euro;</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>
-    <b>April, Mai, September und Oktober</b>
+<b>April, Mai, September und Oktober</b>
 Mo-Sa 09:30-18:00 Uhr (letzter Zutritt 17:15 Uhr)
 
 <b>Juni-August</b>
@@ -114,7 +114,7 @@ Mo-Sa 09:30-17:00 Uhr (letzter Zutritt 16:15 Uhr)
 </pre>
 <h4>Preis</h4>
 <pre>
-    <b>Einzelticket</b>
+<b>Einzelticket</b>
 Studierende: 3 &euro;
 Erwachsene: 6 &euro;
 
@@ -267,7 +267,7 @@ Sa 9:30-12:45</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>
-    <b>Mai-September</b>
+<b>Mai-September</b>
 Mo-Sa 9:30-17:00
 So 9:30-16:45
 

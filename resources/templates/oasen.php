@@ -144,7 +144,7 @@ Okt 19:00, Nov 17:00, Dez 16:30</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>
-    <b>Januar und Dezember</b>
+<b>Januar und Dezember</b>
 Mo-Sa 08:00-15:30
 So 10:00-15:30
 

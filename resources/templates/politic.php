@@ -137,8 +137,7 @@ Do 10:00-17:00
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="leinster-house">Leinster House (ehem. Herzogpalast) /
-    Parlamentshaus</h3>
+<h3 id="leinster-house">Leinster House (ehem. Herzogpalast) / Parlamentshaus</h3>
 <pre>Kildare St, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.oireachtas.ie/parliament/">www.oireachtas.ie/parliament</a>

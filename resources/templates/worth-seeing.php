@@ -28,7 +28,7 @@
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>
-    <b>M&auml;rz-Oktober</b>
+<b>M&auml;rz-Oktober</b>
 Mo-Fr 9:00-17:00
 Sa 9:00-18:00
 So 9:00-10:30, 12:30-14:30 und 16:30-18:00
@@ -41,7 +41,7 @@ So 9:00-10:30 und 12:30-14:30</pre>
 <pre>Kirche</pre>
 <h4>Preis</h4>
 <pre>
-    <b>Einzelpersonen</b>
+<b>Einzelpersonen</b>
 Studierende: 4.50 &euro;
 Erwachsene: 5.50 &euro;
 
