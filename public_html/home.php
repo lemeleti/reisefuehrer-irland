@@ -83,7 +83,6 @@ require_once TEMPLATES_PATH . '/nav.php';
                         <button class="w3-button w3-black w3-display-right"
                             onclick="plusDivs(this.parentElement,1)">&#10095;</button>
                     </div>
-                    <hr class="vertical-center large">
                 </div>
             </div>
         </div>
@@ -109,7 +108,6 @@ require_once TEMPLATES_PATH . '/nav.php';
                         f&uuml;r deine Reise nach Dublin abnehmen. Viel Spass beim
                         St&ouml;bern w&uuml;nschen dir Anabel, C&eacute;line, Leandro und
                         Silke</p>
-                    <hr class="vertical-center large">
                 </div>
             </div>
         </div>
@@ -142,7 +140,6 @@ require_once TEMPLATES_PATH . '/nav.php';
                     <pre>Dieser Spaziergang f&uuml;hrt dich zu historischen und heute wichtigen Geb&auml;uden, die mit dem Thema Politik zu tun haben.</pre>
                     <h5>Sehenswertes (Farbe)</h5>
                     <pre>Dieser Spaziergang f&uuml;hrt dich vorbei an bekannten Geb&auml;uden, Orten und Sehensw&uuml;rdigkeiten.</pre>
-                    <hr class="vertical-center large">
                 </div>
             </div>
         </div>
@@ -259,7 +256,6 @@ require_once TEMPLATES_PATH . '/nav.php';
             <div class="col-lg-8 mx-auto text-center">
                 <div class="content-container">
                     <?php include TEMPLATES_PATH . '/worth-seeing.php' ?>
-                    <hr class="vertical-center large">
                 </div>
             </div>
         </div>
