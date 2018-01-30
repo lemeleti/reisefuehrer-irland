@@ -111,6 +111,7 @@ So 11:30-23:00</pre>
 <pre>Restaurant und Pub</pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/music/thumbnails/IMG_5830.jpg" />
+    <img src="img/music/thumbnails/9696750448_00d8028896_o.jpg" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -154,8 +155,7 @@ So 12:30-23:30</pre>
 <hr class="my-4">
 <pre>Das kleine Pub ist immer sehr voll, wer einen Platz will, braucht Geduld oder muss sich im &uuml;berdachten Hof mit einem Stehtisch begn&uuml;gen. Reservieren kann man nicht. Der Besuch lohnt sich aber.</pre>
 <div class="w3-content w3-display-container slides my-4">
-    <!-- TODO: Bild folgt (The Brazen Head) -->
-    <img src="img/portfolio/thumbnails/1.jpg" />
+    <img src="img/music/thumbnails/The_Brazen_Head_(cropped).jpg" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>

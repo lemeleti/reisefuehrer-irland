@@ -112,6 +112,22 @@ https://en.wikipedia.org/wiki/File:Dublin_four_courts.JPG Aufgerufen am 22.01.20
 https://commons.wikimedia.org/wiki/File:LeinsterHouseDublin2010.JPG Aufgerufen am 22.01.2018
 Autor Tebibyte
 
+<b>National mueseum at Kildare Street:</b>
+https://commons.wikimedia.org/wiki/File:Dublin_Kildare_Street_National_Museum_of_Ireland.JPG Autor Aufgerufen am 30.01.2018
+Autor J.-H. Janssen
+
+<b>The little museum of Dublin:</b>
+https://en.wikipedia.org/wiki/File:The_Little_Museum_of_Dublin.jpg Aufgerufen am 30.01.2018
+Autor Debbiesw
+
+<b>The Church (Kulinarik und Musik):</b>
+https://www.flickr.com/photos/infomatique/9696750448/in/photostream/ Aufgerufen am 30.01.2018
+Autor William Murphy
+
+<b>The Brazen Head:</b>
+https://commons.wikimedia.org/wiki/File:The_Brazen_Head_(cropped).jpg Aufgerufen am 30.01.2018
+Autor Harold Strong
+
 </pre>
                 </div>
             </div>

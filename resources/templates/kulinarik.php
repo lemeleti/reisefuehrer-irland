@@ -209,6 +209,7 @@ So 11:30-23:00</pre>
 <pre>Restaurant und Pub</pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/music/thumbnails/IMG_5830.jpg" />
+    <img src="img/music/thumbnails/9696750448_00d8028896_o.jpg" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>

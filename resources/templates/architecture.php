@@ -353,7 +353,7 @@ So 12:00-16:30</pre>
         Gesellenst&uuml;ck erbaut. Danach folgten einige weitere
         Prestigebauten in Dublin wie zum Beispiel das "Four Courts". Das
         imposante Geb&auml;ude hat eine L&auml;nge von 114 Metern und eine
-        markante Kuppel. Die Kuppel von 60 Metern Höhe wird gekr&ouml;nt von
+        markante Kuppel. Die Kuppel von 60 Metern H&ouml;he wird gekr&ouml;nt von
         einer &uuml;berlebensgrossen Statue des Handels. Der Bau kostete
         damals eine Summe von 200'000 Pfund und verschaffte vielen Handwerkern
         in Dublin Arbeit. Urspr&uuml;nglich wurde das Geb&auml;ude als Amt

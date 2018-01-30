@@ -218,8 +218,7 @@ Erwachsene: 10 &euro;</pre>
 <hr class="my-4">
 <pre>Das von aussen unscheinbare Museum &uuml;berrascht mit einer interessanten Ausstellung &uuml;ber das 20. Jahrhundert in Dublin. Im Untergeschoss befindet sich ein kleines Caf&eacute;. Die Nachfrage ist sehr gross, es ist empfehlenswert, die Tickets vorab zu kaufen.</pre>
 <div class="w3-content w3-display-container slides my-4">
-    <!-- TODO: Bild folgt (The Little Museum of Dublin) -->
-    <img src="img/portfolio/thumbnails/1.jpg" />
+    <img src="img/worth-seeing/thumbnails/The_Little_Museum_of_Dublin.jpg" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -257,8 +256,7 @@ So 14:00-17:00</pre>
 <hr class="my-4">
 <pre>Tipp: Achtung viel Publikum am Wochenende, w&auml;hrend den irischen Schulferien und in der Hochsaison im Sommer. Es gibt ein Museumscaf&eacute;.</pre>
 <div class="w3-content w3-display-container slides my-4">
-    <!-- TODO: Bild folgt (National Museum an der Kildare Street) -->
-    <img src="img/portfolio/thumbnails/1.jpg" />
+    <img src="img/worth-seeing/thumbnails/Dublin_Kildare_Street_National_Museum_of_Ireland.JPG" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
