@@ -125,7 +125,8 @@ Erwachsene: 7 &euro;</pre>
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="city-hall-worth_seeing">City Hall (ehem. Rathaus)</h3>
+<h3 id="city-hall-worth_seeing">City Hall</h3>
+<h3>(ehem. Rathaus)</h3>
 <pre>Dame St, Dublin 2
 <a class="custom-url" target="_blank" href="http://www.dublincity.ie/">www.dublincity.ie</a>
 </pre>

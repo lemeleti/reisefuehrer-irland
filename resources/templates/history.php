@@ -153,10 +153,12 @@ Erwachsene: 7 &euro;</pre>
 <b>t&auml;glich ge&ouml;ffnet</b>
 
 <b>M&auml;rz-September</b>
-10:00-18:30 Uhr (letzter Einlass: 17:30 Uhr)
+10:00-18:30 Uhr
+(letzter Einlass: 17:30 Uhr)
 
 <b>Oktober-Februar</b>
-10:00-17:30 Uhr (letzter Einlass: 16:30 Uhr)
+10:00-17:30 Uhr
+(letzter Einlass: 16:30 Uhr)
 </pre>
 <h4>Beschreibung</h4>
 <pre>Wikinger- und Mittelalter-Museum</pre>
@@ -200,13 +202,16 @@ Du kannst auch eine erm&auml;ssigte Kombikarte f&uuml;r Dublinia und die benachb
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>
 <b>April, Mai, September und Oktober</b>
-Mo-Sa 09:30-18:00 Uhr (letzter Zutritt 17:15 Uhr)
+Mo-Sa 09:30-18:00 Uhr
+(letzter Zutritt 17:15 Uhr)
 
 <b>Juni-August</b>
-Mo-Sa 09:30-19:00 Uhr (letzter Zutritt 18:15 Uhr)
+Mo-Sa 09:30-19:00 Uhr
+(letzter Zutritt 18:15 Uhr)
 
 <b>November-M&auml;rz</b>
-Mo-Sa 09:30-17:00 Uhr (letzter Zutritt 16:15 Uhr)
+Mo-Sa 09:30-17:00 Uhr
+(letzter Zutritt 16:15 Uhr)
 </pre>
 <h4>Preis</h4>
 <pre>
