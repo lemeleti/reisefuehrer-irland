@@ -64,13 +64,13 @@
 	{
 		"id": 6,
 		"points": [
-			["The Duke", 53.3419780, -6.2587800, "#the-duke", "0F0F0F"],
+			["The Duke", 53.3419780, -6.2587800, "#the-duke", "454141"],
 			["O'Neill's Pub and Kitchen", 53.3439050, -6.2607610, "#o-neill-s-pub-and-kitchen-night", "D3D3D3"],
-			["Temple Bar", 53.3449380, -6.2674730, "#temple-bar", "0F0F0F"],
+			["Temple Bar", 53.3449380, -6.2674730, "#temple-bar", "454141"],
 			["O'Connel Bridge", 53.3472490, -6.2592740, "#o-connel-bridge-night", "D3D3D3"],
-			["The Spire", 53.3498090, -6.2602550, "#the-spire", "0F0F0F"]
+			["The Spire", 53.3498090, -6.2602550, "#the-spire", "454141"]
 		], 
-		"strokeColor": "0F0F0F"
+		"strokeColor": "454141"
 	},
 	{
 		"id": 7,
