@@ -89,15 +89,15 @@
 	{
 		"id": 8,
 		"points": [
-			["Vice Coffee", 53.3479740, -6.2623300, "#vice-coffee", "CCCC00"],
-			["Love Supreme", 53.3530420, -6.2852520, "#love-supreme", "CCCC00"],
-			["Wuff", 53.3475040, -6.2824990, "#wuff", "CCCC00"],
-			["Nando's", 53.3433090, -6.2620740, "#nando-s", "CCCC00"],
-			["Farm", 53.3424650, -6.2576810, "#farm", "CCCC00"],
-			["Beanhive Coffee", 53.3398070, -6.2588250, "#beanhive-coffee", "CCCC00"],
+			["Vice Coffee", 53.3479740, -6.2623300, "#vice-coffee", "008080"],
+			["Love Supreme", 53.3530420, -6.2852520, "#love-supreme", "008080"],
+			["Wuff", 53.3475040, -6.2824990, "#wuff", "008080"],
+			["Nando's", 53.3433090, -6.2620740, "#nando-s", "008080"],
+			["Farm", 53.3424650, -6.2576810, "#farm", "008080"],
+			["Beanhive Coffee", 53.3398070, -6.2588250, "#beanhive-coffee", "008080"],
 			["The Church", 53.3486200, -6.2667010, "#the-church-kulinarik", "D3D3D3"]
 		], 
-		"strokeColor": "CCCC00"
+		"strokeColor": "008080"
 	},
 	{
 		"id": 9,
