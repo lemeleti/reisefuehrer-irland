@@ -103,15 +103,15 @@
 		"id": 9,
 		"points": [
 			["Four Courts", 53.3435230,-6.2625780, "#four-courts-art", "D3D3D3"],
-			["BP Fallon", 53.3448440, -6.2642690, "#bp-fallon", "00CCCC"],
-			["The city is my garden", 53.3481210, -6.2637540, "#the-city-is-my-garden", "00CCCC"],
-			["Drei verschiedene Streetarts", 53.3449380, -6.2674730, "#drei-verschiedene-streetarts", "00CCCC"],
-			["Trash Animals", 53.3463430, -6.2551350, "#trash-animals", "00CCCC"],
-			["Dead Meat", 53.3384970, -6.2549320, "#dead-meat", "00CCCC"],
-			["Gregorianische Tueren", 53.3392220, -6.2504750, "#gregorianische-tueren", "00CCCC"],
-			["Subset Football", 53.3476590, -6.2793890, "#subset-football", "00CCCC"],
-			["Vadis und Tilf", 53.3484180, -6.2782100, "#vadis-und-tilf", "00CCCC"]
+			["BP Fallon", 53.3448440, -6.2642690, "#bp-fallon", "7D58AB"],
+			["The city is my garden", 53.3481210, -6.2637540, "#the-city-is-my-garden", "7D58AB"],
+			["Drei verschiedene Streetarts", 53.3449380, -6.2674730, "#drei-verschiedene-streetarts", "7D58AB"],
+			["Trash Animals", 53.3463430, -6.2551350, "#trash-animals", "7D58AB"],
+			["Dead Meat", 53.3384970, -6.2549320, "#dead-meat", "7D58AB"],
+			["Gregorianische Tueren", 53.3392220, -6.2504750, "#gregorianische-tueren", "7D58AB"],
+			["Subset Football", 53.3476590, -6.2793890, "#subset-football", "7D58AB"],
+			["Vadis und Tilf", 53.3484180, -6.2782100, "#vadis-und-tilf", "7D58AB"]
 		], 
-		"strokeColor": "00CCCC"
+		"strokeColor": "7D58AB"
 	}
 ]
