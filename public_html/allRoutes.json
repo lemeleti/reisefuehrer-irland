@@ -53,13 +53,13 @@
 	{
 		"id": 5,
 		"points": [
-			["Grand Canal Doc", 53.3424230, -6.2412810, "#grand-canal-doc", "00FFFF"],
-			["Irish Rock n' Roll Museum", 53.3448650, -6.2645990, "#irish-rockand-roll-museum", "00FFFF"],
+			["Grand Canal Doc", 53.3424230, -6.2412810, "#grand-canal-doc", "101F8D"],
+			["Irish Rock n' Roll Museum", 53.3448650, -6.2645990, "#irish-rockand-roll-museum", "101F8D"],
 			["The Church", 53.3486200, -6.2667010, "#the-church-music", "D3D3D3"],
-			["The Brazen Head", 53.3449330, -6.2763320, "#the-brazen-head", "00FFFF"],
+			["The Brazen Head", 53.3449330, -6.2763320, "#the-brazen-head", "101F8D"],
 			["O'Neill's Pub and Kitchen", 53.3439050, -6.2607610, "#o-neill-s-pub-and-kitchen-music", "D3D3D3"]
 		], 
-		"strokeColor": "00FFFF"
+		"strokeColor": "101F8D"
 	},
 	{
 		"id": 6,
