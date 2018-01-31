@@ -7,7 +7,7 @@
 <!-- Platz 1 -->
 <hr class="my-4 large">
 <h3 id="four-courts-art">Four Courts<sub>24</sub></h3>
-<pre>St. Andrew's Ln, Irland (hinter dem Hangar Nachtclub)</pre>
+<pre>St. Andrew's Lane, Irland (hinter dem Hangar Nachtclub)</pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/art/thumbnails/1. St Andres Ln.JPG" />
 
@@ -29,7 +29,7 @@
 <!-- Platz 2 -->
 <hr class="my-4 large">
 <h3 id="bp-fallon">BP Fallon<sub>25</sub></h3>
-<pre>Tempel Ln S, Irland</pre>
+<pre>Tempel Lane S, Irland</pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/art/thumbnails/IMG_5101.JPG" />
 
@@ -81,7 +81,7 @@
 <!-- Platz 4 -->
 <hr class="my-4 large">
 <h3 id="drei-verschiedene-streetarts">Drei verschiedene Street-Arts<sub>27</sub></h3>
-<pre>Temple Ln, Irland</pre>
+<pre>Temple Lane, Irland</pre>
 <hr class="my-4">
 <h4>Beschreibung</h4>
 <pre>In der N&auml;he vom ber&uuml;hmten BP Fallon Bild findet man drei wundersch&ouml;ne Kunstwerke.</pre>
