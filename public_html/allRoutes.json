@@ -76,15 +76,15 @@
 		"id": 7,
 		"points": [
 			["Dublin Castle", 53.3428860, -6.2674280, "#dublin-castle-history", "D3D3D3"],
-			["Georgianische Gebaeude", 53.3392220, -6.2504750, "#georgianische-gebaeude", "CC00CC"],
+			["Georgianische Gebaeude", 53.3392220, -6.2504750, "#georgianische-gebaeude", "AFEEEE"],
 			["Custom House", 53.3487040, -6.2531380, "#custom-house-history", "D3D3D3"],
 			["O'Connel Bridge", 53.3472490, -6.2592740, "#o-connel-bridge-history", "D3D3D3"],
-			["Dublinia", 53.3431490, -6.2720610, "#dublinia", "CC00CC"],
+			["Dublinia", 53.3431490, -6.2720610, "#dublinia", "AFEEEE"],
 			["Christ Church Cathedral", 53.3435130, -6.2710600, "#christ-church-cathedral-history", "D3D3D3"],
-			["Grafton Street", 53.3421500, -6.2598450, "#grafton-street", "CC00CC"],
+			["Grafton Street", 53.3421500, -6.2598450, "#grafton-street", "AFEEEE"],
 			["Trinity College", 53.3437940, -6.2545720, "#trinity-college-history", "D3D3D3"]
 		], 
-		"strokeColor": "CC00CC"
+		"strokeColor": "AFEEEE"
 	},
 	{
 		"id": 8,
