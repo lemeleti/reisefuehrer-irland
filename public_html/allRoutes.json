@@ -45,10 +45,10 @@
 			["Dublin Castle", 53.3428860, -6.2674280, "#dublin-castle-worth_seeing", "D3D3D3"],
 			["City Hall", 53.3438640,-6.2671750, "#city-hall-worth_seeing", "D3D3D3"],
 			["St. Stephen's Green", 53.3381740, -6.2591190, "#st-stephens-green-worth_seeing", "D3D3D3"],
-			["The Little Museum of Dublin", 53.3396120, -6.2583260 , "#the-little-museum-of-dublin", "FFFF00"],
-			["National Museum an der Kildare Street", 53.3402230, -6.2549210 , "#national-museum-an-der-kildare-street", "FFFF00"]
+			["The Little Museum of Dublin", 53.3396120, -6.2583260 , "#the-little-museum-of-dublin", "FFA500"],
+			["National Museum an der Kildare Street", 53.3402230, -6.2549210 , "#national-museum-an-der-kildare-street", "FFA500"]
 		], 
-		"strokeColor": "FFFF00"
+		"strokeColor": "FFA500"
 	},
 	{
 		"id": 5,
