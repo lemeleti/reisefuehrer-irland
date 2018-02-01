@@ -1,7 +1,7 @@
 <h3 class="mb-4">By Night</h3>
 <div class="map" id="map6"></div>
 <h3>Ungef&auml;hre Gehzeit</h3>
-<pre>19 min</pre>
+<pre>20 min</pre>
 <h3 class="mb-4">Beschreibung</h3>
 <div class="content">
     <p class="mb-4">Der Spaziergang startet beim Pub The Duke, das jeden
@@ -22,12 +22,12 @@
         href="http://www.thedukedublin.com/491-2/">www.thedukedublin.com</a>
 </pre>
 <hr class="my-4">
-<h4>Ungef&auml;hre Dauer des Besuchs</h4>
+<h4>Ungef&auml;hre Dauer des Pub Crawls</h4>
 <pre>2 h</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Fr 09:00-18:00</pre>
 <h4>Beschreibung</h4>
-<pre>Pub</pre>
+<pre>Pub Crawl mit Start im Pub The Duke</pre>
 <h4>Preis</h4>
 <pre>Studierende: 11 &euro;
 Erwachsene: 13 &euro;</pre>
@@ -63,8 +63,6 @@ Erwachsene: 13 &euro;</pre>
         href="http://www.oneillspubdublin.com/">www.oneillspubdublin.com</a>
 </pre>
 <hr class="my-4">
-<h4>Ungef&auml;hre Dauer des Besuchs</h4>
-<pre>1 h</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Do 8:00-23:30
 Fr und Sa 8:00-0:30
