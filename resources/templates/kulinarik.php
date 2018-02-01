@@ -43,7 +43,7 @@
 <!-- Platz 2 -->
 <hr class="my-4 large">
 <h3 id="love-supreme">Love Supreme<sub>18</sub></h3>
-<pre>57 Manor St, Stoneybatter, Irland
+<pre>57 Manor Street, Stoneybatter, Irland
 <a class="custom-url" target="_blank" href="http://www.lovesupreme.ie/">www.lovesupreme.ie</a>
 </pre>
 <hr class="my-4">
@@ -78,7 +78,7 @@ Sa und So 10:00-17:00 Uhr
 <!-- Platz 3 -->
 <hr class="my-4 large">
 <h3 id="wuff">Wuff<sub>19</sub></h3>
-<pre>23 Benburb St, Arran Quay, Dublin 7, Irland
+<pre>23 Benburb Street, Arran Quay, Dublin 7, Irland
 <a class="custom-url" target="_blank" href="http://www.wuff.ie/">www.wuff.ie</a>
 </pre>
 <hr class="my-4">
@@ -111,7 +111,7 @@ So 10:00-16:00 Uhr
 <!-- Platz 4 -->
 <hr class="my-4 large">
 <h3 id="nando-s">Nando's<sub>20</sub></h3>
-<pre>12 St Andrew's St, Dublin 2, Irland
+<pre>12 St Andrew's Street, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.nandos.ie/">www.nandos.ie</a>
 </pre>
 <hr class="my-4">
@@ -142,7 +142,7 @@ So 12:00-22:00 Uhr
 <!-- Platz 5 -->
 <hr class="my-4 large">
 <h3 id="farm">Farm<sub>21</sub></h3>
-<pre>3 Dawson St, Dublin 2, Irland
+<pre>3 Dawson Street, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.thefarmfood.ie/">www.thefarmfood.ie</a>
 </pre>
 <hr class="my-4">
@@ -168,7 +168,7 @@ So 12:00-22:00 Uhr
 <!-- Platz 6 -->
 <hr class="my-4 large">
 <h3 id="beanhive-coffee">Beanhive Coffee<sub>22</sub></h3>
-<pre>Dawson Street Dawson St, Dublin 2, D02 FY28, Irland
+<pre>Dawson Street, Dublin 2, D02 FY28, Irland
 <a class="custom-url" target="_blank" href="http://www.beanhive.ie/">www.beanhive.ie</a>
 </pre>
 <hr class="my-4">
