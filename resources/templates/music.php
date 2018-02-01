@@ -1,7 +1,7 @@
 <h3 class="mb-4">Musik</h3>
 <div class="map" id="map5"></div>
 <h3>Ungef&auml;hre Gehzeit</h3>
-<pre>60 min</pre>
+<pre>1 h</pre>
 <h3 class="mb-4">Beschreibung</h3>
 <div class="content">
     <p class="mb-4">Die Tour startet bei der Schleuse am Grand Canal. Dort
