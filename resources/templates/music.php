@@ -140,7 +140,7 @@ So 11:30-23:00</pre>
 <!-- Platz 4 -->
 <hr class="my-4 large">
 <h3 id="the-brazen-head">The Brazen Head<sub>35</sub></h3>
-<pre>20 Lower Bridge St, Merchants Quay, Dublin 8, Irland
+<pre>20 Lower Bridge Street, Merchants Quay, Dublin 8, Irland
 <a class="custom-url" target="_blank" href="http://www.brazenhead.com/">www.brazenhead.com</a>
 </pre>
 <hr class="my-4">
