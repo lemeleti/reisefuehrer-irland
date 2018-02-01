@@ -8,7 +8,7 @@
         Sinn, denn bei Oasen geht es darum, die Zeit zu geniessen oder eine
         Pause zu machen. Deshalb stellen wir dir hier einige
         M&ouml;glichkeiten vor, dich in einem der vielen Dubliner P&auml;rke
-        zu erholen.</p>
+        zu erholen. Einige sind sehr gross, andere klein und gem&uuml;tlich</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -40,7 +40,7 @@
         Naherholungsgebiet gen&uuml;tzt. Mit seiner Gr&ouml;sse von 7.07 km<sup>2</sup>
         ist er der gr&ouml;sste Park Europas. Er ist beinahe doppelt so gross
         wie der Central Park in New York. Der Park ist nicht nach seinem
-        Namensvetter dem Feuervogel benannt, sondern der Name stammt aus dem
+        Namensvetter dem Feuervogel benannt, der Name stammt aus dem
         irischen "Fionn Uisce", was etwa so viel wie "klares Wasser" bedeutet.
         Der Park wurde im 17. Jahrhundert f&uuml;r die englischen Gouverneure
         errichtet und als Jagdgebiet genutzt. Seit 1747 steht der Park der
