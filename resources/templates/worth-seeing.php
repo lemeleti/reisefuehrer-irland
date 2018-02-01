@@ -124,7 +124,6 @@ Erwachsene: 7 &euro;</pre>
 <!-- Platz 3 -->
 <hr class="my-4 large">
 <h3 id="city-hall-worth_seeing">City Hall<sub>46</sub></h3>
-<h3>(ehem. Rathaus)</h3>
 <pre>Dame St, Dublin 2
 <a class="custom-url" target="_blank" href="http://www.dublincity.ie/">www.dublincity.ie</a>
 </pre>
@@ -132,6 +131,8 @@ Erwachsene: 7 &euro;</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Sa 10:00-17:15
 So geschlossen</pre>
+<h4>Beschreibung</h4>
+<pre>ehem. Rathaus</pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/politics/thumbnails/IMG_7358.JPG" /> <img
         src="img/politics/thumbnails/IMG_7336.JPG" /> <img
