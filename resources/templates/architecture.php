@@ -52,13 +52,9 @@ So 9:00-10:30 und 12:30-14:30</pre>
 <pre>Kirche</pre>
 <h4>Preis</h4>
 <pre>
-<b>Einzelpersonen</b>
 Studierende: 4.50 &euro;
 Erwachsene: 5.50 &euro;
-
-<b>Gruppen (ab 10 Personen)</b>
-Studierende: 3.70 &euro;
-Erwachsene: 4.20 &euro;</pre>
+</pre>
 <h4>F&uuml;hrung</h4>
 <pre>T&auml;glich 10:30, 11:30, 15:00 und 15:30
 (im Eintrittspreis enthalten)</pre>
@@ -115,13 +111,8 @@ Mo-Sa 09:30-17:00 Uhr
 </pre>
 <h4>Preis</h4>
 <pre>
-<b>Einzelticket</b>
 Studierende: 3 &euro;
 Erwachsene: 6 &euro;
-
-<b>Gruppen (ab 10 Personen)</b>
-Studierende: 2.50 &euro;
-Erwachsene: 5 &euro;
 </pre>
 <h4>Baustil</h4>
 <pre>Fr&uuml;hgotik</pre>
@@ -219,7 +210,7 @@ So 11:00-18:00</pre>
 <div class="content">
     <p>Das Geb&auml;ude f&auml;llt durch seine imposante
         Metall-Glaskonstruktion auf. Es befindet sich direkt neben dem St.
-        Stephens Green Park auf der Westseite. Das 1988 erbaute
+        Stephens Green Park, auf der Westseite. Das 1988 erbaute
         Einkaufszentrum war damals das gr&ouml;sste Einkaufszentrum Irlands.</p>
 </div>
 <div class="show-more">
@@ -325,7 +316,7 @@ So 12:00-16:30</pre>
         Fussg&auml;ngerbr&uuml;cke, die 1816 gebaut wurde. Ihren Namen bekam
         sie, weil man fr&uuml;her einen halben bzw. einen Penny als Zoll
         f&uuml;r die &Uuml;berquerung zahlen musste. Heute befinden sich an
-        den weiss gestrichenen gusseisernen Br&uuml;stungen viele love locks
+        den weiss gestrichenen, gusseisernen Br&uuml;stungen viele love locks
         (Liebesschl&ouml;sser).</p>
 </div>
 <div class="show-more">
@@ -333,11 +324,13 @@ So 12:00-16:30</pre>
 </div>
 <!-- Platz 8 -->
 <hr class="my-4 large">
-<h3 id="custom-house-architecture">Custom House (Umweltministerium)<sub>8</sub></h3>
+<h3 id="custom-house-architecture">Custom House<sub>8</sub></h3>
 <pre>North Dock, Dublin 1, Irland</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Fr 09:00-17:00</pre>
+<h4>Beschreibung</h4>
+<pre>ehem. Zollamt / heute Umweltministerium</pre>
 <h4>Baustil</h4>
 <pre>Neoklassizismus</pre>
 <div class="w3-content w3-display-container slides my-4">
@@ -360,8 +353,8 @@ So 12:00-16:30</pre>
         f&uuml;r Z&ouml;lle von ankommenden Schiffen gebraucht, bis der Hafen
         weiter flussabw&auml;rts verlegt wurde. Im B&uuml;rgerkrieg 1921 wurde
         dieses Geb&auml;ude schwer besch&auml;digt, was zu einer umfassenden
-        Renovation f&uuml;hrte. Einem Brand fiel die ganze Innengestaltung von
-        J. Gandons zum Opfer, was auch zum Einsturz der Kuppel f&uuml;hrte.
+        Renovation f&uuml;hrte. Ein Brand zerst&ouml;rte die ganze Innengestaltung von
+        J. Gandons und f&uuml;hrte zum Einsturz der Kuppel f&uuml;hrte.
         Diese wurde wiederaufgebaut, aber in einem anderen Kalksandstein.</p>
 </div>
 <div class="show-more">
@@ -390,7 +383,7 @@ So 12:00-16:30</pre>
         Die Br&uuml;cke ist knapp 100 Meter lang und kann um 90 Grad
         geschwenkt werden, um grossen Schiffen die Durchfahrt zu
         erm&ouml;glichen. 2006 erhielt der Entwurf der Br&uuml;cke die
-        Auszeichnung "Beste Fussg&auml;ngerbr&uuml;cke".</p>
+        Auszeichnung "beste Fussg&auml;ngerbr&uuml;cke".</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -417,7 +410,7 @@ So 12:00-16:30</pre>
     <p>Die Br&uuml;cke des spanischen Architekten und Bauingenieurs
         Santiago Calatrava ist einer Harfe nachempfunden, die das Wahrzeichen
         Irlands darstellt. Die Br&uuml;cke wurde nach dem irischen Literaten
-        Samuel Beckett benannt. Sie ist 120 Meter lang und ist an der
+        Samuel Beckett benannt. Sie ist 120 Meter lang und an der
         h&ouml;chsten Spitze 48 Meter hoch. Die Br&uuml;cke verbindet die
         Macken Street auf der S&uuml;dseite mit der Guild Street auf der
         Nordseite. Sie liegt im modernen Stadtteil Docklands. Die Br&uuml;cke
@@ -466,7 +459,7 @@ So 12:00-16:30</pre>
 <h4>Beschreibung</h4>
 <pre>Wohnhaus</pre>
 <hr class="my-4">
-<pre>Besichtigung von aussen.</pre>
+<pre>Besichtigung nur von aussen m&ouml;glich.</pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/architecture/thumbnails/IMG_7534.JPG" /> <img
         src="img/architecture/thumbnails/IMG_7529.JPG" /> <img
