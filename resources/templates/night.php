@@ -17,7 +17,7 @@
 <!-- Platz 1 -->
 <hr class="my-4 large">
 <h3 id="the-duke">The Duke<sub>37</sub></h3>
-<pre>9 Duke St, Dublin 2, Irland
+<pre>9 Duke Street, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.thedukedublin.com/491-2/">www.thedukedublin.com</a>
 </pre>
