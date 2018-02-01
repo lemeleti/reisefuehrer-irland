@@ -79,15 +79,17 @@ Erwachsene: 4.20 &euro;</pre>
 <!-- Platz 2 -->
 <hr class="my-4 large">
 <h3 id="dublin-castle-worth_seeing">Dublin Castle<sub>3</sub></h3>
-<pre>Dame St, Dublin 2, Irland
+<pre>Dame Street, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincastle.ie/">www.dublincastle.ie</a>
 </pre>
 <hr class="my-4">
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
-<pre>ca. 1 h 30 min</pre>
+<pre>1 h 30 min</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Sa 9:45-17:45
 Sonn- und Feiertage 12:00-16:45</pre>
+<h4>Beschreibung</h4>
+<pre>Burg mit Museen</pre>
 <h4>Preis</h4>
 <pre>Studierende: 6 &euro;
 Erwachsene: 7 &euro;</pre>
@@ -124,7 +126,7 @@ Erwachsene: 7 &euro;</pre>
 <!-- Platz 3 -->
 <hr class="my-4 large">
 <h3 id="city-hall-worth_seeing">City Hall<sub>45</sub></h3>
-<pre>Dame St, Dublin 2
+<pre>Dame Street, Dublin 2
 <a class="custom-url" target="_blank" href="http://www.dublincity.ie/">www.dublincity.ie</a>
 </pre>
 <hr class="my-4">

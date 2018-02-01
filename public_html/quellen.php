@@ -129,6 +129,10 @@ Autor JP
 <b>Grafton Street:</b>
 
 
+<b>Hintergrundbilder:</b>
+In Auftrag gestellt an photohxlic
+https://www.instagram.com/photohxlic/
+
 <b>Leinster House:</b>
 https://commons.wikimedia.org/wiki/File:LeinsterHouseDublin2010.JPG Aufgerufen am 22.01.2018
 Autor Tebibyte
@@ -138,7 +142,7 @@ https://commons.wikimedia.org/wiki/File:National_Library_of_Ireland_2011.JPG Auf
 Autor Yvonne M
 
 <b>National mueseum at Kildare Street:</b>
-https://commons.wikimedia.org/wiki/File:Dublin_Kildare_Street_National_Museum_of_Ireland.JPG Autor Aufgerufen am 30.01.2018
+https://commons.wikimedia.org/wiki/File:Dublin_Kildare_Street_National_Museum_of_Ireland.JPG Aufgerufen am 30.01.2018
 Autor J.-H. Janssen
 
 <b>O'Connel Bridge (Geschichte und By Night):</b>

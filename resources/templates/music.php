@@ -99,7 +99,7 @@ Kann nur in einer F&uuml;hrung besichtigt werden! (nicht rollstuhlg&auml;ngig)</
 <!-- Platz 3 -->
 <hr class="my-4 large">
 <h3 id="the-church-music">The Church<sub>23</sub></h3>
-<pre>Junction of Mary St &amp; Jervis St, North City, Dublin 1, Irland
+<pre>Junction of Mary Street &amp; Jervis Street, North City, Dublin 1, Irland
 <a class="custom-url" target="_blank" href="http://www.thechurch.ie/">www.thechurch.ie</a>
 </pre>
 <hr class="my-4">

@@ -198,7 +198,7 @@ Sa und So 9:00-18:00 Uhr
 <!-- Platz 7 -->
 <hr class="my-4 large">
 <h3 id="the-church-kulinarik">The Church<sub>23</sub></h3>
-<pre>Junction of Mary St &amp; Jervis St, North City, Dublin 1, Irland
+<pre>Junction of Mary Street &amp; Jervis Street, North City, Dublin 1, Irland
 <a class="custom-url" target="_blank" href="http://www.thechurch.ie/">www.thechurch.ie</a>
 </pre>
 <hr class="my-4">
