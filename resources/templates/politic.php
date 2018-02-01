@@ -134,7 +134,7 @@ Do 10:00-17:00
 <!-- Platz 4 -->
 <hr class="my-4 large">
 <h3 id="leinster-house">Leinster House<sub>47</sub></h3>
-<pre>Kildare St, Dublin 2, Irland
+<pre>Kildare Street, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.oireachtas.ie/parliament/">www.oireachtas.ie/parliament</a>
 </pre>
