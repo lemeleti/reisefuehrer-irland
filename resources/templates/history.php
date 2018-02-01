@@ -78,11 +78,13 @@ Erwachsene: 7 &euro;</pre>
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="custom-house-history">Custom House (Umweltministerium)<sub>8</sub></h3>
+<h3 id="custom-house-history">Custom House<sub>8</sub></h3>
 <pre>North Dock, Dublin 1, Irland</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Fr 09:00-17:00</pre>
+<h4>Beschreibung</h4>
+<pre>ehem. Zollamt / heute Umweltministerium</pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/history/thumbnails/Custom_House_Dublin_01.JPG" />
 
@@ -92,10 +94,20 @@ Erwachsene: 7 &euro;</pre>
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Das Custom House wird heute als Umweltministerium und
-        Kommunalverwaltung genutzt. Fr&uuml;her war es das Zollamt, das von
-        James Gandon im klassischen Stil erbaut wurde. Mehr Infos beim
-        Rundgang Architektur.</p>
+    <p>Das Custom House (1781-1791) wurde vom Architekten James Gandos als
+        Gesellenst&uuml;ck erbaut. Danach folgten einige weitere
+        Prestigebauten in Dublin wie zum Beispiel das "Four Courts". Das
+        imposante Geb&auml;ude hat eine L&auml;nge von 114 Metern und eine
+        markante Kuppel. Die Kuppel von 60 Metern H&ouml;he wird gekr&ouml;nt von
+        einer &uuml;berlebensgrossen Statue des Handels. Der Bau kostete
+        damals eine Summe von 200'000 Pfund und verschaffte vielen Handwerkern
+        in Dublin Arbeit. Urspr&uuml;nglich wurde das Geb&auml;ude als Amt
+        f&uuml;r Z&ouml;lle von ankommenden Schiffen gebraucht, bis der Hafen
+        weiter flussabw&auml;rts verlegt wurde. Im B&uuml;rgerkrieg 1921 wurde
+        dieses Geb&auml;ude schwer besch&auml;digt, was zu einer umfassenden
+        Renovation f&uuml;hrte. Ein Brand zerst&ouml;rte die ganze Innengestaltung von
+        J. Gandons und f&uuml;hrte zum Einsturz der Kuppel f&uuml;hrte.
+        Diese wurde wiederaufgebaut, aber in einem anderen Kalksandstein.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -159,12 +171,10 @@ Erwachsene: 7 &euro;</pre>
 <h4>Beschreibung</h4>
 <pre>Wikinger- und Mittelalter-Museum</pre>
 <h4>Preis</h4>
-<pre>Du kannst die Eintrittskarte entweder online oder vor Ort kaufen.
+<pre>Eintrittskarte online oder vor Ort, sowie erm&auml;ssigte Kombikarte f&uuml;r Dublinia und die benachbarte Christ Church Cathedral erh&auml;ltlich.
 
 Studierende: 8.50 &euro;
 Erwachsene: 9.50 &euro;
-
-Du kannst auch eine erm&auml;ssigte Kombikarte f&uuml;r Dublinia und die benachbarte Christ Church Cathedral kaufen.
 </pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/history/thumbnails/IMG_5088.JPG" />
@@ -175,7 +185,7 @@ Du kannst auch eine erm&auml;ssigte Kombikarte f&uuml;r Dublinia und die benachb
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>M&ouml;chtest du die Geschichte von den Wikingern in Dublin kennen
+    <p>M&ouml;chtest du die Geschichte der Wikinger in Dublin kennen
         lernen? Interessiert Dich das Mittelalter? Dann ist die Dublinia genau
         das Richtige f&uuml;r dich. Die Ausstellung befindet sich in einem
         Nebengeb&auml;ude der Christ Church Kathedrale. Am Ende des Besuchs
@@ -210,13 +220,8 @@ Mo-Sa 09:30-17:00 Uhr
 </pre>
 <h4>Preis</h4>
 <pre>
-<b>Einzelticket</b>
 Studierende: 3 &euro;
 Erwachsene: 6 &euro;
-
-<b>Gruppen (ab 10 Personen)</b>
-Studierende: 2.50 &euro;
-Erwachsene: 5 &euro;
 </pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/history/thumbnails/4095831289_b190f62546_b.jpg" />
@@ -235,8 +240,7 @@ Erwachsene: 5 &euro;
         zu machen. Sie kr&ouml;nten den zehnj&auml;hrigen Lambert Simnel zum
         K&ouml;nig Eduard VI. Er sollte den K&ouml;nig Heinrich VII. von
         England entthronen. Der Versuch scheiterte aber, die Betr&uuml;ger
-        wurden bestraft und der Junge begnadigt. Mehr Infos zur Kirche gibt es
-        beim Rundgang Architektur.</p>
+        wurden bestraft und der Junge begnadigt.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
