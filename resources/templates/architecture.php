@@ -1,7 +1,7 @@
 <h3 class="mb-4">Architektur</h3>
 <div class="map" id="map1"></div>
 <h3>Ungef&auml;hre Gehzeit</h3>
-<pre>1 h 39 min</pre>
+<pre>1 h 45 min</pre>
 <h3 class="mb-4">Beschreibung</h3>
 <div class="content">
     <p class="mb-4">Die Tour startet bei den &auml;ltesten Kathedralen in
