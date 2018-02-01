@@ -58,7 +58,7 @@ require_once TEMPLATES_PATH . '/header.php';
 <b>23</b> Informationen vor Ort &uuml;ber Ladenbesitzer gesammelt.
 <b>24</b> Malerei existiert nicht mehr!
 <b>25</b> https://lucianamarin.com/2017/08/28/expanding-the-irish-streetart-collection/ Aufgerufen Am 1.10.2017
-   Wöbcke, Manfred; Fisher, Teresa; McGrath, Louise (2017) Reiseführer Dublin: Perfekte Tage in der Stadt der Literaten und Pubs Baedeker SMART (S.85)
+   W&ouml;bcke, Manfred; Fisher, Teresa; McGrath, Louise (2017) Reisef&uuml;hrer Dublin: Perfekte Tage in der Stadt der Literaten und Pubs Baedeker SMART (S.85)
 <b>26</b> https://lucianamarin.com/2017/08/28/expanding-the-irish-streetart-collection/ Aufgerufen Am 1.10.2017
    https://www.dublintown.ie/arnotts-launch-the-city-is-my-garden/ Aufgerufen Am 1.10.2017
    http://maserart.com/about/ Aufgerufen Am 1.10.2017
@@ -160,7 +160,7 @@ Autor Harold Strong
 https://www.flickr.com/photos/infomatique/9696750448/in/photostream/ Aufgerufen am 30.01.2018
 Autor William Murphy
 
-<b>The Farm</b>
+<b>The Farm:</b>
 
 
 <b>The little museum of Dublin:</b>
