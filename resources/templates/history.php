@@ -140,7 +140,7 @@ Erwachsene: 7 &euro;</pre>
         nicht nur f&uuml;r den Verkehr sehr wichtig, sie hat auch einen
         bedeutenden architektonischen Wert. Ihr Erbauer war n&auml;mlich ein
         ber&uuml;hmter englischer Architekt, der in Dublin im 18. und
-        fr&uuml;hen 19.Jahrhundert viele grosse, &ouml;ffentliche Bauten
+        fr&uuml;hen 19. Jahrhundert viele grosse, &ouml;ffentliche Bauten
         erstellte und so das Aussehen der Stadt pr&auml;gte. Nachts ist die
         Br&uuml;cke beleuchtet, aber auch tags&uuml;ber ist sie sehr
         sch&ouml;n anzusehen.</p>
@@ -266,7 +266,7 @@ Erwachsene: 6 &euro;
 </div>
 <div class="content">
     <p>Die Grafton Street ist die Haupteinkaufsstrasse Dublins. Sie
-        f&uuml;hrt vom Trinity College zum St. Stephen`s Green. Die Strasse
+        f&uuml;hrt vom Trinity College zum St. Stephen's Green. Die Strasse
         ist nach dem Duke of Grafton benannt und wurde von der Dawson-Familie
         ausgebaut. Du findest in den Seitenstrassen auch das Haus des Dekans
         des Trinity Colleges aus dem 18. Jahrhundert und die ber&uuml;hmte
