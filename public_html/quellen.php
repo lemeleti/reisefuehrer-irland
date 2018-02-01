@@ -45,33 +45,37 @@ require_once TEMPLATES_PATH . '/header.php';
 <b>11</b> http://www.bordgaisenergytheatre.ie/ Aufgerufen am 3.12.2017
    BIEGE, BERND (2017): DUBLIN. VOM ABRISSGEBIET ZUR PARTYMEILE. OSTFILDERN: DUMONT REISEVERLAG. (S. 12 / 82)
 <b>12</b> BIEGE, BERND (2017): DUBLIN. VOM ABRISSGEBIET ZUR PARTYMEILE. OSTFILDERN: DUMONT REISEVERLAG. (S. 83)
-<b>13</b>
-<b>14</b>
-<b>15</b>
-<b>16</b>
-<b>17</b>
-<b>18</b>
-<b>19</b>
-<b>20</b>
-<b>21</b>
-<b>22</b>
-<b>23</b>
-<b>24</b>
-<b>25</b>
-<b>26</b>
-<b>27</b>
-<b>28</b>
-<b>29</b>
-<b>30</b>
-<b>31</b>
-<b>32</b>
-<b>33</b>
-<b>34</b>
+<b>13</b> https://de.wikipedia.org/wiki/Geschichte_Dublins Aufgerufen Am 1.10.2017
+<b>14</b> https://de.wikipedia.org/wiki/Geschichte_Dublins Aufgerufen Am 1.10.2017
+<b>15</b> https://de.wikipedia.org/wiki/Geschichte_Dublins Aufgerufen Am 1.10.2017
+<b>16</b> https://de.wikipedia.org/wiki/Geschichte_Dublins Aufgerufen Am 1.10.2017
+<b>17</b> Informationen vor Ort &uuml;ber Ladenbesitzer gesammelt.
+<b>18</b> Informationen vor Ort &uuml;ber Ladenbesitzer gesammelt.
+<b>19</b> Informationen vor Ort &uuml;ber Ladenbesitzer gesammelt.
+<b>20</b> Informationen vor Ort &uuml;ber Ladenbesitzer gesammelt.
+<b>21</b> Informationen vor Ort &uuml;ber Ladenbesitzer gesammelt.
+<b>22</b> Informationen vor Ort &uuml;ber Ladenbesitzer gesammelt.
+<b>23</b> Informationen vor Ort &uuml;ber Ladenbesitzer gesammelt.
+<b>24</b> Malerei existiert nicht mehr!
+<b>25</b> https://lucianamarin.com/2017/08/28/expanding-the-irish-streetart-collection/ Aufgerufen Am 1.10.2017
+   Wöbcke, Manfred; Fisher, Teresa; McGrath, Louise (2017) Reiseführer Dublin: Perfekte Tage in der Stadt der Literaten und Pubs Baedeker SMART (S.85)
+<b>26</b> https://lucianamarin.com/2017/08/28/expanding-the-irish-streetart-collection/ Aufgerufen Am 1.10.2017
+   https://www.dublintown.ie/arnotts-launch-the-city-is-my-garden/ Aufgerufen Am 1.10.2017
+   http://maserart.com/about/ Aufgerufen Am 1.10.2017
+<b>27</b> https://lucianamarin.com/2017/08/28/expanding-the-irish-streetart-collection/ Aufgerufen Am 1.10.2017
+   http://lorazombie.com Aufgerufen Am 1.10.2017
+<b>28</b> https://lucianamarin.com/2017/08/28/expanding-the-irish-streetart-collection/ Aufgerufen Am 1.10.2017
+<b>29</b> https://lucianamarin.com/2017/08/28/expanding-the-irish-streetart-collection/ Aufgerufen Am 1.10.2017
+<b>30</b> https://lucianamarin.com/2017/08/28/expanding-the-irish-streetart-collection/ Aufgerufen Am 1.10.2017
+<b>31</b> https://lucianamarin.com/2017/08/28/expanding-the-irish-streetart-collection/ Aufgerufen Am 1.10.2017
+<b>32</b> https://lucianamarin.com/2017/08/28/expanding-the-irish-streetart-collection/ Aufgerufen Am 1.10.2017
+<b>33</b> http://www.spiegel.de/reise/europa/per-rad-auf-den-spuren-von-u2-durch-dublin-a-1075252.html Aufgerufen am 01.02.2018
+<b>34</b> http://irishrocknrollmuseum.com Aufgerufen am 01.02.2018
 <b>35</b>
-<b>36</b>
-<b>37</b>
-<b>38</b>
-<b>39</b>
+<b>36</b> http://www.oneillspubdublin.com Aufgerufen am 30.01.2018
+<b>37</b> http://www.thedukedublin.com Aufgerufen am 30.01.2018
+<b>38</b> http://www.ireland.com/de-de/campaign/feature-campaign/temple-bar-dublin/ Aufgerufen am 01.02.2018
+<b>39</b> http://www.dublin.de/sehenswuerdigkeiten/kunst-kultur/the-spire/ Aufgerufen am 01.02.2018
 <b>40</b> http://phoenixpark.ie/ Aufgerufen am 6.01.2018
    http://www.dublin.de/sehenswuerdigkeiten/freizeit-unterhaltung/phoenix-park/ Aufgerufen am 6.01.2018
    BIEGE, BERND (2017): DUBLIN. VOM ABRISSGEBIET ZUR PARTYMEILE. OSTFILDERN: DUMONT REISEVERLAG. (S. 67-70)
@@ -93,41 +97,75 @@ require_once TEMPLATES_PATH . '/header.php';
    https://de.wikipedia.org/wiki/Leinster_House Aufgerufen am 3.12.2017
 <b>48</b> https://www.taoiseach.gov.ie/eng/splash/ Aufgerufen am 3.12.2017
    BIEGE, BERND (2017): DUBLIN. VOM ABRISSGEBIET ZUR PARTYMEILE. OSTFILDERN: DUMONT REISEVERLAG. (S. 82)
-<b>49</b>
+<b>49</b> http://www.dublin.de/sehenswuerdigkeiten/bildung-wissen/little-museum/ Aufgerufen am 01.02.2018
+   https://www.littlemuseum.ie Aufgerufen am 01.02.2018
+<b>50</b> http://www.dublin.de/sehenswuerdigkeiten/10-unverzichtbare-ziele/#nationalmuseum Aufgerufen am 01.02.2018
+   https://www.museum.ie/Archaeology Aufgerufen am 01.02.2018
 </pre>
 <h3 class="text-left">Bilder</h3>
 <pre>
-<b>National Library of Ireland:</b>
-https://commons.wikimedia.org/wiki/File:National_Library_of_Ireland_2011.JPG Aufgerufen am 22.01.2018
-Autor Yvonne M
+<b>Christ Church Cathedral</b>
+https://www.flickr.com/photos/bods/4095831289 Aufgerufen am 31.01.2018
+Autor Andrew Bowden
 
-<b>Phoenixpark:</b>
-https://commons.wikimedia.org/wiki/File:Phoenix_Park_Dublin_01.JPG Aufgerufen am 22.01.2018
-Autor Superchilum
+<b>Custom House (Architektur und Geschichte):</b>
+https://commons.wikimedia.org/wiki/File:Custom_House_Dublin_01.JPG Aufgerufen am 31.01.2018
+Autor TomAlt
 
-<b>Four Courts Dublin (Politik):</b>
+<b>Dublin Castle (Architektur, Geschichte und Sehenswertes):</b>
+https://www.flickr.com/photos/aschaf/28744593794 Aufgerufen am 31.01.2018
+Autor Andrea Schaffer
+
+https://commons.wikimedia.org/wiki/File:E4395-Dublin-Castle.jpg Aufgerufen am 31.01.2018
+Autor Vmenkov
+
+<b>Four Courts:</b>
 https://en.wikipedia.org/wiki/File:Dublin_four_courts.JPG Aufgerufen am 22.01.2018
+
+<b>Georgianische Geb&auml;ude:</b>
+http://www.geograph.ie/photo/570858 Aufgerufen am 31.01.2018
+Autor JP
+
+<b>Grafton Street:</b>
+
 
 <b>Leinster House:</b>
 https://commons.wikimedia.org/wiki/File:LeinsterHouseDublin2010.JPG Aufgerufen am 22.01.2018
 Autor Tebibyte
 
+<b>National Library of Ireland:</b>
+https://commons.wikimedia.org/wiki/File:National_Library_of_Ireland_2011.JPG Aufgerufen am 22.01.2018
+Autor Yvonne M
+
 <b>National mueseum at Kildare Street:</b>
 https://commons.wikimedia.org/wiki/File:Dublin_Kildare_Street_National_Museum_of_Ireland.JPG Autor Aufgerufen am 30.01.2018
 Autor J.-H. Janssen
 
-<b>The little museum of Dublin:</b>
-https://en.wikipedia.org/wiki/File:The_Little_Museum_of_Dublin.jpg Aufgerufen am 30.01.2018
-Autor Debbiesw
+<b>O'Connel Bridge (Geschichte und By Night):</b>
+https://commons.wikimedia.org/wiki/File:O_Connell_Bridge.crop.JPG Aufgerufen am 31.01.2018
+Autor YvonneM
 
-<b>The Church (Kulinarik und Musik):</b>
-https://www.flickr.com/photos/infomatique/9696750448/in/photostream/ Aufgerufen am 30.01.2018
-Autor William Murphy
+https://commons.wikimedia.org/wiki/File:O%27Connell_Street_Dublin2.JPG Aufgerufen am 31.01.2018
+Autor Jaqian
+
+<b>Phoenixpark:</b>
+https://commons.wikimedia.org/wiki/File:Phoenix_Park_Dublin_01.JPG Aufgerufen am 22.01.2018
+Autor Superchilum
 
 <b>The Brazen Head:</b>
 https://commons.wikimedia.org/wiki/File:The_Brazen_Head_(cropped).jpg Aufgerufen am 30.01.2018
 Autor Harold Strong
 
+<b>The Church (Kulinarik und Musik):</b>
+https://www.flickr.com/photos/infomatique/9696750448/in/photostream/ Aufgerufen am 30.01.2018
+Autor William Murphy
+
+<b>The Farm</b>
+
+
+<b>The little museum of Dublin:</b>
+https://en.wikipedia.org/wiki/File:The_Little_Museum_of_Dublin.jpg Aufgerufen am 30.01.2018
+Autor Debbiesw
 </pre>
                 </div>
             </div>

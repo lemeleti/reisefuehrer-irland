@@ -136,8 +136,7 @@
 <h3 id="gregorianische-tueren">Georgianische T&uuml;ren<sub>30</sub></h3>
 <pre>Merrion Square, Irland</pre>
 <div class="w3-content w3-display-container slides my-4">
-    <!-- TODO: Bild folgt (Gregorianische T&uuml;ren) -->
-    <img src="img/portfolio/thumbnails/1.jpg" />
+    <img src="img/art/thumbnails/doors.png" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>

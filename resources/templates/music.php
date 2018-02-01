@@ -196,8 +196,7 @@ So 8:00-23:00</pre>
 <hr class="my-4">
 <pre>Beim Fr&uuml;hst&uuml;ck ist noch kein Gedr&auml;nge. &Uuml;ber die Qualit&auml;t des Essens sind sich die G&auml;ste uneinig.</pre>
 <div class="w3-content w3-display-container slides my-4">
-    <!-- TODO: Bild folgt (O'Neill's Pub and Kitchen) -->
-    <img src="img/portfolio/thumbnails/1.jpg" />
+    <img src="img/music/thumbnails/o-neils.jpg" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
