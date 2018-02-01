@@ -6,28 +6,6 @@
 <pre>Die Tour kann an beliebiger Stelle gestartet werden.</pre>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="four-courts-art">Four Courts<sub>24</sub></h3>
-<pre>St. Andrew's Lane, Irland (hinter dem Hangar Nachtclub)</pre>
-<div class="w3-content w3-display-container slides my-4">
-    <img src="img/art/thumbnails/1. St Andres Ln.JPG" />
-
-    <button class="w3-button w3-black w3-display-left"
-        onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
-    <button class="w3-button w3-black w3-display-right"
-        onclick="plusDivs(this.parentElement,1)">&#10095;</button>
-</div>
-<div class="content">
-    <p>Zwischen der Dame Street und der St Andrews's Street befindet sich
-        der Nachtclub Hangar. An seiner Fassade findest du ein
-        &uuml;bergrosses Bild von einem jungen Mann. Es wurde vom
-        K&uuml;nstler-Kollektiv Subset gesprayt. In und um Dublin findet man
-        viele Bilder von diesen K&uuml;nstlern.</p>
-</div>
-<div class="show-more">
-    <a class="custom-url text-center" href="#">mehr...</a>
-</div>
-<!-- Platz 2 -->
-<hr class="my-4 large">
 <h3 id="bp-fallon">BP Fallon<sub>25</sub></h3>
 <pre>Tempel Lane S, Irland</pre>
 <div class="w3-content w3-display-container slides my-4">
@@ -55,7 +33,7 @@
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
 </div>
-<!-- Platz 3 -->
+<!-- Platz 2 -->
 <hr class="my-4 large">
 <h3 id="the-city-is-my-garden">The city is my garden<sub>26</sub></h3>
 <pre>Nr. 1 Liffey Street Upper, Irland</pre>
@@ -78,7 +56,7 @@
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
 </div>
-<!-- Platz 4 -->
+<!-- Platz 3 -->
 <hr class="my-4 large">
 <h3 id="drei-verschiedene-streetarts">Drei verschiedene Street-Arts<sub>27</sub></h3>
 <pre>Temple Lane, Irland</pre>
@@ -111,7 +89,7 @@
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
 </div>
-<!-- Platz 5 -->
+<!-- Platz 4 -->
 <hr class="my-4 large">
 <h3 id="trash-animals">Trash Animals<sub>28</sub></h3>
 <pre>Tara Street, Irland</pre>
@@ -133,7 +111,7 @@
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
 </div>
-<!-- Platz 6 -->
+<!-- Platz 5 -->
 <hr class="my-4 large">
 <h3 id="dead-meat">Dead Meat<sub>29</sub></h3>
 <pre>Merrion Row, Irland</pre>
@@ -153,7 +131,7 @@
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
 </div>
-<!-- Platz 7 -->
+<!-- Platz 6 -->
 <hr class="my-4 large">
 <h3 id="gregorianische-tueren">Georgianische T&uuml;ren<sub>30</sub></h3>
 <pre>Merrion Square, Irland</pre>
@@ -179,7 +157,7 @@
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
 </div>
-<!-- Platz 8 -->
+<!-- Platz 7 -->
 <hr class="my-4 large">
 <h3 id="subset-football">Subset Football<sub>31</sub></h3>
 <pre>Haymarket, Irland
@@ -202,7 +180,7 @@
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
 </div>
-<!-- Platz 9 -->
+<!-- Platz 8 -->
 <hr class="my-4 large">
 <h3 id="vadis-und-tilf">Vadis und Tilf<sub>32</sub></h3>
 <pre>Smithfield, Irland</pre>
