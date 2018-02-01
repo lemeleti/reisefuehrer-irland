@@ -27,7 +27,7 @@
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Ein unscheinbares Caf&eacute; inmitten der Shopping-Meile in Dublin.
+    <p>Das unscheinbare Caf&eacute; befindet sich inmitten der Shopping-Meile in Dublin.
         Man &uuml;bersieht dieses kleine Lokal sehr leicht, da es zwischen
         ganz viel Shops versteckt liegt. Der Kaffee ist herrvoragend und die
         Bedienung sehr zuvorkommend. Wenn man etwas &uuml;ber den Kaffee
@@ -52,6 +52,8 @@
 Di geschlossen
 Sa und So 10:00-17:00 Uhr
 </pre>
+<h4>Beschreibung</h4>
+<pre>Caf&eacute;</pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/kulinarik/thumbnails/IMG_5749.jpg" /> <img
         src="img/kulinarik/thumbnails/IMG_5164.JPG" /> <img
@@ -65,9 +67,9 @@ Sa und So 10:00-17:00 Uhr
 </div>
 <div class="content">
     <p>Ein kleiner Abstecher an den Rand von Dublin lohnt sich. Du kannst
-        wundersch&ouml;ne Architektur sehen und beim Kaffee im Love Supreme
+        wundersch&ouml;ne Architektur sehen und auf einen Kaffee im Love Supreme
         vorbei schauen. Du wirst schon von weitem sehen, dass hier jemand viel
-        Arbeit reingesteckt hat. Das Kaffee ist wundersch&ouml;n eingerichtet
+        Arbeit investiert hat. Das Kaffee ist wundersch&ouml;n eingerichtet
         und der Barista weiss, wie man guten Kaffee zubereitet.</p>
 </div>
 <div class="show-more">
@@ -101,8 +103,7 @@ So 10:00-16:00 Uhr
 <div class="content">
     <p>Wenn du einmal nicht im Hotel fr&uuml;hst&uuml;cken m&ouml;chtest,
         ist das Wuff sehr empfehlenswert, da es sehr gem&uuml;tlich und leger
-        ist. Hier kommen haupts&auml;chlich Dubliner her. Das heisst, dass du
-        nicht von Touristen gest&ouml;rt wirst.</p>
+        ist. Hier kommen haupts&auml;chlich Dubliner her.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
