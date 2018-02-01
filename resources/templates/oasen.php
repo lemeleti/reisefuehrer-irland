@@ -1,7 +1,7 @@
 <h3 class="mb-4">Oasen</h3>
 <div class="map" id="map2"></div>
 <h3>Ungef&auml;hre Gehzeit</h3>
-<pre>60 min</pre>
+<pre>1 h</pre>
 <h3 class="mb-4">Beschreibung</h3>
 <div class="content">
     <p class="mb-4">Dieser Stadtrundgang ist kein Rundgang im klassischen
