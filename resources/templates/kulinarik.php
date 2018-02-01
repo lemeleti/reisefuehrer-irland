@@ -5,7 +5,9 @@
 <pre>Die Tour kann an beliebiger Stelle gestartet werden.</pre>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="vice-coffee">Vice Coffee<sub>17</sub></h3>
+<h3 id="vice-coffee">
+    Vice Coffee<sub>17</sub>
+</h3>
 <pre>54 Abbey Street Middle, North City, Dublin, Irland
 <a class="custom-url" target="_blank"
         href="http://www.vicecoffeeinc.com/">www.vicecoffeeinc.com</a>
@@ -26,23 +28,27 @@
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
-    <p>Das unscheinbare Caf&eacute; befindet sich inmitten der Shopping-Meile in Dublin.
-        Man &uuml;bersieht dieses kleine Lokal sehr leicht, da es zwischen
-        ganz viel Shops versteckt liegt. Der Kaffee ist herrvoragend und die
-        Bedienung sehr zuvorkommend. Wenn man etwas &uuml;ber den Kaffee
-        wissen will, wendet man sich am besten gleich an den Barista, der
-        freut sich &uuml;ber jede Frage bez&uuml;glich Kaffee. Die angebotene
-        Kaffeesorte &auml;ndert h&auml;ufig, da das Lokal immer wieder eine
-        neue ausprobieren und den Kunden die grosse Sortenvielfalt zeigen
-        m&ouml;chte.</p>
+    <p>Das unscheinbare Caf&eacute; befindet sich inmitten der
+        Shopping-Meile in Dublin. Man &uuml;bersieht dieses kleine Lokal sehr
+        leicht, da es zwischen ganz viel Shops versteckt liegt. Der Kaffee ist
+        herrvoragend und die Bedienung sehr zuvorkommend. Wenn man etwas
+        &uuml;ber den Kaffee wissen will, wendet man sich am besten gleich an
+        den Barista, der freut sich &uuml;ber jede Frage bez&uuml;glich
+        Kaffee. Die angebotene Kaffeesorte &auml;ndert h&auml;ufig, da das
+        Lokal immer wieder eine neue ausprobieren und den Kunden die grosse
+        Sortenvielfalt zeigen m&ouml;chte.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="love-supreme">Love Supreme<sub>18</sub></h3>
+<h3 id="love-supreme">
+    Love Supreme<sub>18</sub>
+</h3>
 <pre>57 Manor Street, Stoneybatter, Irland
 <a class="custom-url" target="_blank" href="http://www.lovesupreme.ie/">www.lovesupreme.ie</a>
 </pre>
@@ -65,19 +71,23 @@ Sa und So 10:00-17:00 Uhr
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>Ein kleiner Abstecher an den Rand von Dublin lohnt sich. Du kannst
-        wundersch&ouml;ne Architektur sehen und auf einen Kaffee im Love Supreme
-        vorbei schauen. Du wirst schon von weitem sehen, dass hier jemand viel
-        Arbeit investiert hat. Das Kaffee ist wundersch&ouml;n eingerichtet
-        und der Barista weiss, wie man guten Kaffee zubereitet.</p>
+        wundersch&ouml;ne Architektur sehen und auf einen Kaffee im Love
+        Supreme vorbei schauen. Du wirst schon von weitem sehen, dass hier
+        jemand viel Arbeit investiert hat. Das Kaffee ist wundersch&ouml;n
+        eingerichtet und der Barista weiss, wie man guten Kaffee zubereitet.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="wuff">Wuff<sub>19</sub></h3>
+<h3 id="wuff">
+    Wuff<sub>19</sub>
+</h3>
 <pre>23 Benburb Street, Arran Quay, Dublin 7, Irland
 <a class="custom-url" target="_blank" href="http://www.wuff.ie/">www.wuff.ie</a>
 </pre>
@@ -100,6 +110,8 @@ So 10:00-16:00 Uhr
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>Wenn du einmal nicht im Hotel fr&uuml;hst&uuml;cken m&ouml;chtest,
         ist das Wuff sehr empfehlenswert, da es sehr gem&uuml;tlich und leger
@@ -110,7 +122,9 @@ So 10:00-16:00 Uhr
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="nando-s">Nando's<sub>20</sub></h3>
+<h3 id="nando-s">
+    Nando's<sub>20</sub>
+</h3>
 <pre>12 St Andrew's Street, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.nandos.ie/">www.nandos.ie</a>
 </pre>
@@ -136,12 +150,16 @@ So 12:00-22:00 Uhr
         dies aber in vielen verschiedenen Varianten. Das Restaurant kocht
         koscher.</p>
 </div>
+<p>Bildquelle(n): <!-- TODO: Bildlegende Nando's --></p>
+<hr class="my-4">
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
 </div>
 <!-- Platz 5 -->
 <hr class="my-4 large">
-<h3 id="farm">Farm<sub>21</sub></h3>
+<h3 id="farm">
+    Farm<sub>21</sub>
+</h3>
 <pre>3 Dawson Street, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.thefarmfood.ie/">www.thefarmfood.ie</a>
 </pre>
@@ -157,6 +175,8 @@ So 12:00-22:00 Uhr
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): <!-- TODO: Bildlegende Farm --></p>
+<hr class="my-4">
 <div class="content">
     <p>Wer Lust auf ein gesundes Mittag- oder Abendessen hat, ist hier
         richtig. Die Preise sind h&ouml;her als in andern Restaurants, da nur
@@ -167,7 +187,9 @@ So 12:00-22:00 Uhr
 </div>
 <!-- Platz 6 -->
 <hr class="my-4 large">
-<h3 id="beanhive-coffee">Beanhive Coffee<sub>22</sub></h3>
+<h3 id="beanhive-coffee">
+    Beanhive Coffee<sub>22</sub>
+</h3>
 <pre>Dawson Street, Dublin 2, D02 FY28, Irland
 <a class="custom-url" target="_blank" href="http://www.beanhive.ie/">www.beanhive.ie</a>
 </pre>
@@ -185,6 +207,8 @@ Sa und So 9:00-18:00 Uhr
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>Dieses Caf&eacute;/Restaurant ist perfekt gelegen, um es mit einem
         Shopping Trip oder einem anderen Spaziergang wie zum Beispiel jenem zu
@@ -197,7 +221,9 @@ Sa und So 9:00-18:00 Uhr
 </div>
 <!-- Platz 7 -->
 <hr class="my-4 large">
-<h3 id="the-church-kulinarik">The Church<sub>23</sub></h3>
+<h3 id="the-church-kulinarik">
+    The Church<sub>23</sub>
+</h3>
 <pre>Junction of Mary Street &amp; Jervis Street, North City, Dublin 1, Irland
 <a class="custom-url" target="_blank" href="http://www.thechurch.ie/">www.thechurch.ie</a>
 </pre>
@@ -209,14 +235,16 @@ So 11:30-23:00</pre>
 <h4>Beschreibung</h4>
 <pre>Restaurant und Pub</pre>
 <div class="w3-content w3-display-container slides my-4">
-    <img src="img/music/thumbnails/IMG_5830.jpg" />
-    <img src="img/music/thumbnails/9696750448_00d8028896_o.jpg" />
+    <img src="img/music/thumbnails/IMG_5830.jpg" /> <img
+        src="img/music/thumbnails/9696750448_00d8028896_o.jpg" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Das erste Bild ist Selbstgemacht. Rest siehe Quellen unter Impressum.</p>
+<hr class="my-4">
 <div class="content">
     <p>Das Lokal The Church ist sehr aussergew&ouml;hnlich und geh&ouml;rt
         zu den bekanntesten Pubs in Dublin. Es befindet sich in einer

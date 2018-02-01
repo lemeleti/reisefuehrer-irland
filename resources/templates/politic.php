@@ -5,22 +5,26 @@
 <h3 class="mb-4">Beschreibung</h3>
 <div class="content">
     <p class="mb-4">Die Tour startet beim Gerichtsgeb&auml;ude von Dublin,
-        das die vier wichtigen Gerichte von Irland beherbergt und einst eine wichtige Rolle spielte beim
-        Osteraufstand in Dublin. Die City Hall, das n&auml;chste Geb&auml;ude,
-        war urspr&uuml;nglich eine B&ouml;rse und wurde dann lange Zeit von der Stadt
-        Dublin als Regierungsgeb&auml;ude genutzt. Weiter geht es zum Irish Parliament, das ein monumentales Geb&auml;ude ist.
-        Heute ist die Bank of Ireland in diesem Geb&auml;ude ans&auml;ssig.
-        Unsere n&auml;chste Station ist der ehemalige Herzogpalast, wo zwei Kammern
-        des Parlaments beheimatet sind. Als letzte Station folgen die Government
-        Buildings, die heute viele wichtige Sitze wie zum Beispiel das
-        Ministerium des Premierministers (Leo Varadkar) beherbergen.</p>
+        das die vier wichtigen Gerichte von Irland beherbergt und einst eine
+        wichtige Rolle spielte beim Osteraufstand in Dublin. Die City Hall,
+        das n&auml;chste Geb&auml;ude, war urspr&uuml;nglich eine B&ouml;rse
+        und wurde dann lange Zeit von der Stadt Dublin als
+        Regierungsgeb&auml;ude genutzt. Weiter geht es zum Irish Parliament,
+        das ein monumentales Geb&auml;ude ist. Heute ist die Bank of Ireland
+        in diesem Geb&auml;ude ans&auml;ssig. Unsere n&auml;chste Station ist
+        der ehemalige Herzogpalast, wo zwei Kammern des Parlaments beheimatet
+        sind. Als letzte Station folgen die Government Buildings, die heute
+        viele wichtige Sitze wie zum Beispiel das Ministerium des
+        Premierministers (Leo Varadkar) beherbergen.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
 </div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="four-courts-politic">Four Courts<sub>44</sub></h3>
+<h3 id="four-courts-politic">
+    Four Courts<sub>44</sub>
+</h3>
 <pre>Inns Quay 25, Dublin 8, Irland</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
@@ -40,6 +44,8 @@ Sa und So geschlossen
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<hr class="my-4">
 <div class="content">
     <p>Das Geb&auml;ude ist 1802 im neoklassizistischen Stil von James
         Gandon erbaut worden. Seit dieser Zeit wird es als
@@ -63,7 +69,9 @@ Sa und So geschlossen
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="city-hall-politic">City Hall<sub>45</sub></h3>
+<h3 id="city-hall-politic">
+    City Hall<sub>45</sub>
+</h3>
 <h3>(ehem. Rathaus)</h3>
 <pre>Dame Street, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincity.ie/">www.dublincity.ie</a>
@@ -84,6 +92,8 @@ So geschlossen</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>Die City Hall (1769-1779) ist eines der besten Beispiele der
         georgianischen Architektur. Das Geb&auml;ude wurde urspr&uuml;nglich
@@ -103,8 +113,9 @@ So geschlossen</pre>
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="irish-parliament-house-bank-of-ireland">Irish Parliament House /
-    Bank of Ireland<sub>46</sub></h3>
+<h3 id="irish-parliament-house-bank-of-ireland">
+    Irish Parliament House / Bank of Ireland<sub>46</sub>
+</h3>
 <pre>College Green, Temple Bar, Dublin, Irland</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
@@ -120,6 +131,8 @@ Do 10:00-17:00
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>Das Geb&auml;ude wurde zwischen 1729 und 1739 vom Architekten Sir
         Edward Lovatt Pearce entworfen und realisiert. Speziell ist, dass
@@ -133,7 +146,9 @@ Do 10:00-17:00
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="leinster-house">Leinster House<sub>47</sub></h3>
+<h3 id="leinster-house">
+    Leinster House<sub>47</sub>
+</h3>
 <pre>Kildare Street, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.oireachtas.ie/parliament/">www.oireachtas.ie/parliament</a>
@@ -158,21 +173,25 @@ kostenlose F&uuml;hrung</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<hr class="my-4">
 <div class="content">
-    <p>Der ehemalige Herzogpalast ist Sitz des irischen
-        Parlaments. Das Geb&auml;ude wurde 1745 bis 1747 erbaut als
-        Residenzsitz f&uuml;r den Grafen von Kildare, den sp&auml;teren Herzog
-        der Provinz Leinster. Richtung Kildare Street pr&auml;sentiert sich
-        das Geb&auml;ude als Stadtpalast mit einem Parkplatz als Vorgarten.
-        1924 erwarb der irische Staat das Leinster House,
-        seitdem beherbergt es die beiden Kammern des irischen Parlaments.</p>
+    <p>Der ehemalige Herzogpalast ist Sitz des irischen Parlaments. Das
+        Geb&auml;ude wurde 1745 bis 1747 erbaut als Residenzsitz f&uuml;r den
+        Grafen von Kildare, den sp&auml;teren Herzog der Provinz Leinster.
+        Richtung Kildare Street pr&auml;sentiert sich das Geb&auml;ude als
+        Stadtpalast mit einem Parkplatz als Vorgarten. 1924 erwarb der irische
+        Staat das Leinster House, seitdem beherbergt es die beiden Kammern des
+        irischen Parlaments.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
 </div>
 <!-- Platz 5 -->
 <hr class="my-4 large">
-<h3 id="government-buildings">Government Buildings<sub>48</sub></h3>
+<h3 id="government-buildings">
+    Government Buildings<sub>48</sub>
+</h3>
 <pre>Upper Merrion St, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="https://www.taoiseach.gov.ie/eng/splash/">www.taoiseach.gov.ie/eng/splash</a>
@@ -194,6 +213,8 @@ kostenlose F&uuml;hrung</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>Die Government Buildings (1904-1922) wurden von Sir Aston Webb und
         Thomas Manley entworfen und enthalten die Regierungsb&uuml;ros. Heute

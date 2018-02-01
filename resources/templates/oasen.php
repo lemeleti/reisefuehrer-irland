@@ -15,7 +15,9 @@
 </div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="phoenix-park">Phoenix Park<sub>40</sub></h3>
+<h3 id="phoenix-park">
+    Phoenix Park<sub>40</sub>
+</h3>
 <pre>Phoenix Park, Dublin 8, Irland
 <a class="custom-url" target="_blank" href="http://www.phoenixpark.ie/">www.phoenixpark.ie</a>
 </pre>
@@ -34,16 +36,18 @@
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<hr class="my-4">
 <div class="content">
     <p>
         Der Phoenix Park wird von der Dubliner Bev&ouml;lkerung als
         Naherholungsgebiet gen&uuml;tzt. Mit seiner Gr&ouml;sse von 7.07 km<sup>2</sup>
         ist er der gr&ouml;sste Park Europas. Er ist beinahe doppelt so gross
         wie der Central Park in New York. Der Park ist nicht nach seinem
-        Namensvetter dem Feuervogel benannt, der Name stammt aus dem
-        irischen "Fionn Uisce", was etwa so viel wie "klares Wasser" bedeutet.
-        Der Park wurde im 17. Jahrhundert f&uuml;r die englischen Gouverneure
-        errichtet und als Jagdgebiet genutzt. Seit 1747 steht der Park der
+        Namensvetter dem Feuervogel benannt, der Name stammt aus dem irischen
+        "Fionn Uisce", was etwa so viel wie "klares Wasser" bedeutet. Der Park
+        wurde im 17. Jahrhundert f&uuml;r die englischen Gouverneure errichtet
+        und als Jagdgebiet genutzt. Seit 1747 steht der Park der
         &Ouml;ffentlichkeit zur Verf&uuml;gung. Im Park finden das ganze Jahr
         hindurch verschiedene Veranstaltungen statt, z.B. der 10 km "Phoenix
         Park Run" oder die Kleingartenausstellung "Bloom". Wenn man sich ein
@@ -57,7 +61,9 @@
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="st-stephens-green-oasen">St. Stephen's Green<sub>41</sub></h3>
+<h3 id="st-stephens-green-oasen">
+    St. Stephen's Green<sub>41</sub>
+</h3>
 <pre>St Stephen's Green, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.ststephensgreenpark.ie/">www.ststephensgreenpark.ie</a>
@@ -75,6 +81,8 @@ Sonn- und Feiertage 09:30-Sonnenuntergang</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>Der Park mit dem grossen Teich l&auml;dt zum Verweilen im
         Stadtinnern ein. Dieser Park hat eine lange Geschichte. Der Stephen's
@@ -93,7 +101,9 @@ Sonn- und Feiertage 09:30-Sonnenuntergang</pre>
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="merrion-square-park">Merrion Square Park<sub>42</sub></h3>
+<h3 id="merrion-square-park">
+    Merrion Square Park<sub>42</sub>
+</h3>
 <pre>Merrion Square, Dublin, &Eacute;ire, Irland
 <a class="custom-url" target="_blank"
         href="http://www.merrionsquare.ie/">www.merrionsquare.ie</a>
@@ -112,6 +122,8 @@ Okt 19:00, Nov 17:00, Dez 16:30</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>Der im georgianischen Stil erbaute Merrion Square Park heisst
         offiziell "Archbishop Ryan Park" und ist nach seinem Schenker benannt.
@@ -130,7 +142,9 @@ Okt 19:00, Nov 17:00, Dez 16:30</pre>
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="iveagh-garden">Iveagh Garden<sub>43</sub></h3>
+<h3 id="iveagh-garden">
+    Iveagh Garden<sub>43</sub>
+</h3>
 <pre>Clonmel St, Saint Kevin's, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.iveaghgardens.ie/">www.iveaghgardens.ie</a>
@@ -158,6 +172,8 @@ So 10:00-18:00
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n):Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>Der ehemalige Privatgarten der Guinness-Familie aus dem 19.
         Jahrhundert ist ein &ouml;ffentlicher Garten, der ganz versteckt in

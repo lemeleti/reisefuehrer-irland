@@ -16,7 +16,9 @@
 </div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="the-duke">The Duke<sub>37</sub></h3>
+<h3 id="the-duke">
+    The Duke<sub>37</sub>
+</h3>
 <pre>9 Duke Street, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.thedukedublin.com/491-2/">www.thedukedublin.com</a>
@@ -41,6 +43,8 @@ Erwachsene: 13 &euro;</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>Das The Duke ist ein Pub, das eigentlich jeder in Dublin kennt. Es
         wurde 1822 gegr&uuml;ndet und steht im Vergn&uuml;gungsviertel Temple
@@ -57,7 +61,9 @@ Erwachsene: 13 &euro;</pre>
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="o-neill-s-pub-and-kitchen-night">O'Neill's Pub and Kitchen<sub>36</sub></h3>
+<h3 id="o-neill-s-pub-and-kitchen-night">
+    O'Neill's Pub and Kitchen<sub>36</sub>
+</h3>
 <pre>2 Suffolk Street, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.oneillspubdublin.com/">www.oneillspubdublin.com</a>
@@ -79,6 +85,8 @@ So 8:00-23:00</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>Das rund 130-j&auml;hrige Pub befindet sich in einem viktorianischen
         Geb&auml;ude. Es besitzt viele Ecken, Erker und Treppen und ist sehr
@@ -101,7 +109,9 @@ So 8:00-23:00</pre>
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="temple-bar">Temple Bar<sub>38</sub></h3>
+<h3 id="temple-bar">
+    Temple Bar<sub>38</sub>
+</h3>
 <hr class="my-4">
 <h4>Beschreibung</h4>
 <pre>beliebtes Stadtviertel in Dublin</pre>
@@ -114,6 +124,8 @@ So 8:00-23:00</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>Das Stadtviertel besitzt viele Gassen, die zum Teil sehr schmal und
         verwinkelt sind, und man st&ouml;sst an jeder zweiten Ecke auf ein Pub
@@ -129,7 +141,9 @@ So 8:00-23:00</pre>
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="o-connel-bridge-night">O'Connel Bridge<sub>14</sub></h3>
+<h3 id="o-connel-bridge-night">
+    O'Connel Bridge<sub>14</sub>
+</h3>
 <pre>O'Connell Bridge, Dublin, Irland</pre>
 <hr class="my-4">
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
@@ -144,6 +158,9 @@ So 8:00-23:00</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Das erste Bild ist Selbstgemacht. Rest siehe Quellen
+    unter Impressum.</p>
+<hr class="my-4">
 <div class="content">
     <p>Die O'Connel Bridge wurde vom Architekten James Gandon erbaut. Sie
         ist eine der wichtigsten Br&uuml;cken &uuml;ber den Fluss Liffey und
@@ -165,7 +182,9 @@ So 8:00-23:00</pre>
 </div>
 <!-- Platz 5 -->
 <hr class="my-4 large">
-<h3 id="the-spire">The Spire<sub>39</sub></h3>
+<h3 id="the-spire">
+    The Spire<sub>39</sub>
+</h3>
 <pre>O'Connell Street Upper, North City, Dublin, Irland</pre>
 <hr class="my-4">
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
@@ -181,6 +200,8 @@ So 8:00-23:00</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>The Spire ist ein Wahrzeichen von Dublin. Die Edelstahlnadel ist 123
         Meter hoch und steht seit 2003 in der O'Connel Street. Sie wurde

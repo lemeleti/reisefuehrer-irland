@@ -4,21 +4,22 @@ require_once realpath(dirname(__FILE__) . '/../resources/config.php');
 require_once TEMPLATES_PATH . '/header.php';
 ?>
 <body id="page-start">
-	<nav class="navbar navbar-expand-lg navbar-light fixed-top navbar-shrink full-width"
-            id="mainNav">
+    <nav
+        class="navbar navbar-expand-lg navbar-light fixed-top navbar-shrink full-width"
+        id="mainNav">
         <div class="container">
-            <a class="navbar-brand" href="home.php">
-            	<img class="icon fill-white" src="img/icon/si-glyph-arrow-left.svg"/> Go Back
+            <a class="navbar-brand" href="home.php"> <img class="icon fill-white"
+                src="img/icon/si-glyph-arrow-left.svg" /> Go Back
             </a>
         </div>
     </nav>
     <section id="quellen">
-    <div class="container-fluid full-width">
-        <div class="row">
-            <div class="col-lg-12 mx-auto text-center">
-                <div class="content-container">
-                    <h2 class="section-heading text-left">Quellen</h2>
-<pre>
+        <div class="container-fluid full-width">
+            <div class="row">
+                <div class="col-lg-12 mx-auto text-center">
+                    <div class="content-container">
+                        <h2 class="section-heading text-left">Quellen</h2>
+                        <pre>
 <b>1</b>  www.stpatrickscathedral.ie Aufgerufen am 3.12.2017
    https://www.dublin-inside.de/sehenswuerdigkeiten/st-pat.html Aufgerufen am 3.12.2017
    BIEGE, BERND (2017): DUBLIN. VOM ABRISSGEBIET ZUR PARTYMEILE. OSTFILDERN: DUMONT REISEVERLAG. (S. 61)
@@ -102,8 +103,8 @@ require_once TEMPLATES_PATH . '/header.php';
 <b>50</b> http://www.dublin.de/sehenswuerdigkeiten/10-unverzichtbare-ziele/#nationalmuseum Aufgerufen am 01.02.2018
    https://www.museum.ie/Archaeology Aufgerufen am 01.02.2018
 </pre>
-<h3 class="text-left">Bilder</h3>
-<pre>
+                        <h3 class="text-left">Bilder</h3>
+                        <pre>
 <b>Christ Church Cathedral</b>
 https://www.flickr.com/photos/bods/4095831289 Aufgerufen am 31.01.2018
 Autor Andrew Bowden
@@ -136,12 +137,12 @@ https://www.instagram.com/photohxlic/
 <b>Leinster House:</b>
 https://commons.wikimedia.org/wiki/File:LeinsterHouseDublin2010.JPG Aufgerufen am 22.01.2018
 Autor Tebibyte
-
+<!-- TODO: Bildquelle Nando's ? -->
 <b>National Library of Ireland:</b>
 https://commons.wikimedia.org/wiki/File:National_Library_of_Ireland_2011.JPG Aufgerufen am 22.01.2018
 Autor Yvonne M
 
-<b>National mueseum at Kildare Street:</b>
+<b>National Mueseum at Kildare Street:</b>
 https://commons.wikimedia.org/wiki/File:Dublin_Kildare_Street_National_Museum_of_Ireland.JPG Aufgerufen am 30.01.2018
 Autor J.-H. Janssen
 
@@ -167,15 +168,15 @@ Autor William Murphy
 <b>The Farm:</b>
 
 
-<b>The little museum of Dublin:</b>
+<b>The Little Museum of Dublin:</b>
 https://en.wikipedia.org/wiki/File:The_Little_Museum_of_Dublin.jpg Aufgerufen am 30.01.2018
 Autor Debbiesw
 </pre>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 <?php
 require_once TEMPLATES_PATH . '/footer.php';
 ?>

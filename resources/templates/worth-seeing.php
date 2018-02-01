@@ -18,7 +18,9 @@
 </div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="st-patricks-cathedral-worth_seeing">St. Patrick's Cathedral<sub>1</sub></h3>
+<h3 id="st-patricks-cathedral-worth_seeing">
+    St. Patrick's Cathedral<sub>1</sub>
+</h3>
 <pre>St Patrick's Close, Wood Quay, Dublin 8, Irland
 <a class="custom-url" target="_blank"
         href="http://www.stpatrickscathedral.ie/">www.stpatrickscathedral.ie</a>
@@ -59,6 +61,8 @@ Erwachsene: 4.20 &euro;</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>Die St. Patrick's Cathedral heisst vollst&auml;ndig Ard-Eaglais
         Naomh P&aacute;draig. Sie ist nicht nur die gr&ouml;sste Kathedrale
@@ -78,7 +82,9 @@ Erwachsene: 4.20 &euro;</pre>
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="dublin-castle-worth_seeing">Dublin Castle<sub>3</sub></h3>
+<h3 id="dublin-castle-worth_seeing">
+    Dublin Castle<sub>3</sub>
+</h3>
 <pre>Dame Street, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincastle.ie/">www.dublincastle.ie</a>
 </pre>
@@ -105,6 +111,9 @@ Erwachsene: 7 &euro;</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Das dritte Bild ist Selbstgemacht. Rest siehe Quellen
+    unter Impressum.</p>
+<hr class="my-4">
 <div class="content">
     <p>Nach vielen Umbauten aus dem 17.-20. Jahrhundert wurde aus der
         ehemaligen mittelalterlichen Burg immer mehr ein Schloss. Das Castle
@@ -125,7 +134,9 @@ Erwachsene: 7 &euro;</pre>
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="city-hall-worth_seeing">City Hall<sub>45</sub></h3>
+<h3 id="city-hall-worth_seeing">
+    City Hall<sub>45</sub>
+</h3>
 <pre>Dame Street, Dublin 2
 <a class="custom-url" target="_blank" href="http://www.dublincity.ie/">www.dublincity.ie</a>
 </pre>
@@ -145,6 +156,8 @@ So geschlossen</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>Die City Hall (1769-1779) ist eines der besten Beispiele f&uuml;
         georgianischen Architektur. Das Geb&auml;ude wurde urspr&uuml;nglich
@@ -164,7 +177,9 @@ So geschlossen</pre>
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="st-stephens-green-worth_seeing">St. Stephen's Green<sub>42</sub></h3>
+<h3 id="st-stephens-green-worth_seeing">
+    St. Stephen's Green<sub>42</sub>
+</h3>
 <pre>St Stephen's Green, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.ststephensgreenpark.ie/">www.ststephensgreenpark.ie</a>
@@ -184,6 +199,8 @@ Sonn- und Feiertage 09:30-Sonnenuntergang</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>Der Park mit dem grossen Teich l&auml;dt zum Verweilen im
         Stadtinnern ein. Dieser Park hat eine lange Geschichte. Der Stephen's
@@ -202,7 +219,9 @@ Sonn- und Feiertage 09:30-Sonnenuntergang</pre>
 </div>
 <!-- Platz 5 -->
 <hr class="my-4 large">
-<h3 id="the-little-museum-of-dublin">The Little Museum of Dublin<sub>49</sub></h3>
+<h3 id="the-little-museum-of-dublin">
+    The Little Museum of Dublin<sub>49</sub>
+</h3>
 <pre>St Stephen's Green, Dublin 15, Irland
 <a class="custom-url" target="_blank"
         href="https://www.littlemuseum.ie/">www.littlemuseum.ie</a>
@@ -228,6 +247,8 @@ Erwachsene: 10 &euro;</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<hr class="my-4">
 <div class="content">
     <p>Das Museum geh&ouml;rt zu den beliebtesten Museen der Stadt. Die
         Objekte, die ausgestellt sind, wurden ausschliesslich von Dubliner
@@ -241,8 +262,9 @@ Erwachsene: 10 &euro;</pre>
 </div>
 <!-- Platz 6 -->
 <hr class="my-4 large">
-<h3 id="national-museum-an-der-kildare-street">National Museum an der
-    Kildare Street<sub>50</sub></h3>
+<h3 id="national-museum-an-der-kildare-street">
+    National Museum an der Kildare Street<sub>50</sub>
+</h3>
 <pre>2 Kildare Street, Dublin, Irland
 <a class="custom-url" target="_blank" href="https://www.museum.ie/">www.museum.ie</a>
 </pre>
@@ -259,13 +281,16 @@ So 14:00-17:00</pre>
 <hr class="my-4">
 <pre>Tipp: Achtung viel Publikum am Wochenende, w&auml;hrend den irischen Schulferien und in der Hochsaison im Sommer. Es gibt ein Museumscaf&eacute;.</pre>
 <div class="w3-content w3-display-container slides my-4">
-    <img src="img/worth-seeing/thumbnails/Dublin_Kildare_Street_National_Museum_of_Ireland.JPG" />
+    <img
+        src="img/worth-seeing/thumbnails/Dublin_Kildare_Street_National_Museum_of_Ireland.JPG" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<hr class="my-4">
 <div class="content">
     <p>Zum National Museum geh&ouml;ren vier verschiedene Museen an
         unterschiedlichen Orten. Dasjenige an der Kildare Street ist das

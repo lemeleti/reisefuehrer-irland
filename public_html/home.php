@@ -226,7 +226,7 @@ require_once TEMPLATES_PATH . '/nav.php';
                 <div class="content-container">
                     <h2 class="section-heading">Impressum</h2>
                     <hr class="my-4">
-            		<a href="quellen.php">Quellen</a>
+                    <a href="quellen.php">Quellen</a>
                 </div>
             </div>
         </div>

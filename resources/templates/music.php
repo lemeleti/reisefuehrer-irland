@@ -9,15 +9,17 @@
         f&uuml;hrt &uuml;ber die Schleuse auf die andere Seite des Kanals.
         Weiter geht es zum irischen Rock'n Roll Museum, zu einem Pub in einer
         ehemaligen Kirche samt Orgel; es wird The Church genannt. Zum Schluss
-        gelangen wir zu zwei Pubs mit t&auml;glicher irischer Livemusik, sie heissen The
-        Brazen Head und O'Neill's Pub and Kitchen.</p>
+        gelangen wir zu zwei Pubs mit t&auml;glicher irischer Livemusik, sie
+        heissen The Brazen Head und O'Neill's Pub and Kitchen.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
 </div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="grand-canal-doc">Grand Canal Doc<sub>33</sub></h3>
+<h3 id="grand-canal-doc">
+    Grand Canal Doc<sub>33</sub>
+</h3>
 <pre>Hanover Quay 84 Hanover Dock, Dublin 2, Irland</pre>
 <hr class="my-4">
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
@@ -38,6 +40,8 @@
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>
         Der Grand Canal war fr&uuml;her eine wichtige Verkehrsader. Er wurde
@@ -63,7 +67,9 @@
 </div>
 <!-- Platz 2 -->
 <hr class="my-4 large">
-<h3 id="irish-rockand-roll-museum">Irish Rock &amp; Roll Museum<sub>34</sub></h3>
+<h3 id="irish-rockand-roll-museum">
+    Irish Rock &amp; Roll Museum<sub>34</sub>
+</h3>
 <pre>Curved Street, Temple Bar, Dublin 2, Irland</pre>
 <hr class="my-4">
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
@@ -83,6 +89,8 @@ Kann nur in einer F&uuml;hrung besichtigt werden! (nicht rollstuhlg&auml;ngig)</
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>Das Museum ist anders, als man es sich gewohnt ist. Ein freundlicher
         Guide nimmt die G&auml;ste mit auf eine Tour durch die irische
@@ -98,7 +106,9 @@ Kann nur in einer F&uuml;hrung besichtigt werden! (nicht rollstuhlg&auml;ngig)</
 </div>
 <!-- Platz 3 -->
 <hr class="my-4 large">
-<h3 id="the-church-music">The Church<sub>23</sub></h3>
+<h3 id="the-church-music">
+    The Church<sub>23</sub>
+</h3>
 <pre>Junction of Mary Street &amp; Jervis Street, North City, Dublin 1, Irland
 <a class="custom-url" target="_blank" href="http://www.thechurch.ie/">www.thechurch.ie</a>
 </pre>
@@ -110,14 +120,17 @@ So 11:30-23:00</pre>
 <h4>Beschreibung</h4>
 <pre>Restaurant und Pub</pre>
 <div class="w3-content w3-display-container slides my-4">
-    <img src="img/music/thumbnails/IMG_5830.jpg" />
-    <img src="img/music/thumbnails/9696750448_00d8028896_o.jpg" />
+    <img src="img/music/thumbnails/IMG_5830.jpg" /> <img
+        src="img/music/thumbnails/9696750448_00d8028896_o.jpg" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Das erste Bild ist Selbstgemacht. Rest siehe Quellen
+    unter Impressum.</p>
+<hr class="my-4">
 <div class="content">
     <p>Das Lokal The Church ist sehr aussergew&ouml;hnlich und geh&ouml;rt
         zu den bekanntesten Pubs in Dublin. Es befindet sich in einer
@@ -139,7 +152,9 @@ So 11:30-23:00</pre>
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="the-brazen-head">The Brazen Head<sub>35</sub></h3>
+<h3 id="the-brazen-head">
+    The Brazen Head<sub>35</sub>
+</h3>
 <pre>20 Lower Bridge Street, Merchants Quay, Dublin 8, Irland
 <a class="custom-url" target="_blank" href="http://www.brazenhead.com/">www.brazenhead.com</a>
 </pre>
@@ -160,6 +175,8 @@ So 12:30-23:30</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<hr class="my-4">
 <div class="content">
     <p>Das Pub bezeichnet sich selbst als die &auml;lteste Kneipe Irlands.
         Seine Geschichte soll 800 Jahre zur&uuml;ckreichen. Sicher ist, dass
@@ -181,7 +198,9 @@ So 12:30-23:30</pre>
 </div>
 <!-- Platz 5 -->
 <hr class="my-4 large">
-<h3 id="o-neill-s-pub-and-kitchen-music">O'Neill's Pub and Kitchen<sub>36</sub></h3>
+<h3 id="o-neill-s-pub-and-kitchen-music">
+    O'Neill's Pub and Kitchen<sub>36</sub>
+</h3>
 <pre>2 Suffolk Street, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.oneillspubdublin.com/">www.oneillspubdublin.com</a>
@@ -203,6 +222,8 @@ So 8:00-23:00</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>Bildquelle(n): Selbstgemacht</p>
+<hr class="my-4">
 <div class="content">
     <p>Das rund 130-j&auml;hrige Pub befindet sich in einem viktorianischen
         Geb&auml;ude. Es besitzt viele Ecken, Erker und Treppen und ist sehr
