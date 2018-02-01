@@ -1,22 +1,17 @@
 <h3 class="mb-4">Politik</h3>
 <div class="map" id="map3"></div>
 <h3>Ungef&auml;hre Gehzeit</h3>
-<pre>60 min</pre>
+<pre>1 h</pre>
 <h3 class="mb-4">Beschreibung</h3>
 <div class="content">
     <p class="mb-4">Die Tour startet beim Gerichtsgeb&auml;ude von Dublin,
-        das die vier wichtigen Gerichte von Irland beherbergt. Das
-        Geb&auml;ude spielt wie viele weitere eine wichtige Rolle beim
+        das die vier wichtigen Gerichte von Irland beherbergt und einst eine wichtige Rolle spielte beim
         Osteraufstand in Dublin. Die City Hall, das n&auml;chste Geb&auml;ude,
-        wurde urspr&uuml;nglich als B&ouml;rse genutzt, bis es von der Stadt
-        Dublin als Regierungsgeb&auml;ude genutzt wurde. Heute ist es nicht
-        mehr als Rathaus im Gebrauch, aber es ist sehr sehenswert und wird
-        einmal im Monat noch wie dazumal von der Regierung als Sitzungsort
-        verwendet. Das Irish Parliament ist ein monumentales Geb&auml;ude.
+        war urspr&uuml;nglich eine B&ouml;rse und wurde dann lange Zeit von der Stadt
+        Dublin als Regierungsgeb&auml;ude genutzt. Weiter geht es zum Irish Parliament, das ein monumentales Geb&auml;ude ist.
         Heute ist die Bank of Ireland in diesem Geb&auml;ude ans&auml;ssig.
-        Der ehemalige Herzogpalast ist unsere n&auml;chste Station, heute
-        Leinster House genannt. Seit einiger Zeit sind dort die zwei Kammern
-        des Parlaments beheimatet. Als letzte Station folgen die Government
+        Unsere n&auml;chste Station ist der ehemalige Herzogpalast, wo zwei Kammern
+        des Parlaments beheimatet sind. Als letzte Station folgen die Government
         Buildings, die heute viele wichtige Sitze wie zum Beispiel das
         Ministerium des Premierministers (Leo Varadkar) beherbergen.</p>
 </div>
@@ -25,7 +20,7 @@
 </div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
-<h3 id="four-courts-politic">Four Courts (Gerichtsgeb&auml;de)<sub>44</sub></h3>
+<h3 id="four-courts-politic">Four Courts<sub>44</sub></h3>
 <pre>Inns Quay 25, Dublin 8, Irland</pre>
 <hr class="my-4">
 <h4>&Ouml;ffnungszeiten</h4>
@@ -33,8 +28,10 @@
 Sa und So geschlossen
 (Achtung verst&auml;rkte Sicherheitskontrollen)
 </pre>
+<h4>Beschreibung</h4>
+<pre>Gerichtsgeb&auml;ude</pre>
 <hr class="my-4">
-<pre>Am besten das Geb&auml;ude von der anderen Seite des Flusses betrachten.</pre>
+<pre>Am besten betrachtet man das Geb&auml;ude von der anderen Seite des Flusses.</pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/politics/thumbnails/Four Courts Dublin.png" />
 
@@ -75,6 +72,8 @@ Sa und So geschlossen
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Sa 10:00-17:15
 So geschlossen</pre>
+<h4>Beschreibung</h4>
+<pre>ehem. Rathaus</pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/politics/thumbnails/IMG_7358.JPG" /> <img
         src="img/politics/thumbnails/IMG_7336.JPG" /> <img
@@ -111,7 +110,7 @@ So geschlossen</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Fr 10:00-16:00
 Do 10:00-17:00
-(nur Teile, da im Gebrauch von der Bank)</pre>
+(nur Teile, da im Gebrauch der Bank)</pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/politics/thumbnails/IMG_7391.JPG" /> <img
         src="img/politics/thumbnails/IMG_7387.JPG" />
@@ -134,7 +133,7 @@ Do 10:00-17:00
 </div>
 <!-- Platz 4 -->
 <hr class="my-4 large">
-<h3 id="leinster-house">Leinster House / Parlamentshaus<sub>47</sub></h3>
+<h3 id="leinster-house">Leinster House<sub>47</sub></h3>
 <pre>Kildare St, Dublin 2, Irland
 <a class="custom-url" target="_blank"
         href="http://www.oireachtas.ie/parliament/">www.oireachtas.ie/parliament</a>
@@ -147,6 +146,8 @@ Sa und So geschlossen
 <h4>F&uuml;hrungen</h4>
 <pre>Mo und Fr 10:30 und 14:30
 kostenlose F&uuml;hrung</pre>
+<h4>Beschreibung</h4>
+<pre>Parlamentshaus</pre>
 <hr class="my-4">
 <pre>Ziel von Protestm&auml;rschen und Kundgebungen</pre>
 <div class="w3-content w3-display-container slides my-4">
@@ -158,13 +159,13 @@ kostenlose F&uuml;hrung</pre>
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Der ehemalige Herzogpalast ist seit 1922 Sitz des irischen
+    <p>Der ehemalige Herzogpalast ist Sitz des irischen
         Parlaments. Das Geb&auml;ude wurde 1745 bis 1747 erbaut als
         Residenzsitz f&uuml;r den Grafen von Kildare, den sp&auml;teren Herzog
         der Provinz Leinster. Richtung Kildare Street pr&auml;sentiert sich
         das Geb&auml;ude als Stadtpalast mit einem Parkplatz als Vorgarten.
-        1924 erwarb der irische Staat das Leinster House und beherbergt
-        seitdem die beiden Kammern des irischen Parlaments.</p>
+        1924 erwarb der irische Staat das Leinster House,
+        seitdem beherbergt es die beiden Kammern des irischen Parlaments.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -194,7 +195,7 @@ kostenlose F&uuml;hrung</pre>
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <div class="content">
-    <p>Die Government Buildings (1904-1922) wurde von Sir Aston Webb und
+    <p>Die Government Buildings (1904-1922) wurden von Sir Aston Webb und
         Thomas Manley entworfen und enthalten die Regierungsb&uuml;ros. Heute
         sind das Ministerium des Premierministers, die Ratskammer, das
         Finanzministerium und das B&uuml;ro des Generalstaatsanwalts in den
