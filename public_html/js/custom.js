@@ -13,6 +13,17 @@ $(".js-scroll-trigger").click(function() {
 	$('.dropdown-menu').removeClass("show");
 });
 
+// dot color
+$(function() {
+	var allRoutes = loadJson('allRoutes.json');
+	for (var r = 0; r < allRoutes.length; r++) { 
+		var route = allRoutes[r];
+		var colorId = '.colorId_' + route['id'];
+		var color = '#' + route['strokeColor'];
+		$(colorId).css('background-color', color);
+	}
+});
+
 // show/hide content
 $(function() {
 	var $content = $("div.content");
