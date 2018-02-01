@@ -9,8 +9,8 @@
         f&uuml;hrt &uuml;ber die Schleuse auf die andere Seite des Kanals.
         Weiter geht es zum irischen Rock'n Roll Museum, zu einem Pub in einer
         ehemaligen Kirche samt Orgel; es wird The Church genannt. Zum Schluss
-        gelangen wir zu zwei Pubs mit t&auml;glicher irischer Livemusik, The
-        Brazen Head und das O'Neill's Pub and Kitchen.</p>
+        gelangen wir zu zwei Pubs mit t&auml;glicher irischer Livemusik, sie heissen The
+        Brazen Head und O'Neill's Pub and Kitchen.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
@@ -144,8 +144,6 @@ So 11:30-23:00</pre>
 <a class="custom-url" target="_blank" href="http://www.brazenhead.com/">www.brazenhead.com</a>
 </pre>
 <hr class="my-4">
-<h4>Ungef&auml;hre Dauer des Besuchs</h4>
-<pre>1 h</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Di-Do 10:30-23:30
 Fr, Sa und Mo 10:30-0:30
@@ -189,8 +187,6 @@ So 12:30-23:30</pre>
         href="http://www.oneillspubdublin.com/">www.oneillspubdublin.com</a>
 </pre>
 <hr class="my-4">
-<h4>Ungef&auml;hre Dauer des Besuchs</h4>
-<pre>1 h</pre>
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Do 8:00-23:30
 Fr und Sa 8:00-0:30
