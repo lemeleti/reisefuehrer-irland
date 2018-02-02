@@ -72,7 +72,6 @@ Sa und So geschlossen
 <h3 id="city-hall-politic">
 	City Hall<sub>45</sub>
 </h3>
-<h3>(ehem. Rathaus)</h3>
 <pre>Dame Street, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincity.ie/">www.dublincity.ie</a>
 </pre>
