@@ -159,18 +159,20 @@ So geschlossen</pre>
 <p>Bildquelle(n): Selbstgemacht</p>
 <hr class="my-4">
 <div class="content">
-    <p>Die City Hall (1769-1779) ist eines der besten Beispiele f&uuml;
-        georgianischen Architektur. Das Geb&auml;ude wurde urspr&uuml;nglich
-        als B&ouml;rse genutzt, wurde aber nach einer wirtschaftlichen Krise
-        im 19. Jahrhundert 1851 von der Dublin City Corporation gekauft und
-        f&uuml;r die Stadtverwaltung eingerichtet. Auch dieses Geb&auml;ude
-        wurde von den irischen Rebellen im Osteraufstand 1916 besetzt. Nach
-        der Erlangung der Unabh&auml;ngigkeit 1922 bezog die Regierung
-        provisorisch die City Hall als Hauptquartier. 1995 musste die
-        Stadtverwaltung die City Hall wegen Platzproblemen verlassen. Aber
-        jeden ersten Montag im Monat kehrt der Stadtrat zur&uuml;ck in die
-        City Hall. Heute gibt es im Kellergew&ouml;lbe eine Ausstellung, die
-        Einblick in die Entwicklung der Stadt gibt.</p>
+    <p>Die City Hall (1769-1779) ist eines der besten Beispiele der
+		georgianischen Architektur. Sie war urspr&uuml;nglich eine B&ouml;rse,
+		wurde aber 1851 nach einer wirtschaftlichen Krise von der Dublin City
+		Corporation gekauft und f&uuml;r die Stadtverwaltung eingerichtet.
+		Diese Verwaltung stand damals noch unter englischer F&uuml;hrung.
+		Darum wurde die City Hall von den irischen Rebellen besetzt, als sich
+		diese 1916 gegen die englische Herrschaft auflehnten. Der sogenannte
+		Osteraufstand scheiterte zwar, aber 1922 wurde Irland doch noch
+		unabh&auml;ngig und die neue Regierung bezog die City Hall
+		provisorisch als Hauptquartier. 1995 musste die Stadtverwaltung das
+		Geb&auml;ude wegen Platzproblemen verlassen. Aber jeden ersten Montag
+		im Monat kehrt der Stadtrat zur&uuml;ck in die City Hall. Heute wird
+		im Kellergew&ouml;lbe eine Ausstellung gezeigt, die Einblick in die
+		Entwicklung der Stadt gibt.</p>
 </div>
 <div class="show-more">
     <a class="custom-url text-center" href="#">mehr...</a>
