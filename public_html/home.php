@@ -18,6 +18,10 @@ require_once realpath(dirname(__FILE__) . '/../resources/config.php');
 // createThumbnails("img/oasen/original/","img/oasen/fullsize/", $fullsizeWidth);
 // createThumbnails("img/politics/original/","img/politics/fullsize/", $fullsizeWidth);
 // createThumbnails("img/worth-seeing/original/","img/worth-seeing/fullsize/", $fullsizeWidth);
+///*
+// * Following images have to be copied seperate from fullsize to thumbnails:
+// * Music: o-neils.jpg, The_Brazen_Head_(cropped).jpg and IMG_6996.jpg
+// */
 // $thumbnailWidth = 600;
 // createThumbnails("img/architecture/original/","img/architecture/thumbnails/", $thumbnailWidth);
 // createThumbnails("img/art/original/","img/art/thumbnails/", $thumbnailWidth);
