@@ -75,7 +75,7 @@ require_once TEMPLATES_PATH . '/nav.php';
                         k&ouml;nnen dir mit unserer Arbeit einige Vorbereitungszeit
                         f&uuml;r deine Reise nach Dublin abnehmen. Viel Spass beim
                         St&ouml;bern w&uuml;nschen dir Anabel, C&eacute;line, Leandro und
-                        Silke</p>
+                        Silke.</p>
                 </div>
             </div>
         </div>
@@ -256,8 +256,8 @@ require_once TEMPLATES_PATH . '/nav.php';
                 <div class="content-container">
                     <h2 class="section-heading">Impressum</h2>
                     <hr class="my-4">
-                    <pre><a href="quellen.php">Quellen</a></pre>
                     <pre>Stand 02.02.2018</pre>
+                    <pre><a href="quellen.php">Quellen</a></pre>
                     <h3>Redaktionsteam</h3>
                     <pre>Anabel, C&eacute;line, Leandro, Silke</pre>
                 </div>

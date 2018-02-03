@@ -8,7 +8,7 @@ R&ouml;mer erinnern. Das Custom House ist das Umweltministerium von Dublin, von 
 geht es zur O'Connel Bridge, einer der bedeutendsten Br&uuml;cken, die den Fluss Liffey
 &uuml;berqueren. Im Wikingermueseum Dublinia lernt man viel &uuml;ber das Mittelalter, gleich
 daneben steht die Christ Church Cathedral, eine der &auml;ltesten Kathedralen der Stadt.
-Die Grafton Street ist die Haupteinkaufsstrasse. Sie endet einer der besten
+Die Grafton Street ist die Haupteinkaufsstrasse. Sie endet bei einer der besten
 Universit&auml;ten der Welt, beim Trinity College.</pre>
 <!-- Platz 1 -->
 <hr class="my-4 large">
