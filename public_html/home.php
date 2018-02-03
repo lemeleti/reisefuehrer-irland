@@ -9,29 +9,29 @@ require_once realpath(dirname(__FILE__) . '/../resources/config.php');
 
 // require_once LIBRARY_PATH . '/thumbnail_library.php';
 // $fullsizeWidth = 1920;
-// createThumbnails("img/architecture/original/","img/architecture/fullsize/", $fullsizeWidth);
-// createThumbnails("img/art/original/","img/art/fullsize/", $fullsizeWidth);
-// createThumbnails("img/history/original/","img/history/fullsize/", $fullsizeWidth);
-// createThumbnails("img/kulinarik/original/","img/kulinarik/fullsize/", $fullsizeWidth);
-// createThumbnails("img/music/original/","img/music/fullsize/", $fullsizeWidth);
-// createThumbnails("img/night/original/","img/night/fullsize/", $fullsizeWidth);
-// createThumbnails("img/oasen/original/","img/oasen/fullsize/", $fullsizeWidth);
-// createThumbnails("img/politics/original/","img/politics/fullsize/", $fullsizeWidth);
-// createThumbnails("img/worth-seeing/original/","img/worth-seeing/fullsize/", $fullsizeWidth);
+// createThumbnails("img/original/architecture/","img/architecture/fullsize/", $fullsizeWidth);
+// createThumbnails("img/original/art/","img/art/fullsize/", $fullsizeWidth);
+// createThumbnails("img/original/history/","img/history/fullsize/", $fullsizeWidth);
+// createThumbnails("img/original/kulinarik/","img/kulinarik/fullsize/", $fullsizeWidth);
+// createThumbnails("img/original/music/","img/music/fullsize/", $fullsizeWidth);
+// createThumbnails("img/original/night/","img/night/fullsize/", $fullsizeWidth);
+// createThumbnails("img/original/oasen/","img/oasen/fullsize/", $fullsizeWidth);
+// createThumbnails("img/original/politics/","img/politics/fullsize/", $fullsizeWidth);
+// createThumbnails("img/original/worth-seeing/","img/worth-seeing/fullsize/", $fullsizeWidth);
 ///*
 // * Following images have to be copied seperate from fullsize to thumbnails:
 // * Music: o-neils.jpg, The_Brazen_Head_(cropped).jpg and IMG_6996.jpg
 // */
 // $thumbnailWidth = 600;
-// createThumbnails("img/architecture/original/","img/architecture/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/art/original/","img/art/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/history/original/","img/history/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/kulinarik/original/","img/kulinarik/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/music/original/","img/music/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/night/original/","img/night/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/oasen/original/","img/oasen/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/politics/original/","img/politics/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/worth-seeing/original/","img/worth-seeing/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/original/architecture/","img/architecture/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/original/art/","img/art/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/original/history/","img/history/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/original/kulinarik/","img/kulinarik/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/original/music/","img/music/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/original/night/","img/night/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/original/oasen/","img/oasen/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/original/politics/","img/politics/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/original/worth-seeing/","img/worth-seeing/thumbnails/", $thumbnailWidth);
 
 require_once TEMPLATES_PATH . '/header.php';
 require_once TEMPLATES_PATH . '/nav.php';
