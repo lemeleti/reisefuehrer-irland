@@ -11,7 +11,7 @@ Church nennt.</pre>
 <!-- Platz 1 -->
 <hr class="my-4 large">
 <h3 id="vice-coffee">
-	Vice Coffee<sub>17</sub>
+	<a class="custom-url" href="quellen.php#17">Vice Coffee<sub>17</sub></a>
 </h3>
 <pre>54 Abbey Street Middle, North City, Dublin, Irland
 <a class="custom-url" target="_blank"
@@ -33,7 +33,7 @@ Church nennt.</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): Vice Coffee</p>
 <hr class="my-4">
 <div class="content">
 	<p>Das unscheinbare Caf&eacute; befindet sich inmitten der
@@ -52,7 +52,7 @@ Church nennt.</pre>
 <!-- Platz 2 -->
 <hr class="my-4 large">
 <h3 id="love-supreme">
-	Love Supreme<sub>18</sub>
+	<a class="custom-url" href="quellen.php#18">Love Supreme<sub>18</sub></a>
 </h3>
 <pre>57 Manor Street, Stoneybatter, Irland
 <a class="custom-url" target="_blank" href="http://www.lovesupreme.ie/">www.lovesupreme.ie</a>
@@ -76,7 +76,7 @@ Sa und So 10:00-17:00 Uhr
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): Love Supreme</p>
 <hr class="my-4">
 <div class="content">
 	<p>Ein kleiner Abstecher an den Rand von Dublin lohnt sich. Du kannst
@@ -91,7 +91,7 @@ Sa und So 10:00-17:00 Uhr
 <!-- Platz 3 -->
 <hr class="my-4 large">
 <h3 id="wuff">
-	Wuff<sub>19</sub>
+	<a class="custom-url" href="quellen.php#19">Wuff<sub>19</sub></a>
 </h3>
 <pre>23 Benburb Street, Arran Quay, Dublin 7, Irland
 <a class="custom-url" target="_blank" href="http://www.wuff.ie/">www.wuff.ie</a>
@@ -115,7 +115,7 @@ So 10:00-16:00 Uhr
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): Wuff</p>
 <hr class="my-4">
 <div class="content">
 	<p>Wenn du einmal nicht im Hotel fr&uuml;hst&uuml;cken m&ouml;chtest,
@@ -128,7 +128,7 @@ So 10:00-16:00 Uhr
 <!-- Platz 4 -->
 <hr class="my-4 large">
 <h3 id="nando-s">
-	Nando's<sub>20</sub>
+	<a class="custom-url" href="quellen.php#20">Nando's<sub>20</sub></a>
 </h3>
 <pre>12 St Andrew's Street, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.nandos.ie/">www.nandos.ie</a>
@@ -142,7 +142,7 @@ So 12:00-22:00 Uhr
 <h4>Beschreibung</h4>
 <pre>Fast-Food-Konzept mit sehr gutem Essen.</pre>
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/kulinarik/thumbnails/nandos.jpg" />
+	<img src="img/kulinarik/thumbnails/26283507712_849659e369_o.jpg" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -156,8 +156,7 @@ So 12:00-22:00 Uhr
 		koscher.</p>
 </div>
 <p>
-	Bildquelle(n):
-	<!-- TODO: Bildlegende Nando's -->
+	Abbildung(en): <a class="custom-url" href="quellen.php#nandos">Nando's</a>
 </p>
 <hr class="my-4">
 <div class="show-more">
@@ -166,7 +165,7 @@ So 12:00-22:00 Uhr
 <!-- Platz 5 -->
 <hr class="my-4 large">
 <h3 id="farm">
-	Farm<sub>21</sub>
+	<a class="custom-url" href="quellen.php#21">The Farm<sub>21</sub></a>
 </h3>
 <pre>3 Dawson Street, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.thefarmfood.ie/">www.thefarmfood.ie</a>
@@ -175,8 +174,7 @@ So 12:00-22:00 Uhr
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-So 12:00-22:00 Uhr</pre>
 <div class="w3-content w3-display-container slides my-4">
-	<!-- TODO: Bild folgt (Farm) -->
-	<img src="img/portfolio/thumbnails/1.jpg" />
+	<img src="img/kulinarik/thumbnails/The_Fram_Restaurant.jpg" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -184,8 +182,7 @@ So 12:00-22:00 Uhr
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <p>
-	Bildquelle(n):
-	<!-- TODO: Bildlegende Farm -->
+	Abbildung(en): <a class="custom-url" href="quellen.php#the-farm">The Farm</a>
 </p>
 <hr class="my-4">
 <div class="content">
@@ -199,7 +196,7 @@ So 12:00-22:00 Uhr
 <!-- Platz 6 -->
 <hr class="my-4 large">
 <h3 id="beanhive-coffee">
-	Beanhive Coffee<sub>22</sub>
+	<a class="custom-url" href="quellen.php#22">Beanhive Coffee<sub>22</sub></a>
 </h3>
 <pre>Dawson Street, Dublin 2, D02 FY28, Irland
 <a class="custom-url" target="_blank" href="http://www.beanhive.ie/">www.beanhive.ie</a>
@@ -218,7 +215,7 @@ Sa und So 9:00-18:00 Uhr
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): Beanhive Coffee</p>
 <hr class="my-4">
 <div class="content">
 	<p>Dieses Caf&eacute;/Restaurant ist perfekt gelegen, um es mit einem
@@ -233,7 +230,7 @@ Sa und So 9:00-18:00 Uhr
 <!-- Platz 7 -->
 <hr class="my-4 large">
 <h3 id="the-church-kulinarik">
-	The Church<sub>23</sub>
+	<a class="custom-url" href="quellen.php#23">The Church<sub>23</sub></a>
 </h3>
 <pre>Junction of Mary Street &amp; Jervis Street, North City, Dublin 1, Irland
 <a class="custom-url" target="_blank" href="http://www.thechurch.ie/">www.thechurch.ie</a>
@@ -254,8 +251,7 @@ So 11:30-23:00</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Das erste Bild ist Selbstgemacht. Rest siehe Quellen
-	unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#the-church">The Church</a></p>
 <hr class="my-4">
 <div class="content">
 	<p>Das Lokal The Church ist sehr aussergew&ouml;hnlich und geh&ouml;rt

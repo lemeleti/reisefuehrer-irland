@@ -16,7 +16,7 @@
 <!-- Platz 1 -->
 <hr class="my-4 large">
 <h3 id="phoenix-park">
-	Phoenix Park<sub>40</sub>
+	<a class="custom-url" href="quellen.php#39">Phoenix Park<sub>39</sub></a>
 </h3>
 <pre>Phoenix Park, Dublin 8, Irland
 <a class="custom-url" target="_blank" href="http://www.phoenixpark.ie/">www.phoenixpark.ie</a>
@@ -36,7 +36,7 @@
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#phoenixpark">Phoenix Park</a></p>
 <hr class="my-4">
 <div class="content">
 	<p>
@@ -62,7 +62,7 @@
 <!-- Platz 2 -->
 <hr class="my-4 large">
 <h3 id="st-stephens-green-oasen">
-	St. Stephen's Green<sub>41</sub>
+	<a class="custom-url" href="quellen.php#40">St. Stephen's Green<sub>40</sub></a>
 </h3>
 <pre>St Stephen's Green, Dublin 2, Irland
 <a class="custom-url" target="_blank"
@@ -81,7 +81,7 @@ Sonn- und Feiertage 09:30-Sonnenuntergang</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): St. Stephen's Green</p>
 <hr class="my-4">
 <div class="content">
 	<p>Der Park mit dem grossen Teich l&auml;dt zum Verweilen im
@@ -102,7 +102,7 @@ Sonn- und Feiertage 09:30-Sonnenuntergang</pre>
 <!-- Platz 3 -->
 <hr class="my-4 large">
 <h3 id="merrion-square-park">
-	Merrion Square Park<sub>42</sub>
+	<a class="custom-url" href="quellen.php#41">Merrion Square Park<sub>41</sub></a>
 </h3>
 <pre>Merrion Square, Dublin, &Eacute;ire, Irland
 <a class="custom-url" target="_blank"
@@ -122,7 +122,7 @@ Okt 19:00, Nov 17:00, Dez 16:30</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): Merrion Square Park</p>
 <hr class="my-4">
 <div class="content">
 	<p>Der im georgianischen Stil erbaute Merrion Square Park heisst
@@ -143,7 +143,7 @@ Okt 19:00, Nov 17:00, Dez 16:30</pre>
 <!-- Platz 4 -->
 <hr class="my-4 large">
 <h3 id="iveagh-garden">
-	Iveagh Garden<sub>43</sub>
+	<a class="custom-url" href="quellen.php#42">Iveagh Garden<sub>42</sub></a>
 </h3>
 <pre>Clonmel Street, Saint Kevin's, Dublin 2, Irland
 <a class="custom-url" target="_blank"
@@ -172,7 +172,7 @@ So 10:00-18:00
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n):Selbstgemacht</p>
+<p>Abbildung(en): Iveagh Garden</p>
 <hr class="my-4">
 <div class="content">
 	<p>Der ehemalige Privatgarten der Guinness-Familie aus dem 19.

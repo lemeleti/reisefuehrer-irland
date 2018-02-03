@@ -18,7 +18,7 @@
 <!-- Platz 1 -->
 <hr class="my-4 large">
 <h3 id="grand-canal-doc">
-    Grand Canal Doc<sub>33</sub>
+    <a class="custom-url" href="quellen.php#32">Grand Canal Doc<sub>32</sub></a>
 </h3>
 <pre>Hanover Quay 84 Hanover Dock, Dublin 2, Irland</pre>
 <hr class="my-4">
@@ -40,7 +40,7 @@
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): Grand Canal Doc</p>
 <hr class="my-4">
 <div class="content">
     <p>
@@ -68,7 +68,7 @@
 <!-- Platz 2 -->
 <hr class="my-4 large">
 <h3 id="irish-rockand-roll-museum">
-    Irish Rock &amp; Roll Museum<sub>34</sub>
+    <a class="custom-url" href="quellen.php#33">Irish Rock &amp; Roll Museum<sub>33</sub></a>
 </h3>
 <pre>Curved Street, Temple Bar, Dublin 2, Irland</pre>
 <hr class="my-4">
@@ -89,7 +89,7 @@ Kann nur in einer F&uuml;hrung besichtigt werden! (nicht rollstuhlg&auml;ngig)</
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): Irish Rock &amp; Roll Museum</p>
 <hr class="my-4">
 <div class="content">
     <p>Das Museum ist anders, als man es sich gewohnt ist. Ein freundlicher
@@ -107,7 +107,7 @@ Kann nur in einer F&uuml;hrung besichtigt werden! (nicht rollstuhlg&auml;ngig)</
 <!-- Platz 3 -->
 <hr class="my-4 large">
 <h3 id="the-church-music">
-    The Church<sub>23</sub>
+    <a class="custom-url" href="quellen.php#23">The Church<sub>23</sub></a>
 </h3>
 <pre>Junction of Mary Street &amp; Jervis Street, North City, Dublin 1, Irland
 <a class="custom-url" target="_blank" href="http://www.thechurch.ie/">www.thechurch.ie</a>
@@ -128,8 +128,7 @@ So 11:30-23:00</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Das erste Bild ist Selbstgemacht. Rest siehe Quellen
-    unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#the-church">The Church</a></p>
 <hr class="my-4">
 <div class="content">
     <p>Das Lokal The Church ist sehr aussergew&ouml;hnlich und geh&ouml;rt
@@ -153,7 +152,7 @@ So 11:30-23:00</pre>
 <!-- Platz 4 -->
 <hr class="my-4 large">
 <h3 id="the-brazen-head">
-    The Brazen Head<sub>35</sub>
+    <a class="custom-url" href="quellen.php#34">The Brazen Head<sub>34</sub></a>
 </h3>
 <pre>20 Lower Bridge Street, Merchants Quay, Dublin 8, Irland
 <a class="custom-url" target="_blank" href="http://www.brazenhead.com/">www.brazenhead.com</a>
@@ -175,7 +174,7 @@ So 12:30-23:30</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#the-brazen-head">The Brazen Head</a></p>
 <hr class="my-4">
 <div class="content">
     <p>Das Pub bezeichnet sich selbst als die &auml;lteste Kneipe Irlands.
@@ -199,7 +198,7 @@ So 12:30-23:30</pre>
 <!-- Platz 5 -->
 <hr class="my-4 large">
 <h3 id="o-neill-s-pub-and-kitchen-music">
-    O'Neill's Pub and Kitchen<sub>36</sub>
+    <a class="custom-url" href="quellen.php#35">O'Neill's Pub and Kitchen<sub>35</sub></a>
 </h3>
 <pre>2 Suffolk Street, Dublin 2, Irland
 <a class="custom-url" target="_blank"
@@ -222,7 +221,7 @@ So 8:00-23:00</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): O'Neill's Pub and Kitchen</p>
 <hr class="my-4">
 <div class="content">
     <p>Das rund 130-j&auml;hrige Pub befindet sich in einem viktorianischen

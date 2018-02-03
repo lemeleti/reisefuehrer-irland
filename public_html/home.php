@@ -82,39 +82,39 @@ require_once TEMPLATES_PATH . '/nav.php';
                     <h5>Graue Marker sind in mehreren Touren vorhanden!</h5>
                     <br>
                     <h5>
-                        <span class="dot colorId_1"></span> Architektur <span class="dot colorId_1"></span>
+                        <span class="dot colorId_1"></span> Architektur
                     </h5>
                     <pre>Dieser Spaziergang f&uuml;hrt dich quer durch ganz Dublin an wichtigen architektonischen Bauten vorbei. Die Zeitepoche reicht vom Mittelalter bis zur heutigen Zeit.</pre>
                     <h5>
-                        <span class="dot colorId_7"></span> Geschichte <span class="dot colorId_7"></span>
+                        <span class="dot colorId_7"></span> Geschichte
                     </h5>
                     <pre>Interessiert dich Geschichte? Aber willst du dir dein Wissen nicht nur aus Museen und B&uuml;chern holen? Dann findest du den kleinen Exkurs in die Dubliner Geschichte sicher spannend. Dieser Spaziergang f&uuml;hrt dich durch vergangene Zeiten und vermittelt dir ein paar Eindr&uuml;cke. Wenn dir etwas besonders gef&auml;llt, steht es dir frei, ob du noch mehr aus dieser Zeit entdecken willst.</pre>
                     <h5>
-                        <span class="dot colorId_8"></span> Kulinarik <span class="dot colorId_8"></span>
+                        <span class="dot colorId_8"></span> Kulinarik
                     </h5>
                     <pre>Wenn du nicht nur Burger und Pommes essen und nach dem Guinness Abend am n&auml;chsten Morgen einen hervorragenden Kaffee mit oder ohne Brunch geniessen m&ouml;chtest, sind diese Restaurants perfekt.</pre>
                     <h5>
-                        <span class="dot colorId_9"></span> Kunst <span class="dot colorId_9"></span>
+                        <span class="dot colorId_9"></span> Kunst
                     </h5>
                     <pre>Der Spaziergang ist ideal f&uuml;r Leute, die nicht nur in Museen verweilen wollen, sondern parallel zur Kunst auch die wundersch&ouml;ne Stadt entdecken m&ouml;chten. Die Tour beschr&auml;nkt sich auf Street-Art und kann gut mit anderen Touren kombiniert werden. Street-Art ist sehr lebendig und immer im Wandel, daher kann sich viel ver&auml;ndern und wir garantieren nicht, dass die beschriebenen Kunstwerke noch vorhanden sind, wenn du sie dir ansehen willst. Unser Tipp: Achte beim Flanieren auch auf die Nebengassen, Street-Art versteckt sich genau dort, wo man nicht darauf achtet.</pre>
                     <h5>
-                        <span class="dot colorId_5"></span> Musik <span class="dot colorId_5"></span>
+                        <span class="dot colorId_5"></span> Musik
                     </h5>
                     <pre>In Dublin ist Musik sehr wichtig. In vielen Pubs kann man traditionelle Livemusik erleben, aber auch Rock'n Roll, Jazz und Klassik spielen eine wichtige Rolle. Aus Dublin kommt Irlands ber&uuml;hmteste Rockband U2. Dieser Spaziergang f&uuml;r dich an Orte, die mit Musik zu tun haben.</pre>
                     <h5>
-                        <span class="dot colorId_6"></span> By Night <span class="dot colorId_6"></span>
+                        <span class="dot colorId_6"></span> By Night
                     </h5>
                     <pre>In Dublin kann man auch am Abend viel sehen und erleben. Es gibt zahlreiche Pubs und Restaurants und viele Br&uuml;cken &uuml;ber den Liffey sind nachts beleuchtet. Ein sehr beliebtes Viertel ist Temple Bar, dort hat es an jeder zweiten Ecke ein Pub oder eine Bar.</pre>
                     <h5>
-                        <span class="dot colorId_2"></span> Oasen <span class="dot colorId_2"></span>
+                        <span class="dot colorId_2"></span> Oasen
                     </h5>
                     <pre>Brauchst du Zeit, um abzuschalten oder einfach einmal die Zeit zu geniessen und dies erst noch an der frischen Luft, dann wirst du hier sicher f&uuml;ndig.</pre>
                     <h5>
-                        <span class="dot colorId_3"></span> Politik <span class="dot colorId_3"></span>
+                        <span class="dot colorId_3"></span> Politik
                     </h5>
                     <pre>Dieser Spaziergang f&uuml;hrt dich zu historischen und heute wichtigen Geb&auml;uden, die mit dem Thema Politik zu tun haben.</pre>
                     <h5>
-                        <span class="dot colorId_4"></span> Sehenswertes <span class="dot colorId_4"></span>
+                        <span class="dot colorId_4"></span> Sehenswertes
                     </h5>
                     <pre>Dieser Spaziergang f&uuml;hrt dich vorbei an bekannten Geb&auml;uden, Orten und Sehensw&uuml;rdigkeiten.</pre>
                 </div>
@@ -246,7 +246,10 @@ require_once TEMPLATES_PATH . '/nav.php';
                 <div class="content-container">
                     <h2 class="section-heading">Impressum</h2>
                     <hr class="my-4">
-                    <a href="quellen.php">Quellen</a>
+                    <pre><a href="quellen.php">Quellen</a></pre>
+                    <pre>Stand 02.02.2018</pre>
+                    <h3>Redaktionsteam</h3>
+                    <pre>Anabel, C&eacute;, Leandro, Silke</pre>
                 </div>
             </div>
         </div>

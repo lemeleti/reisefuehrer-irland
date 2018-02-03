@@ -23,7 +23,7 @@
 <!-- Platz 1 -->
 <hr class="my-4 large">
 <h3 id="st-patricks-cathedral-architecture">
-	St. Patrick's Cathedral<sub>1</sub>
+	<a class="custom-url" href="quellen.php#1">St. Patrick's Cathedral<sub>1</sub></a>
 </h3>
 <pre>St Patrick's Close, Wood Quay, Dublin 8, Irland
 <a class="custom-url" target="_blank"
@@ -63,7 +63,7 @@ Erwachsene: 5.50 &euro;
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): St. Patrick's Cathedral</p>
 <hr class="my-4">
 <div class="content">
 	<p>Die St. Patrick's Cathedral heisst vollst&auml;ndig Ard-Eaglais
@@ -85,7 +85,7 @@ Erwachsene: 5.50 &euro;
 <!-- Platz 2 -->
 <hr class="my-4 large">
 <h3 id="christ-church-cathedral-architecture">
-	Christ Church Cathedral<sub>2</sub>
+	<a class="custom-url" href="quellen.php#2">Christ Church Cathedral<sub>2</sub></a>
 </h3>
 <pre>Christchurch Place, Dublin 8, Irland
 <a class="custom-url" target="_blank"
@@ -121,7 +121,7 @@ Erwachsene: 6 &euro;
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#christ-church">Christ Church Cathedral</a></p>
 <hr class="my-4">
 <div class="content">
 	<p>Die Christ Church Cathedral ist die &auml;ltere der beiden
@@ -145,7 +145,7 @@ Erwachsene: 6 &euro;
 <!-- Platz 3 -->
 <hr class="my-4 large">
 <h3 id="dublin-castle-architecture">
-	Dublin Castle<sub>3</sub>
+	<a class="custom-url" href="quellen.php#3">Dublin Castle<sub>3</sub></a>
 </h3>
 <pre>Dame Street, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincastle.ie/">www.dublincastle.ie</a>
@@ -174,8 +174,7 @@ Erwachsene: 7 &euro;
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Das dritte Bild ist Selbstgemacht. Rest siehe Quellen
-	unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#dublin-castle">Dublin Castle</a></p>
 <hr class="my-4">
 <div class="content">
 	<p>Nach vielen Umbauten aus dem 17.-20. Jahrhundert wurde aus der
@@ -198,7 +197,7 @@ Erwachsene: 7 &euro;
 <!-- Platz 4 -->
 <hr class="my-4 large">
 <h3 id="st-stephens-green-shopping-center">
-	St. Stephens Green Shopping Center<sub>4</sub>
+	<a class="custom-url" href="quellen.php#4">St. Stephens Green Shopping Center<sub>4</sub></a>
 </h3>
 <pre>Stephens Green West, Dublin 2, Irland
 <a class="custom-url" target="_blank"
@@ -223,7 +222,7 @@ So 11:00-18:00</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): St. Stephens Green Shopping Center</p>
 <hr class="my-4">
 <div class="content">
 	<p>Das Geb&auml;ude f&auml;llt durch seine imposante
@@ -237,7 +236,7 @@ So 11:00-18:00</pre>
 <!-- Platz 5 -->
 <hr class="my-4 large">
 <h3 id="national-library-of-ireland">
-	National Library of Ireland<sub>5</sub>
+	<a class="custom-url" href="quellen.php#5">National Library of Ireland<sub>5</sub></a>
 </h3>
 <pre>National Library of Ireland, 2/3 Kildare Street, Irland
 <a class="custom-url" target="_blank" href="http://www.nli.ie/">www.nli.ie</a>
@@ -256,7 +255,7 @@ Sa 9:30-12:45</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#national-library">National Library of Ireland</a></p>
 <hr class="my-4">
 <div class="content">
 	<p>Die irische Nationalbibliothek, die 1890 er&ouml;ffnet wurde, ist
@@ -272,7 +271,7 @@ Sa 9:30-12:45</pre>
 <!-- Platz 6 -->
 <hr class="my-4 large">
 <h3 id="trinity-college-architecture">
-	Trinity College<sub>6</sub>
+	<a class="custom-url" href="quellen.php#6">Trinity College<sub>6</sub></a>
 </h3>
 <pre>College Green, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.tcd.ie/">www.tcd.ie</a>
@@ -298,7 +297,7 @@ So 12:00-16:30</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): Trinity College</p>
 <hr class="my-4">
 <div class="content">
 	<p>
@@ -323,7 +322,7 @@ So 12:00-16:30</pre>
 <!-- Platz 7 -->
 <hr class="my-4 large">
 <h3 id="ha-penny-bridge">
-	Ha'penny Bridge<sub>7</sub>
+	<a class="custom-url" href="quellen.php#7">Ha'penny Bridge<sub>7</sub></a>
 </h3>
 <pre>Bachelors Walk, North City, Dublin, Irland</pre>
 <hr class="my-4">
@@ -337,7 +336,7 @@ So 12:00-16:30</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): Ha'penny Bridge</p>
 <hr class="my-4">
 <div class="content">
 	<p>Diese Br&uuml;cke hat eine lange Tradition in Dublin. Sie verbindet
@@ -355,7 +354,7 @@ So 12:00-16:30</pre>
 <!-- Platz 8 -->
 <hr class="my-4 large">
 <h3 id="custom-house-architecture">
-	Custom House<sub>8</sub>
+	<a class="custom-url" href="quellen.php#8">Custom House<sub>8</sub></a>
 </h3>
 <pre>North Dock, Dublin 1, Irland</pre>
 <hr class="my-4">
@@ -373,7 +372,7 @@ So 12:00-16:30</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#custom-house">Custom House</a></p>
 <hr class="my-4">
 <div class="content">
 	<p>Das Custom House (1781-1791) wurde vom Architekten James Gandos als
@@ -398,7 +397,7 @@ So 12:00-16:30</pre>
 <!-- Platz 9 -->
 <hr class="my-4 large">
 <h3 id="sean-o-casey-bridge">
-	Sean O'Casey Bridge<sub>9</sub>
+	<a class="custom-url" href="quellen.php#9">Sean O'Casey Bridge<sub>9</sub></a>
 </h3>
 <pre>Sean O'Casey Bridge, South-East Inner City, Irland</pre>
 <hr class="my-4">
@@ -413,7 +412,7 @@ So 12:00-16:30</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): Sean O'Casey Bridge</p>
 <hr class="my-4">
 <div class="content">
 	<p>Die Schr&auml;gseilbr&uuml;cke Sean O'Casey Bridge, die 2005 vom
@@ -430,7 +429,7 @@ So 12:00-16:30</pre>
 <!-- Platz 10 -->
 <hr class="my-4 large">
 <h3 id="samuel-beckett-bridge">
-	Samuel Beckett Bridge<sub>10</sub>
+	<a class="custom-url" href="quellen.php#10">Samuel Beckett Bridge<sub>10</sub></a>
 </h3>
 <pre>Samuel Beckett Bridge, Dublin 2, Irland</pre>
 <hr class="my-4">
@@ -447,7 +446,7 @@ So 12:00-16:30</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): Samuel Beckett Bridge</p>
 <hr class="my-4">
 <div class="content">
 	<p>Die Br&uuml;cke des spanischen Architekten und Bauingenieurs
@@ -466,7 +465,7 @@ So 12:00-16:30</pre>
 <!-- Platz 11 -->
 <hr class="my-4 large">
 <h3 id="bord-gais-energy-theater">
-	Bord Gais Energy Theater<sub>11</sub>
+	<a class="custom-url" href="quellen.php#11">Bord Gais Energy Theater<sub>11</sub></a>
 </h3>
 <pre>Grand Canal Square, Docklands, Dublin 2, Irland
 <a class="custom-url" target="_blank"
@@ -484,7 +483,7 @@ So 12:00-16:30</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): Bord Gais Energy Theater</p>
 <hr class="my-4">
 <div class="content">
 	<p>Das Gebiet der Docklands ist gepr&auml;gt von neuer und imposanter
@@ -498,7 +497,7 @@ So 12:00-16:30</pre>
 <!-- Platz 12 -->
 <hr class="my-4 large">
 <h3 id="alliance-building">
-	Alliance Building<sub>12</sub>
+	<a class="custom-url" href="quellen.php#12">Alliance Building<sub>12</sub></a>
 </h3>
 <pre>South Lotts Road, Irland
 <a class="custom-url" target="_blank"
@@ -519,7 +518,7 @@ So 12:00-16:30</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): Alliance Building</p>
 <hr class="my-4">
 <div class="content">
 	<p>Der ehemalige Gasometer wurde in seinem bestehenden Stahlger&uuml;st

@@ -19,7 +19,7 @@
 <!-- Platz 1 -->
 <hr class="my-4 large">
 <h3 id="st-patricks-cathedral-worth_seeing">
-    St. Patrick's Cathedral<sub>1</sub>
+    <a class="custom-url" href="quellen.php#1">St. Patrick's Cathedral<sub>1</sub></a>
 </h3>
 <pre>St Patrick's Close, Wood Quay, Dublin 8, Irland
 <a class="custom-url" target="_blank"
@@ -61,7 +61,7 @@ Erwachsene: 4.20 &euro;</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): St. Patrick's Cathedral</p>
 <hr class="my-4">
 <div class="content">
     <p>Die St. Patrick's Cathedral heisst vollst&auml;ndig Ard-Eaglais
@@ -83,7 +83,7 @@ Erwachsene: 4.20 &euro;</pre>
 <!-- Platz 2 -->
 <hr class="my-4 large">
 <h3 id="dublin-castle-worth_seeing">
-    Dublin Castle<sub>3</sub>
+    <a class="custom-url" href="quellen.php#3">Dublin Castle<sub>3</sub></a>
 </h3>
 <pre>Dame Street, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincastle.ie/">www.dublincastle.ie</a>
@@ -111,8 +111,7 @@ Erwachsene: 7 &euro;</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Das dritte Bild ist Selbstgemacht. Rest siehe Quellen
-    unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#dublin-castle">Dublin Castle</a></p>
 <hr class="my-4">
 <div class="content">
     <p>Nach vielen Umbauten aus dem 17.-20. Jahrhundert wurde aus der
@@ -135,7 +134,7 @@ Erwachsene: 7 &euro;</pre>
 <!-- Platz 3 -->
 <hr class="my-4 large">
 <h3 id="city-hall-worth_seeing">
-    City Hall<sub>45</sub>
+    <a class="custom-url" href="quellen.php#44">City Hall<sub>44</sub></a>
 </h3>
 <pre>Dame Street, Dublin 2
 <a class="custom-url" target="_blank" href="http://www.dublincity.ie/">www.dublincity.ie</a>
@@ -156,7 +155,7 @@ So geschlossen</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): City Hall</p>
 <hr class="my-4">
 <div class="content">
     <p>Die City Hall (1769-1779) ist eines der besten Beispiele der
@@ -180,7 +179,7 @@ So geschlossen</pre>
 <!-- Platz 4 -->
 <hr class="my-4 large">
 <h3 id="st-stephens-green-worth_seeing">
-    St. Stephen's Green<sub>42</sub>
+    <a class="custom-url" href="quellen.php#41">St. Stephen's Green<sub>41</sub></a>
 </h3>
 <pre>St Stephen's Green, Dublin 2, Irland
 <a class="custom-url" target="_blank"
@@ -201,7 +200,7 @@ Sonn- und Feiertage 09:30-Sonnenuntergang</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): St. Stephen's Green</p>
 <hr class="my-4">
 <div class="content">
     <p>Der Park mit dem grossen Teich l&auml;dt zum Verweilen im
@@ -222,7 +221,7 @@ Sonn- und Feiertage 09:30-Sonnenuntergang</pre>
 <!-- Platz 5 -->
 <hr class="my-4 large">
 <h3 id="the-little-museum-of-dublin">
-    The Little Museum of Dublin<sub>49</sub>
+    <a class="custom-url" href="quellen.php#48">The Little Museum of Dublin<sub>48</sub></a>
 </h3>
 <pre>St Stephen's Green, Dublin 15, Irland
 <a class="custom-url" target="_blank"
@@ -249,7 +248,7 @@ Erwachsene: 10 &euro;</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#little-museum-of-dublin">The Little Museum of Dublin</a></p>
 <hr class="my-4">
 <div class="content">
     <p>Das Museum geh&ouml;rt zu den beliebtesten Museen der Stadt. Die
@@ -265,7 +264,7 @@ Erwachsene: 10 &euro;</pre>
 <!-- Platz 6 -->
 <hr class="my-4 large">
 <h3 id="national-museum-an-der-kildare-street">
-    National Museum an der Kildare Street<sub>50</sub>
+    <a class="custom-url" href="quellen.php#49">National Museum an der Kildare Street<sub>49</sub></a>
 </h3>
 <pre>2 Kildare Street, Dublin, Irland
 <a class="custom-url" target="_blank" href="https://www.museum.ie/">www.museum.ie</a>
@@ -291,7 +290,7 @@ So 14:00-17:00</pre>
     <button class="w3-button w3-black w3-display-right"
         onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#national-museum">National Museum an der Kildare Street</a></p>
 <hr class="my-4">
 <div class="content">
     <p>Zum National Museum geh&ouml;ren vier verschiedene Museen an

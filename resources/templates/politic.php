@@ -23,7 +23,7 @@
 <!-- Platz 1 -->
 <hr class="my-4 large">
 <h3 id="four-courts-politic">
-	Four Courts<sub>44</sub>
+	<a class="custom-url" href="quellen.php#43">Four Courts<sub>43</sub></a>
 </h3>
 <pre>Inns Quay 25, Dublin 8, Irland</pre>
 <hr class="my-4">
@@ -44,7 +44,7 @@ Sa und So geschlossen
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#four-courts">Four Courts</a></p>
 <hr class="my-4">
 <div class="content">
 	<p>Das Geb&auml;ude ist 1802 im neoklassizistischen Stil von James
@@ -70,7 +70,7 @@ Sa und So geschlossen
 <!-- Platz 2 -->
 <hr class="my-4 large">
 <h3 id="city-hall-politic">
-	City Hall<sub>45</sub>
+	<a class="custom-url" href="quellen.php#44">City Hall<sub>44</sub></a>
 </h3>
 <pre>Dame Street, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincity.ie/">www.dublincity.ie</a>
@@ -91,7 +91,7 @@ So geschlossen</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): City Hall</p>
 <hr class="my-4">
 <div class="content">
 	<p>Die City Hall (1769-1779) ist eines der besten Beispiele der
@@ -115,7 +115,7 @@ So geschlossen</pre>
 <!-- Platz 3 -->
 <hr class="my-4 large">
 <h3 id="irish-parliament-house-bank-of-ireland">
-	Irish Parliament House / Bank of Ireland<sub>46</sub>
+	<a class="custom-url" href="quellen.php#45">Irish Parliament House / Bank of Ireland<sub>45</sub></a>
 </h3>
 <pre>College Green, Temple Bar, Dublin, Irland</pre>
 <hr class="my-4">
@@ -132,7 +132,7 @@ Do 10:00-17:00
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): Irish Parliament House / Bank of Ireland</p>
 <hr class="my-4">
 <div class="content">
 	<p>Das Geb&auml;ude wurde zwischen 1729 und 1739 vom Architekten Sir
@@ -148,7 +148,7 @@ Do 10:00-17:00
 <!-- Platz 4 -->
 <hr class="my-4 large">
 <h3 id="leinster-house">
-	Leinster House<sub>47</sub>
+	<a class="custom-url" href="quellen.php#46">Leinster House<sub>46</sub></a>
 </h3>
 <pre>Kildare Street, Dublin 2, Irland
 <a class="custom-url" target="_blank"
@@ -174,7 +174,7 @@ kostenlose F&uuml;hrung</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#leinster-house">Leinster House</a></p>
 <hr class="my-4">
 <div class="content">
 	<p>Der ehemalige Herzogpalast ist Sitz des irischen Parlaments. Das
@@ -191,7 +191,7 @@ kostenlose F&uuml;hrung</pre>
 <!-- Platz 5 -->
 <hr class="my-4 large">
 <h3 id="government-buildings">
-	Government Buildings<sub>48</sub>
+	<a class="custom-url" href="quellen.php#47">Government Buildings<sub>47</sub></a>
 </h3>
 <pre>Upper Merrion St, Dublin 2, Irland
 <a class="custom-url" target="_blank"
@@ -214,7 +214,7 @@ kostenlose F&uuml;hrung</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): Government Buildings</p>
 <hr class="my-4">
 <div class="content">
 	<p>Die Government Buildings (1904-1922) wurden von Sir Aston Webb und

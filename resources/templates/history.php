@@ -13,7 +13,7 @@ Universit&auml;ten der Welt, beim Trinity College.</pre>
 <!-- Platz 1 -->
 <hr class="my-4 large">
 <h3 id="dublin-castle-history">
-	Dublin Castle<sub>3</sub>
+	<a class="custom-url" href="quellen.php#3">Dublin Castle<sub>3</sub></a>
 </h3>
 <pre>Dame Street, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincastle.ie/">www.dublincastle.ie</a>
@@ -41,8 +41,7 @@ Erwachsene: 7 &euro;</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Das dritte Bild ist Selbstgemacht. Rest siehe Quellen
-	unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#dublin-castle">Dublin Castle</a></p>
 <hr class="my-4">
 <div class="content">
 	<p>Das Dublin Castle hat eine sehr grosse Bedeutung f&uuml;r die
@@ -65,7 +64,7 @@ Erwachsene: 7 &euro;</pre>
 <!-- Platz 2 -->
 <hr class="my-4 large">
 <h3 id="georgianische-gebaeude">
-	Georgianische Geb&auml;ude<sub>13</sub>
+	<a class="custom-url" href="quellen.php#13">Georgianische Geb&auml;ude<sub>13</sub></a>
 </h3>
 <pre>Merion Square, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincastle.ie/">www.dublincastle.ie</a>
@@ -78,7 +77,7 @@ Erwachsene: 7 &euro;</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#georgianische-gebaeude">Georgianische Geb&auml;ude</a></p>
 <hr class="my-4">
 <div class="content">
 	<p>Der Georgianische Baustil wurde in Dublin um 1714 vom englischen
@@ -97,7 +96,7 @@ Erwachsene: 7 &euro;</pre>
 <!-- Platz 3 -->
 <hr class="my-4 large">
 <h3 id="custom-house-history">
-	Custom House<sub>8</sub>
+	<a class="custom-url" href="quellen.php#8">Custom House<sub>8</sub></a>
 </h3>
 <pre>North Dock, Dublin 1, Irland</pre>
 <hr class="my-4">
@@ -113,7 +112,7 @@ Erwachsene: 7 &euro;</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#georgianische-gebaeude">Custom House</a></p>
 <hr class="my-4">
 <div class="content">
 	<p>Das Custom House (1781-1791) wurde vom Architekten James Gandos als
@@ -138,7 +137,7 @@ Erwachsene: 7 &euro;</pre>
 <!-- Platz 4 -->
 <hr class="my-4 large">
 <h3 id="o-connel-bridge-history">
-	O'Connel Bridge<sub>14</sub>
+	<a class="custom-url" href="quellen.php#14">O'Connel Bridge<sub>14</sub></a>
 </h3>
 <pre>O'Connell Bridge, Dublin, Irland</pre>
 <hr class="my-4">
@@ -154,8 +153,7 @@ Erwachsene: 7 &euro;</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Das erste Bild ist Selbstgemacht. Rest siehe Quellen
-	unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#o-connel-bridge">O'Connel Bridge</a></p>
 <hr class="my-4">
 <div class="content">
 	<p>Die O'Connel Bridge wurde vom Architekten James Gandon erbaut. Sie
@@ -179,7 +177,7 @@ Erwachsene: 7 &euro;</pre>
 <!-- Platz 5 -->
 <hr class="my-4 large">
 <h3 id="dublinia">
-	Dublinia<sub>15</sub>
+	<a class="custom-url" href="quellen.php#15">Dublinia<sub>15</sub></a>
 </h3>
 <pre>Christchurch, St Michaels Hill, Merchants Quay, Dublin 8, Irland
 <a class="custom-url" target="_blank"
@@ -214,7 +212,7 @@ Erwachsene: 9.50 &euro;
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): Dublinia</p>
 <hr class="my-4">
 <div class="content">
 	<p>M&ouml;chtest du die Geschichte der Wikinger in Dublin kennen
@@ -231,7 +229,7 @@ Erwachsene: 9.50 &euro;
 <!-- Platz 6 -->
 <hr class="my-4 large">
 <h3 id="christ-church-cathedral-history">
-	Christ Church Cathedral<sub>2</sub>
+	<a class="custom-url" href="quellen.php#2">Christ Church Cathedral<sub>2</sub></a>
 </h3>
 <pre>Christchurch Place, Dublin 8, Irland
 <a class="custom-url" target="_blank"
@@ -265,7 +263,7 @@ Erwachsene: 6 &euro;
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Siehe Quellen unter Impressum.</p>
+<p>Abbildung(en): <a class="custom-url" href="quellen.php#christ-church">Christ Church Cathedral</a></p>
 <hr class="my-4">
 <div class="content">
 	<p>Die Christ Church Cathedral ist die &auml;ltere der beiden
@@ -289,7 +287,7 @@ Erwachsene: 6 &euro;
 <!-- Platz 7 -->
 <hr class="my-4 large">
 <h3 id="grafton-street">
-	Grafton Street<sub>16</sub>
+	<a class="custom-url" href="quellen.php#16">Grafton Street<sub>16</sub></a>
 </h3>
 <pre>Grafton Street, Irland
 <a class="custom-url" target="_blank"
@@ -299,8 +297,8 @@ Erwachsene: 6 &euro;
 <h4>Beschreibung</h4>
 <pre>Einkaufsstrasse</pre>
 <div class="w3-content w3-display-container slides my-4">
-	<!-- TODO: Bild folgt (Grafton Street) -->
-	<img src="img/portfolio/thumbnails/1.jpg" />
+	<img src="img/history/thumbnails/4793933_a221c14f.jpg" />
+	<img src="img/history/thumbnails/9199565442_1628636181_o.jpg" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -308,8 +306,7 @@ Erwachsene: 6 &euro;
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <p>
-	Bildquelle(n):
-	<!-- TODO: Bildlegende (Grafton Street) -->
+	Abbildung(en): <a class="custom-url" href="quellen.php#grafton-street">Grafton Street</a>
 </p>
 <hr class="my-4">
 <div class="content">
@@ -330,7 +327,7 @@ Erwachsene: 6 &euro;
 <!-- Platz 8 -->
 <hr class="my-4 large">
 <h3 id="trinity-college-history">
-	Trinity College<sub>6</sub>
+	<a class="custom-url" href="quellen.php#6">Trinity College<sub>6</sub></a>
 </h3>
 <pre>College Green, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.tcd.ie/">www.tcd.ie</a>
@@ -356,7 +353,7 @@ So 12:00-16:30</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Bildquelle(n): Selbstgemacht</p>
+<p>Abbildung(en): Trinity College</p>
 <hr class="my-4">
 <div class="content">
 	<p>Das Trinity College in Dublin ist eine der renommiertesten
