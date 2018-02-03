@@ -262,11 +262,14 @@ require_once TEMPLATES_PATH . '/footer.php';
 <script>
     var currentLocation = window.location.href;
     var start = currentLocation.indexOf('#');
-    var end = currentLocation.lenght;
-    currentLocation = currentLocation.substring(start, end);
 
-    var id = $(currentLocation);
-    $("html, body").animate({
-    	scrollTop : id.offset().top - 70
-    }, 1e3, "easeInOutExpo");
+    if(start != -1) {
+        var end = currentLocation.lenght;
+        currentLocation = currentLocation.substring(start, end);
+
+        var id = $(currentLocation);
+        $("html, body").animate({
+        	scrollTop : id.offset().top - 70
+        }, 1e3, "easeInOutExpo");
+    }
     </script>
