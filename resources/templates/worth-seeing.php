@@ -175,7 +175,7 @@ So geschlossen</pre>
 <!-- Platz 4 -->
 <hr class="my-4 large">
 <h3 id="st-stephens-green-worth_seeing">
-    <a class="custom-url" href="quellen.php#41">St. Stephen's Green<sub>41</sub></a>
+    <a class="custom-url" href="quellen.php#41">St. Stephen's Green<sub>40</sub></a>
 </h3>
 <pre>St Stephen's Green, Dublin 2, Irland
 <a class="custom-url" target="_blank"
