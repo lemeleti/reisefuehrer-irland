@@ -45,7 +45,7 @@ require_once TEMPLATES_PATH . '/header.php';
                                 href="http://www.nli.ie/">http://www.nli.ie/</a> Aufgerufen am 03.12.2017
    <a class="custom-url" target="_blank"
                                 href="https://de.wikipedia.org/wiki/Irische_Nationalbibliothek">https://de.wikipedia.org/wiki/Irische_Nationalbibliothek</a> Aufgerufen am 03.12.2017
-<b id="6">6</b>  <a class="custom-url" target="_blank" href="www.tcd.ie">www.tcd.ie</a> Aufgerufen am 03.12.2017
+<b id="6">6</b>  <a class="custom-url" target="_blank" href="http://www.tcd.ie/">www.tcd.ie</a> Aufgerufen am 03.12.2017
    BIEGE, BERND (2017): DUBLIN. VOM ABRISSGEBIET ZUR PARTYMEILE. OSTFILDERN: DUMONT REISEVERLAG. (S. 20)
 <b id="7">7</b>  <a class="custom-url" target="_blank"
                                 href="https://www.dublin-inside.de/sehenswuerdigkeiten/half_penny_bridge.html">https://www.dublin-inside.de/sehenswuerdigkeiten/half_penny_bridge.html</a> Aufgerufen am 03.12.2017
@@ -150,7 +150,7 @@ require_once TEMPLATES_PATH . '/header.php';
                                 href="http://www.dublin.de/sehenswuerdigkeiten/bildung-wissen/little-museum/">http://www.dublin.de/sehenswuerdigkeiten/bildung-wissen/little-museum/</a> Aufgerufen am 01.02.2018
    <a class="custom-url" target="_blank"
                                 href="https://www.littlemuseum.ie">https://www.littlemuseum.ie</a> Aufgerufen am 01.02.2018
-<b id="49">49</b> <a class="custom-url" target="_blank" href="">http://www.dublin.de/sehenswuerdigkeiten/10-unverzichtbare-ziele/#nationalmuseum</a> Aufgerufen am 01.02.2018
+<b id="49">49</b> <a class="custom-url" target="_blank" href="http://www.dublin.de/sehenswuerdigkeiten/10-unverzichtbare-ziele/#nationalmuseum">http://www.dublin.de/sehenswuerdigkeiten/10-unverzichtbare-ziele/#nationalmuseum</a> Aufgerufen am 01.02.2018
    <a class="custom-url" target="_blank"
                                 href="https://www.museum.ie/Archaeology">https://www.museum.ie/Archaeology</a> Aufgerufen am 01.02.2018
 </pre>
