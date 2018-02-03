@@ -8,7 +8,7 @@
         <meta name="description" content="Reisetipps f&uuml;r Jugendliche mit wenig Budget in Dublin." />
         <meta name="keywords" content="'Leandro Meleti',reisef&uuml;hrer, dublin, tour, ferien, low-budget, irland, map, essen, restaurant, pub, museum, coffee"/>
 
-        <title>Reisef&uuml;hrer Dublin</title>
+        <title>Reisef&uuml;hrer Irland</title>
 		<link rel="icon" type="image/png" href="img/favicon.png">
 
         <!-- Bootstrap core CSS -->
