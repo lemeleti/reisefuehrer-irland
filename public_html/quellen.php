@@ -8,7 +8,7 @@ require_once TEMPLATES_PATH . '/header.php';
 		class="navbar navbar-expand-lg navbar-light fixed-top navbar-shrink full-width"
 		id="mainNav">
 		<div class="container">
-			<a class="navbar-brand" href="home.php"> <img class="icon fill-white"
+			<a class="navbar-brand" href="#" onclick="window.history.back()"> <img class="icon fill-white"
 				src="img/icon/si-glyph-arrow-left.svg" /> Go Back
 			</a>
 		</div>
@@ -24,7 +24,7 @@ require_once TEMPLATES_PATH . '/header.php';
 							zusammengefasst.</p>
 						<pre>
 <b id="1">1</b>  <a class="custom-url" target="_blank"
-								href="www.stpatrickscathedral.ie">www.stpatrickscathedral.ie</a> Aufgerufen am 03.12.2017
+								href="https://www.stpatrickscathedral.ie">https://www.stpatrickscathedral.ie/de/home-de/</a> Aufgerufen am 03.12.2017
    <a class="custom-url" target="_blank"
 								href="https://www.dublin-inside.de/sehenswuerdigkeiten/st-pat.html">https://www.dublin-inside.de/sehenswuerdigkeiten/st-pat.html</a> Aufgerufen am 03.12.2017
    BIEGE, BERND (2017): DUBLIN. VOM ABRISSGEBIET ZUR PARTYMEILE. OSTFILDERN: DUMONT REISEVERLAG. (S. 61)
@@ -46,7 +46,7 @@ require_once TEMPLATES_PATH . '/header.php';
    <a class="custom-url" target="_blank"
 								href="https://de.wikipedia.org/wiki/Irische_Nationalbibliothek">https://de.wikipedia.org/wiki/Irische_Nationalbibliothek</a> Aufgerufen am 03.12.2017
 <b id="6">6</b>  <a class="custom-url" target="_blank"
-								href="http://www.tcd.ie/">www.tcd.ie</a> Aufgerufen am 03.12.2017
+								href="http://www.tcd.ie/">http://www.tcd.ie/</a> Aufgerufen am 03.12.2017
    BIEGE, BERND (2017): DUBLIN. VOM ABRISSGEBIET ZUR PARTYMEILE. OSTFILDERN: DUMONT REISEVERLAG. (S. 20)
 <b id="7">7</b>  <a class="custom-url" target="_blank"
 								href="https://www.dublin-inside.de/sehenswuerdigkeiten/half_penny_bridge.html">https://www.dublin-inside.de/sehenswuerdigkeiten/half_penny_bridge.html</a> Aufgerufen am 03.12.2017

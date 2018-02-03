@@ -33,13 +33,13 @@
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>
 <b>M&auml;rz-Oktober</b>
-Mo-Fr 9:00-17:00
+Mo-Fr 9:30-17:00
 Sa 9:00-18:00
 So 9:00-10:30, 12:30-14:30 und 16:30-18:00
 
 <b>November-Februar</b>
-Mo-Fr 9:00-17:00
-Sa 9:00-17:00
+Mo-Fr 9:30-17:00
+Sa 9:30-17:00
 So 9:00-10:30 und 12:30-14:30</pre>
 <h4>Beschreibung</h4>
 <pre>Kirche</pre>
@@ -211,6 +211,8 @@ Erwachsene: 7 &euro;
 Do 9:00-21:00
 Fr-Sa 9:00-19:00
 So 11:00-18:00</pre>
+<h4>F&uuml;hrungen</h4>
+<pre>auf Anfrage, sp&auml;testens einen Monat vor Durchf&uuml;hrung</pre>
 <h4>Baustil</h4>
 <pre>Viktorianischer Baustil</pre>
 <div class="w3-content w3-display-container slides my-4">
@@ -499,10 +501,7 @@ So 12:00-16:30</pre>
 <h3 id="alliance-building">
 	<a class="custom-url" href="quellen.php#12">Alliance Building<sub>12</sub></a>
 </h3>
-<pre>South Lotts Road, Irland
-<a class="custom-url" target="_blank"
-		href="http://www.bordgaisenergytheatre.ie/">www.bordgaisenergytheatre.ie</a>
-</pre>
+<pre>South Lotts Road, Irland</pre>
 <hr class="my-4">
 <h4>Beschreibung</h4>
 <pre>Wohnhaus</pre>

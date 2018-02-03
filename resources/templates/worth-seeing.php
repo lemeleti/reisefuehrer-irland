@@ -29,25 +29,21 @@
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>
 <b>M&auml;rz-Oktober</b>
-Mo-Fr 9:00-17:00
+Mo-Fr 9:30-17:00
 Sa 9:00-18:00
 So 9:00-10:30, 12:30-14:30 und 16:30-18:00
 
 <b>November-Februar</b>
-Mo-Fr 9:00-17:00
-Sa 9:00-17:00
+Mo-Fr 9:30-17:00
+Sa 9:30-17:00
 So 9:00-10:30 und 12:30-14:30</pre>
 <h4>Beschreibung</h4>
 <pre>Kirche</pre>
 <h4>Preis</h4>
 <pre>
-<b>Einzelpersonen</b>
 Studierende: 4.50 &euro;
 Erwachsene: 5.50 &euro;
-
-<b>Gruppen (ab 10 P)</b>
-Studierende: 3.70 &euro;
-Erwachsene: 4.20 &euro;</pre>
+</pre>
 <h4>F&uuml;hrung</h4>
 <pre>T&auml;glich 10:30, 11:30, 15:00 und 15:30
 (im Eintrittspreis enthalten)</pre>
@@ -136,7 +132,7 @@ Erwachsene: 7 &euro;</pre>
 <h3 id="city-hall-worth_seeing">
     <a class="custom-url" href="quellen.php#44">City Hall<sub>44</sub></a>
 </h3>
-<pre>Dame Street, Dublin 2
+<pre>Dame Street, Dublin 2, Irland
 <a class="custom-url" target="_blank" href="http://www.dublincity.ie/">www.dublincity.ie</a>
 </pre>
 <hr class="my-4">

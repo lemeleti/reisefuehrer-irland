@@ -24,8 +24,6 @@
 <hr class="my-4">
 <h4>Ungef&auml;hre Dauer des Besuchs</h4>
 <pre>2 h</pre>
-<h4>Beschreibung</h4>
-<pre>Zoo</pre>
 <hr class="my-4">
 <pre>Geniesse die Erholungsoase inmitten der Stadt.</pre>
 <div class="w3-content w3-display-container slides my-4">
@@ -72,6 +70,8 @@
 <h4>&Ouml;ffnungszeiten</h4>
 <pre>Mo-Sa 07:30-Sonnenuntergang
 Sonn- und Feiertage 09:30-Sonnenuntergang</pre>
+<h4>F&uuml;hrungen</h4>
+<pre>auf Anfrage, sp&auml;testens einen Monat vor Durchf&uuml;hrung</pre>
 <div class="w3-content w3-display-container slides my-4">
 	<img src="img/oasen/thumbnails/IMG_7426.JPG" /> <img
 		src="img/oasen/thumbnails/IMG_7431.JPG" />

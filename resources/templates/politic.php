@@ -193,7 +193,7 @@ kostenlose F&uuml;hrung</pre>
 <h3 id="government-buildings">
 	<a class="custom-url" href="quellen.php#47">Government Buildings<sub>47</sub></a>
 </h3>
-<pre>Upper Merrion St, Dublin 2, Irland
+<pre>Upper Merrion Street, Dublin 2, Irland
 <a class="custom-url" target="_blank"
 		href="https://www.taoiseach.gov.ie/eng/splash/">www.taoiseach.gov.ie/eng/splash</a>
 </pre>
