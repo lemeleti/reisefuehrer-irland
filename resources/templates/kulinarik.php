@@ -152,13 +152,13 @@ So 12:00-22:00 Uhr
 <p>
 	Abbildung(en): <a class="custom-url" href="quellen.php#nandos">Nando's</a>
 </p>
+<hr class="my-4">
 <div class="content">
 	<p>Dies ist ein perfektes Restaurant f&uuml;r das Mittagessen. Es ist
 		auch gut f&uuml;r Allergiker geeignet. Hier wird nur Poulet angeboten,
 		dies aber in vielen verschiedenen Varianten. Das Restaurant kocht
 		koscher.</p>
 </div>
-<hr class="my-4">
 <div class="show-more">
 	<a class="custom-url text-center" href="#">mehr...</a>
 </div>
