@@ -11,6 +11,7 @@
             $info = pathinfo($orig_absolute_path);
 
             if (array_key_exists('extension', $info) && !file_exists($thumb_absolute_path)) {
+//             if (array_key_exists('extension', $info)) {
                 switch(strtolower($info['extension'])){
                     //Create new image from file
                     case 'png':

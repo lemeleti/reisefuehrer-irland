@@ -8,16 +8,26 @@ require_once realpath(dirname(__FILE__) . '/../resources/config.php');
  */
 
 // require_once LIBRARY_PATH . '/thumbnail_library.php';
-// $thumbnailWidth = 640;
-// createThumbnails("img/architecture/fullsize/","img/architecture/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/art/fullsize/","img/art/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/history/fullsize/","img/history/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/kulinarik/fullsize/","img/kulinarik/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/music/fullsize/","img/music/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/night/fullsize/","img/night/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/oasen/fullsize/","img/oasen/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/politics/fullsize/","img/politics/thumbnails/", $thumbnailWidth);
-// createThumbnails("img/worth-seeing/fullsize/","img/worth-seeing/thumbnails/", $thumbnailWidth);
+// $fullsizeWidth = 1920;
+// createThumbnails("img/architecture/original/","img/architecture/fullsize/", $fullsizeWidth);
+// createThumbnails("img/art/original/","img/art/fullsize/", $fullsizeWidth);
+// createThumbnails("img/history/original/","img/history/fullsize/", $fullsizeWidth);
+// createThumbnails("img/kulinarik/original/","img/kulinarik/fullsize/", $fullsizeWidth);
+// createThumbnails("img/music/original/","img/music/fullsize/", $fullsizeWidth);
+// createThumbnails("img/night/original/","img/night/fullsize/", $fullsizeWidth);
+// createThumbnails("img/oasen/original/","img/oasen/fullsize/", $fullsizeWidth);
+// createThumbnails("img/politics/original/","img/politics/fullsize/", $fullsizeWidth);
+// createThumbnails("img/worth-seeing/original/","img/worth-seeing/fullsize/", $fullsizeWidth);
+// $thumbnailWidth = 600;
+// createThumbnails("img/architecture/original/","img/architecture/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/art/original/","img/art/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/history/original/","img/history/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/kulinarik/original/","img/kulinarik/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/music/original/","img/music/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/night/original/","img/night/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/oasen/original/","img/oasen/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/politics/original/","img/politics/thumbnails/", $thumbnailWidth);
+// createThumbnails("img/worth-seeing/original/","img/worth-seeing/thumbnails/", $thumbnailWidth);
 
 require_once TEMPLATES_PATH . '/header.php';
 require_once TEMPLATES_PATH . '/nav.php';
@@ -249,7 +259,7 @@ require_once TEMPLATES_PATH . '/nav.php';
                     <pre><a href="quellen.php">Quellen</a></pre>
                     <pre>Stand 02.02.2018</pre>
                     <h3>Redaktionsteam</h3>
-                    <pre>Anabel, C&eacute;, Leandro, Silke</pre>
+                    <pre>Anabel, C&eacute;line, Leandro, Silke</pre>
                 </div>
             </div>
         </div>
