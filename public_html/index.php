@@ -3,7 +3,6 @@
 require_once realpath(dirname(__FILE__) . '/../resources/config.php');
 require_once TEMPLATES_PATH . '/header.php';
 ?>
-<!-- TODO: Merge index.php and home.php -->
 <body id="page-start">
     <header class="masthead text-center text-white d-flex">
         <div class="container my-auto">
