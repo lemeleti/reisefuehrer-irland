@@ -3,14 +3,20 @@ function initMap() {
 	var allRoutes = loadJson('allRoutes.json');
 	
 	var maps = [];
-	
+	var map;
 	for (var r = 0; r < allRoutes.length; r++) { 
 		var route = allRoutes[r];
 		var mapId = 'map' + route['id'];
-		maps.push(createMap(mapId, route));
+		map = createMap(mapId, route);
+		if(map != null) {
+			maps.push(map);
+		}
 	}
 	// push at last for sameMarkerArray
-	maps.push(createMap('map', allRoutes));
+	map = createMap('map', allRoutes);
+	if(map != null) {
+		maps.push(map);
+	}
 	
 	// configure maps
 	for (var entry of maps) {
@@ -42,11 +48,15 @@ function createMap(id, routes) {
 		zoom: 13,
 		mapTypeId: google.maps.MapTypeId.ROADMAP
 	};
-	
-	var obj = {
-		map: new google.maps.Map(document.getElementById(id), mapOptions),
-		routes: routes
-	};
+
+	var obj = null;
+	var m = document.getElementById(id);
+	if(m) {
+		obj = {
+			map: new google.maps.Map(m, mapOptions),
+			routes: routes
+		};
+	}
 	
 	return obj;
 }
