@@ -9,6 +9,7 @@
         <meta name="keywords" content="'Leandro Meleti',reisef&uuml;hrer, dublin, tour, ferien, low-budget, irland, map, essen, restaurant, pub, museum, coffee"/>
 
         <title>Reisef&uuml;hrer Dublin</title>
+		<link rel="icon" type="image/png" href="img/favicon.png">
 
         <!-- Bootstrap core CSS -->
         <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
