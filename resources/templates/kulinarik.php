@@ -149,15 +149,15 @@ So 12:00-22:00 Uhr
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
+<p>
+	Abbildung(en): <a class="custom-url" href="quellen.php#nandos">Nando's</a>
+</p>
 <div class="content">
 	<p>Dies ist ein perfektes Restaurant f&uuml;r das Mittagessen. Es ist
 		auch gut f&uuml;r Allergiker geeignet. Hier wird nur Poulet angeboten,
 		dies aber in vielen verschiedenen Varianten. Das Restaurant kocht
 		koscher.</p>
 </div>
-<p>
-	Abbildung(en): <a class="custom-url" href="quellen.php#nandos">Nando's</a>
-</p>
 <hr class="my-4">
 <div class="show-more">
 	<a class="custom-url text-center" href="#">mehr...</a>

@@ -7,7 +7,7 @@
 einer Hauswand ein grosses Portrait des K&uuml;nstlers BP Fallon zu sehen gibt. Weiter
 geht es zu einem Street-Art- Kunstwerk mit dem Namen the City is my garden und
 einer kleinen Freiluftausstellung aus drei Wandbildern. Auf dem weiteren Weg gibt es
-ein Trash Animal zu entdecken, ein Werk namens Dead Meat und bunte Türen.
+ein Trash Animal zu entdecken, ein Werk namens Dead Meat und bunte T&uuml;ren.
 Weiter geht es zum Bild Subset Football und schliesslich zu einem abstrakten
 Kunstwerk.</pre>
 <!-- Platz 1 -->
@@ -81,9 +81,9 @@ Kunstwerk.</pre>
 <pre>In der N&auml;he vom ber&uuml;hmten BP Fallon Bild findet man drei wundersch&ouml;ne Kunstwerke.</pre>
 <div class="w3-content w3-display-container slides my-4">
     <img src="img/art/thumbnails/IMG_5109.JPG" /> <img
-        src="img/art/thumbnails/IMG_5105.jpg" /> <img
-        src="img/art/thumbnails/IMG_5106.jpg" /> <img
-        src="img/art/thumbnails/IMG_5107.jpg" />
+        src="img/art/thumbnails/IMG_5105.JPG" /> <img
+        src="img/art/thumbnails/IMG_5106.JPG" /> <img
+        src="img/art/thumbnails/IMG_5107.JPG" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -222,7 +222,7 @@ Kunstwerk.</pre>
 </h3>
 <pre>Smithfield, Irland</pre>
 <div class="w3-content w3-display-container slides my-4">
-    <img src="img/art/thumbnails/IMG_5134.jpg" />
+    <img src="img/art/thumbnails/IMG_5134.JPG" />
 
     <button class="w3-button w3-black w3-display-left"
         onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
