@@ -155,6 +155,10 @@ h2, h3, h4, h5 {
 	font-weight: bold;
 }
 
+p, pre {
+	overflow-x: hidden; /* Hide scrollbar */
+}
+
 pre {
 	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 	white-space: pre-wrap; /* Since CSS 2.1 */
