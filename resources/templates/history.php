@@ -2,14 +2,22 @@
 <div class="map" id="map7"></div>
 <hr class="my-4">
 <h3 class="mb-4">Beschreibung</h3>
-<pre>Die Tour startet beim Dublin Castle, einer Burg aus dem Mittelalter. Von da aus geht
-es weiter zu den Georgianischen Geb&auml;uden, die an den Baustil der Griechen und
-R&ouml;mer erinnern. Das Custom House ist das Umweltministerium von Dublin, von dort
-geht es zur O'Connel Bridge, einer der bedeutendsten Br&uuml;cken, die den Fluss Liffey
-&uuml;berqueren. Im Wikingermueseum Dublinia lernt man viel &uuml;ber das Mittelalter, gleich
-daneben steht die Christ Church Cathedral, eine der &auml;ltesten Kathedralen der Stadt.
-Die Grafton Street ist die Haupteinkaufsstrasse. Sie endet bei einer der besten
-Universit&auml;ten der Welt, beim Trinity College.</pre>
+<div class="content">
+	<p class="mb-4">Die Tour startet beim Dublin Castle, einer Burg aus dem
+		Mittelalter. Von da aus geht es weiter zu den Georgianischen
+		Geb&auml;uden, die an den Baustil der Griechen und R&ouml;mer
+		erinnern. Das Custom House ist das Umweltministerium von Dublin, von
+		dort geht es zur O'Connel Bridge, einer der bedeutendsten
+		Br&uuml;cken, die den Fluss Liffey &uuml;berqueren. Im Wikingermueseum
+		Dublinia lernt man viel &uuml;ber das Mittelalter, gleich daneben
+		steht die Christ Church Cathedral, eine der &auml;ltesten Kathedralen
+		der Stadt. Die Grafton Street ist die Haupteinkaufsstrasse. Sie endet
+		bei einer der besten Universit&auml;ten der Welt, beim Trinity
+		College.</p>
+</div>
+<div class="show-more">
+	<a class="custom-url text-center" href="#">mehr...</a>
+</div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
 <h3 id="dublin-castle-history">
@@ -41,7 +49,10 @@ Erwachsene: 7 &euro;</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Abbildung(en): <a class="custom-url" href="quellen.php#dublin-castle">Dublin Castle</a></p>
+<p>
+	Abbildung(en): <a class="custom-url" href="quellen.php#dublin-castle">Dublin
+		Castle</a>
+</p>
 <hr class="my-4">
 <div class="content">
 	<p>Das Dublin Castle hat eine sehr grosse Bedeutung f&uuml;r die
@@ -77,7 +88,10 @@ Erwachsene: 7 &euro;</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Abbildung(en): <a class="custom-url" href="quellen.php#georgianische-gebaeude">Georgianische Geb&auml;ude</a></p>
+<p>
+	Abbildung(en): <a class="custom-url"
+		href="quellen.php#georgianische-gebaeude">Georgianische Geb&auml;ude</a>
+</p>
 <hr class="my-4">
 <div class="content">
 	<p>Der Georgianische Baustil wurde in Dublin um 1714 vom englischen
@@ -112,7 +126,10 @@ Erwachsene: 7 &euro;</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Abbildung(en): <a class="custom-url" href="quellen.php#georgianische-gebaeude">Custom House</a></p>
+<p>
+	Abbildung(en): <a class="custom-url"
+		href="quellen.php#georgianische-gebaeude">Custom House</a>
+</p>
 <hr class="my-4">
 <div class="content">
 	<p>Das Custom House (1781-1791) wurde vom Architekten James Gandos als
@@ -153,7 +170,10 @@ Erwachsene: 7 &euro;</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Abbildung(en): <a class="custom-url" href="quellen.php#o-connel-bridge">O'Connel Bridge</a></p>
+<p>
+	Abbildung(en): <a class="custom-url" href="quellen.php#o-connel-bridge">O'Connel
+		Bridge</a>
+</p>
 <hr class="my-4">
 <div class="content">
 	<p>Die O'Connel Bridge wurde vom Architekten James Gandon erbaut. Sie
@@ -263,7 +283,10 @@ Erwachsene: 6 &euro;
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Abbildung(en): <a class="custom-url" href="quellen.php#christ-church">Christ Church Cathedral</a></p>
+<p>
+	Abbildung(en): <a class="custom-url" href="quellen.php#christ-church">Christ
+		Church Cathedral</a>
+</p>
 <hr class="my-4">
 <div class="content">
 	<p>Die Christ Church Cathedral ist die &auml;ltere der beiden
@@ -297,8 +320,8 @@ Erwachsene: 6 &euro;
 <h4>Beschreibung</h4>
 <pre>Einkaufsstrasse</pre>
 <div class="w3-content w3-display-container slides my-4">
-	<img src="img/history/thumbnails/4793933_a221c14f.jpg" />
-	<img src="img/history/thumbnails/9199565442_1628636181_o.jpg" />
+	<img src="img/history/thumbnails/4793933_a221c14f.jpg" /> <img
+		src="img/history/thumbnails/9199565442_1628636181_o.jpg" />
 
 	<button class="w3-button w3-black w3-display-left"
 		onclick="plusDivs(this.parentElement,-1)">&#10094;</button>
@@ -306,7 +329,8 @@ Erwachsene: 6 &euro;
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <p>
-	Abbildung(en): <a class="custom-url" href="quellen.php#grafton-street">Grafton Street</a>
+	Abbildung(en): <a class="custom-url" href="quellen.php#grafton-street">Grafton
+		Street</a>
 </p>
 <hr class="my-4">
 <div class="content">

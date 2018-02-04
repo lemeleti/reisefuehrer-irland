@@ -2,12 +2,18 @@
 <div class="map" id="map8"></div>
 <hr class="my-4">
 <h3 class="mb-4">Beschreibung</h3>
-<pre>Die Tour startet beim unscheinbaren Vice Coffee und f&uuml;hrt dann an den Rand von
-Dublin zum Caf&eacute; Love Supreme. Im Restaurant Wuff kann man ein leckeres
-Fr&uuml;hst&uuml;ck geniessen und im Nando's ein herzhaftes Mittagessen. Im Restaurant
-Farm sind alle Produkte frisch und selbst angebaut. Die Tour endet in einer
-ehemaligen reformierten Kirche, die heute ein Pub und Restaurant ist und sich the
-Church nennt.</pre>
+<div class="content">
+	<p class="mb-4">Die Tour startet beim unscheinbaren Vice Coffee und
+		f&uuml;hrt dann an den Rand von Dublin zum Caf&eacute; Love Supreme.
+		Im Restaurant Wuff kann man ein leckeres Fr&uuml;hst&uuml;ck geniessen
+		und im Nando's ein herzhaftes Mittagessen. Im Restaurant Farm sind
+		alle Produkte frisch und selbst angebaut. Die Tour endet in einer
+		ehemaligen reformierten Kirche, die heute ein Pub und Restaurant ist
+		und sich the Church nennt.</p>
+</div>
+<div class="show-more">
+	<a class="custom-url text-center" href="#">mehr...</a>
+</div>
 <!-- Platz 1 -->
 <hr class="my-4 large">
 <h3 id="vice-coffee">
@@ -182,7 +188,8 @@ So 12:00-22:00 Uhr
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
 <p>
-	Abbildung(en): <a class="custom-url" href="quellen.php#the-farm">The Farm</a>
+	Abbildung(en): <a class="custom-url" href="quellen.php#the-farm">The
+		Farm</a>
 </p>
 <hr class="my-4">
 <div class="content">
@@ -251,7 +258,10 @@ So 11:30-23:00</pre>
 	<button class="w3-button w3-black w3-display-right"
 		onclick="plusDivs(this.parentElement,1)">&#10095;</button>
 </div>
-<p>Abbildung(en): <a class="custom-url" href="quellen.php#the-church">The Church</a></p>
+<p>
+	Abbildung(en): <a class="custom-url" href="quellen.php#the-church">The
+		Church</a>
+</p>
 <hr class="my-4">
 <div class="content">
 	<p>Das Lokal The Church ist sehr aussergew&ouml;hnlich und geh&ouml;rt
