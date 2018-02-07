@@ -20,8 +20,7 @@ require_once TEMPLATES_PATH . '/header.php';
 					<div class="content-container">
 						<h2 class="section-heading text-left">Quellen</h2>
 						<p>Alle nicht deklarierten Bilder wurden von der Redaktion
-							erstellt. Die folgenden Quellen wurden auf der Homepage
-							zusammengefasst.</p>
+							erstellt. Vergleiche mit folgenden Quellen.</p>
 						<pre>
 <b id="1">1</b>  <a class="custom-url" target="_blank"
 								href="https://www.stpatrickscathedral.ie">https://www.stpatrickscathedral.ie/de/home-de/</a> Aufgerufen am 03.12.2017
