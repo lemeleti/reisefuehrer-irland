@@ -70,7 +70,7 @@ sub {
 
 @media ( min-width : 767px) and (orientation: landscape) {
 	#page-top, #page-start {
-		background-image: url('../img/IMG_3049-large.JPG');
+		background-image: url('../img/IMG_3049-large.jpg');
 	}
 }
 
