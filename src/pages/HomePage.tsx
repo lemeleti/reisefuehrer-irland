@@ -1,8 +1,9 @@
 import { Link } from 'react-router-dom';
 
 import HeaderNavigation from '../components/HeaderNavigation';
-import Section from '../components/Section';
+import GoogleMap from '../components/GoogleMap';
 import GuideSummaryItem from '../components/GuideSummaryItem';
+import Section from '../components/Section';
 
 import { ROUTES } from '../maps';
 
@@ -47,6 +48,7 @@ const HomePage: React.FC = () => {
           </p>
         </Section>
         <Section id="guides" title="Spaziergänge">
+          <GoogleMap />
 
           <h2 className="font-bold text-xl mb-8">
             Graue Marker sind in mehrere Touren vorhanden!
