@@ -1,0 +1,42 @@
+#root {
+  height: 100vh;
+  display: flex;
+}
+
+@media (orientation: portrait) {
+  #root {
+    background-image: url('../img/IMG_3050-small.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+}
+
+@media (orientation: landscape) {
+  #root {
+    background-image: url('../img/IMG_3049-small.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+}
+
+@media (min-width: 767px) and (orientation: portrait) {
+  #root {
+    background-image: url('../img/IMG_3050-large.jpg');
+  }
+}
+
+@media (min-width: 767px) and (orientation: landscape) {
+  #root {
+    background-image: url('../img/IMG_3049-large.jpg');
+  }
+}
