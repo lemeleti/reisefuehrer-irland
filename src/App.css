@@ -1,10 +1,11 @@
 #root {
   height: 100vh;
   display: flex;
+  flex-direction: column;
 }
 
 @media (orientation: portrait) {
-  #root {
+  body {
     background-image: url('../img/IMG_3050-small.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -17,7 +18,7 @@
 }
 
 @media (orientation: landscape) {
-  #root {
+  body {
     background-image: url('../img/IMG_3049-small.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -30,13 +31,13 @@
 }
 
 @media (min-width: 767px) and (orientation: portrait) {
-  #root {
+  body {
     background-image: url('../img/IMG_3050-large.jpg');
   }
 }
 
 @media (min-width: 767px) and (orientation: landscape) {
-  #root {
+  body {
     background-image: url('../img/IMG_3049-large.jpg');
   }
 }

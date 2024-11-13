@@ -4,7 +4,7 @@ const LandingPage: React.FC = () => {
   const textShadow = '-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black';
 
   return (
-    <main className="justify-self-center mx-auto flex flex-col justify-center text-center text-white font-bold">
+    <main className="m-auto flex flex-col justify-center text-center text-white font-bold">
       <h1
         className="text-[2rem] md:text-[3rem] lg:text-[4rem] uppercase"
         style={{ textShadow: textShadow }}
