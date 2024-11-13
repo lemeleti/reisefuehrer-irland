@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 const LandingPage: React.FC = () => {
   const textShadow = '-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black';
 
@@ -16,12 +18,12 @@ const LandingPage: React.FC = () => {
         Spazierg&auml;nge und Besuchstipps für junge Erwachsene
       </h2>
       <div className="portrait:mt-12 landscape:mt-9">
-        <a
-          href="#"
+        <Link
+          to="home"
           className="inline-block uppercase px-8 py-4 rounded-[300px] bg-[#868e96]"
         >
           Start
-        </a>
+        </Link>
       </div>
     </main>
   );
