@@ -2,6 +2,7 @@ import { ReactNode } from 'react';
 import styled from 'styled-components';
 
 type GuideSummaryItemProps = {
+  id: string;
   title: string;
   dotColor: string;
   children?: ReactNode;
@@ -16,6 +17,7 @@ const Dot = styled.span`
 `;
 
 const GuideSummaryItem: React.FC<GuideSummaryItemProps> = ({
+  id,
   title,
   dotColor,
   children,
@@ -23,7 +25,7 @@ const GuideSummaryItem: React.FC<GuideSummaryItemProps> = ({
   const dotBgColor = dotColor.charAt(0) !== '#' ? '#' + dotColor : dotColor;
 
   return (
-    <li className="justify-items-center my-5 text-center">
+    <li id={id} className="justify-items-center my-5 text-center">
       <h3 className="text-xl font-bold mb-2">
         <Dot style={{ backgroundColor: dotBgColor }} />
         {title}

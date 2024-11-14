@@ -6,6 +6,8 @@ import GuideSummaryItem from '../components/GuideSummaryItem';
 import Section from '../components/Section';
 
 import { ROUTES } from '../maps';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEnvelope, faUserCircle } from '@fortawesome/free-solid-svg-icons';
 
 const HomePage: React.FC = () => {
   return (
@@ -48,13 +50,14 @@ const HomePage: React.FC = () => {
           </p>
         </Section>
         <Section id="guides" title="Spaziergänge">
-          <GoogleMap />
+          <GoogleMap routes={ROUTES} />
 
           <h2 className="font-bold text-xl mb-8">
             Graue Marker sind in mehrere Touren vorhanden!
           </h2>
           <ul>
             <GuideSummaryItem
+              id="architecture"
               dotColor={ROUTES[0].strokeColor}
               title="Architektur"
             >
@@ -63,6 +66,7 @@ const HomePage: React.FC = () => {
               vom Mittelalter bis zur heutigen Zeit.
             </GuideSummaryItem>
             <GuideSummaryItem
+              id="history"
               dotColor={ROUTES[1].strokeColor}
               title="Geschichte"
             >
@@ -75,6 +79,7 @@ const HomePage: React.FC = () => {
               entdecken willst.
             </GuideSummaryItem>
             <GuideSummaryItem
+              id="food"
               dotColor={ROUTES[2].strokeColor}
               title="Kulinarik"
             >
@@ -83,7 +88,11 @@ const HomePage: React.FC = () => {
               ohne Brunch geniessen m&ouml;chtest, sind diese Restaurants
               perfekt.
             </GuideSummaryItem>
-            <GuideSummaryItem dotColor={ROUTES[3].strokeColor} title="Kunst">
+            <GuideSummaryItem
+              id="art"
+              dotColor={ROUTES[3].strokeColor}
+              title="Kunst"
+            >
               Der Spaziergang ist ideal f&uuml;r Leute, die nicht nur in Museen
               verweilen wollen, sondern parallel zur Kunst auch die
               wundersch&ouml;ne Stadt entdecken m&ouml;chten. Die Tour
@@ -95,30 +104,47 @@ const HomePage: React.FC = () => {
               auf die Nebengassen, Street-Art versteckt sich genau dort, wo man
               nicht darauf achtet.
             </GuideSummaryItem>
-            <GuideSummaryItem dotColor={ROUTES[4].strokeColor} title="Musik">
+            <GuideSummaryItem
+              id="music"
+              dotColor={ROUTES[4].strokeColor}
+              title="Musik"
+            >
               In Dublin ist Musik sehr wichtig. In vielen Pubs kann man
               traditionelle Livemusik erleben, aber auch Rock'n Roll, Jazz und
               Klassik spielen eine wichtige Rolle. Aus Dublin kommt Irlands
               ber&uuml;hmteste Rockband U2. Dieser Spaziergang f&uuml;r dich an
               Orte, die mit Musik zu tun haben.
             </GuideSummaryItem>
-            <GuideSummaryItem dotColor={ROUTES[5].strokeColor} title="By Night">
+            <GuideSummaryItem
+              id="night-life"
+              dotColor={ROUTES[5].strokeColor}
+              title="By Night"
+            >
               In Dublin kann man auch am Abend viel sehen und erleben. Es gibt
               zahlreiche Pubs und Restaurants und viele Br&uuml;cken &uuml;ber
               den Liffey sind nachts beleuchtet. Ein sehr beliebtes Viertel ist
               Temple Bar, dort hat es an jeder zweiten Ecke ein Pub oder eine
               Bar.
             </GuideSummaryItem>
-            <GuideSummaryItem dotColor={ROUTES[6].strokeColor} title="Oasen">
+            <GuideSummaryItem
+              id="oasis"
+              dotColor={ROUTES[6].strokeColor}
+              title="Oasen"
+            >
               Brauchst du Zeit, um abzuschalten oder einfach einmal die Zeit zu
               geniessen und dies erst noch an der frischen Luft, dann wirst du
               hier sicher f&uuml;ndig.
             </GuideSummaryItem>
-            <GuideSummaryItem dotColor={ROUTES[7].strokeColor} title="Politik">
+            <GuideSummaryItem
+              id="politic"
+              dotColor={ROUTES[7].strokeColor}
+              title="Politik"
+            >
               Dieser Spaziergang f&uuml;hrt dich zu historischen und heute
               wichtigen Geb&auml;uden, die mit dem Thema Politik zu tun haben.
             </GuideSummaryItem>
             <GuideSummaryItem
+              id="sight-seeing"
               dotColor={ROUTES[8].strokeColor}
               title="Sehenswertes"
             >
@@ -128,6 +154,34 @@ const HomePage: React.FC = () => {
           </ul>
         </Section>
       </main>
+      <footer>
+        <div className="bg-white-transparent w-[85vw] mx-auto">
+          <hr className="mx-auto border-[#666] border-2 w-3/4" />
+        </div>
+        <Section id="impressum" title="Impressum">
+          <p className="place-self-center mb-4">
+            &copy; {new Date().getFullYear()}
+          </p>
+          <div className="text-center mb-8">
+            <h2 className="font-bold text-xl">Redaktionsteam</h2>
+            <p>Anabel, C&eacute;line, Leandro, Silke</p>
+          </div>
+          <div className="flex flex-col lg:flex-row gap-8 text-center">
+            <div className="flex flex-col flex-1">
+              <FontAwesomeIcon icon={faEnvelope} className="text-4xl mb-3" />
+              <a href="mailto:info@reisefuehrer-irland.ch">
+                info@reisefuehrer-irland.ch
+              </a>
+            </div>
+            <div className="flex flex-col flex-1 items-center">
+              <FontAwesomeIcon icon={faUserCircle} className="text-4xl mb-3" />
+              <p className="w-3/4">
+                Built by Leandro Meleti using React and Tailwind
+              </p>
+            </div>
+          </div>
+        </Section>
+      </footer>
     </>
   );
 };

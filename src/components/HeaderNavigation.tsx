@@ -1,11 +1,6 @@
 import { Link } from 'react-router-dom';
 
-const scrollToSection = (id: string) => {
-  const section = document.getElementById(id);
-  if (section) {
-    section.scrollIntoView({ behavior: 'smooth' });
-  }
-};
+import { scrollToSection } from '../util';
 
 const HeaderNavigation: React.FC = () => {
   const navElements = [

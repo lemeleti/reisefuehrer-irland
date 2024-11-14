@@ -1,3 +1,4 @@
+import { useEffect, useMemo, useState } from 'react';
 import {
   AdvancedMarker,
   APIProvider,
@@ -6,10 +7,51 @@ import {
   useMap,
   useMapsLibrary,
 } from '@vis.gl/react-google-maps';
-import { Route, ROUTES } from '../maps';
-import { useEffect, useState } from 'react';
 
-const GoogleMap: React.FC = () => {
+import { scrollToSection } from '../util';
+
+import { Route } from '../maps';
+
+type ScrollToType = 'ROUTE' | 'POINT';
+
+type GoogleMapProps = {
+  routes: Route[] | Route;
+  scrollToType?: ScrollToType;
+};
+
+const GoogleMap: React.FC<GoogleMapProps> = ({
+  routes,
+  scrollToType = 'ROUTE',
+}) => {
+  const content = useMemo(() => {
+    const computeMarkers = (route: Route) => {
+      return route.points.map((point, index) => (
+        <AdvancedMarker
+          key={`${route.id}-${index}`}
+          position={{ lat: point.lat, lng: point.lng }}
+          onClick={() => {
+            if (!point.shared) {
+              scrollToSection(scrollToType ? route.id : point.id);
+            }
+          }}
+        >
+          <Pin
+            background={`#${point.shared ? 'D3D3D3' : route.strokeColor}`}
+            borderColor={'#000'}
+            glyphColor={'#fff'}
+          />
+        </AdvancedMarker>
+      ));
+    };
+
+    if (Array.isArray(routes)) {
+      return routes.map((route) => computeMarkers(route));
+    }
+
+    const route = routes;
+    return computeMarkers(route);
+  }, [routes, scrollToType]);
+
   return (
     <APIProvider apiKey="AIzaSyCEllN8xXYe2LO5DTyPJ_yMbhy__B_g78g">
       <Map
@@ -18,17 +60,8 @@ const GoogleMap: React.FC = () => {
         defaultCenter={{ lat: 53.34547, lng: -6.26417 }}
         defaultZoom={13}
       >
-        {ROUTES.map((route) =>
-          route.points.map(({ name, lat, lng, id, color }, index) => (
-            <AdvancedMarker
-              key={`${route.id}-${index}`}
-              position={{ lat, lng }}
-            >
-              <Pin background={`#${color}`} />
-            </AdvancedMarker>
-          )),
-        )}
-        <Directions routes={ROUTES} />
+        {content}
+        <Directions routes={routes} />
       </Map>
     </APIProvider>
   );
@@ -53,19 +86,19 @@ const Directions: React.FC<{ routes: Route[] | Route }> = ({ routes }) => {
     setDirectionsService(new routesLibrary.DirectionsService());
 
     if (Array.isArray(routes)) {
-      for (const _ of routes) {
+      routes.forEach(() => {
         setDirectionsRenderers((prevRenderers) => [
           ...prevRenderers,
           new routesLibrary.DirectionsRenderer({ map }),
         ]);
-      }
+      });
     } else {
       setDirectionsRenderers((prevRenderers) => [
         ...prevRenderers,
         new routesLibrary.DirectionsRenderer({ map }),
       ]);
     }
-  }, [routesLibrary, map]);
+  }, [routesLibrary, map, routes]);
 
   useEffect(() => {
     if (directionsRenderers.length === 0 || !directionsService) {
@@ -78,9 +111,8 @@ const Directions: React.FC<{ routes: Route[] | Route }> = ({ routes }) => {
     ) {
       const points = route.points;
 
-      let origin;
       let destination;
-      let waypoints = [];
+      const waypoints = [];
       let lastPoint;
 
       for (let p = 0; p < points.length; p++) {
@@ -92,7 +124,7 @@ const Directions: React.FC<{ routes: Route[] | Route }> = ({ routes }) => {
         lastPoint = points[p];
 
         // Add this to waypoint to the array for making the request
-        var myLatLng = new google.maps.LatLng(lastPoint.lat, lastPoint.lng);
+        const myLatLng = new google.maps.LatLng(lastPoint.lat, lastPoint.lng);
         waypoints.push({
           location: myLatLng,
           stopover: true,
@@ -100,7 +132,7 @@ const Directions: React.FC<{ routes: Route[] | Route }> = ({ routes }) => {
       }
 
       // Grab the first waypoint for the 'origin' location
-      origin = waypoints.shift()!.location;
+      const origin = waypoints.shift()!.location;
 
       // Grab the last waypoint for use as a 'destination' location
       destination = waypoints.pop();
@@ -156,7 +188,7 @@ const Directions: React.FC<{ routes: Route[] | Route }> = ({ routes }) => {
     } else {
       computeRoute(routes as unknown as Route, directionsRenderers[0]);
     }
-  }, [directionsRenderers, directionsService]);
+  }, [directionsRenderers, directionsService, routes]);
 
   return null;
 };
