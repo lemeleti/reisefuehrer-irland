@@ -1,23 +1,14 @@
-import { Link } from 'react-router-dom';
-
-import HeaderNavigation from '../components/HeaderNavigation';
 import GoogleMap from '../components/GoogleMap';
 import GuideSummaryItem from '../components/GuideSummaryItem';
 import Section from '../components/Section';
 
-import { ROUTES } from '../maps';
+import { ROUTES } from '../data/maps';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope, faUserCircle } from '@fortawesome/free-regular-svg-icons';
 
 const HomePage: React.FC = () => {
   return (
     <>
-      <header className="w-[85vw] py-2 px-4 mx-auto bg-black text-[#c0c0c0] font-bold uppercase flex justify-between">
-        <Link to="" className="text-[1.25rem]">
-          Reisef&uuml;hrer
-        </Link>
-        <HeaderNavigation />
-      </header>
       <main>
         <Section id="dublin" title="Dublin">
           <p className="text-justify">

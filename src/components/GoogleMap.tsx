@@ -10,7 +10,7 @@ import {
 
 import { scrollToSection } from '../util';
 
-import { Route } from '../maps';
+import { Route } from '../data/maps';
 
 type ScrollToType = 'ROUTE' | 'POINT';
 

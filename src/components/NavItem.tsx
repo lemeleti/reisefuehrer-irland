@@ -1,0 +1,51 @@
+import { useState } from 'react';
+import { Link } from 'react-router-dom';
+
+import Dropdown from './Dropdown';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCaretDown } from '@fortawesome/free-solid-svg-icons';
+
+type NavItemProps = {
+  item: {
+    id: string;
+    text: string;
+    submenu?: {
+      id: string;
+      text: string;
+    }[];
+  };
+};
+
+const NavItem: React.FC<NavItemProps> = ({ item }) => {
+  const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+
+  const toggleDropdown = () => setIsDropdownOpen((isOpen) => !isOpen);
+
+  return (
+    <li className="relative">
+      <div className="inline-flex items-center w-full">
+        <Link
+          to={`#${item.id}`}
+          onClick={() => {
+            if (item.submenu) toggleDropdown();
+          }}
+          className="block py-2 px-4 text-[0.9rem] whitespace-nowrap w-full hover:bg-gray-700"
+        >
+          {item.text}
+          {item.submenu && (
+            <FontAwesomeIcon
+              icon={faCaretDown}
+              onClick={toggleDropdown}
+              className="text-xl ml-2"
+            />
+          )}
+        </Link>
+      </div>
+      {isDropdownOpen && item.submenu && (
+        <Dropdown submenu={item.submenu} />
+      )}
+    </li>
+  );
+};
+
+export default NavItem;
