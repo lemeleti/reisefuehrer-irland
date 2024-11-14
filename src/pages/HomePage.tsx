@@ -7,7 +7,7 @@ import Section from '../components/Section';
 
 import { ROUTES } from '../maps';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faEnvelope, faUserCircle } from '@fortawesome/free-solid-svg-icons';
+import { faEnvelope, faUserCircle } from '@fortawesome/free-regular-svg-icons';
 
 const HomePage: React.FC = () => {
   return (
@@ -160,7 +160,7 @@ const HomePage: React.FC = () => {
         </div>
         <Section id="impressum" title="Impressum">
           <p className="place-self-center mb-4">
-            &copy; {new Date().getFullYear()}
+            Zuletzt aktualisiert 02.02.2018
           </p>
           <div className="text-center mb-8">
             <h2 className="font-bold text-xl">Redaktionsteam</h2>
