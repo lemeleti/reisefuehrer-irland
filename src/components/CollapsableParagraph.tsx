@@ -1,25 +1,35 @@
 import { ReactNode, useLayoutEffect, useRef, useState } from 'react';
 
-const CollapsableParagraph: React.FC<{ children: ReactNode; className?: string }> = ({
-  children,
-  className,
-}) => {
+const CollapsableParagraph: React.FC<{
+  children: ReactNode;
+  className?: string;
+}> = ({ children, className }) => {
   const [isOpen, setIsOpen] = useState(false);
   const [showButton, setShowButton] = useState(false);
+  const [initialClientHeight, setInitialClientHeight] = useState(0);
   const ref = useRef<HTMLParagraphElement>(null);
 
   const toggleDescription = () => setIsOpen((prev) => !prev);
 
   useLayoutEffect(() => {
-    const compute = () => {
+    const compute = (resized: boolean) => {
       if (ref.current) {
-        setShowButton(ref.current.clientHeight < ref.current.scrollHeight);
+        if (!isOpen) {
+          if (ref.current.clientHeight < ref.current.scrollHeight) {
+            setInitialClientHeight(ref.current.clientHeight);
+          }
+          setShowButton(ref.current.clientHeight < ref.current.scrollHeight);
+        } else {
+          if (resized) {
+            setShowButton(initialClientHeight !== ref.current.clientHeight);
+          }
+        }
       }
     };
 
-    compute();
+    compute(false);
 
-    const observer = new ResizeObserver(() => compute());
+    const observer = new ResizeObserver(() => compute(true));
 
     if (ref.current) {
       observer.observe(ref.current);
@@ -32,7 +42,7 @@ const CollapsableParagraph: React.FC<{ children: ReactNode; className?: string }
         observer.unobserve(observedRefItem);
       }
     };
-  }, [ref]);
+  }, [ref, isOpen, initialClientHeight]);
 
   return (
     <div className={className}>
