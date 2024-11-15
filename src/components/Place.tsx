@@ -1,5 +1,5 @@
 import { ReactNode } from 'react';
-import { Place as PlaceProps } from '../data/guides';
+import { Place as PlaceProps } from '../data/sharedPlaces';
 import Divider from './Divider';
 import Carousel from './Carousel';
 import CollapsableParagraph from './CollapsableParagraph';
