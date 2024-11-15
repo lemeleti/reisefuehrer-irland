@@ -104,7 +104,7 @@ export const ROUTES: Route[] = [
     strokeColor: '417FA7',
   },
   {
-    id: 'history',
+    id: 'oasen',
     points: [
       {
         name: 'Phoenix Park',
@@ -138,7 +138,7 @@ export const ROUTES: Route[] = [
     strokeColor: '276624',
   },
   {
-    id: 'food',
+    id: 'politic',
     points: [
       {
         name: 'Four Courts',
@@ -179,7 +179,7 @@ export const ROUTES: Route[] = [
     strokeColor: '850F0F',
   },
   {
-    id: 'art',
+    id: 'sight-seeing',
     points: [
       {
         name: "St. Patrick's Cathedral",
@@ -309,7 +309,7 @@ export const ROUTES: Route[] = [
     strokeColor: '454141',
   },
   {
-    id: 'oasis',
+    id: 'history',
     points: [
       {
         name: 'Dublin Castle',
@@ -371,7 +371,7 @@ export const ROUTES: Route[] = [
     strokeColor: 'AFEEEE',
   },
   {
-    id: 'politic',
+    id: 'food',
     points: [
       {
         name: 'Vice Coffee',
@@ -426,7 +426,7 @@ export const ROUTES: Route[] = [
     strokeColor: '008080',
   },
   {
-    id: 'sight-seeing',
+    id: 'art',
     points: [
       {
         name: 'BP Fallon',
