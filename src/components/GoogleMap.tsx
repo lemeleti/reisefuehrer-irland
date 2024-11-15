@@ -34,7 +34,6 @@ const GoogleMap: React.FC<GoogleMapProps> = ({
               (scrollToType === 'ROUTE' && !point.shared) ||
               scrollToType === 'POINT'
             ) {
-              console.log(scrollToType === 'ROUTE' ? route.id : point.id);
               scrollToSection(scrollToType === 'ROUTE' ? route.id : point.id);
             }
           }}

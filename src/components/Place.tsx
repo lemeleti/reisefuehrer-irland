@@ -19,7 +19,10 @@ const PlaceDetail: React.FC<{
 
 const Place: React.FC<{ place: PlaceProps }> = ({ place }) => {
   return (
-    <article id={place.id} className="text-center w-full">
+    <article
+      id={place.id}
+      className="text-center w-full scroll-m-6 md:scroll-m-20"
+    >
       <h2 className="text-xl font-bold">{place.name}</h2>
       <p>{place.address}</p>
 

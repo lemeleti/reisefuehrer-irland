@@ -4,27 +4,33 @@ import { Link } from 'react-router-dom';
 import NavItem from './NavItem';
 
 import { GUIDES } from '../data/guides';
+import useScrollingUp from '../hooks/useScrollingUp';
 
 const navElements = [
-  { id: 'dublin', text: 'Dublin' },
-  { id: 'about', text: 'Über uns' },
+  { path: 'home#dublin', id: 'dublin', text: 'Dublin' },
+  { path: 'home#about', id: 'about', text: 'Über uns' },
   {
+    path: '#guides',
+    disableScrolling: true,
     id: 'guides',
     text: 'Spaziergänge',
     submenu: GUIDES,
   },
-  { id: 'impressum', text: 'Impressum' },
+  { path: 'home#impressum', id: 'impressum', text: 'Impressum' },
 ];
 
 const HeaderNavigation: React.FC = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const isScrollingUp = useScrollingUp();
 
   const toggleMenu = () => {
     setIsMenuOpen((prev) => !prev);
   };
 
   return (
-    <header className="sticky top-0 w-[85vw] py-2 px-4 mx-auto bg-black text-[#c0c0c0] font-bold uppercase flex flex-col md:flex-row md:items-center md:justify-between z-[9999]">
+    <header
+      className={`${isScrollingUp ? 'sticky top-0' : 'md:sticky md:top-0'} w-[85vw] py-2 px-4 mx-auto bg-black text-[#c0c0c0] font-bold uppercase flex flex-col md:flex-row md:items-center md:justify-between z-[9999]`}
+    >
       {/* Top Row: Brand and Hamburger Button */}
       <div className="flex items-center justify-between w-full">
         <Link to="home" className="text-[1.25rem]">

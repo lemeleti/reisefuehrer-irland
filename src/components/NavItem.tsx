@@ -4,10 +4,13 @@ import { Link } from 'react-router-dom';
 import Dropdown from './Dropdown';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCaretDown } from '@fortawesome/free-solid-svg-icons';
+import { scrollToSection } from '../util';
 
 type NavItemProps = {
   item: {
+    path: string;
     id: string;
+    disableScrolling?: boolean;
     text: string;
     submenu?: {
       id: string;
@@ -26,8 +29,13 @@ const NavItem: React.FC<NavItemProps> = ({ item }) => {
     <li className="relative">
       <div className="inline-flex items-center w-full">
         <Link
-          to={`#${item.id}`}
-          onClick={toggleDropdown}
+          to={item.path}
+          onClick={() => {
+            if (!item.disableScrolling) {
+              scrollToSection(item.id);
+            }
+            toggleDropdown();
+          }}
           className="block py-2 px-4 text-[0.9rem] whitespace-nowrap w-full hover:bg-gray-700"
         >
           {item.text}
@@ -40,9 +48,7 @@ const NavItem: React.FC<NavItemProps> = ({ item }) => {
           )}
         </Link>
       </div>
-      {isDropdownOpen && item.submenu && (
-        <Dropdown submenu={item.submenu} />
-      )}
+      {isDropdownOpen && item.submenu && <Dropdown submenu={item.submenu} />}
     </li>
   );
 };
