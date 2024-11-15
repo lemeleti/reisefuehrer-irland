@@ -491,6 +491,8 @@ export const ROUTES: Route[] = [
         shared: false,
       },
     ],
+    center: { lat: 53.344, lng: -6.264 },
+    zoom: 14,
     strokeColor: '7D58AB',
   },
 ];

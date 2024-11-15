@@ -86,8 +86,14 @@ const Place: React.FC<{ place: PlaceProps }> = ({ place }) => {
 
       {place.additionalInfo && (
         <>
-          <Divider />
-
+          {place.buildStyle &&
+            place.buildYear &&
+            place.estimatedTime &&
+            place.guideDetails &&
+            place.openingTimes &&
+            place.type &&
+            place.price &&
+            place.guideDetails && <Divider />}
           <CollapsableParagraph clamp={2}>
             {place.additionalInfo}
           </CollapsableParagraph>

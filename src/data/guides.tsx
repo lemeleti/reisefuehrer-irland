@@ -463,4 +463,96 @@ const FOOD_GUIDE: Guide = {
   ],
 };
 
-export const ALL_GUIDES = [ARCHITECTURE_GUIDE, HISTORY_GUIDE, FOOD_GUIDE];
+const ART_GUIDE: Guide = {
+  id: 'art',
+  title: 'Kunst',
+  walkTime: '1 h',
+  description:
+    'Wer Street-Art mag, ist hier richtig. Der Spaziergang beginnt in Temple Bar, wo es an einer Hauswand ein grosses Portrait des Künstlers BP Fallon zu sehen gibt. Weiter geht es zu einem Street-Art- Kunstwerk mit dem Namen the City is my garden und einer kleinen Freiluftausstellung aus drei Wandbildern. Auf dem weiteren Weg gibt es ein Trash Animal zu entdecken, ein Werk namens Dead Meat und bunte Türen. Weiter geht es zum Bild Subset Football und schliesslich zu einem abstrakten Kunstwerk.',
+  places: [
+    {
+      id: 'bp-fallon',
+      name: 'BP Fallon',
+      address: 'Tempel Lane S, Irland',
+      description:
+        'An Anfang einer der berühmtesten Strassen Dublins gibt es ein Street-Art-Kunstwerk, das mit zwei berühmten Namen verbunden ist. Hier hat der bekannte Künstler Maser seinen ebenfalls bekannten Kumpel BP Fallon gemalt. Dieser ist ein beliebter irischer Fotograf und DJ. Darum passt sein Bild bestens an den gewählten Standort. Es befindet sich im Hinterhof der Button Factory Bar. Die einstige Knopffabrik ist ein Veranstaltungsort für Grossevents, wo täglich Bands und Djs aufteten. In Irland ist Maser einer der berühmtesten Street-Art Künstler. Er lebt zwar heute in den USA, kehrt aber ab und zu nach Dublin zurück, um weitere Kunstwerke zu hinterlassen. In der Street-Art Community ist Maser sogar weltweit bekannt.',
+      imagesPath: '/img/art',
+      images: ['IMG_5101.JPG'],
+    },
+    {
+      id: 'the-city-is-my-garden',
+      name: 'The city is my garden',
+      address: 'Nr. 1 Liffey Street Upper, Irland',
+      additionalInfo:
+        'Wenn du dieses Street-Art-Kunstwerk sehen willst, kombinierst du den Besuch am besten mit einem Shopping-Trip. Es befindet sich nämlich an der berühmtesten Einkaufsstrasse von Dublin.',
+      description:
+        'Wie das Bild von BP Fallon ist auch dieser Schriftzug mit geometrischen Figuren von Maser. Dieses Kunstwerk wurde für den Laden Arnotts geschaffen, um den Menschen in Dublin das Zusammenspiel von Natur und Stadt näher zu bringen.',
+      imagesPath: '/img/art',
+      images: ['IMG_5115.JPG'],
+    },
+    {
+      id: 'drei-verschiedene-streetarts',
+      name: 'Drei verschiedene Street-Arts',
+      address: 'Temple Lane, Irland',
+      type: 'In der Nähe vom berühmten BP Fallon Bild findet man drei wunderschöne Kunstwerke.',
+      description:
+        'Die drei Bilder sind von verschiedenen Künstlern und bilden eine Open-Air-Ausstellung an der Temple Lane. Das erste Bild von links ist vom englischen Künstler Dan Leo, der in Irland wohnhaft ist. Er verwendet verschiedene Farben, durch dieses Stilmittel erkennt man seine in ganz Irland verstreuten Werke sofort. Das mittlere Bild ist vom Künstler Decoy. Er hat schon auf der ganzen Welt Bilder gemalt und auch mit anderen grossen Künstlern wie Maser und Solus zusammen gearbeitet. Sein erstes Werk befindet sich am Tara Building in Dublin. Das letzte Bild ist von der Künstlerin Lora Zombie, die durch Social Media weltweit bekannt wurde.',
+      imagesPath: '/img/art',
+      images: ['IMG_5109.JPG', 'IMG_5105.JPG', 'IMG_5106.JPG', 'IMG_5107.JPG'],
+    },
+    {
+      id: 'trash-animals',
+      name: 'Trash Animals',
+      address: 'Tara Street, Irland',
+      description:
+        'Dieses Bild ist vom portugiesischen Künstler Artur Bordalo aka Boralo II. Er ist bekannt für seine kreativen Street-Art-Kunstwerke. Aus Abfall aller Art schafft er fantastische Tiere und macht so darauf aufmerksam, dass es ein Problem gibt mit unserem Abfall.',
+      imagesPath: '/img/art',
+      images: ['IMG_6105.JPG'],
+    },
+    {
+      id: 'dead-meat',
+      name: 'Dead Meat',
+      address: 'Merrion Row, Irland',
+      description:
+        'Conor Harringthon, der Künstler aus London, hat eine leere Wand in der Merrion Row verschönert. Dort zeigt sich Dublin von seiner künstlerischen und hippen Seite.',
+      imagesPath: '/img/art',
+      images: ['IMG_5184.JPG'],
+    },
+    {
+      id: 'gregorianische-tueren',
+      name: 'Georgianische Türen',
+      address: 'Merrion Square, Irland',
+      description:
+        'Im Bauboom des 18. Jahrhunderts bauten die Engländer ein neues Quartier ausserhalb des Stadtkerns. Der englische König verlangte einen einheitlichen Baustil, deshalb waren die Bauvorschriften sehr streng. Für individuelle Freiheiten gab es wenig Raum. Doch die Iren fanden einen Weg, ihren Häusern eine persönliche Note zu geben. Weil keine Vorschriften für die Tür-Farben existierten, färbten sie jede Tür anders, Hauptsache sie war bunt.',
+      imagesPath: '/img/art',
+      images: ['doors.png'],
+    },
+    {
+      id: 'subset-football',
+      name: 'Subset Football',
+      address: 'Haymarket, Irland',
+      url: 'http://www.subset.ie/',
+      urlText: 'www.subset.ie',
+      description:
+        'Subset ist das bekannteste Künstler-Kollektiv. Die Gruppe verschönert rund um Dublin die Fassaden und gestaltet auch Werke für Marketing-Zwecke. Ein Blick auf ihre Webseite lohnt sich auf jeden Fall.',
+      imagesPath: '/img/art',
+      images: ['IMG_5945.JPG'],
+    },
+    {
+      id: 'vadis-und-tilf',
+      name: 'Vadis und Tilf',
+      address: 'Smithfield, Irland',
+      description:
+        'Für den Event "MURO Street-Art 2014" malten Vadis und Tilf dieses abstrakte Kunstwerk. Weitere Werke waren über die ganze Stadt verteilt. Ganz Dublin war sozusagen eine Freiluft-Ausstellung.',
+      imagesPath: '/img/art',
+      images: ['IMG_5134.JPG'],
+    },
+  ],
+};
+
+export const ALL_GUIDES = [
+  ARCHITECTURE_GUIDE,
+  HISTORY_GUIDE,
+  FOOD_GUIDE,
+  ART_GUIDE,
+];
