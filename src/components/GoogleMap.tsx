@@ -30,8 +30,12 @@ const GoogleMap: React.FC<GoogleMapProps> = ({
           key={`${route.id}-${index}`}
           position={{ lat: point.lat, lng: point.lng }}
           onClick={() => {
-            if (!point.shared) {
-              scrollToSection(scrollToType ? route.id : point.id);
+            if (
+              (scrollToType === 'ROUTE' && !point.shared) ||
+              scrollToType === 'POINT'
+            ) {
+              console.log(scrollToType === 'ROUTE' ? route.id : point.id);
+              scrollToSection(scrollToType === 'ROUTE' ? route.id : point.id);
             }
           }}
         >

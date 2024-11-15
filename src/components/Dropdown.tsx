@@ -6,7 +6,7 @@ type DropdownProps = {
 
 const Dropdown: React.FC<DropdownProps> = ({ submenu }) => {
   return (
-    <ul className="md:absolute left-0 mt-1 bg-black text-[#c0c0c0] shadow-md rounded-md flex flex-col space-y-1 p-2 w-full">
+    <ul className="md:z-[999] md:absolute left-0 mt-1 bg-black text-[#c0c0c0] shadow-md rounded-md flex flex-col space-y-1 p-2 w-full">
       {submenu.map((item) => (
         <li key={item.id}>
           <Link

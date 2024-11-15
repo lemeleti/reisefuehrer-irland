@@ -11,6 +11,7 @@ type NavItemProps = {
     text: string;
     submenu?: {
       id: string;
+      path: string;
       text: string;
     }[];
   };
@@ -26,9 +27,7 @@ const NavItem: React.FC<NavItemProps> = ({ item }) => {
       <div className="inline-flex items-center w-full">
         <Link
           to={`#${item.id}`}
-          onClick={() => {
-            if (item.submenu) toggleDropdown();
-          }}
+          onClick={toggleDropdown}
           className="block py-2 px-4 text-[0.9rem] whitespace-nowrap w-full hover:bg-gray-700"
         >
           {item.text}

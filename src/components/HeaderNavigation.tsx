@@ -24,10 +24,10 @@ const HeaderNavigation: React.FC = () => {
   };
 
   return (
-    <header className="w-[85vw] py-2 px-4 mx-auto bg-black text-[#c0c0c0] font-bold uppercase flex flex-col md:flex-row md:items-center md:justify-between">
+    <header className="sticky top-0 w-[85vw] py-2 px-4 mx-auto bg-black text-[#c0c0c0] font-bold uppercase flex flex-col md:flex-row md:items-center md:justify-between z-[9999]">
       {/* Top Row: Brand and Hamburger Button */}
       <div className="flex items-center justify-between w-full">
-        <Link to="" className="text-[1.25rem]">
+        <Link to="home" className="text-[1.25rem]">
           Reisef&uuml;hrer
         </Link>
 
