@@ -11,7 +11,7 @@ const PlaceDetail: React.FC<{
 }> = ({ title, className, children }) => {
   return (
     <div className={className}>
-      <h3 className="text-lg font-bold">{title}</h3>
+      <h3 className="text-xl font-bold">{title}</h3>
       {children}
     </div>
   );
@@ -23,7 +23,7 @@ const Place: React.FC<{ place: PlaceProps }> = ({ place }) => {
       id={place.id}
       className="text-center w-full scroll-m-6 md:scroll-m-20"
     >
-      <h2 className="text-xl font-bold">{place.name}</h2>
+      <h2 className="text-2xl font-bold">{place.name}</h2>
       <p>{place.address}</p>
 
       {place.url && (
@@ -87,11 +87,14 @@ const Place: React.FC<{ place: PlaceProps }> = ({ place }) => {
       {place.additionalInfo && (
         <>
           <Divider />
-          <p>{place.additionalInfo}</p>
+
+          <CollapsableParagraph clamp={2}>
+            {place.additionalInfo}
+          </CollapsableParagraph>
         </>
       )}
 
-      <Carousel slides={place.images} className="my-4">
+      <Carousel slides={place.images} path={place.imagesPath} className="my-4">
         <p className="text-left">
           Abbildung{place.images.length > 1 ? 'en' : ''}: {place.name}
         </p>

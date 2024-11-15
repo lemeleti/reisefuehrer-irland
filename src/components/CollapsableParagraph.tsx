@@ -1,9 +1,10 @@
 import { ReactNode, useLayoutEffect, useRef, useState } from 'react';
 
 const CollapsableParagraph: React.FC<{
+  clamp?: number;
   children: ReactNode;
   className?: string;
-}> = ({ children, className }) => {
+}> = ({ clamp = 3, children, className }) => {
   const [isOpen, setIsOpen] = useState(false);
   const [showButton, setShowButton] = useState(false);
   const [initialClientHeight, setInitialClientHeight] = useState(0);
@@ -48,7 +49,7 @@ const CollapsableParagraph: React.FC<{
     <div className={className}>
       <p
         ref={ref}
-        className={`text-justify ${isOpen ? 'line-clamp-none' : 'line-clamp-3'}`}
+        className={`text-justify ${isOpen ? 'line-clamp-none' : `line-clamp-${clamp}`}`}
       >
         {children}
       </p>

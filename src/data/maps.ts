@@ -10,6 +10,8 @@ export type Route = {
   id: string;
   points: Point[];
   strokeColor: string;
+  zoom?: number;
+  center?: { lat: number; lng: number };
 };
 
 export const ROUTES: Route[] = [
@@ -20,28 +22,28 @@ export const ROUTES: Route[] = [
         name: "St. Patrick's Cathedral",
         lat: 53.339515,
         lng: -6.271477,
-        id: 'st-patricks-cathedral-architecture',
+        id: 'st-patricks-cathedral',
         shared: true,
       },
       {
         name: 'Christ Church Cathedral',
         lat: 53.343513,
         lng: -6.27106,
-        id: 'christ-church-cathedral-architecture',
+        id: 'christ-church-cathedral',
         shared: true,
       },
       {
         name: 'Dublin Castle',
         lat: 53.342886,
         lng: -6.267428,
-        id: 'dublin-castle-architecture',
+        id: 'dublin-castle',
         shared: true,
       },
       {
         name: 'St. Stephens Green Shopping Center',
         lat: 53.33999,
         lng: -6.262416,
-        id: 'st-stephens-green-shopping-center',
+        id: 'st-stephens-green',
         shared: false,
       },
       {
@@ -55,7 +57,7 @@ export const ROUTES: Route[] = [
         name: 'Trinity College',
         lat: 53.343794,
         lng: -6.254572,
-        id: 'trinity-college-architecture',
+        id: 'trinity-college',
         shared: true,
       },
       {
@@ -69,7 +71,7 @@ export const ROUTES: Route[] = [
         name: 'Custom House',
         lat: 53.348704,
         lng: -6.253138,
-        id: 'custom-house-architecture',
+        id: 'custom-house',
         shared: true,
       },
       {
@@ -101,6 +103,8 @@ export const ROUTES: Route[] = [
         shared: false,
       },
     ],
+    center: { lat: 53.344, lng: -6.255 },
+    zoom: 14,
     strokeColor: '417FA7',
   },
   {
@@ -117,7 +121,7 @@ export const ROUTES: Route[] = [
         name: "St. Stephen's Green",
         lat: 53.338174,
         lng: -6.259119,
-        id: 'st-stephens-green-oasen',
+        id: 'st-stephens-green',
         shared: true,
       },
       {
@@ -185,14 +189,14 @@ export const ROUTES: Route[] = [
         name: "St. Patrick's Cathedral",
         lat: 53.339515,
         lng: -6.271477,
-        id: 'st-patricks-cathedral-worth_seeing',
+        id: 'st-patricks-cathedral',
         shared: true,
       },
       {
         name: 'Dublin Castle',
         lat: 53.342886,
         lng: -6.267428,
-        id: 'dublin-castle-worth_seeing',
+        id: 'dublin-castle',
         shared: true,
       },
       {
@@ -206,7 +210,7 @@ export const ROUTES: Route[] = [
         name: "St. Stephen's Green",
         lat: 53.338174,
         lng: -6.259119,
-        id: 'st-stephens-green-worth_seeing',
+        id: 'st-stephens-green',
         shared: true,
       },
       {
@@ -247,7 +251,7 @@ export const ROUTES: Route[] = [
         name: 'The Church',
         lat: 53.34862,
         lng: -6.266701,
-        id: 'the-church-music',
+        id: 'the-church',
         shared: true,
       },
       {
@@ -295,7 +299,7 @@ export const ROUTES: Route[] = [
         name: "O'Connel Bridge",
         lat: 53.347249,
         lng: -6.259274,
-        id: 'o-connel-bridge-night',
+        id: 'o-connel-bridge',
         shared: true,
       },
       {
@@ -315,7 +319,7 @@ export const ROUTES: Route[] = [
         name: 'Dublin Castle',
         lat: 53.342886,
         lng: -6.267428,
-        id: 'dublin-castle-history',
+        id: 'dublin-castle',
         shared: true,
       },
       {
@@ -329,14 +333,14 @@ export const ROUTES: Route[] = [
         name: 'Custom House',
         lat: 53.348704,
         lng: -6.253138,
-        id: 'custom-house-history',
+        id: 'custom-house',
         shared: true,
       },
       {
         name: "O'Connel Bridge",
         lat: 53.347249,
         lng: -6.259274,
-        id: 'o-connel-bridge-history',
+        id: 'o-connel-bridge',
         shared: true,
       },
       {
@@ -350,7 +354,7 @@ export const ROUTES: Route[] = [
         name: 'Christ Church Cathedral',
         lat: 53.343513,
         lng: -6.27106,
-        id: 'christ-church-cathedral-history',
+        id: 'christ-church-cathedral',
         shared: true,
       },
       {
@@ -364,10 +368,12 @@ export const ROUTES: Route[] = [
         name: 'Trinity College',
         lat: 53.343794,
         lng: -6.254572,
-        id: 'trinity-college-history',
+        id: 'trinity-college',
         shared: true,
       },
     ],
+    center: { lat: 53.344, lng: -6.258 },
+    zoom: 14,
     strokeColor: 'AFEEEE',
   },
   {
@@ -419,7 +425,7 @@ export const ROUTES: Route[] = [
         name: 'The Church',
         lat: 53.34862,
         lng: -6.266701,
-        id: 'the-church-kulinarik',
+        id: 'the-church',
         shared: true,
       },
     ],

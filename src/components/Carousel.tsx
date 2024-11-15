@@ -1,11 +1,15 @@
 import { ReactNode, useState } from 'react';
+import { twMerge } from 'tailwind-merge';
+import useCheckMobileScreen from '../hooks/useCheckMobileScreen';
 
 const Carousel: React.FC<{
-  slides: string[][];
+  slides: string[];
+  path?: string;
   className?: string;
   children?: ReactNode;
-}> = ({ slides, className, children }) => {
+}> = ({ slides, path, className, children }) => {
   const [current, setCurrent] = useState<number>(0);
+  const { isMobile } = useCheckMobileScreen();
 
   const prevSlide = () => {
     if (current === 0) {
@@ -26,20 +30,28 @@ const Carousel: React.FC<{
   return (
     <>
       <div
-        className={`overflow-hidden relative ${className} w-full max-w-[85vw] mx-auto`}
+        className={twMerge(
+          `overflow-hidden relative w-full max-w-[85vw] mx-auto`,
+          className,
+        )}
         style={{ height: 'auto' }}
       >
         <div
           className="flex transition-transform ease-out duration-500"
           style={{ transform: `translateX(-${current * 100}%)` }}
         >
-          {slides.map((slide) => (
-            <img
-              key={slide[0]}
-              src={slide[0]}
-              className="flex-shrink-0 w-full h-auto object-cover"
-            />
-          ))}
+          {slides.map((slide) => {
+            const src = path
+              ? `${path}/${isMobile ? 'thumbnails' : 'fullsize'}/${slide}`
+              : slide;
+            return (
+              <img
+                key={src}
+                src={src}
+                className="flex-shrink-0 w-full h-auto object-cover"
+              />
+            );
+          })}
         </div>
 
         {slides.length > 1 && (
@@ -55,10 +67,10 @@ const Carousel: React.FC<{
 
         {slides.length > 1 && (
           <div className="absolute bottom-2 py-2 flex justify-center gap-3 w-full">
-            {slides.map((s, i) => (
+            {slides.map((_, i) => (
               <div
                 onClick={() => setCurrent(i)}
-                key={`${s[0]}-${i}`}
+                key={i}
                 className={`cursor-pointer rounded-full w-3 h-3 ${
                   i === current ? 'bg-white' : 'bg-gray-400'
                 }`}

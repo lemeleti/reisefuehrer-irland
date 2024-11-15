@@ -55,13 +55,28 @@ const GoogleMap: React.FC<GoogleMapProps> = ({
     return computeMarkers(route);
   }, [routes, scrollToType]);
 
+  const zoom = useMemo(() => {
+    if (!Array.isArray(routes) && routes.zoom) {
+      return routes.zoom;
+    }
+    return 13;
+  }, [routes]);
+
+  const center = useMemo(() => {
+    if (!Array.isArray(routes) && routes.zoom) {
+      return routes.center;
+    }
+    return { lat: 53.34547, lng: -6.26417 };
+  }, [routes]);
+
   return (
     <APIProvider apiKey="AIzaSyCEllN8xXYe2LO5DTyPJ_yMbhy__B_g78g">
       <Map
+        key={!Array.isArray(routes) ? routes.id : 'routes'}
         mapId={'map'}
         className="relative z-50 h-[300px] w-[85vw] my-4"
-        defaultCenter={{ lat: 53.34547, lng: -6.26417 }}
-        defaultZoom={13}
+        defaultCenter={center}
+        defaultZoom={zoom}
       >
         {content}
         <Directions routes={routes} />

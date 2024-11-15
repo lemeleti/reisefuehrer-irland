@@ -31,10 +31,16 @@ const RoutePage: React.FC = () => {
       <Section id="route" title={guide.title}>
         <GoogleMap routes={route} scrollToType="POINT" />
 
-        <h2 className="text-xl font-bold my-4">Ungefähre Gehzeit</h2>
-        <p>{guide.walkTime}</p>
+        <Divider className='mt-10'/>
 
-        <h2 className="text-xl font-bold my-4">Beschreibung</h2>
+        {guide.walkTime && (
+          <>
+            <h2 className="text-2xl font-bold my-4">Ungefähre Gehzeit</h2>
+            <p>{guide.walkTime}</p>
+          </>
+        )}
+
+        <h2 className="text-2xl font-bold my-4">Beschreibung</h2>
         <CollapsableParagraph className="place-items-center">
           {guide.description}
         </CollapsableParagraph>
