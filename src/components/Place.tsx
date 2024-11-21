@@ -84,7 +84,14 @@ const Place: React.FC<{ place: PlaceProps }> = ({ place }) => {
         )}
       </div>
 
-      <Divider />
+      {(place.buildStyle ||
+        place.buildYear ||
+        place.estimatedTime ||
+        place.guideDetails ||
+        place.openingTimes ||
+        place.type ||
+        place.price ||
+        place.guideDetails) && <Divider />}
 
       {place.additionalInfo && (
         <CollapsableParagraph clamp="line-clamp-2">
@@ -100,9 +107,7 @@ const Place: React.FC<{ place: PlaceProps }> = ({ place }) => {
 
       <Divider />
 
-      <CollapsableParagraph>
-        {place.description}
-      </CollapsableParagraph>
+      <CollapsableParagraph>{place.description}</CollapsableParagraph>
 
       <Divider large />
     </article>

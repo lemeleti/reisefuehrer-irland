@@ -8,7 +8,7 @@ import {
   useMapsLibrary,
 } from '@vis.gl/react-google-maps';
 
-import { scrollToSection } from '../util';
+import { scrollToElement } from '../util';
 
 import { Route } from '../data/maps';
 
@@ -34,7 +34,7 @@ const GoogleMap: React.FC<GoogleMapProps> = ({
               (scrollToType === 'ROUTE' && !point.shared) ||
               scrollToType === 'POINT'
             ) {
-              scrollToSection(scrollToType === 'ROUTE' ? route.id : point.id);
+              scrollToElement(scrollToType === 'ROUTE' ? route.id : point.id);
             }
           }}
         >

@@ -28,10 +28,10 @@ const RoutePage: React.FC = () => {
 
   return (
     <main>
-      <Section id="route" title={guide.title}>
+      <Section id={guide.id} title={guide.title}>
         <GoogleMap routes={route} scrollToType="POINT" />
 
-        <Divider className='mt-10'/>
+        <Divider className="mt-10" />
 
         {guide.walkTime && (
           <>
