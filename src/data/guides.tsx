@@ -8,6 +8,7 @@ import {
   ST_STEPHENS_GREEN,
   TRINITY_COLLEGE,
   THE_CHURCH,
+  O_NEILS_PUB_AND_KITCHEN,
 } from './sharedPlaces';
 
 export const GUIDES = [
@@ -33,8 +34,15 @@ export type Guide = {
 const ARCHITECTURE_GUIDE: Guide = {
   id: 'architecture',
   title: 'Architektur',
-  description:
-    'Die Tour startet bei den zwei ältesten Kathedralen der Stadt und führt dann zum berühmten Dublin Castle, einer ehemaligen Burg. Weiter geht es zu einem Einkaufszentrum, das sich in einer eindrucksvollen Metall-Glaskonstruktion befindet. Danach spazierst du zur Irischen Nationalbibliothek von 1890 und weiter zur noch bekannteren Bibliothek im Trinity College, wo das weltberühmte Buch "Book of Kells" aufbewahrt wird. Es folgt die Ha\'penny Bridge, an der einst Zoll verlangt wurde. Dann spazierst du dem Liffey entlang und erreichst das monumentale Custom House, das heutige Umweltministerium. Nach zwei modernen Brücken bist du im lebendigen Quartier Docklands angekommen und und kannst dir das Bord Gais Energy Theater und den umgenutzten ehemaligen Gasometer ansehen.',
+  description: `
+    Die Tour startet bei den zwei ältesten Kathedralen der Stadt und führt dann zum berühmten Dublin Castle, einer ehemaligen Burg. 
+    Weiter geht es zu einem Einkaufszentrum, das sich in einer eindrucksvollen Metall-Glaskonstruktion befindet. 
+    Danach spazierst du zur Irischen Nationalbibliothek von 1890 und weiter zur noch bekannteren Bibliothek im Trinity College, 
+    wo das weltberühmte Buch "Book of Kells" aufbewahrt wird. 
+    Es folgt die Ha'penny Bridge, an der einst Zoll verlangt wurde. 
+    Dann spazierst du dem Liffey entlang und erreichst das monumentale Custom House, das heutige Umweltministerium. 
+    Nach zwei modernen Brücken bist du im lebendigen Quartier Docklands angekommen und kannst dir das Bord Gais Energy Theater und den umgenutzten ehemaligen Gasometer ansehen.
+  `,
   walkTime: '1h 45min ',
   places: [
     ST_PATRICKS_CATHEDRAL,
@@ -49,12 +57,20 @@ const ARCHITECTURE_GUIDE: Guide = {
       urlText: 'www.nli.ie',
       openingTimes: [
         {
-          content:
-            'verschieden je nach Abteilung, Hauptgebäude\nMo 17:00-19:45\nDi-Fr 10:30-12:30 und 14:00-16:00\nSa 9:30-12:45',
+          content: `
+            verschieden je nach Abteilung, Hauptgebäude
+            Mo 17:00-19:45
+            Di-Fr 10:30-12:30 und 14:00-16:00
+            Sa 9:30-12:45
+          `,
         },
       ],
-      description:
-        'Die irische Nationalbibliothek, die 1890 eröffnet wurde, ist eine Präsenzbibliothek. Das heisst, die Bücher können nur vor Ort angesehen und nicht ausgeliehen werden. Die Sammlung der Nationalbibliothek umfasst mehr als 8 Millionen Einzelstücke. Es hat eine permanente Ausstellung, die das Leben und die Werke von William Butler Yeats, dem Dichter und Nobelpreisträger, zeigen.',
+      description: `
+        Die irische Nationalbibliothek, die 1890 eröffnet wurde, ist eine Präsenzbibliothek. 
+        Das heisst, die Bücher können nur vor Ort angesehen und nicht ausgeliehen werden. 
+        Die Sammlung der Nationalbibliothek umfasst mehr als 8 Millionen Einzelstücke. 
+        Es hat eine permanente Ausstellung, die das Leben und die Werke von William Butler Yeats, dem Dichter und Nobelpreisträger, zeigen.
+      `,
       imagesPath: '/img/architecture',
       images: ['National Library of Ireland.png'],
     },
@@ -64,8 +80,13 @@ const ARCHITECTURE_GUIDE: Guide = {
       name: "Ha'penny Bridge",
       address: 'Bachelors Walk, North City, Dublin, Irland',
       estimatedTime: '5 min',
-      description:
-        'Diese Brücke hat eine lange Tradition in Dublin. Sie verbindet den Stadtteil Temple Bar und die Einkaufsstrasse rund um die Henry Street über den Fluss Liffey. Es ist eine reine Fussgängerbrücke, die 1816 gebaut wurde. Ihren Namen bekam sie, weil man früher einen halben bzw. einen Penny als Zoll für die Überquerung zahlen musste. Heute befinden sich an den weiss gestrichenen, gusseisernen Brüstungen viele love locks (Liebesschlösser).',
+      description: `
+        Diese Brücke hat eine lange Tradition in Dublin. 
+        Sie verbindet den Stadtteil Temple Bar und die Einkaufsstrasse rund um die Henry Street über den Fluss Liffey. 
+        Es ist eine reine Fussgängerbrücke, die 1816 gebaut wurde. 
+        Ihren Namen bekam sie, weil man früher einen halben bzw. einen Penny als Zoll für die Überquerung zahlen musste. 
+        Heute befinden sich an den weiss gestrichenen, gusseisernen Brüstungen viele love locks (Liebesschlösser).
+      `,
       imagesPath: '/img/architecture',
       images: ['IMG_7382.JPG'],
     },
@@ -75,8 +96,13 @@ const ARCHITECTURE_GUIDE: Guide = {
       name: "Sean O'Casey Bridge",
       address: "Sean O'Casey Bridge, South-East Inner City, Irland",
       estimatedTime: '10 min',
-      description:
-        'Die Schrägseilbrücke Sean O\'Casey Bridge, die 2005 vom Architekten Cyril O\'Neil erbaut wurde, überquert den Fluss Liffey und verbindet das südliche und das nördliche Hafenviertel. Die Brücke ist knapp 100 Meter lang und kann um 90 Grad geschwenkt werden, um grossen Schiffen die Durchfahrt zu ermöglichen. 2006 erhielt der Entwurf der Brücke die Auszeichnung "beste Fussgängerbrücke".',
+      description: `
+        Die Schrägseilbrücke Sean O'Casey Bridge, die 2005 vom Architekten Cyril O'Neil erbaut wurde, 
+        überquert den Fluss Liffey und verbindet das südliche und das nördliche Hafenviertel. 
+        Die Brücke ist knapp 100 Meter lang und kann um 90 Grad geschwenkt werden, 
+        um grossen Schiffen die Durchfahrt zu ermöglichen. 
+        2006 erhielt der Entwurf der Brücke die Auszeichnung "beste Fussgängerbrücke".
+      `,
       imagesPath: '/img/architecture',
       images: ['IMG_7457.JPG', 'IMG_7466.JPG'],
     },
@@ -86,8 +112,14 @@ const ARCHITECTURE_GUIDE: Guide = {
       address: 'Samuel Beckett Bridge, Dublin 2, Irland',
       buildYear: '2007-2009',
       estimatedTime: '10 min',
-      description:
-        'Die Brücke des spanischen Architekten und Bauingenieurs Santiago Calatrava ist einer Harfe nachempfunden, die das Wahrzeichen Irlands darstellt. Die Brücke wurde nach dem irischen Literaten Samuel Beckett benannt. Sie ist 120 Meter lang und an der höchsten Spitze 48 Meter hoch. Die Brücke verbindet die Macken Street auf der Südseite mit der Guild Street auf der Nordseite. Sie liegt im modernen Stadtteil Docklands. Die Brücke kann um 90 Grad gedreht werden, damit grosse Schiffe passieren können.',
+      description: `
+        Die Brücke des spanischen Architekten und Bauingenieurs Santiago Calatrava ist einer Harfe nachempfunden, die das Wahrzeichen Irlands darstellt. 
+        Die Brücke wurde nach dem irischen Literaten Samuel Beckett benannt. 
+        Sie ist 120 Meter lang und an der höchsten Spitze 48 Meter hoch. 
+        Die Brücke verbindet die Macken Street auf der Südseite mit der Guild Street auf der Nordseite. 
+        Sie liegt im modernen Stadtteil Docklands. 
+        Die Brücke kann um 90 Grad gedreht werden, damit grosse Schiffe passieren können.
+      `,
       imagesPath: '/img/architecture',
       images: ['IMG_7472.JPG', 'IMG_7483.JPG'],
     },
@@ -98,8 +130,11 @@ const ARCHITECTURE_GUIDE: Guide = {
       url: 'http://www.bordgaisenergytheatre.ie/',
       urlText: 'www.bordgaisenergytheatre.ie',
       openingTimes: [{ content: 'Je nach Vorstellung.' }],
-      description:
-        'Das Gebiet der Docklands ist geprägt von neuer und imposanter Architektur. Eines der besten Beispiele hierfür ist das Bord Gais Energy Theater. Das Theater wurde von Daniel Libeskind entworfen und wurde 2010 gebaut.',
+      description: `
+        Das Gebiet der Docklands ist geprägt von neuer und imposanter Architektur. 
+        Eines der besten Beispiele hierfür ist das Bord Gais Energy Theater. 
+        Das Theater wurde von Daniel Libeskind entworfen und wurde 2010 gebaut.
+      `,
       imagesPath: '/img/architecture',
       images: ['IMG_7496.JPG', 'IMG_7507.JPG'],
     },
@@ -109,8 +144,11 @@ const ARCHITECTURE_GUIDE: Guide = {
       address: 'South Lotts Road, Irland',
       type: 'Wohnhaus',
       additionalInfo: 'Besichtigung nur von aussen möglich.',
-      description:
-        'Der ehemalige Gasometer wurde in seinem bestehenden Stahlgerüst erhalten, aber neu ausgebaut. Heute bestehen die Fassaden hauptsächlich aus Glas und dem Stahlgerüst. Zurzeit wird das Gebäude als Wohnhaus bewohnt.',
+      description: `
+        Der ehemalige Gasometer wurde in seinem bestehenden Stahlgerüst erhalten, aber neu ausgebaut. 
+        Heute bestehen die Fassaden hauptsächlich aus Glas und dem Stahlgerüst. 
+        Zurzeit wird das Gebäude als Wohnhaus bewohnt.
+      `,
       imagesPath: '/img/architecture',
       images: ['IMG_7534.JPG', 'IMG_7529.JPG', 'IMG_7531.JPG'],
     },
@@ -120,16 +158,28 @@ const ARCHITECTURE_GUIDE: Guide = {
 const HISTORY_GUIDE: Guide = {
   id: 'history',
   title: 'Geschichte',
-  description:
-    "Die Tour startet beim Dublin Castle, einer Burg aus dem Mittelalter. Von da aus geht es weiter zu den Georgianischen Gebäuden, die an den Baustil der Griechen und Römer erinnern. Das Custom House ist das Umweltministerium von Dublin, von dort geht es zur O'Connel Bridge, einer der bedeutendsten Brücken, die den Fluss Liffey überqueren. Im Wikingermueseum Dublinia lernt man viel über das Mittelalter, gleich daneben steht die Christ Church Cathedral, eine der ältesten Kathedralen der Stadt. Die Grafton Street ist die Haupteinkaufsstrasse. Sie endet bei einer der besten Universitäten der Welt, beim Trinity College.",
+  description: `
+    Die Tour startet beim Dublin Castle, einer Burg aus dem Mittelalter. 
+    Von da aus geht es weiter zu den Georgianischen Gebäuden, die an den Baustil der Griechen und Römer erinnern. 
+    Das Custom House ist das Umweltministerium von Dublin, von dort geht es zur O'Connel Bridge, einer der bedeutendsten Brücken, die den Fluss Liffey überqueren. 
+    Im Wikingermueseum Dublinia lernt man viel über das Mittelalter, gleich daneben steht die Christ Church Cathedral, eine der ältesten Kathedralen der Stadt. 
+    Die Grafton Street ist die Haupteinkaufsstrasse. 
+    Sie endet bei einer der besten Universitäten der Welt, beim Trinity College.
+  `,
   places: [
     DUBLIN_CASTLE,
     {
       id: 'georgianische-gebaeude',
       name: 'Georgianische Gebäude',
       address: 'Merion Square, Irland',
-      description:
-        'Der Georgianische Baustil wurde in Dublin um 1714 vom englischen König Georg eingeführt. Er wollte, dass neue öffentliche und private Gebäude in Dublin im gleichen Stil erbaut wurden. Seine drei Nachfolger hiessen alle ebenfalls Georg und waren der gleichen Meinung. Der Baustil, der seinen Namen erhielt, orientierte sich stark an der Bauweise der alten Griechen und Römer. Er endete mit dem Tod von König Georg IV. 1830. Viele georgianische Häuser sind unterdessen zwar abgerissen, einige aber haben sich erhalten.',
+      description: `
+        Der Georgianische Baustil wurde in Dublin um 1714 vom englischen König Georg eingeführt. 
+        Er wollte, dass neue öffentliche und private Gebäude in Dublin im gleichen Stil erbaut wurden. 
+        Seine drei Nachfolger hiessen alle ebenfalls Georg und waren der gleichen Meinung. 
+        Der Baustil, der seinen Namen erhielt, orientierte sich stark an der Bauweise der alten Griechen und Römer. 
+        Er endete mit dem Tod von König Georg IV. 1830. 
+        Viele georgianische Häuser sind unterdessen zwar abgerissen, einige aber haben sich erhalten.
+      `,
       imagesPath: '/img/history',
       images: ['570858_15a00b7a.jpg'],
     },
@@ -143,21 +193,35 @@ const HISTORY_GUIDE: Guide = {
       url: 'http://www.dublinia.ie/german',
       urlText: 'www.dublinia.ie',
       type: 'Wikinger- und Mittelalter-Museum',
-      price:
-        'Eintrittskarte online oder vor Ort, sowie ermässigte Kombikarte für Dublinia und die benachbarte Christ Church Cathedral erhältlich.\n\nStudierende: 8.50 \u20AC\nErwachsene: 9.50 \u20AC',
+      price: `
+        Eintrittskarte online oder vor Ort, sowie ermässigte Kombikarte für Dublinia und die benachbarte Christ Church Cathedral erhältlich.\n
+        Studierende: 8.50 \u20AC
+        Erwachsene: 9.50 \u20AC
+      `,
       openingTimes: [
         { timeline: 'Täglich geöffnet', content: '' },
         {
           timeline: 'März-September',
-          content: '10:00-18:30 Uhr\n(letzter Einlass: 17:30 Uhr)',
+          content: `
+            10:00-18:30 Uhr
+            (letzter Einlass: 17:30 Uhr)
+          `,
         },
         {
           timeline: 'Oktober-Februar',
-          content: '10:00-17:30 Uhr\n(letzter Einlass: 16:30 Uhr)',
+          content: `
+            10:00-17:30 Uhr
+            (letzter Einlass: 16:30 Uhr)
+          `,
         },
       ],
-      description:
-        "Möchtest du die Geschichte der Wikinger in Dublin kennen lernen? Interessiert Dich das Mittelalter? Dann ist die Dublinia genau das Richtige für dich. Die Ausstellung befindet sich in einem Nebengebäude der Christ Church Kathedrale. Am Ende des Besuchs lohnt es sich, knapp hundert Stufen auf den St. Michael's Tower hinaufzusteigen und die Aussicht auf Dublin zu geniessen. Es gibt ein kleines Café und einen Souvenirshop.",
+      description: `
+        Möchtest du die Geschichte der Wikinger in Dublin kennen lernen? Interessiert Dich das Mittelalter? 
+        Dann ist die Dublinia genau das Richtige für dich. 
+        Die Ausstellung befindet sich in einem Nebengebäude der Christ Church Kathedrale. 
+        Am Ende des Besuchs lohnt es sich, knapp hundert Stufen auf den St. Michael's Tower hinaufzusteigen und die Aussicht auf Dublin zu geniessen. 
+        Es gibt ein kleines Café und einen Souvenirshop.
+      `,
       imagesPath: '/img/history',
       images: ['IMG_5088.JPG'],
     },
@@ -167,8 +231,15 @@ const HISTORY_GUIDE: Guide = {
       name: 'Grafton Street',
       address: 'Grafton Street, Irland',
       type: 'Einkaufsstrasse',
-      description:
-        "Die Grafton Street ist die Haupteinkaufsstrasse Dublins. Sie führt vom Trinity College zum St. Stephen's Green. Die Strasse ist nach dem Duke of Grafton benannt und wurde von der Dawson-Familie ausgebaut. Du findest in den Seitenstrassen auch das Haus des Dekans des Trinity Colleges aus dem 18. Jahrhundert und die berühmte Statue Molly Malone. Der Sage nach war die junge Schönheit die Tochter eines Fischhändlers aus Temple Bar. Sie soll tagsüber Meeresfrüchte verkauft und nachts den Männern den Kopf verdreht haben. Heute ist diese Strasse einer der teuersten Einkaufsstrassen der Welt.",
+      description: `
+        Die Grafton Street ist die Haupteinkaufsstrasse Dublins. 
+        Sie führt vom Trinity College zum St. Stephen's Green. 
+        Die Strasse ist nach dem Duke of Grafton benannt und wurde von der Dawson-Familie ausgebaut. 
+        Du findest in den Seitenstrassen auch das Haus des Dekans des Trinity Colleges aus dem 18. Jahrhundert und die berühmte Statue Molly Malone. 
+        Der Sage nach war die junge Schönheit die Tochter eines Fischhändlers aus Temple Bar. 
+        Sie soll tagsüber Meeresfrüchte verkauft und nachts den Männern den Kopf verdreht haben. 
+        Heute ist diese Strasse einer der teuersten Einkaufsstrassen der Welt.
+      `,
       imagesPath: '/img/history',
       images: ['4793933_a221c14f.jpg', '9199565442_1628636181_o.jpg'],
     },
@@ -179,8 +250,12 @@ const HISTORY_GUIDE: Guide = {
 const FOOD_GUIDE: Guide = {
   id: 'food',
   title: 'Kulinarik',
-  description:
-    "Die Tour startet beim unscheinbaren Vice Coffee und führt dann an den Rand von Dublin zum Café Love Supreme. Im Restaurant Wuff kann man ein leckeres Frühstück geniessen und im Nando's ein herzhaftes Mittagessen. Im Restaurant Farm sind alle Produkte frisch und selbst angebaut. Die Tour endet in einer ehemaligen reformierten Kirche, die heute ein Pub und Restaurant ist und sich the Church nennt.",
+  description: `
+    Die Tour startet beim unscheinbaren Vice Coffee und führt dann an den Rand von Dublin zum Café Love Supreme. 
+    Im Restaurant Wuff kann man ein leckeres Frühstück geniessen und im Nando's ein herzhaftes Mittagessen. 
+    Im Restaurant Farm sind alle Produkte frisch und selbst angebaut. 
+    Die Tour endet in einer ehemaligen reformierten Kirche, die heute ein Pub und Restaurant ist und sich the Church nennt.
+  `,
   places: [
     {
       id: 'vice-coffee',
@@ -190,8 +265,13 @@ const FOOD_GUIDE: Guide = {
       urlText: 'www.vicecoffeeinc.com',
       openingTimes: [{ content: 'Mo-So 11:00-18:00 Uhr' }],
       type: 'Specialty Coffee Shop',
-      description:
-        'Das unscheinbare Café befindet sich inmitten der Shopping-Meile in Dublin. Man übersieht dieses kleine Lokal sehr leicht, da es zwischen ganz viel Shops versteckt liegt. Der Kaffee ist herrvoragend und die Bedienung sehr zuvorkommend. Wenn man etwas über den Kaffee wissen will, wendet man sich am besten gleich an den Barista, der freut sich über jede Frage bezüglich Kaffee. Die angebotene Kaffeesorte ändert häufig, da das Lokal immer wieder eine neue ausprobieren und den Kunden die grosse Sortenvielfalt zeigen möchte.',
+      description: `
+        Das unscheinbare Café befindet sich inmitten der Shopping-Meile in Dublin. 
+        Man übersieht dieses kleine Lokal sehr leicht, da es zwischen ganz viel Shops versteckt liegt. 
+        Der Kaffee ist herrvoragend und die Bedienung sehr zuvorkommend. 
+        Wenn man etwas über den Kaffee wissen will, wendet man sich am besten gleich an den Barista, der freut sich über jede Frage bezüglich Kaffee. 
+        Die angebotene Kaffeesorte ändert häufig, da das Lokal immer wieder eine neue ausprobieren und den Kunden die grosse Sortenvielfalt zeigen möchte.
+      `,
       imagesPath: '/img/kulinarik',
       images: ['IMG_5119.JPG', 'IMG_5121.JPG', 'IMG_5122.JPG', 'IMG_5124.JPG'],
     },
@@ -204,12 +284,19 @@ const FOOD_GUIDE: Guide = {
       type: 'Café',
       openingTimes: [
         {
-          content:
-            'Mo und Mi-Fr 08:00-18:00 Uhr\nDi geschlossen\nSa und So 10:00-17:00 Uhr',
+          content: `
+            Mo und Mi-Fr 08:00-18:00 Uhr
+            Di geschlossen
+            Sa und So 10:00-17:00 Uhr
+          `,
         },
       ],
-      description:
-        'Ein kleiner Abstecher an den Rand von Dublin lohnt sich. Du kannst wunderschöne Architektur sehen und auf einen Kaffee im Love Supreme vorbei schauen. Du wirst schon von weitem sehen, dass hier jemand viel Arbeit investiert hat. Das Kaffee ist wunderschön eingerichtet und der Barista weiss, wie man guten Kaffee zubereitet.',
+      description: `
+        Ein kleiner Abstecher an den Rand von Dublin lohnt sich. 
+        Du kannst wunderschöne Architektur sehen und auf einen Kaffee im Love Supreme vorbei schauen. 
+        Du wirst schon von weitem sehen, dass hier jemand viel Arbeit investiert hat. 
+        Das Kaffee ist wunderschön eingerichtet und der Barista weiss, wie man guten Kaffee zubereitet.
+      `,
       imagesPath: '/img/kulinarik',
       images: ['IMG_5749.jpg', 'IMG_5164.JPG', 'IMG_5752.jpg', 'IMG_5754.jpg'],
     },
@@ -221,14 +308,19 @@ const FOOD_GUIDE: Guide = {
       urlText: 'www.wuff.ie',
       openingTimes: [
         {
-          content:
-            'Mo-Mi 08:00-16:00 Uhr\nDo-Sa 08:00-16:00 und 17:30-21:30 Uhr\nSo 10:00-16:00 Uhr',
+          content: `
+            Mo-Mi 08:00-16:00 Uhr
+            Do-Sa 08:00-16:00 und 17:30-21:30 Uhr
+            So 10:00-16:00 Uhr
+          `,
         },
       ],
       additionalInfo:
         'Für ein einfaches Frühstück passt dieses Restaurant perfekt.',
-      description:
-        'Wenn du einmal nicht im Hotel frühstücken möchtest, ist das Wuff sehr empfehlenswert, da es sehr gemütlich und leger ist. Hier kommen hauptsächlich Dubliner her.',
+      description: `
+        Wenn du einmal nicht im Hotel frühstücken möchtest, ist das Wuff sehr empfehlenswert, da es sehr gemütlich und leger ist. 
+        Hier kommen hauptsächlich Dubliner her.
+      `,
       imagesPath: '/img/kulinarik',
       images: ['IMG_5756.jpg', 'IMG_5757.jpg', 'IMG_5948.jpg', 'IMG_5947.jpg'],
     },
@@ -240,13 +332,20 @@ const FOOD_GUIDE: Guide = {
       urlText: 'www.nandos.ie',
       openingTimes: [
         {
-          content:
-            'Mo-Do 11:30-22:00 Uhr\nFr und Sa 11:30-23:00 Uhr\nSo 12:00-22:00 Uhr',
+          content: `
+            Mo-Do 11:30-22:00 Uhr
+            Fr und Sa 11:30-23:00 Uhr
+            So 12:00-22:00 Uhr
+          `,
         },
       ],
       type: 'Fast-Food-Konzept mit sehr gutem Essen.',
-      description:
-        'Dies ist ein perfektes Restaurant für das Mittagessen. Es ist auch gut für Allergiker geeignet. Hier wird nur Poulet angeboten, dies aber in vielen verschiedenen Varianten. Das Restaurant kocht koscher.',
+      description: `
+        Dies ist ein perfektes Restaurant für das Mittagessen. 
+        Es ist auch gut für Allergiker geeignet. 
+        Hier wird nur Poulet angeboten, dies aber in vielen verschiedenen Varianten. 
+        Das Restaurant kocht koscher.
+      `,
       imagesPath: '/img/kulinarik',
       images: ['26283507712_849659e369_o.jpg'],
     },
@@ -257,8 +356,10 @@ const FOOD_GUIDE: Guide = {
       url: 'http://www.thefarmfood.ie/',
       urlText: 'www.thefarmfood.ie',
       openingTimes: [{ content: 'Mo-So 12:00-22:00 Uhr' }],
-      description:
-        'Wer Lust auf ein gesundes Mittag- oder Abendessen hat, ist hier richtig. Die Preise sind höher als in andern Restaurants, da nur mit saisonalen Produkten aus eigenem Anbau gekocht wird.',
+      description: `
+        Wer Lust auf ein gesundes Mittag- oder Abendessen hat, ist hier richtig. 
+        Die Preise sind höher als in andern Restaurants, da nur mit saisonalen Produkten aus eigenem Anbau gekocht wird.
+      `,
       imagesPath: '/img/kulinarik',
       images: ['The_Fram_Restaurant.jpg'],
     },
@@ -269,10 +370,17 @@ const FOOD_GUIDE: Guide = {
       url: 'http://www.beanhive.ie/',
       urlText: 'www.beanhive.ie',
       openingTimes: [
-        { content: 'Mo-Fr 7:15-18:00 Uhr\nSa und So 9:00-18:00 Uhr' },
+        {
+          content: `
+            Mo-Fr 7:15-18:00 Uhr
+            Sa und So 9:00-18:00 Uhr
+          `,
+        },
       ],
-      description:
-        'Dieses Café/Restaurant ist perfekt gelegen, um es mit einem Shopping Trip oder einem anderen Spaziergang wie zum Beispiel jenem zu Street-Art/Kunst zu kombinieren. Es ist ein hübsches Café mit verschiedenen Menüs, die auch ein sehr gutes Preis-Leistungs-Verhältnis haben.',
+      description: `
+        Dieses Café/Restaurant ist perfekt gelegen, um es mit einem Shopping Trip oder einem anderen Spaziergang wie zum Beispiel jenem zu Street-Art/Kunst zu kombinieren. 
+        Es ist ein hübsches Café mit verschiedenen Menüs, die auch ein sehr gutes Preis-Leistungs-Verhältnis haben.
+      `,
       imagesPath: '/img/kulinarik',
       images: ['IMG_5770.jpg', 'IMG_5772.jpg'],
     },
@@ -284,15 +392,28 @@ const ART_GUIDE: Guide = {
   id: 'art',
   title: 'Kunst',
   walkTime: '1 h',
-  description:
-    'Wer Street-Art mag, ist hier richtig. Der Spaziergang beginnt in Temple Bar, wo es an einer Hauswand ein grosses Portrait des Künstlers BP Fallon zu sehen gibt. Weiter geht es zu einem Street-Art- Kunstwerk mit dem Namen the City is my garden und einer kleinen Freiluftausstellung aus drei Wandbildern. Auf dem weiteren Weg gibt es ein Trash Animal zu entdecken, ein Werk namens Dead Meat und bunte Türen. Weiter geht es zum Bild Subset Football und schliesslich zu einem abstrakten Kunstwerk.',
+  description: `
+    Wer Street-Art mag, ist hier richtig. 
+    Der Spaziergang beginnt in Temple Bar, wo es an einer Hauswand ein grosses Portrait des Künstlers BP Fallon zu sehen gibt. 
+    Weiter geht es zu einem Street-Art- Kunstwerk mit dem Namen the City is my garden und einer kleinen Freiluftausstellung aus drei Wandbildern. 
+    Auf dem weiteren Weg gibt es ein Trash Animal zu entdecken, ein Werk namens Dead Meat und bunte Türen. 
+    Weiter geht es zum Bild Subset Football und schliesslich zu einem abstrakten Kunstwerk.
+  `,
   places: [
     {
       id: 'bp-fallon',
       name: 'BP Fallon',
       address: 'Tempel Lane S, Irland',
-      description:
-        'An Anfang einer der berühmtesten Strassen Dublins gibt es ein Street-Art-Kunstwerk, das mit zwei berühmten Namen verbunden ist. Hier hat der bekannte Künstler Maser seinen ebenfalls bekannten Kumpel BP Fallon gemalt. Dieser ist ein beliebter irischer Fotograf und DJ. Darum passt sein Bild bestens an den gewählten Standort. Es befindet sich im Hinterhof der Button Factory Bar. Die einstige Knopffabrik ist ein Veranstaltungsort für Grossevents, wo täglich Bands und Djs aufteten. In Irland ist Maser einer der berühmtesten Street-Art Künstler. Er lebt zwar heute in den USA, kehrt aber ab und zu nach Dublin zurück, um weitere Kunstwerke zu hinterlassen. In der Street-Art Community ist Maser sogar weltweit bekannt.',
+      description: `
+        An Anfang einer der berühmtesten Strassen Dublins gibt es ein Street-Art-Kunstwerk, das mit zwei berühmten Namen verbunden ist. 
+        Hier hat der bekannte Künstler Maser seinen ebenfalls bekannten Kumpel BP Fallon gemalt. 
+        Dieser ist ein beliebter irischer Fotograf und DJ. Darum passt sein Bild bestens an den gewählten Standort. 
+        Es befindet sich im Hinterhof der Button Factory Bar. 
+        Die einstige Knopffabrik ist ein Veranstaltungsort für Grossevents, wo täglich Bands und Djs aufteten. 
+        In Irland ist Maser einer der berühmtesten Street-Art Künstler. 
+        Er lebt zwar heute in den USA, kehrt aber ab und zu nach Dublin zurück, um weitere Kunstwerke zu hinterlassen. 
+        In der Street-Art Community ist Maser sogar weltweit bekannt.
+      `,
       imagesPath: '/img/art',
       images: ['IMG_5101.JPG'],
     },
@@ -300,10 +421,14 @@ const ART_GUIDE: Guide = {
       id: 'the-city-is-my-garden',
       name: 'The city is my garden',
       address: 'Nr. 1 Liffey Street Upper, Irland',
-      additionalInfo:
-        'Wenn du dieses Street-Art-Kunstwerk sehen willst, kombinierst du den Besuch am besten mit einem Shopping-Trip. Es befindet sich nämlich an der berühmtesten Einkaufsstrasse von Dublin.',
-      description:
-        'Wie das Bild von BP Fallon ist auch dieser Schriftzug mit geometrischen Figuren von Maser. Dieses Kunstwerk wurde für den Laden Arnotts geschaffen, um den Menschen in Dublin das Zusammenspiel von Natur und Stadt näher zu bringen.',
+      additionalInfo: `
+        Wenn du dieses Street-Art-Kunstwerk sehen willst, kombinierst du den Besuch am besten mit einem Shopping-Trip. 
+        Es befindet sich nämlich an der berühmtesten Einkaufsstrasse von Dublin.
+      `,
+      description: `
+        Wie das Bild von BP Fallon ist auch dieser Schriftzug mit geometrischen Figuren von Maser. 
+        Dieses Kunstwerk wurde für den Laden Arnotts geschaffen, um den Menschen in Dublin das Zusammenspiel von Natur und Stadt näher zu bringen.
+      `,
       imagesPath: '/img/art',
       images: ['IMG_5115.JPG'],
     },
@@ -312,8 +437,15 @@ const ART_GUIDE: Guide = {
       name: 'Drei verschiedene Street-Arts',
       address: 'Temple Lane, Irland',
       type: 'In der Nähe vom berühmten BP Fallon Bild findet man drei wunderschöne Kunstwerke.',
-      description:
-        'Die drei Bilder sind von verschiedenen Künstlern und bilden eine Open-Air-Ausstellung an der Temple Lane. Das erste Bild von links ist vom englischen Künstler Dan Leo, der in Irland wohnhaft ist. Er verwendet verschiedene Farben, durch dieses Stilmittel erkennt man seine in ganz Irland verstreuten Werke sofort. Das mittlere Bild ist vom Künstler Decoy. Er hat schon auf der ganzen Welt Bilder gemalt und auch mit anderen grossen Künstlern wie Maser und Solus zusammen gearbeitet. Sein erstes Werk befindet sich am Tara Building in Dublin. Das letzte Bild ist von der Künstlerin Lora Zombie, die durch Social Media weltweit bekannt wurde.',
+      description: `
+        Die drei Bilder sind von verschiedenen Künstlern und bilden eine Open-Air-Ausstellung an der Temple Lane. 
+        Das erste Bild von links ist vom englischen Künstler Dan Leo, der in Irland wohnhaft ist. 
+        Er verwendet verschiedene Farben, durch dieses Stilmittel erkennt man seine in ganz Irland verstreuten Werke sofort. 
+        Das mittlere Bild ist vom Künstler Decoy. 
+        Er hat schon auf der ganzen Welt Bilder gemalt und auch mit anderen grossen Künstlern wie Maser und Solus zusammen gearbeitet. 
+        Sein erstes Werk befindet sich am Tara Building in Dublin. 
+        Das letzte Bild ist von der Künstlerin Lora Zombie, die durch Social Media weltweit bekannt wurde.
+      `,
       imagesPath: '/img/art',
       images: ['IMG_5109.JPG', 'IMG_5105.JPG', 'IMG_5106.JPG', 'IMG_5107.JPG'],
     },
@@ -321,8 +453,11 @@ const ART_GUIDE: Guide = {
       id: 'trash-animals',
       name: 'Trash Animals',
       address: 'Tara Street, Irland',
-      description:
-        'Dieses Bild ist vom portugiesischen Künstler Artur Bordalo aka Boralo II. Er ist bekannt für seine kreativen Street-Art-Kunstwerke. Aus Abfall aller Art schafft er fantastische Tiere und macht so darauf aufmerksam, dass es ein Problem gibt mit unserem Abfall.',
+      description: `
+        Dieses Bild ist vom portugiesischen Künstler Artur Bordalo aka Boralo II. 
+        Er ist bekannt für seine kreativen Street-Art-Kunstwerke. 
+        Aus Abfall aller Art schafft er fantastische Tiere und macht so darauf aufmerksam, dass es ein Problem gibt mit unserem Abfall.
+      `,
       imagesPath: '/img/art',
       images: ['IMG_6105.JPG'],
     },
@@ -330,8 +465,10 @@ const ART_GUIDE: Guide = {
       id: 'dead-meat',
       name: 'Dead Meat',
       address: 'Merrion Row, Irland',
-      description:
-        'Conor Harringthon, der Künstler aus London, hat eine leere Wand in der Merrion Row verschönert. Dort zeigt sich Dublin von seiner künstlerischen und hippen Seite.',
+      description: `
+        Conor Harringthon, der Künstler aus London, hat eine leere Wand in der Merrion Row verschönert. 
+        Dort zeigt sich Dublin von seiner künstlerischen und hippen Seite.
+      `,
       imagesPath: '/img/art',
       images: ['IMG_5184.JPG'],
     },
@@ -339,8 +476,13 @@ const ART_GUIDE: Guide = {
       id: 'gregorianische-tueren',
       name: 'Georgianische Türen',
       address: 'Merrion Square, Irland',
-      description:
-        'Im Bauboom des 18. Jahrhunderts bauten die Engländer ein neues Quartier ausserhalb des Stadtkerns. Der englische König verlangte einen einheitlichen Baustil, deshalb waren die Bauvorschriften sehr streng. Für individuelle Freiheiten gab es wenig Raum. Doch die Iren fanden einen Weg, ihren Häusern eine persönliche Note zu geben. Weil keine Vorschriften für die Tür-Farben existierten, färbten sie jede Tür anders, Hauptsache sie war bunt.',
+      description: `
+        Im Bauboom des 18. Jahrhunderts bauten die Engländer ein neues Quartier ausserhalb des Stadtkerns. 
+        Der englische König verlangte einen einheitlichen Baustil, deshalb waren die Bauvorschriften sehr streng. 
+        Für individuelle Freiheiten gab es wenig Raum. 
+        Doch die Iren fanden einen Weg, ihren Häusern eine persönliche Note zu geben. 
+        Weil keine Vorschriften für die Tür-Farben existierten, färbten sie jede Tür anders, Hauptsache sie war bunt.
+      `,
       imagesPath: '/img/art',
       images: ['doors.png'],
     },
@@ -350,8 +492,11 @@ const ART_GUIDE: Guide = {
       address: 'Haymarket, Irland',
       url: 'http://www.subset.ie/',
       urlText: 'www.subset.ie',
-      description:
-        'Subset ist das bekannteste Künstler-Kollektiv. Die Gruppe verschönert rund um Dublin die Fassaden und gestaltet auch Werke für Marketing-Zwecke. Ein Blick auf ihre Webseite lohnt sich auf jeden Fall.',
+      description: `
+        Subset ist das bekannteste Künstler-Kollektiv. 
+        Die Gruppe verschönert rund um Dublin die Fassaden und gestaltet auch Werke für Marketing-Zwecke. 
+        Ein Blick auf ihre Webseite lohnt sich auf jeden Fall.
+      `,
       imagesPath: '/img/art',
       images: ['IMG_5945.JPG'],
     },
@@ -359,11 +504,121 @@ const ART_GUIDE: Guide = {
       id: 'vadis-und-tilf',
       name: 'Vadis und Tilf',
       address: 'Smithfield, Irland',
-      description:
-        'Für den Event "MURO Street-Art 2014" malten Vadis und Tilf dieses abstrakte Kunstwerk. Weitere Werke waren über die ganze Stadt verteilt. Ganz Dublin war sozusagen eine Freiluft-Ausstellung.',
+      description: `
+        Für den Event "MURO Street-Art 2014" malten Vadis und Tilf dieses abstrakte Kunstwerk. 
+        Weitere Werke waren über die ganze Stadt verteilt. 
+        Ganz Dublin war sozusagen eine Freiluft-Ausstellung.
+      `,
       imagesPath: '/img/art',
       images: ['IMG_5134.JPG'],
     },
+  ],
+};
+
+const MUSIK_GUIDE: Guide = {
+  id: 'music',
+  title: 'Musik',
+  description: `
+    Die Tour startet bei der Schleuse am Grand Canal. 
+    Dort haben U2 das Cover des Albums "October" fotografiert. 
+    Ein Weg führt über die Schleuse auf die andere Seite des Kanals. 
+    Weiter geht es zum irischen Rock'n Roll Museum, zu einem Pub in einer ehemaligen Kirche samt Orgel; es wird The Church genannt. 
+    Zum Schluss gelangen wir zu zwei Pubs mit täglicher irischer Livemusik, sie heissen The Brazen Head und O'Neill's Pub and Kitchen.
+  `,
+  walkTime: '1 h',
+  places: [
+    {
+      id: 'grand-canal-doc',
+      name: 'Grand Canal Doc',
+      address: 'Hanover Quay 84 Hanover Dock, Dublin 2, Irland',
+      estimatedTime: '10 min',
+      type: 'Schleuse im Hafenviertel',
+      price: 'Eintritt frei',
+      additionalInfo: `
+        Heute ist das Hafenviertel neu überbaut. 
+        Um aus der gleichen Perspektive ein Foto zu machen wie U2, muss man die Schleuse überqueren.
+      `,
+      imagesPath: '/img/music',
+      images: ['IMG_6991.jpg', 'IMG_6993.jpg', 'IMG_6996.jpg'],
+      // TODO: link at the end should not be plain text
+      description: `
+        Der Grand Canal war früher eine wichtige Verkehrsader. 
+        Er wurde Ende des 18. Jahrhunderts für Frachtschiffe gebaut und führte von Dublin bis nach Mittelirland. 
+        Als Eisenbahn, Strassen und Lastwagen aufkamen, wurde er überflüssig. Die Hafenanlagen verfielen langsam. 
+        Dass U2 am Grand Canal vor der Schleuse Fotos machten, war naheliegend. 
+        Nur ein paar Strassen weiter befand sich nämlich das Tonstudio, in dem sie in den frühen 80-er Jahren ihre ersten Platten aufnahmen. 
+        Dort am 18 Hanover Quay, Grand Canal Dock, Dublin 2, produzierten auch Künstler wie Van Morrison, Sinéad O'Connor, the Rolling Stones und Elvis Costello ihre Musik. 
+        Das Gebäude, in dem sich die berühmten so genannten Windmill Lane Studios befanden, wurde 2015 abgerissen. 
+        Das Tonstudio selbst existiert weiter, es ist auf die andere Kanalseite gezogen. 
+        Die Adresse lautet 20 Ringsend Rd, Grand Canal Dock, Dublin 4, Irland www.windmillanerecording.com.
+      `,
+    },
+
+    {
+      id: 'irish-rockand-roll-museum',
+      name: 'Irish Rock & Roll Museum',
+      address: 'Curved Street, Temple Bar, Dublin 2, Irland',
+      estimatedTime: '1 h',
+      price: 'Erwachsene: 12.60 \u20AC',
+      openingTimes: [
+        {
+          content: `
+            Täglich (7 Tage die Woche) 11:00-17:30
+            Kann nur in einer Führung besichtigt werden! (nicht rollstuhlgängig)
+          `,
+        },
+      ],
+      additionalInfo: `
+        Das unscheinbare Haus versteckt sich in einer Gasse und wirkt heruntergekommen. 
+        Wer online bucht, bekommt Rabatt.
+      `,
+      imagesPath: '/img/music',
+      images: ['IMG_6944.jpg'],
+      description: `
+        Das Museum ist anders, als man es sich gewohnt ist. 
+        Ein freundlicher Guide nimmt die Gäste mit auf eine Tour durch die irische Musikwelt. 
+        Bands, Stars, ihre Musik, ihre Erfolge sind ein Thema. 
+        Es gibt Instrumente zum Anfassen, einen kurzen Film und einen Einblick in die Musikproduktion vom Proberaum über das Tonstudio bis zur Bühne. 
+        An einer roten, so genannten Wall of Fame erinnern Schwarz-Weiss-Fotos an irische Rockstars wie Van Morrison, Rory Gallagher, Sinnéad O'Connor, Bob Geldof und natürlich U2.
+      `,
+    },
+    THE_CHURCH,
+    {
+      id: 'the-brazen-head',
+      name: 'The Brazen Head',
+      address: '20 Lower Bridge Street, Merchants Quay, Dublin 8, Irland',
+      url: 'http://www.brazenhead.com/',
+      urlText: 'www.brazenhead.com',
+      openingTimes: [
+        {
+          content: `
+            Di-Do 10:30-23:30
+            Fr, Sa und Mo 10:30-0:30
+            So 12:30-23:30
+          `
+        },
+      ],
+      type: 'Pub mit Livemusik und Gastrobetrieb',
+      additionalInfo: `
+        Das kleine Pub ist immer sehr voll, wer einen Platz will, braucht Geduld oder muss sich im überdachten Hof mit einem Stehtisch begnügen. 
+        Reservieren kann man nicht. Der Besuch lohnt sich aber.
+      `,
+      imagesPath: '/img/music',
+      images: ['The_Brazen_Head_(cropped).jpg'],
+      description: `
+        Das Pub bezeichnet sich selbst als die älteste Kneipe Irlands. 
+        Seine Geschichte soll 800 Jahre zurückreichen. 
+        Sicher ist, dass an der heutigen Stelle seit 1600 gewirtet wird und das Haus aus dem Jahr 1700 stammt. 
+        Es steht leicht schief, weil es bei einer Explosion am andern Ufer des Liffey stark erschüttert wurde. 
+        Der Pubname Breazen Head bedeutet soviel wie unverschämter Kopf. 
+        Die Legende besagt, er erinnere an ein rothaariges Mädchen. 
+        Dieses habe bei der Belagerung seiner Stadt den Kopf neugierig aus dem Fenster gestreckt und sei daraufhin von Soldaten geköpft worden. 
+        Verschiedene berühmte Rebellen waren in dem Pub ebenso zu Gast wie der Henker, der einigen Leben ein Ende setzte. 
+        Von 12:00-21:30 Uhr gibt es hier traditionell irisches Essen und jeden Abend irische Livemusik. 
+        Im Lauf der Zeit sind hier schon verschiedene Stars aufgetreten, z.B. Tom Jones oder Van Morrison.
+      `,
+    },
+    O_NEILS_PUB_AND_KITCHEN,
   ],
 };
 
@@ -372,4 +627,5 @@ export const ALL_GUIDES = [
   HISTORY_GUIDE,
   FOOD_GUIDE,
   ART_GUIDE,
+  MUSIK_GUIDE,
 ];

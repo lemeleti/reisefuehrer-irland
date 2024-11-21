@@ -265,7 +265,7 @@ export const ROUTES: Route[] = [
         name: "O'Neill's Pub and Kitchen",
         lat: 53.343905,
         lng: -6.260761,
-        id: 'o-neill-s-pub-and-kitchen-music',
+        id: 'o-neill-s-pub-and-kitchen',
         shared: true,
       },
     ],
@@ -285,7 +285,7 @@ export const ROUTES: Route[] = [
         name: "O'Neill's Pub and Kitchen",
         lat: 53.343905,
         lng: -6.260761,
-        id: 'o-neill-s-pub-and-kitchen-night',
+        id: 'o-neill-s-pub-and-kitchen',
         shared: true,
       },
       {
