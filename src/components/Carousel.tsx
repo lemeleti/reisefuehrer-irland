@@ -56,10 +56,10 @@ const Carousel: React.FC<{
 
         {slides.length > 1 && (
           <div className="absolute top-1/2 transform -translate-y-1/2 w-full flex justify-between items-center text-white text-xl">
-            <button onClick={prevSlide} className="bg-black p-2 px-4">
+            <button onClick={prevSlide} className="bg-black hover:bg-gray-400 p-2 px-4 border border-white rounded-r-md">
               &#10094;
             </button>
-            <button onClick={nextSlide} className="bg-black p-2 px-4">
+            <button onClick={nextSlide} className="bg-black hover:bg-gray-400 p-2 px-4 border border-white rounded-l-md">
               &#10095;
             </button>
           </div>
