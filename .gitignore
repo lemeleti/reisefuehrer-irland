@@ -1,0 +1,12 @@
+# Eclipse
+.buildpath
+.classpath
+.project
+.settings
+.metadata
+*.launch
+RemoteSystemsTempFiles
+
+# Sonar
+.scannerwork
+sonar.bat
