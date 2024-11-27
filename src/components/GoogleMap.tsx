@@ -69,8 +69,8 @@ const GoogleMap: React.FC<GoogleMapProps> = ({
     return { lat: 53.34547, lng: -6.26417 };
   }, [routes]);
 
-  return (
-    <APIProvider apiKey="AIzaSyCEllN8xXYe2LO5DTyPJ_yMbhy__B_g78g">
+  const map = useMemo(
+    () => (
       <Map
         key={!Array.isArray(routes) ? routes.id : 'routes'}
         mapId={'map'}
@@ -81,6 +81,13 @@ const GoogleMap: React.FC<GoogleMapProps> = ({
         {content}
         <Directions routes={routes} />
       </Map>
+    ),
+    [routes, center, zoom, content],
+  );
+
+  return (
+    <APIProvider apiKey="AIzaSyCEllN8xXYe2LO5DTyPJ_yMbhy__B_g78g">
+      {map}
     </APIProvider>
   );
 };
