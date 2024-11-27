@@ -99,7 +99,7 @@ const Place: React.FC<{ place: PlaceProps }> = ({ place }) => {
         </CollapsableParagraph>
       )}
 
-      <Carousel slides={place.images} path={place.imagesPath} className="my-4">
+      <Carousel slides={place.images} path={`${import.meta.env.BASE_URL}/${place.imagesPath}`} className="my-4">
         <p className="text-left">
           Abbildung{place.images.length > 1 ? 'en' : ''}: {place.name}
         </p>
