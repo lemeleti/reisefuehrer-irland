@@ -85,8 +85,6 @@ const GoogleMap: React.FC<GoogleMapProps> = ({
     [routes, center, zoom, content],
   );
 
-  console.log('Test')
-
   return (
     <APIProvider apiKey={import.meta.env.VITE_GOOGLE_MAPS_API}>
       {map}
