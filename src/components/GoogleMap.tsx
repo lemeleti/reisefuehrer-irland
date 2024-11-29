@@ -86,7 +86,7 @@ const GoogleMap: React.FC<GoogleMapProps> = ({
   );
 
   return (
-    <APIProvider apiKey="AIzaSyCEllN8xXYe2LO5DTyPJ_yMbhy__B_g78g">
+    <APIProvider apiKey={import.meta.env.VITE_GOOGLE_MAPS_API}>
       {map}
     </APIProvider>
   );
