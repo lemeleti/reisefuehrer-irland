@@ -61,6 +61,21 @@ const Place: React.FC<{ place: PlaceProps }> = ({ place }) => {
           </PlaceDetail>
         )}
 
+        {place.closingTimes && (
+          <PlaceDetail title="Schliessungszeiten" className="flex flex-col gap-4">
+            <div className='grid grid-cols-4 gap-4'>
+              {place.closingTimes.map((item, index) => (
+                <div key={`${place.id}-opening-${index}`}>
+                    <p>
+                      <strong>{item.timeline}</strong>
+                    </p>
+                  <p style={{ whiteSpace: 'pre-line' }}>{item.content}</p>
+                </div>
+              ))}
+            </div>
+          </PlaceDetail>
+        )}
+
         {place.type && (
           <PlaceDetail title="Beschreibung">{place.type}</PlaceDetail>
         )}

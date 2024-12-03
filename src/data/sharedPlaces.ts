@@ -3,6 +3,11 @@ type OpeningTimes = {
   content: string;
 }[];
 
+type ClosingTimes = {
+  timeline: string;
+  content: string;
+}[]
+
 export type Place = {
   id: string;
   name: string;
@@ -16,6 +21,7 @@ export type Place = {
   buildStyle?: string;
   price?: string;
   openingTimes?: OpeningTimes;
+  closingTimes?: ClosingTimes;
   guideDetails?: string;
   additionalInfo?: string;
   imagesPath: string;
@@ -87,33 +93,34 @@ export const CUSTOM_HOUES: Place = {
   images: ['Custom_House_Dublin_01.JPG'],
 };
 
-export const ST_STEPHENS_GREEN: Place = {
-  id: 'st-stephens-green',
-  name: 'St. Stephens Green Shopping Center',
-  address: 'Stephens Green West, Dublin 2, Irland',
-  estimatedTime: '20 min bis zu 1 h',
-  url: 'https://www.stephensgreen.com/',
-  urlText: 'www.stephensgreen.com',
+export const ST_STEPHENS_GREEN_PARK: Place = {
+  id: 'st-stephens-green-park',
+  name: "St. Stephen's Green Park",
+  address: "St Stephen's Green, Dublin 2, Irland",
+  url: 'http://www.ststephensgreenpark.ie/',
+  urlText: 'www.ststephensgreenpark.ie',
   openingTimes: [
     {
       content: `
-        Mo-Mi 9:00-19:00
-        Do 9:00-21:00
-        Fr-Sa 9:00-19:00
-        So 11:00-18:00
-      `,
-    },
+        Mo-Sa 07:30-Sonnenuntergang
+        Sonn- und Feiertage 09:30-Sonnenuntergang
+      `
+    }
   ],
   guideDetails: 'Auf Anfrage, spätestens einen Monat vor Durchführung',
-  buildStyle: 'Viktorianischer Baustil',
+  imagesPath: '/img/oasen',
+  images: ['IMG_7426.JPG', 'IMG_7431.JPG'],
   description: `
-    Das Gebäude fällt durch seine imposante Metall-Glaskonstruktion auf. 
-    Es befindet sich direkt neben dem St. Stephens Green Park, auf der Westseite. 
-    Das 1988 erbaute Einkaufszentrum war damals das grösste Einkaufszentrum Irlands.
-  `,
-  imagesPath: '/img/architecture',
-  images: ['IMG_7401.JPG', 'IMG_7408.JPG'],
-};
+    Der Park mit dem grossen Teich lädt zum Verweilen im Stadtinnern ein. 
+    Dieser Park hat eine lange Geschichte. 
+    Der Stephen's Green wurde vor 1815 noch als Weideland für Schafe und Kühe genutzt. 
+    Ab 1815 wurde das umliegende Land für Bebauungen freigegeben, so dass sich der Park heute inmitten des Stadtzentrums befindet. 
+    Zuerst war die Benutzung des Parks nur für die Anwohner der neuen Bauten gedacht. 
+    Doch 1880 wurde der Park neu gestaltet und von der Familie Guinness und Baron Ardilaun der Öffentlichkeit zugänglich gemacht. 
+    Manche Angestellten, die rund um den Park arbeiten, gönnen sich hier eine Pause. 
+    Im Sommer finden im Pavillon Konzerte statt.
+  `
+}
 
 export const CHRIST_CHURCH_CATHEDRAL: Place = {
   id: 'christ-church-cathedral',

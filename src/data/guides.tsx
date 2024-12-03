@@ -5,7 +5,7 @@ import {
   DUBLIN_CASTLE,
   O_CONNELL_BRIDGE,
   ST_PATRICKS_CATHEDRAL,
-  ST_STEPHENS_GREEN,
+  ST_STEPHENS_GREEN_PARK,
   TRINITY_COLLEGE,
   THE_CHURCH,
   O_NEILS_PUB_AND_KITCHEN,
@@ -18,7 +18,7 @@ export const GUIDES = [
   { path: 'guides/art', id: 'art', text: 'Kunst' },
   { path: 'guides/music', id: 'music', text: 'Musik' },
   { path: 'guides/night-life', id: 'night-life', text: 'By Night' },
-  { path: 'guides/oasis', id: 'oasis', text: 'Oasen' },
+  { path: 'guides/oasen', id: 'oasen', text: 'Oasen' },
   { path: 'guides/politic', id: 'politic', text: 'Politik' },
   { path: 'guides/sight-seeing', id: 'sight-seeing', text: 'Sehenswertes' },
 ];
@@ -48,7 +48,33 @@ const ARCHITECTURE_GUIDE: Guide = {
     ST_PATRICKS_CATHEDRAL,
     CHRIST_CHURCH_CATHEDRAL,
     DUBLIN_CASTLE,
-    ST_STEPHENS_GREEN,
+    {
+      id: 'st-stephens-green-shopping-center',
+      name: 'St. Stephens Green Shopping Center',
+      address: 'Stephens Green West, Dublin 2, Irland',
+      estimatedTime: '20 min bis zu 1 h',
+      url: 'https://www.stephensgreen.com/',
+      urlText: 'www.stephensgreen.com',
+      openingTimes: [
+        {
+          content: `
+            Mo-Mi 9:00-19:00
+            Do 9:00-21:00
+            Fr-Sa 9:00-19:00
+            So 11:00-18:00
+          `,
+        },
+      ],
+      guideDetails: 'Auf Anfrage, spätestens einen Monat vor Durchführung',
+      buildStyle: 'Viktorianischer Baustil',
+      description: `
+        Das Gebäude fällt durch seine imposante Metall-Glaskonstruktion auf. 
+        Es befindet sich direkt neben dem St. Stephens Green Park, auf der Westseite. 
+        Das 1988 erbaute Einkaufszentrum war damals das grösste Einkaufszentrum Irlands.
+      `,
+      imagesPath: '/img/architecture',
+      images: ['IMG_7401.JPG', 'IMG_7408.JPG'],
+    },
     {
       id: 'national-library-of-ireland',
       name: 'National Library of Ireland',
@@ -595,7 +621,7 @@ const MUSIK_GUIDE: Guide = {
             Di-Do 10:30-23:30
             Fr, Sa und Mo 10:30-0:30
             So 12:30-23:30
-          `
+          `,
         },
       ],
       type: 'Pub mit Livemusik und Gastrobetrieb',
@@ -622,10 +648,196 @@ const MUSIK_GUIDE: Guide = {
   ],
 };
 
+const NIGHT_GUIDE: Guide = {
+  id: 'night-life',
+  title: 'By Night',
+  walkTime: '20 min',
+  description: `
+    Der Spaziergang startet beim Pub The Duke, das jeden Abend einen sogenannten Literary Pub Crawl, also eine Kneipentour anbietet. 
+    Weiter geht es zum aussergewöhnlichen Lokal O'Neill's Pub and Kitchen und von dort ins beliebte Viertel Temple Bar. 
+    Zum Abschluss spaziert man über die O'Connel Bridge und besucht noch the Spire, ein Wahrzeichen von Dublin, das nachts beleuchtet ist.
+  `,
+  places: [
+    {
+      id: 'the-duke',
+      name: 'The Duke',
+      address: '9 Duke Street, Dublin 2, Irland',
+      url: 'http://www.thedukedublin.com/491-2/',
+      urlText: 'www.thedukedublin.com',
+      estimatedTime: '2 h', // TODO: estimated time title
+      type: 'Pub Crawl mit Start im Pub The Duke',
+      openingTimes: [{ content: 'Mo-Fr 09:00-18:00' }],
+      price: `
+        Studierende: 11 \u20AC
+        Erwachsene: 13 \u20AC
+      `,
+      additionalInfo: `
+        Der Pub Crawl findet jeden Abend um 17:30 statt. 
+        Die Kneipentour lohnt sich vor allem dann, wenn man gut Englisch versteht und ein bisschen über die Geschichte von Dublin Bescheid weiss.
+      `,
+      imagesPath: '/img/night',
+      images: ['IMG_7050.jpg'],
+      description: `
+        Das The Duke ist ein Pub, das eigentlich jeder in Dublin kennt. 
+        Es wurde 1822 gegründet und steht im Vergnügungsviertel Temple Bar, wo es nicht zu übersehen ist. 
+        Von aussen wirkt es eher alt, innen ist es aber sehr gemütlich und geräumig. 
+        Jeden Abend startet hier ein Pub Crawl. 
+        Die Kneipentour wird von zwei Schauspielern geleitet, die auf satirische Art und Weise von der Geschichte Dublins erzählen. 
+        Sie führen das Publikum in verschiedene Pubs, aber auch zu Sehenswürdigkeiten wie dem Trinity College oder der Statue Molly Malone.
+      `,
+    },
+    O_NEILS_PUB_AND_KITCHEN,
+    {
+      id: 'temple-bar',
+      name: 'Temple Bar',
+      address: '47-48, Temple Bar, Dublin',
+      type: 'beliebtes Stadtviertel in Dublin',
+      imagesPath: '/img/night',
+      images: ['IMG_6943.jpg', 'IMG_6947.jpg'],
+      description: `
+        Das Stadtviertel besitzt viele Gassen, die zum Teil sehr schmal und verwinkelt sind, und man stösst an jeder zweiten Ecke auf ein Pub oder eine Bar. 
+        Ausserdem gibt es viele Boutiquen, Galerien und Cafés. 
+        Das Viertel ist ein Magnet für Touristen und nach Sonnenuntergang herrscht hier Partystimmung. 
+        In Temple Bar ist immer etwas los. 
+        Hier ist der beste Ort, um in einem Café oder Pub zu sitzen und Passanten zu beobachten.
+      `,
+    },
+    O_CONNELL_BRIDGE,
+    {
+      id: 'the-spire',
+      name: 'The Spire',
+      address: "O'Connell Street Upper, North City, Dublin, Irland",
+      estimatedTime: '10 min',
+      type: 'Wahrzeichen',
+      imagesPath: '/img/night',
+      images: ['IMG_7006.jpg', 'IMG_7048.jpg'],
+      description: `
+        The Spire ist ein Wahrzeichen von Dublin. 
+        Die Edelstahlnadel ist 123 Meter hoch und steht seit 2003 in der O'Connel Street. 
+        Sie wurde gebaut, um eine Lücke zu füllen. 
+        Früher stand an diesem Platz nämlich eine Statue des berühmten Admiral Nelson, der England vor über 200 Jahren erfolgreich gegen einen Angriff verteidigt hatte. 
+        Diese Statue wurde 1966 bei einem Terror-Anschlag der IRA in die Luft gesprengt. 
+        Als Ersatz wurde The Spire, die Spitze, aufgestellt. 
+        In der Spitze leuchtet ein Licht, das nachts von weit her zu sehen ist.
+      `,
+    },
+  ],
+};
+
+const OASEN_GUIDE: Guide = {
+  id: 'oasen',
+  title: 'Oasen',
+  description: `
+    Dieser Stadtrundgang ist kein Rundgang im klassischen Sinn, denn bei Oasen geht es darum, die Zeit zu geniessen oder eine Pause zu machen. 
+    Deshalb stellen wir dir hier einige Möglichkeiten vor, dich in einem der vielen Dubliner Pärke zu erholen. 
+    Einige sind sehr gross, andere klein und gemütlich.
+  `,
+  walkTime: '1 h',
+  places: [
+    {
+      id: 'phoenix-park',
+      name: 'Phoenix Park',
+      address: 'Phoenix Park, Dublin 8, Irland',
+      estimatedTime: '2 h',
+      additionalInfo: 'Geniesse die Erholungsoase inmitten der Stadt.',
+      imagesPath: '/img/oasen',
+      images: ['Phoenix  Park.png'],
+      description: `
+        Der Phoenix Park wird von der Dubliner Bevölkerung als Naherholungsgebiet genützt. 
+        Mit seiner Grösse von 7.07 km2 ist er der grösste Park Europas. 
+        Er ist beinahe doppelt so gross wie der Central Park in New York. 
+        Der Park ist nicht nach seinem Namensvetter dem Feuervogel benannt, der Name stammt aus dem irischen "Fionn Uisce", was etwa so viel wie "klares Wasser" bedeutet. 
+        Der Park wurde im 17. Jahrhundert für die englischen Gouverneure errichtet und als Jagdgebiet genutzt. 
+        Seit 1747 steht der Park der Öffentlichkeit zur Verfügung. 
+        Im Park finden das ganze Jahr hindurch verschiedene Veranstaltungen statt, z.B. der 10 km "Phoenix Park Run" oder die Kleingartenausstellung "Bloom". 
+        Wenn man sich ein wenig von den Hauptwegen entfernt, kann man den Hirschherden beim Grasen zusehen. 
+        Auch der Dubliner Zoo, der sich im Park befindet, bietet die Möglichkeit, Tiere zu beobachten. 
+      `,
+    },
+    ST_STEPHENS_GREEN_PARK,
+    {
+      id: 'merrion-square-park',
+      name: 'Merrion Square Park',
+      address: 'Merrion Square, Dublin, Éire, Irland',
+      url: 'http://www.merrionsquare.ie/',
+      urlText: 'www.merrionsquare.ie',
+      closingTimes: [
+        { timeline: 'Jan', content: '16:30' },
+        { timeline: 'Feb', content: '17:00' },
+        { timeline: 'Mär', content: '18:00' },
+        { timeline: 'Apr', content: '20:00' },
+        { timeline: 'Mai', content: '21:00' },
+        { timeline: 'Jun', content: '21:30' },
+        { timeline: 'Jul', content: '21:30' },
+        { timeline: 'Aug', content: '21:00' },
+        { timeline: 'Sep', content: '20:00' },
+        { timeline: 'Okt', content: '19:00' },
+        { timeline: 'Nov', content: '17:00' },
+        { timeline: 'Dez', content: '16:30' },
+      ],
+      imagesPath: '/img/oasen',
+      images: ['IMG_7581.JPG'],
+      description: `
+        Der im georgianischen Stil erbaute Merrion Square Park heisst offiziell "Archbishop Ryan Park" und ist nach seinem Schenker benannt. 
+        Denn dieser Platz wurde 1930 von der Kirche zum Bau einer Kathedrale gepachtet. 
+        Jedoch kam es nie zur Verwirklichung dieser Pläne. 
+        1974 wurde der rechteckige Platz der Stadt Dublin geschenkt, die ihn als Park eröffnete. 
+        Der Park ist bekannt für seine vielen historischen Strassenlampen und Skulpturen. 
+        In der südöstlichen Ecke des Parks befindet sich ein Luftschutzbunker aus der Zeit des Zweiten Weltkriegs. 
+        In diesem Bunker konnten 1100 Personen Schutz vor Luftangriffen finden. 
+        Seit 2010 ist der Park Teil des European Garden Heritage Network.
+      `,
+    },
+    {
+      id: 'iveagh-garden',
+      name: 'Iveagh Garden',
+      address: "Clonmel Street, Saint Kevin's, Dublin 2, Irland",
+      url: 'http://www.iveaghgardens.ie/',
+      urlText: 'www.iveaghgardens.ie',
+      openingTimes: [
+        {
+          timeline: 'Januar und Dezember',
+          content: `
+            Mo-Sa 08:00-15:30
+            So 10:00-15:30
+          `,
+        },
+        {
+          timeline: 'Februar und November',
+          content: `
+            Mo-Sa 08:00-16:00
+            So 10:00-16:00
+          `,
+        },
+        {
+          timeline: 'März-Oktober',
+          content: `
+            Mo-Sa 08:00-18:00
+            So 10:00-18:00
+          `,
+        },
+        {
+          content:
+            'Öffnungszeiten können zwischen März und Oktober verändert sein, da es Events gibt.',
+        },
+      ],
+      imagesPath: '/img/oasen',
+      images: ['IMG_7619.JPG'],
+      description: `
+        Der ehemalige Privatgarten der Guinness-Familie aus dem 19. Jahrhundert ist ein öffentlicher Garten, der ganz versteckt in der Stadt liegt. 
+        Speziell an diesem Garten ist die einzige Bogenschiessbahn von Irland, unter der ein Elefant begraben liegt. 
+        Das Labyrinth, die Stauten, die Brunnen und der Wasserfall geben dem Garten einen mystisch märchenhaften Touch.
+      `,
+    },
+  ],
+};
+
 export const ALL_GUIDES = [
   ARCHITECTURE_GUIDE,
   HISTORY_GUIDE,
   FOOD_GUIDE,
   ART_GUIDE,
   MUSIK_GUIDE,
+  NIGHT_GUIDE,
+  OASEN_GUIDE,
 ];

@@ -43,7 +43,7 @@ export const ROUTES: Route[] = [
         name: 'St. Stephens Green Shopping Center',
         lat: 53.33999,
         lng: -6.262416,
-        id: 'st-stephens-green',
+        id: 'st-stephens-green-shopping-center',
         shared: false,
       },
       {
@@ -121,7 +121,7 @@ export const ROUTES: Route[] = [
         name: "St. Stephen's Green",
         lat: 53.338174,
         lng: -6.259119,
-        id: 'st-stephens-green',
+        id: 'st-stephens-green-park',
         shared: true,
       },
       {
@@ -210,7 +210,7 @@ export const ROUTES: Route[] = [
         name: "St. Stephen's Green",
         lat: 53.338174,
         lng: -6.259119,
-        id: 'st-stephens-green',
+        id: 'st-stephens-green-park',
         shared: true,
       },
       {

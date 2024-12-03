@@ -118,7 +118,7 @@ const HomePage: React.FC = () => {
               Bar.
             </GuideSummaryItem>
             <GuideSummaryItem
-              id="oasis"
+              id="oasen"
               dotColor={ROUTES[6].strokeColor}
               title="Oasen"
             >
