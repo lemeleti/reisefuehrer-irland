@@ -139,6 +139,8 @@ export const ROUTES: Route[] = [
         shared: false,
       },
     ],
+    center: { lat: 53.348, lng: -6.285 },
+    zoom: 13,
     strokeColor: '276624',
   },
   {
@@ -269,6 +271,8 @@ export const ROUTES: Route[] = [
         shared: true,
       },
     ],
+    center: { lat: 53.346, lng: -6.258 },
+    zoom: 14,
     strokeColor: '101F8D',
   },
   {
@@ -310,6 +314,8 @@ export const ROUTES: Route[] = [
         shared: false,
       },
     ],
+    center: { lat: 53.346, lng: -6.260 },
+    zoom: 14.3,
     strokeColor: '454141',
   },
   {
@@ -429,6 +435,8 @@ export const ROUTES: Route[] = [
         shared: true,
       },
     ],
+    center: { lat: 53.348, lng: -6.265 },
+    zoom: 13.5,
     strokeColor: '008080',
   },
   {

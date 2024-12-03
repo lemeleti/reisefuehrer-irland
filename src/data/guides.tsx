@@ -65,7 +65,6 @@ const ARCHITECTURE_GUIDE: Guide = {
           `,
         },
       ],
-      guideDetails: 'Auf Anfrage, spätestens einen Monat vor Durchführung',
       buildStyle: 'Viktorianischer Baustil',
       description: `
         Das Gebäude fällt durch seine imposante Metall-Glaskonstruktion auf. 
