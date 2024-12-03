@@ -43,7 +43,7 @@ const HomePage: React.FC = () => {
         <Section id="guides" title="Spaziergänge">
           <GoogleMap routes={ROUTES} />
 
-          <h2 className="font-bold text-xl mb-8">
+          <h2 className="font-bold text-xl mb-8 text-center">
             Graue Marker sind in mehrere Touren vorhanden!
           </h2>
           <ul>
@@ -150,7 +150,7 @@ const HomePage: React.FC = () => {
           <hr className="mx-auto border-[#666] border-2 w-3/4" />
         </div>
         <Section id="impressum" title="Impressum">
-          <p className="place-self-center mb-4">
+          <p className="text-center mb-4">
             Zuletzt aktualisiert 02.02.2018
           </p>
           <div className="text-center mb-8">

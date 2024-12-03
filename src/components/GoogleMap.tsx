@@ -71,16 +71,18 @@ const GoogleMap: React.FC<GoogleMapProps> = ({
 
   const map = useMemo(
     () => (
-      <Map
-        key={!Array.isArray(routes) ? routes.id : 'routes'}
-        mapId={'map'}
-        className="relative z-50 h-[300px] w-[85vw] my-4"
-        defaultCenter={center}
-        defaultZoom={zoom}
-      >
-        {content}
-        <Directions routes={routes} />
-      </Map>
+      <div className="relative h-[300px] my-4">
+        <Map
+          key={!Array.isArray(routes) ? routes.id : 'routes'}
+          mapId={'map'}
+          className="absolute left-1/2 -translate-x-1/2 z-50 h-full w-[85vw] "
+          defaultCenter={center}
+          defaultZoom={zoom}
+        >
+          {content}
+          <Directions routes={routes} />
+        </Map>
+      </div>
     ),
     [routes, center, zoom, content],
   );

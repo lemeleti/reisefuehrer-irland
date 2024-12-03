@@ -35,13 +35,13 @@ const RoutePage: React.FC = () => {
 
         {guide.walkTime && (
           <>
-            <h2 className="text-2xl font-bold my-4">Ungefähre Gehzeit</h2>
-            <p>{guide.walkTime}</p>
+            <h2 className="text-2xl font-bold my-4 text-center">Ungefähre Gehzeit</h2>
+            <p className='text-center'>{guide.walkTime}</p>
           </>
         )}
 
-        <h2 className="text-2xl font-bold my-4">Beschreibung</h2>
-        <CollapsableParagraph className="place-items-center">
+        <h2 className="text-2xl font-bold my-4 text-center">Beschreibung</h2>
+        <CollapsableParagraph className="flex flex-col place-items-center">
           {guide.description}
         </CollapsableParagraph>
 

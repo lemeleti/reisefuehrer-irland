@@ -58,7 +58,7 @@ const CollapsableParagraph: React.FC<{
       {showButton && (
         <button
           onClick={toggleDescription}
-          className="mt-4 py-2 px-3 rounded-full bg-[#444] text-white"
+          className="mt-4 py-2 px-3 rounded-full bg-[#444] text-white w-fit"
         >
           {isOpen ? 'Weniger anzeigen' : 'Mehr anzeigen'}
         </button>
