@@ -1,5 +1,5 @@
 import { Outlet } from 'react-router';
-import HeaderNavigation from '../components/HeaderNavigation';
+import HeaderNavigation from '../components/HeaderNavigation/HeaderNavigation';
 
 const RootLayout: React.FC = () => {
   return (

@@ -1,10 +1,10 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 
-import NavItem from './NavItem';
+import HeaderNavigationItem from './HeaderNavigationItem';
 
-import { GUIDES } from '../data/guides';
-import useScrollingUp from '../hooks/useScrollingUp';
+import { GUIDES } from '../../data/guides';
+import useScrollingUp from '../../hooks/useScrollingUp';
 
 const navElements = [
   { path: 'home#dublin', id: 'dublin', text: 'Dublin' },
@@ -53,7 +53,7 @@ const HeaderNavigation: React.FC = () => {
         className={`${isMenuOpen ? 'flex' : 'hidden'} flex-col md:flex md:flex-row md:items-center w-full md:w-auto mt-4 md:mt-0`}
       >
         {navElements.map((item) => (
-          <NavItem key={item.id} item={item} />
+          <HeaderNavigationItem key={item.id} item={item} />
         ))}
       </ul>
     </header>

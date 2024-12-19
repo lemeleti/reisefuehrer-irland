@@ -1,10 +1,10 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 
-import Dropdown from './Dropdown';
+import HeaderNavigationSubmenu from './HeaderNavigationSubmenu';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCaretDown } from '@fortawesome/free-solid-svg-icons';
-import { scrollToElement } from '../util';
+import { scrollToElement } from '../../util';
 
 type NavItemProps = {
   item: {
@@ -20,10 +20,10 @@ type NavItemProps = {
   };
 };
 
-const NavItem: React.FC<NavItemProps> = ({ item }) => {
-  const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+const HeaderNavigationItem: React.FC<NavItemProps> = ({ item }) => {
+  const [isSubmenuOpen, setIsSubmenuOpen] = useState(false);
 
-  const toggleDropdown = () => setIsDropdownOpen((isOpen) => !isOpen);
+  const toggleSubmenuOpen = () => setIsSubmenuOpen((isOpen) => !isOpen);
 
   return (
     <li className="relative">
@@ -34,7 +34,7 @@ const NavItem: React.FC<NavItemProps> = ({ item }) => {
             if (!item.disableScrolling) {
               scrollToElement(item.id);
             }
-            toggleDropdown();
+            toggleSubmenuOpen();
           }}
           className="block py-2 px-4 text-[0.9rem] whitespace-nowrap w-full hover:bg-gray-700"
         >
@@ -42,17 +42,20 @@ const NavItem: React.FC<NavItemProps> = ({ item }) => {
           {item.submenu && (
             <FontAwesomeIcon
               icon={faCaretDown}
-              onClick={toggleDropdown}
+              onClick={toggleSubmenuOpen}
               className="text-xl ml-2"
             />
           )}
         </Link>
       </div>
-      {isDropdownOpen && item.submenu && (
-        <Dropdown submenu={item.submenu} onDropdownClose={toggleDropdown} />
+      {isSubmenuOpen && item.submenu && (
+        <HeaderNavigationSubmenu
+          submenu={item.submenu}
+          closeSubmenu={toggleSubmenuOpen}
+        />
       )}
     </li>
   );
 };
 
-export default NavItem;
+export default HeaderNavigationItem;
