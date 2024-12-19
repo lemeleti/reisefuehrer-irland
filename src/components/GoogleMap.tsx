@@ -66,7 +66,7 @@ const GoogleMap: React.FC<GoogleMapProps> = ({
     if (!Array.isArray(routes) && routes.zoom) {
       return routes.center;
     }
-    return { lat: 53.34547, lng: -6.26417 };
+    return { lat: 53.34947, lng: -6.27617 };
   }, [routes]);
 
   const map = useMemo(
