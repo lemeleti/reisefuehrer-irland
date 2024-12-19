@@ -3,12 +3,12 @@ import { scrollToElement } from '../../util';
 
 type HeaderNavigationSubmenuProps = {
   submenu: { id: string; path: string; text: string }[];
-  closeSubmenu: () => void;
+  onItemClick: () => void;
 };
 
 const HeaderNavigationSubmenu: React.FC<HeaderNavigationSubmenuProps> = ({
   submenu,
-  closeSubmenu,
+  onItemClick,
 }) => {
   return (
     <ul className="md:z-[999] md:absolute left-0 mt-1 bg-black text-[#c0c0c0] shadow-md rounded-md flex flex-col space-y-1 p-2 w-full">
@@ -17,7 +17,7 @@ const HeaderNavigationSubmenu: React.FC<HeaderNavigationSubmenuProps> = ({
           <Link
             to={item.path}
             onClick={() => {
-              closeSubmenu();
+              onItemClick();
               scrollToElement(item.id);
             }}
             className="block py-1 px-4 text-sm whitespace-nowrap hover:bg-gray-700 rounded"

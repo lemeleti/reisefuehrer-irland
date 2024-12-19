@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { Link } from 'react-router-dom';
 
 import HeaderNavigationSubmenu from './HeaderNavigationSubmenu';
@@ -18,23 +17,27 @@ type NavItemProps = {
       text: string;
     }[];
   };
+  isSubmenuOpen: boolean;
+  onLeafClick: () => void;
+  onSubmenuClick: () => void;
 };
 
-const HeaderNavigationItem: React.FC<NavItemProps> = ({ item }) => {
-  const [isSubmenuOpen, setIsSubmenuOpen] = useState(false);
-
-  const toggleSubmenuOpen = () => setIsSubmenuOpen((isOpen) => !isOpen);
-
+const HeaderNavigationItem: React.FC<NavItemProps> = ({item, isSubmenuOpen, onLeafClick, onSubmenuClick }) => {
   return (
     <li className="relative">
       <div className="inline-flex items-center w-full">
         <Link
           to={item.path}
           onClick={() => {
+            if (item.submenu) {
+              onSubmenuClick()
+            } else {
+              onLeafClick();
+            }
+            
             if (!item.disableScrolling) {
               scrollToElement(item.id);
             }
-            toggleSubmenuOpen();
           }}
           className="block py-2 px-4 text-[0.9rem] whitespace-nowrap w-full hover:bg-gray-700"
         >
@@ -42,17 +45,13 @@ const HeaderNavigationItem: React.FC<NavItemProps> = ({ item }) => {
           {item.submenu && (
             <FontAwesomeIcon
               icon={faCaretDown}
-              onClick={toggleSubmenuOpen}
-              className="text-xl ml-2"
+              className={`text-xl ml-2 ${!isSubmenuOpen ? '-rotate-90' : ''}`}
             />
           )}
         </Link>
       </div>
       {isSubmenuOpen && item.submenu && (
-        <HeaderNavigationSubmenu
-          submenu={item.submenu}
-          closeSubmenu={toggleSubmenuOpen}
-        />
+        <HeaderNavigationSubmenu submenu={item.submenu} onItemClick={onLeafClick} />
       )}
     </li>
   );
