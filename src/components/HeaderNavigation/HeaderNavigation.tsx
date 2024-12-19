@@ -32,7 +32,11 @@ const HeaderNavigation: React.FC = () => {
     >
       {/* Top Row: Brand and Hamburger Button */}
       <div className="flex items-center justify-between w-full">
-        <Link to="home" className="text-[1.25rem]">
+        <Link
+          to="home"
+          onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+          className="text-[1.25rem]"
+        >
           Reisef&uuml;hrer
         </Link>
 
