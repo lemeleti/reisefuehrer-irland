@@ -33,13 +33,13 @@ const HeaderNavigationItem: React.FC<HeaderNavigationItemProps> = ({
               scrollToElement(item.id);
             }
           }}
-          className="block py-2 px-4 text-[0.9rem] whitespace-nowrap w-full hover:bg-gray-700"
+          className="block py-2 px-4 text-[0.9rem] whitespace-nowrap w-full hover:bg-gray-700 rounded"
         >
           {item.text}
           {item.submenu && (
             <FontAwesomeIcon
               icon={faCaretDown}
-              className={`text-xl ml-2 ${!isSubmenuOpen ? '-rotate-90' : ''}`}
+              className='text-xl ml-2'
             />
           )}
         </Link>
