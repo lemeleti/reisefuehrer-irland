@@ -1,13 +1,20 @@
-import { ReactNode, useState } from 'react';
-import { twMerge } from 'tailwind-merge';
-import useCheckMobileScreen from '../hooks/useCheckMobileScreen';
+import { useState } from 'react';
 
-const Carousel: React.FC<{
-  slides: string[];
-  path?: string;
-  className?: string;
-  children?: ReactNode;
-}> = ({ slides, path, className, children }) => {
+// Hooks
+import useCheckMobileScreen from '../../hooks/useCheckMobileScreen';
+
+// Util
+import { twMerge } from 'tailwind-merge';
+
+// Types
+import { CarouselProps } from './types';
+
+const Carousel: React.FC<CarouselProps> = ({
+  slides,
+  path,
+  className,
+  children,
+}) => {
   const [current, setCurrent] = useState<number>(0);
   const { isMobile } = useCheckMobileScreen();
 
@@ -56,10 +63,16 @@ const Carousel: React.FC<{
 
         {slides.length > 1 && (
           <div className="absolute top-1/2 transform -translate-y-1/2 w-full flex justify-between items-center text-white text-xl">
-            <button onClick={prevSlide} className="bg-black hover:bg-gray-400 p-2 px-4 border border-white rounded-r-md">
+            <button
+              onClick={prevSlide}
+              className="bg-black hover:bg-gray-400 p-2 px-4 border border-white rounded-r-md"
+            >
               &#10094;
             </button>
-            <button onClick={nextSlide} className="bg-black hover:bg-gray-400 p-2 px-4 border border-white rounded-l-md">
+            <button
+              onClick={nextSlide}
+              className="bg-black hover:bg-gray-400 p-2 px-4 border border-white rounded-l-md"
+            >
               &#10095;
             </button>
           </div>

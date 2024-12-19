@@ -1,20 +1,8 @@
-import { ReactNode } from 'react';
-import styled from 'styled-components';
+// Components
+import { GuideSummaryItemProps } from './types';
 
-type GuideSummaryItemProps = {
-  id: string;
-  title: string;
-  dotColor: string;
-  children?: ReactNode;
-};
-
-const Dot = styled.span`
-  display: inline-block;
-  border-radius: 50%;
-  width: 15px;
-  height: 15px;
-  margin-right: 5px;
-`;
+// Styled components
+import { Dot } from './GuideSummaryItem.styled';
 
 const GuideSummaryItem: React.FC<GuideSummaryItemProps> = ({
   id,

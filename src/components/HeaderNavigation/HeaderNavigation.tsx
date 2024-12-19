@@ -1,24 +1,15 @@
 import { Link } from 'react-router-dom';
 
-import HeaderNavigationItem from './HeaderNavigationItem';
+// Components
+import HeaderNavigationItem from '../HeaderNavigationItem/HeaderNavigationItem';
 
-import { GUIDES } from '../../data/guides';
+// Hooks
+import useClickOutside from '../../hooks/useClickOutside';
 import useScrollingUp from '../../hooks/useScrollingUp';
 import useToggle from '../../hooks/useToggle';
-import useClickOutside from '../../hooks/useClickOutside';
 
-const navElements = [
-  { path: 'home#dublin', id: 'dublin', text: 'Dublin' },
-  { path: 'home#about', id: 'about', text: 'Über uns' },
-  {
-    path: '#guides',
-    disableScrolling: true,
-    id: 'guides',
-    text: 'Spaziergänge',
-    submenu: GUIDES,
-  },
-  { path: 'home#impressum', id: 'impressum', text: 'Impressum' },
-];
+// Constants
+import { NAV_ELEMENTS } from './constants';
 
 const HeaderNavigation: React.FC = () => {
   const isScrollingUp = useScrollingUp();
@@ -60,7 +51,7 @@ const HeaderNavigation: React.FC = () => {
       <ul
         className={`${isNavOpen ? 'flex' : 'hidden'} flex-col md:flex md:flex-row md:items-center w-full md:w-auto mt-4 md:mt-0`}
       >
-        {navElements.map((item) => (
+        {NAV_ELEMENTS.map((item) => (
           <HeaderNavigationItem
             key={item.id}
             item={item}

@@ -1,10 +1,11 @@
-import { ReactNode, useLayoutEffect, useMemo, useRef, useState } from 'react';
+import { useLayoutEffect, useMemo, useRef, useState } from 'react';
+import { CollapsableParagraphProps } from './types';
 
-const CollapsableParagraph: React.FC<{
-  clamp?: string;
-  children: ReactNode;
-  className?: string;
-}> = ({ clamp, children, className }) => {
+const CollapsableParagraph: React.FC<CollapsableParagraphProps> = ({
+  clamp,
+  children,
+  className,
+}) => {
   const [isOpen, setIsOpen] = useState(false);
   const [showButton, setShowButton] = useState(false);
   const [initialClientHeight, setInitialClientHeight] = useState(0);

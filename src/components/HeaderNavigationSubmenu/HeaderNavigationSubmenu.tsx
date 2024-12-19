@@ -1,10 +1,10 @@
 import { Link } from 'react-router-dom';
+
+// Util
 import { scrollToElement } from '../../util';
 
-type HeaderNavigationSubmenuProps = {
-  submenu: { id: string; path: string; text: string }[];
-  onItemClick: () => void;
-};
+// Types
+import { HeaderNavigationSubmenuProps } from './types';
 
 const HeaderNavigationSubmenu: React.FC<HeaderNavigationSubmenuProps> = ({
   submenu,

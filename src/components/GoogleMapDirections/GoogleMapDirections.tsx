@@ -1,100 +1,13 @@
-import { useEffect, useMemo, useState } from 'react';
-import {
-  AdvancedMarker,
-  APIProvider,
-  Map,
-  Pin,
-  useMap,
-  useMapsLibrary,
-} from '@vis.gl/react-google-maps';
+import { useEffect, useState } from 'react';
+import { useMap, useMapsLibrary } from '@vis.gl/react-google-maps';
 
-import { scrollToElement } from '../util';
+// types
+import { Route } from '../../data/maps';
+import { GoogleMapDirectionsProps } from './types';
 
-import { Route } from '../data/maps';
-
-type ScrollToType = 'ROUTE' | 'POINT';
-
-type GoogleMapProps = {
-  routes: Route[] | Route;
-  scrollToType?: ScrollToType;
-};
-
-const GoogleMap: React.FC<GoogleMapProps> = ({
+const GoogleMapDirections: React.FC<GoogleMapDirectionsProps> = ({
   routes,
-  scrollToType = 'ROUTE',
 }) => {
-  const content = useMemo(() => {
-    const computeMarkers = (route: Route) => {
-      return route.points.map((point, index) => (
-        <AdvancedMarker
-          key={`${route.id}-${index}`}
-          position={{ lat: point.lat, lng: point.lng }}
-          onClick={() => {
-            if (
-              (scrollToType === 'ROUTE' && !point.shared) ||
-              scrollToType === 'POINT'
-            ) {
-              scrollToElement(scrollToType === 'ROUTE' ? route.id : point.id);
-            }
-          }}
-        >
-          <Pin
-            background={`#${point.shared ? 'D3D3D3' : route.strokeColor}`}
-            borderColor={'#000'}
-            glyphColor={'#fff'}
-          />
-        </AdvancedMarker>
-      ));
-    };
-
-    if (Array.isArray(routes)) {
-      return routes.map((route) => computeMarkers(route));
-    }
-
-    const route = routes;
-    return computeMarkers(route);
-  }, [routes, scrollToType]);
-
-  const zoom = useMemo(() => {
-    if (!Array.isArray(routes) && routes.zoom) {
-      return routes.zoom;
-    }
-    return 13;
-  }, [routes]);
-
-  const center = useMemo(() => {
-    if (!Array.isArray(routes) && routes.zoom) {
-      return routes.center;
-    }
-    return { lat: 53.34947, lng: -6.27617 };
-  }, [routes]);
-
-  const map = useMemo(
-    () => (
-      <div className="relative h-[300px] my-4">
-        <Map
-          key={!Array.isArray(routes) ? routes.id : 'routes'}
-          mapId={'map'}
-          className="absolute left-1/2 -translate-x-1/2 z-50 h-full w-[85vw] "
-          defaultCenter={center}
-          defaultZoom={zoom}
-        >
-          {content}
-          <Directions routes={routes} />
-        </Map>
-      </div>
-    ),
-    [routes, center, zoom, content],
-  );
-
-  return (
-    <APIProvider apiKey={import.meta.env.VITE_GOOGLE_MAPS_API_KEY}>
-      {map}
-    </APIProvider>
-  );
-};
-
-const Directions: React.FC<{ routes: Route[] | Route }> = ({ routes }) => {
   const map = useMap();
   const routesLibrary = useMapsLibrary('routes');
 
@@ -220,4 +133,4 @@ const Directions: React.FC<{ routes: Route[] | Route }> = ({ routes }) => {
   return null;
 };
 
-export default GoogleMap;
+export default GoogleMapDirections;

@@ -1,10 +1,12 @@
-import GoogleMap from '../components/GoogleMap';
-import GuideSummaryItem from '../components/GuideSummaryItem';
-import Section from '../components/Section';
-
-import { ROUTES } from '../data/maps';
+// Components
+import GoogleMap from '../components/GoogleMap/GoogleMap';
+import GuideSummary from '../components/GuideSummary/GuideSummary';
+import Section from '../components/Section/Section';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope, faUserCircle } from '@fortawesome/free-regular-svg-icons';
+
+// Data
+import { ROUTES } from '../data/maps';
 
 const HomePage: React.FC = () => {
   return (
@@ -46,103 +48,8 @@ const HomePage: React.FC = () => {
           <h2 className="font-bold text-xl mb-8 text-center">
             Graue Marker sind in mehrere Touren vorhanden!
           </h2>
-          <ul>
-            <GuideSummaryItem
-              id="architecture"
-              dotColor={ROUTES[0].strokeColor}
-              title="Architektur"
-            >
-              Dieser Spaziergang f&uuml;hrt dich quer durch ganz Dublin an
-              wichtigen architektonischen Bauten vorbei. Die Zeitepoche reicht
-              vom Mittelalter bis zur heutigen Zeit.
-            </GuideSummaryItem>
-            <GuideSummaryItem
-              id="history"
-              dotColor={ROUTES[1].strokeColor}
-              title="Geschichte"
-            >
-              Interessiert dich Geschichte? Aber willst du dir dein Wissen nicht
-              nur aus Museen und B&uuml;chern holen? Dann findest du den kleinen
-              Exkurs in die Dubliner Geschichte sicher spannend. Dieser
-              Spaziergang f&uuml;hrt dich durch vergangene Zeiten und vermittelt
-              dir ein paar Eindr&uuml;cke. Wenn dir etwas besonders
-              gef&auml;llt, steht es dir frei, ob du noch mehr aus dieser Zeit
-              entdecken willst.
-            </GuideSummaryItem>
-            <GuideSummaryItem
-              id="food"
-              dotColor={ROUTES[2].strokeColor}
-              title="Kulinarik"
-            >
-              Wenn du nicht nur Burger und Pommes essen und nach dem Guinness
-              Abend am n&auml;chsten Morgen einen hervorragenden Kaffee mit oder
-              ohne Brunch geniessen m&ouml;chtest, sind diese Restaurants
-              perfekt.
-            </GuideSummaryItem>
-            <GuideSummaryItem
-              id="art"
-              dotColor={ROUTES[3].strokeColor}
-              title="Kunst"
-            >
-              Der Spaziergang ist ideal f&uuml;r Leute, die nicht nur in Museen
-              verweilen wollen, sondern parallel zur Kunst auch die
-              wundersch&ouml;ne Stadt entdecken m&ouml;chten. Die Tour
-              beschr&auml;nkt sich auf Street-Art und kann gut mit anderen
-              Touren kombiniert werden. Street-Art ist sehr lebendig und immer
-              im Wandel, daher kann sich viel ver&auml;ndern und wir garantieren
-              nicht, dass die beschriebenen Kunstwerke noch vorhanden sind, wenn
-              du sie dir ansehen willst. Unser Tipp: Achte beim Flanieren auch
-              auf die Nebengassen, Street-Art versteckt sich genau dort, wo man
-              nicht darauf achtet.
-            </GuideSummaryItem>
-            <GuideSummaryItem
-              id="music"
-              dotColor={ROUTES[4].strokeColor}
-              title="Musik"
-            >
-              In Dublin ist Musik sehr wichtig. In vielen Pubs kann man
-              traditionelle Livemusik erleben, aber auch Rock'n Roll, Jazz und
-              Klassik spielen eine wichtige Rolle. Aus Dublin kommt Irlands
-              ber&uuml;hmteste Rockband U2. Dieser Spaziergang f&uuml;r dich an
-              Orte, die mit Musik zu tun haben.
-            </GuideSummaryItem>
-            <GuideSummaryItem
-              id="night-life"
-              dotColor={ROUTES[5].strokeColor}
-              title="By Night"
-            >
-              In Dublin kann man auch am Abend viel sehen und erleben. Es gibt
-              zahlreiche Pubs und Restaurants und viele Br&uuml;cken &uuml;ber
-              den Liffey sind nachts beleuchtet. Ein sehr beliebtes Viertel ist
-              Temple Bar, dort hat es an jeder zweiten Ecke ein Pub oder eine
-              Bar.
-            </GuideSummaryItem>
-            <GuideSummaryItem
-              id="oasen"
-              dotColor={ROUTES[6].strokeColor}
-              title="Oasen"
-            >
-              Brauchst du Zeit, um abzuschalten oder einfach einmal die Zeit zu
-              geniessen und dies erst noch an der frischen Luft, dann wirst du
-              hier sicher f&uuml;ndig.
-            </GuideSummaryItem>
-            <GuideSummaryItem
-              id="politic"
-              dotColor={ROUTES[7].strokeColor}
-              title="Politik"
-            >
-              Dieser Spaziergang f&uuml;hrt dich zu historischen und heute
-              wichtigen Geb&auml;uden, die mit dem Thema Politik zu tun haben.
-            </GuideSummaryItem>
-            <GuideSummaryItem
-              id="sight-seeing"
-              dotColor={ROUTES[8].strokeColor}
-              title="Sehenswertes"
-            >
-              Dieser Spaziergang f&uuml;hrt dich vorbei an bekannten
-              Geb&auml;uden, Orten und Sehensw&uuml;rdigkeiten.
-            </GuideSummaryItem>
-          </ul>
+
+          <GuideSummary />
         </Section>
       </main>
       <footer>
@@ -150,9 +57,7 @@ const HomePage: React.FC = () => {
           <hr className="mx-auto border-[#666] border-2 w-3/4" />
         </div>
         <Section id="impressum" title="Impressum">
-          <p className="text-center mb-4">
-            Zuletzt aktualisiert 02.02.2018
-          </p>
+          <p className="text-center mb-4">Zuletzt aktualisiert 02.02.2018</p>
           <div className="text-center mb-8">
             <h2 className="font-bold text-xl">Redaktionsteam</h2>
             <p>Anabel, C&eacute;line, Leandro, Silke</p>

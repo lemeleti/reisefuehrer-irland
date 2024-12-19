@@ -1,12 +1,18 @@
 import { useParams } from 'react-router';
-import Section from '../components/Section';
 
+// Components
+import CollapsableParagraph from '../components/CollapsableParagraph/CollapsableParagraph';
+import Divider from '../components/Divider/Divider';
+import GoogleMap from '../components/GoogleMap/GoogleMap';
+import Place from '../components/Place/Place';
+import Section from '../components/Section/Section';
+
+// Types
+import { ScrollToTypeEnum } from '../components/GoogleMap/types';
+
+// Data
 import { ALL_GUIDES } from '../data/guides';
-import Place from '../components/Place';
-import Divider from '../components/Divider';
-import GoogleMap from '../components/GoogleMap';
 import { ROUTES } from '../data/maps';
-import CollapsableParagraph from '../components/CollapsableParagraph';
 
 const RoutePage: React.FC = () => {
   const params = useParams();
@@ -29,14 +35,16 @@ const RoutePage: React.FC = () => {
   return (
     <main>
       <Section id={guide.id} title={guide.title}>
-        <GoogleMap routes={route} scrollToType="POINT" />
+        <GoogleMap routes={route} scrollToType={ScrollToTypeEnum.POINT} />
 
         <Divider className="mt-10" />
 
         {guide.walkTime && (
           <>
-            <h2 className="text-2xl font-bold my-4 text-center">Ungefähre Gehzeit</h2>
-            <p className='text-center'>{guide.walkTime}</p>
+            <h2 className="text-2xl font-bold my-4 text-center">
+              Ungefähre Gehzeit
+            </h2>
+            <p className="text-center">{guide.walkTime}</p>
           </>
         )}
 

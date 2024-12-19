@@ -1,21 +1,11 @@
-import { ReactNode } from 'react';
-import { Place as PlaceProps } from '../data/sharedPlaces';
-import Divider from './Divider';
-import Carousel from './Carousel';
-import CollapsableParagraph from './CollapsableParagraph';
+// Types
+import { Place as PlaceProps } from '../../data/sharedPlaces';
 
-const PlaceDetail: React.FC<{
-  title: string;
-  className?: string;
-  children?: ReactNode;
-}> = ({ title, className, children }) => {
-  return (
-    <div className={className}>
-      <h3 className="text-xl font-bold">{title}</h3>
-      {children}
-    </div>
-  );
-};
+// Components
+import Divider from '../Divider/Divider';
+import Carousel from '../Carousel/Carousel';
+import CollapsableParagraph from '../CollapsableParagraph/CollapsableParagraph';
+import PlaceDetail from '../PlaceDetail/PlaceDetail';
 
 const Place: React.FC<{ place: PlaceProps }> = ({ place }) => {
   return (
@@ -47,7 +37,10 @@ const Place: React.FC<{ place: PlaceProps }> = ({ place }) => {
         )}
 
         {place.openingTimes && (
-          <PlaceDetail title="Öffnungszeiten" className={`flex flex-col ${place.openingTimes.length > 1 ? 'gap-4': ''}`}>
+          <PlaceDetail
+            title="Öffnungszeiten"
+            className={`flex flex-col ${place.openingTimes.length > 1 ? 'gap-4' : ''}`}
+          >
             {place.openingTimes.map((item, index) => (
               <div key={`${place.id}-opening-${index}`}>
                 {item.timeline && (
@@ -62,13 +55,16 @@ const Place: React.FC<{ place: PlaceProps }> = ({ place }) => {
         )}
 
         {place.closingTimes && (
-          <PlaceDetail title="Schliessungszeiten" className={`flex flex-col ${place.closingTimes.length > 1 ? 'gap-4': ''}`}>
-            <div className='grid grid-cols-4 gap-4'>
+          <PlaceDetail
+            title="Schliessungszeiten"
+            className={`flex flex-col ${place.closingTimes.length > 1 ? 'gap-4' : ''}`}
+          >
+            <div className="grid grid-cols-4 gap-4">
               {place.closingTimes.map((item, index) => (
                 <div key={`${place.id}-opening-${index}`}>
-                    <p>
-                      <strong>{item.timeline}</strong>
-                    </p>
+                  <p>
+                    <strong>{item.timeline}</strong>
+                  </p>
                   <p style={{ whiteSpace: 'pre-line' }}>{item.content}</p>
                 </div>
               ))}
@@ -114,7 +110,11 @@ const Place: React.FC<{ place: PlaceProps }> = ({ place }) => {
         </CollapsableParagraph>
       )}
 
-      <Carousel slides={place.images} path={`${import.meta.env.BASE_URL}${place.imagesPath}`} className="my-4">
+      <Carousel
+        slides={place.images}
+        path={`${import.meta.env.BASE_URL}${place.imagesPath}`}
+        className="my-4"
+      >
         <p className="text-left">
           Abbildung{place.images.length > 1 ? 'en' : ''}: {place.name}
         </p>

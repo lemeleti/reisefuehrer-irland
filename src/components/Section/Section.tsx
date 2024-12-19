@@ -1,11 +1,6 @@
-import { ReactNode } from 'react';
-import Divider from './Divider';
+import Divider from '../Divider/Divider';
 
-type SectionProps = {
-  id: string;
-  title: string;
-  children?: ReactNode;
-};
+import { SectionProps } from './types';
 
 const Section: React.FC<SectionProps> = ({ id, title, children }) => {
   return (

@@ -24,6 +24,85 @@ export const GUIDES = [
   { path: 'guides/sight-seeing', id: 'sight-seeing', text: 'Sehenswertes' },
 ];
 
+export const GUIDES_SUMMARY = [
+  {
+    id: 'architecture',
+    title: 'Architektur',
+    description: `
+      Dieser Spaziergang führt dich quer durch ganz Dublin an wichtigen architektonischen Bauten vorbei. 
+      Die Zeitepoche reicht vom Mittelalter bis zur heutigen Zeit.
+    `,
+  },
+  {
+    id: 'history',
+    title: 'Geschichte',
+    description: `
+      Interessiert dich Geschichte? 
+      Aber willst du dir dein Wissen nicht nur aus Museen und Büchern holen? 
+      Dann findest du den kleinen Exkurs in die Dubliner Geschichte sicher spannend. 
+      Dieser Spaziergang führt dich durch vergangene Zeiten und vermittelt dir ein paar Eindrücke. 
+      Wenn dir etwas besonders gefällt, steht es dir frei, ob du noch mehr aus dieser Zeit entdecken willst.
+    `,
+  },
+  {
+    id: 'food',
+    title: 'Kulinarik',
+    description: `
+      Wenn du nicht nur Burger und Pommes essen und nach dem Guinness Abend am nächsten Morgen einen hervorragenden Kaffee mit oder ohne Brunch geniessen möchtest, sind diese Restaurants perfekt.
+    `,
+  },
+  {
+    id: 'art',
+    title: 'Kunst',
+    description: `
+      Der Spaziergang ist ideal für Leute, die nicht nur in Museen verweilen wollen, sondern parallel zur Kunst auch die wunderschöne Stadt entdecken möchten. 
+      Die Tour beschränkt sich auf Street-Art und kann gut mit anderen Touren kombiniert werden. 
+      Street-Art ist sehr lebendig und immer im Wandel, daher kann sich viel verändern und wir garantieren nicht, dass die beschriebenen Kunstwerke noch vorhanden sind, wenn du sie dir ansehen willst. 
+      Unser Tipp: Achte beim Flanieren auch auf die Nebengassen, Street-Art versteckt sich genau dort, wo man nicht darauf achtet.
+    `,
+  },
+  {
+    id: 'music',
+    title: 'Musik',
+    description: `
+      In Dublin ist Musik sehr wichtig. 
+      In vielen Pubs kann man traditionelle Livemusik erleben, aber auch Rock'n Roll, Jazz und Klassik spielen eine wichtige Rolle. 
+      Aus Dublin kommt Irlands berühmteste Rockband U2. 
+      Dieser Spaziergang für dich an Orte, die mit Musik zu tun haben.
+    `,
+  },
+  {
+    id: 'night-life',
+    title: 'By Night',
+    description: `
+      In Dublin kann man auch am Abend viel sehen und erleben. 
+      Es gibt zahlreiche Pubs und Restaurants und viele Brücken über den Liffey sind nachts beleuchtet. 
+      Ein sehr beliebtes Viertel ist Temple Bar, dort hat es an jeder zweiten Ecke ein Pub oder eine Bar.
+    `,
+  },
+  {
+    id: 'oasen',
+    title: 'Oasen',
+    description: `
+      Brauchst du Zeit, um abzuschalten oder einfach einmal die Zeit zu geniessen und dies erst noch an der frischen Luft, dann wirst du hier sicher fündig.
+    `,
+  },
+  {
+    id: 'politic',
+    title: 'Politik',
+    description: `
+      Dieser Spaziergang führt dich zu historischen und heute wichtigen Gebäuden, die mit dem Thema Politik zu tun haben.
+    `,
+  },
+  {
+    id: 'sight-seeing',
+    title: 'Sehenswertes',
+    description: `
+      Dieser Spaziergang führt dich vorbei an bekannten Gebäuden, Orten und Sehenswürdigkeiten.
+    `,
+  },
+];
+
 export type Guide = {
   id: string;
   title: string;
@@ -964,13 +1043,14 @@ const SIGHT_SEEING_GUIDE: Guide = {
         {
           content: `Täglich 9:30-17:00
             Di 8:00-17:00
-          ` 
-        }
+          `,
+        },
       ],
       price: `Studierende: 8 \u20AC
         Erwachsene: 10 \u20AC
       `,
-      guideDetails: 'Immer zur vollen Stunde, im Eintrittspreis inbegriffen, empfohlen. Vorbestellung sehr empfohlen.',
+      guideDetails:
+        'Immer zur vollen Stunde, im Eintrittspreis inbegriffen, empfohlen. Vorbestellung sehr empfohlen.',
       additionalInfo: `
         Das von aussen unscheinbare Museum überrascht mit einer interessanten Ausstellung über das 20. Jahrhundert in Dublin. 
         Im Untergeschoss befindet sich ein kleines Café. 
@@ -983,7 +1063,7 @@ const SIGHT_SEEING_GUIDE: Guide = {
         Die Objekte, die ausgestellt sind, wurden ausschliesslich von Dubliner gespendet. 
         Während eines Besuches kannst du viel über die Geschichte Irlands lernen. 
         Vom Besuch der Queen Victoria, über interessante Anekdoten der Guides bis hin zur Erfolgsgeschichte der Band U2.
-      `
+      `,
     },
     {
       id: 'national-museum-an-der-kildare-street',
@@ -996,8 +1076,8 @@ const SIGHT_SEEING_GUIDE: Guide = {
         {
           content: `Di-Sa 10:00-17:00
             So 14:00-17:00
-          ` 
-        }
+          `,
+        },
       ],
       price: 'Eintritt frei',
       type: 'Archäologisches Museum',
@@ -1012,10 +1092,10 @@ const SIGHT_SEEING_GUIDE: Guide = {
         Dasjenige an der Kildare Street ist das berühmteste. 
         Die archäologische Sammlung zeigt die interessantesten Objekte der irischen Kultur. 
         Zum Beispiel die "Schatzkammer" mit kunstgewerblichen Gegenständen aus dem Mittelalter oder Objekte zu den Wikingern in Irland.
-      `
+      `,
     },
-  ]
-}
+  ],
+};
 
 export const ALL_GUIDES = [
   ARCHITECTURE_GUIDE,
