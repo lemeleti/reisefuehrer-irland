@@ -41,8 +41,7 @@ export const DUBLIN_CASTLE: Place = {
   `,
   openingTimes: [
     {
-      content: `
-        Mo-Sa 9:45-17:45
+      content: ` Mo-Sa 9:45-17:45
         Sonn- und Feiertage 12:00-16:45
       `,
     },
@@ -100,8 +99,7 @@ export const ST_STEPHENS_GREEN_PARK: Place = {
   urlText: 'www.ststephensgreenpark.ie',
   openingTimes: [
     {
-      content: `
-        Mo-Sa 07:30-Sonnenuntergang
+      content: `Mo-Sa 07:30-Sonnenuntergang
         Sonn- und Feiertage 09:30-Sonnenuntergang
       `
     }
@@ -134,22 +132,19 @@ export const CHRIST_CHURCH_CATHEDRAL: Place = {
   openingTimes: [
     {
       timeline: 'April, Mai, September und Oktober',
-      content: `
-        Mo-Sa 09:30-18:00 Uhr
+      content: `Mo-Sa 09:30-18:00 Uhr
         (letzter Einlass 17:15 Uhr)
       `,
     },
     {
       timeline: 'Juni-August',
-      content: `
-        Mo-Sa 09:30-19:00 Uhr
+      content: `Mo-Sa 09:30-19:00 Uhr
         (letzter Einlass 18:15 Uhr)
       `,
     },
     {
       timeline: 'November-März',
-      content: `
-        Mo-Sa 09:30-17:00 Uhr
+      content: `Mo-Sa 09:30-17:00 Uhr
         (letzter Einlass 16:15 Uhr)
       `,
     },
@@ -178,15 +173,13 @@ export const TRINITY_COLLEGE: Place = {
   openingTimes: [
     {
       timeline: 'Mai-September',
-      content: `
-        Mo-Sa 9:30-17:00
+      content: `Mo-Sa 9:30-17:00
         So 9:30-16:45
       `,
     },
     {
       timeline: 'Oktober-April',
-      content: `
-        Mo-Sa 9:30-17:00
+      content: `Mo-Sa 9:30-17:00
         So 12:00-16:30
       `,
     },
@@ -213,8 +206,7 @@ export const THE_CHURCH: Place = {
   urlText: 'www.thechurch.ie',
   openingTimes: [
     {
-      content: `
-        Mo-Do 10:30-23:00
+      content: `Mo-Do 10:30-23:00
         Fr und Sa 10:30-02:30
         So 11:30-23:00
       `,
@@ -271,16 +263,14 @@ export const ST_PATRICKS_CATHEDRAL: Place = {
   openingTimes: [
     {
       timeline: 'März-Oktober',
-      content: `
-        Mo-Fr 9:30-17:00
+      content: `Mo-Fr 9:30-17:00
         Sa 9:00-18:00
         So 9:00-10:30, 12:30-14:30 und 16:30-18:00
       `,
     },
     {
       timeline: 'November-Februar',
-      content: `
-        Mo-Fr 9:30-17:00
+      content: `Mo-Fr 9:30-17:00
         Sa 9:30-17:00
         So 9:00-10:30 und 12:30-14:30
       `,
@@ -314,8 +304,7 @@ export const O_NEILS_PUB_AND_KITCHEN: Place = {
   additionalInfo: 'Beim Frühstück ist noch kein Gedränge. Über die Qualität des Essens sind sich die Gäste uneinig.',
   openingTimes: [
     {
-      content: `
-        Mo-Do 8:00-23:30
+      content: `Mo-Do 8:00-23:30
         Fr und Sa 8:00-0:30
         So 8:00-23:00
       `,
@@ -348,8 +337,7 @@ export const CITY_HALL: Place =
   type: 'ehem. Rathaus',
   openingTimes: [
     {
-      content: `
-        Mo-Sa 10:00-17:15
+      content: `Mo-Sa 10:00-17:15
         So geschlossen
       `,
     },

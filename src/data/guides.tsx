@@ -58,8 +58,7 @@ const ARCHITECTURE_GUIDE: Guide = {
       urlText: 'www.stephensgreen.com',
       openingTimes: [
         {
-          content: `
-            Mo-Mi 9:00-19:00
+          content: `Mo-Mi 9:00-19:00
             Do 9:00-21:00
             Fr-Sa 9:00-19:00
             So 11:00-18:00
@@ -83,8 +82,7 @@ const ARCHITECTURE_GUIDE: Guide = {
       urlText: 'www.nli.ie',
       openingTimes: [
         {
-          content: `
-            verschieden je nach Abteilung, Hauptgebäude
+          content: ` verschieden je nach Abteilung, Hauptgebäude
             Mo 17:00-19:45
             Di-Fr 10:30-12:30 und 14:00-16:00
             Sa 9:30-12:45
@@ -227,15 +225,13 @@ const HISTORY_GUIDE: Guide = {
         { timeline: 'Täglich geöffnet', content: '' },
         {
           timeline: 'März-September',
-          content: `
-            10:00-18:30 Uhr
+          content: `10:00-18:30 Uhr
             (letzter Einlass: 17:30 Uhr)
           `,
         },
         {
           timeline: 'Oktober-Februar',
-          content: `
-            10:00-17:30 Uhr
+          content: `10:00-17:30 Uhr
             (letzter Einlass: 16:30 Uhr)
           `,
         },
@@ -309,8 +305,7 @@ const FOOD_GUIDE: Guide = {
       type: 'Café',
       openingTimes: [
         {
-          content: `
-            Mo und Mi-Fr 08:00-18:00 Uhr
+          content: `Mo und Mi-Fr 08:00-18:00 Uhr
             Di geschlossen
             Sa und So 10:00-17:00 Uhr
           `,
@@ -333,8 +328,7 @@ const FOOD_GUIDE: Guide = {
       urlText: 'www.wuff.ie',
       openingTimes: [
         {
-          content: `
-            Mo-Mi 08:00-16:00 Uhr
+          content: `Mo-Mi 08:00-16:00 Uhr
             Do-Sa 08:00-16:00 und 17:30-21:30 Uhr
             So 10:00-16:00 Uhr
           `,
@@ -357,8 +351,7 @@ const FOOD_GUIDE: Guide = {
       urlText: 'www.nandos.ie',
       openingTimes: [
         {
-          content: `
-            Mo-Do 11:30-22:00 Uhr
+          content: `Mo-Do 11:30-22:00 Uhr
             Fr und Sa 11:30-23:00 Uhr
             So 12:00-22:00 Uhr
           `,
@@ -396,8 +389,7 @@ const FOOD_GUIDE: Guide = {
       urlText: 'www.beanhive.ie',
       openingTimes: [
         {
-          content: `
-            Mo-Fr 7:15-18:00 Uhr
+          content: `Mo-Fr 7:15-18:00 Uhr
             Sa und So 9:00-18:00 Uhr
           `,
         },
@@ -587,8 +579,7 @@ const MUSIK_GUIDE: Guide = {
       price: 'Erwachsene: 12.60 \u20AC',
       openingTimes: [
         {
-          content: `
-            Täglich (7 Tage die Woche) 11:00-17:30
+          content: `Täglich (7 Tage die Woche) 11:00-17:30
             Kann nur in einer Führung besichtigt werden! (nicht rollstuhlgängig)
           `,
         },
@@ -616,8 +607,7 @@ const MUSIK_GUIDE: Guide = {
       urlText: 'www.brazenhead.com',
       openingTimes: [
         {
-          content: `
-            Di-Do 10:30-23:30
+          content: `Di-Do 10:30-23:30
             Fr, Sa und Mo 10:30-0:30
             So 12:30-23:30
           `,
@@ -797,22 +787,19 @@ const OASEN_GUIDE: Guide = {
       openingTimes: [
         {
           timeline: 'Januar und Dezember',
-          content: `
-            Mo-Sa 08:00-15:30
+          content: `Mo-Sa 08:00-15:30
             So 10:00-15:30
           `,
         },
         {
           timeline: 'Februar und November',
-          content: `
-            Mo-Sa 08:00-16:00
+          content: `Mo-Sa 08:00-16:00
             So 10:00-16:00
           `,
         },
         {
           timeline: 'März-Oktober',
-          content: `
-            Mo-Sa 08:00-18:00
+          content: `Mo-Sa 08:00-18:00
             So 10:00-18:00
           `,
         },
@@ -854,8 +841,7 @@ const POLITIC_GUIDE: Guide = {
         'Am besten betrachtet man das Gebäude von der anderen Seite des Flusses.',
       openingTimes: [
         {
-          content: `
-            Mo-Fr 09:00-18:00
+          content: `Mo-Fr 09:00-18:00
             Sa und So geschlossen
             (Achtung verstärkte Sicherheitskontrollen)
           `,
@@ -882,8 +868,7 @@ const POLITIC_GUIDE: Guide = {
       address: 'College Green, Temple Bar, Dublin, Irland',
       openingTimes: [
         {
-          content: `
-            Mo-Fr 10:00-16:00
+          content: `Mo-Fr 10:00-16:00
             Do 10:00-17:00
             (nur Teile, da im Gebrauch der Bank)
           `,
@@ -905,8 +890,7 @@ const POLITIC_GUIDE: Guide = {
       urlText: 'www.oireachtas.ie/parliament',
       openingTimes: [
         {
-          content: `
-            Mo-Fr 08:00-21:30
+          content: `Mo-Fr 08:00-21:30
             Sa und So geschlossen
             (Achtung verstärkte Sicherheitskontrollen)
           `,
