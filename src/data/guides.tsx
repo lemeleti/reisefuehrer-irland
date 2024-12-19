@@ -737,6 +737,8 @@ const OASEN_GUIDE: Guide = {
       id: 'phoenix-park',
       name: 'Phoenix Park',
       address: 'Phoenix Park, Dublin 8, Irland',
+      url: 'http://www.phoenixpark.ie/',
+      urlText: 'www.phoenixpark.ie',
       estimatedTime: '2 h',
       additionalInfo: 'Geniesse die Erholungsoase inmitten der Stadt.',
       imagesPath: '/img/oasen',
@@ -830,6 +832,8 @@ const OASEN_GUIDE: Guide = {
     },
   ],
 };
+
+
 
 export const ALL_GUIDES = [
   ARCHITECTURE_GUIDE,
