@@ -150,14 +150,14 @@ export const ROUTES: Route[] = [
         name: 'Four Courts',
         lat: 53.345897,
         lng: -6.273612,
-        id: 'four-courts-politic',
+        id: 'four-courts',
         shared: false,
       },
       {
         name: 'City Hall',
         lat: 53.343864,
         lng: -6.267175,
-        id: 'city-hall-politic',
+        id: 'city-hall',
         shared: true,
       },
       {
@@ -182,6 +182,8 @@ export const ROUTES: Route[] = [
         shared: false,
       },
     ],
+    center: { lat: 53.343, lng: -6.264 },
+    zoom: 14,
     strokeColor: '850F0F',
   },
   {
@@ -205,7 +207,7 @@ export const ROUTES: Route[] = [
         name: 'City Hall',
         lat: 53.343864,
         lng: -6.267175,
-        id: 'city-hall-worth_seeing',
+        id: 'city-hall',
         shared: true,
       },
       {
@@ -230,6 +232,8 @@ export const ROUTES: Route[] = [
         shared: false,
       },
     ],
+    center: { lat: 53.3415, lng: -6.264 },
+    zoom: 14.3,
     strokeColor: 'FFA500',
   },
   {

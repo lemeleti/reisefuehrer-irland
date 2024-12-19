@@ -47,7 +47,7 @@ const Place: React.FC<{ place: PlaceProps }> = ({ place }) => {
         )}
 
         {place.openingTimes && (
-          <PlaceDetail title="Öffnungszeiten" className="flex flex-col gap-4">
+          <PlaceDetail title="Öffnungszeiten" className={`flex flex-col ${place.openingTimes.length > 1 ? 'gap-4': ''}`}>
             {place.openingTimes.map((item, index) => (
               <div key={`${place.id}-opening-${index}`}>
                 {item.timeline && (
@@ -62,7 +62,7 @@ const Place: React.FC<{ place: PlaceProps }> = ({ place }) => {
         )}
 
         {place.closingTimes && (
-          <PlaceDetail title="Schliessungszeiten" className="flex flex-col gap-4">
+          <PlaceDetail title="Schliessungszeiten" className={`flex flex-col ${place.closingTimes.length > 1 ? 'gap-4': ''}`}>
             <div className='grid grid-cols-4 gap-4'>
               {place.closingTimes.map((item, index) => (
                 <div key={`${place.id}-opening-${index}`}>

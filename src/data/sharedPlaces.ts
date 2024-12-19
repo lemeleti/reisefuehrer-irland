@@ -36,8 +36,7 @@ export const DUBLIN_CASTLE: Place = {
   url: 'http://www.dublincastle.ie/',
   urlText: 'www.dublincastle.ie',
   type: 'Burg mit Museen',
-  price: `
-    Studierende: 6 \u20AC
+  price: `Studierende: 6 \u20AC
     Erwachsene: 7 \u20AC
   `,
   openingTimes: [
@@ -129,8 +128,7 @@ export const CHRIST_CHURCH_CATHEDRAL: Place = {
   url: 'http://www.christchurchcathedral.ie/de/besucher/',
   urlText: 'www.christchurchcathedral.ie/',
   buildStyle: 'Frühgotik',
-  price: `
-    Studierende: 3 \u20AC
+  price: `Studierende: 3 \u20AC
     Erwachsene: 6 \u20AC
   `,
   openingTimes: [
@@ -267,8 +265,7 @@ export const ST_PATRICKS_CATHEDRAL: Place = {
   urlText: 'www.stpatrickscathedral.ie',
   type: 'Kirche',
   buildStyle: 'Gotische Architektur',
-  price: `
-    Studierende: 4.50 \u20AC
+  price: `Studierende: 4.50 \u20AC
     Erwachsene: 5.50 \u20AC
   `,
   openingTimes: [
@@ -289,8 +286,7 @@ export const ST_PATRICKS_CATHEDRAL: Place = {
       `,
     },
   ],
-  guideDetails: `
-      Täglich 10:30, 11:30, 15:00 und 15:30
+  guideDetails: `Täglich 10:30, 11:30, 15:00 und 15:30
       (im Eintrittspreis enthalten)
     `,
   description: `
@@ -341,3 +337,32 @@ export const O_NEILS_PUB_AND_KITCHEN: Place = {
     Zum Pub gehört auch noch ein Gästehaus mit einigen Hotelzimmern.
   `,
 };
+
+export const CITY_HALL: Place = 
+{
+  id: 'city-hall',
+  name: 'City Hall',
+  address: 'Dame Street, Dublin 2, Irland',
+  url: 'http://www.dublincity.ie/',
+  urlText: 'www.dublincity.ie',
+  type: 'ehem. Rathaus',
+  openingTimes: [
+    {
+      content: `
+        Mo-Sa 10:00-17:15
+        So geschlossen
+      `,
+    },
+  ],
+  imagesPath: '/img/politics',
+  images: ['IMG_7358.JPG', 'IMG_7336.JPG', 'IMG_7340.JPG'],
+  description: `
+    Die City Hall (1769-1779) ist eines der besten Beispiele der georgianischen Architektur. 
+    Sie war ursprünglich eine Börse, wurde aber 1851 nach einer wirtschaftlichen Krise von der Dublin City Corporation gekauft und für die Stadtverwaltung eingerichtet. 
+    Diese Verwaltung stand damals noch unter englischer Führung. 
+    Darum wurde die City Hall von den irischen Rebellen besetzt, als sich diese 1916 gegen die englische Herrschaft auflehnten. 
+    Der sogenannte Osteraufstand scheiterte zwar, aber 1922 wurde Irland doch noch unabhängig und die neue Regierung bezog die City Hall provisorisch als Hauptquartier. 
+    1995 musste die Stadtverwaltung das Gebäude wegen Platzproblemen verlassen. Aber jeden ersten Montag im Monat kehrt der Stadtrat zurück in die City Hall. 
+    Heute wird im Kellergewölbe eine Ausstellung gezeigt, die Einblick in die Entwicklung der Stadt gibt.
+  `,
+}

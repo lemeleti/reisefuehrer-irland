@@ -9,6 +9,7 @@ import {
   TRINITY_COLLEGE,
   THE_CHURCH,
   O_NEILS_PUB_AND_KITCHEN,
+  CITY_HALL,
 } from './sharedPlaces';
 
 export const GUIDES = [
@@ -218,8 +219,7 @@ const HISTORY_GUIDE: Guide = {
       url: 'http://www.dublinia.ie/german',
       urlText: 'www.dublinia.ie',
       type: 'Wikinger- und Mittelalter-Museum',
-      price: `
-        Eintrittskarte online oder vor Ort, sowie ermässigte Kombikarte für Dublinia und die benachbarte Christ Church Cathedral erhältlich.\n
+      price: `Eintrittskarte online oder vor Ort, sowie ermässigte Kombikarte für Dublinia und die benachbarte Christ Church Cathedral erhältlich.\n
         Studierende: 8.50 \u20AC
         Erwachsene: 9.50 \u20AC
       `,
@@ -666,8 +666,7 @@ const NIGHT_GUIDE: Guide = {
       estimatedTime: '2 h', // TODO: estimated time title
       type: 'Pub Crawl mit Start im Pub The Duke',
       openingTimes: [{ content: 'Mo-Fr 09:00-18:00' }],
-      price: `
-        Studierende: 11 \u20AC
+      price: `Studierende: 11 \u20AC
         Erwachsene: 13 \u20AC
       `,
       additionalInfo: `
@@ -833,7 +832,206 @@ const OASEN_GUIDE: Guide = {
   ],
 };
 
+const POLITIC_GUIDE: Guide = {
+  id: 'politic',
+  title: 'Politik',
+  description: `
+    Die Tour startet beim Gerichtsgebäude von Dublin, das die vier wichtigen Gerichte von Irland beherbergt und einst eine wichtige Rolle spielte beim Osteraufstand in Dublin. 
+    Die City Hall, das nächste Gebäude, war ursprünglich eine Börse und wurde dann lange Zeit von der Stadt Dublin als Regierungsgebäude genutzt. 
+    Weiter geht es zum Irish Parliament, das ein monumentales Gebäude ist. 
+    Heute ist die Bank of Ireland in diesem Gebäude ansässig. 
+    Unsere nächste Station ist der ehemalige Herzogpalast, wo zwei Kammern des Parlaments beheimatet sind. 
+    Als letzte Station folgen die Government Buildings, die heute viele wichtige Sitze wie zum Beispiel das Ministerium des Premierministers (Leo Varadkar) beherbergen.
+  `,
+  walkTime: '1h',
+  places: [
+    {
+      id: 'four-courts',
+      name: 'Four Courts',
+      address: 'Inns Quay 25, Dublin 8, Irland',
+      type: 'Gerichtsgebäude',
+      additionalInfo:
+        'Am besten betrachtet man das Gebäude von der anderen Seite des Flusses.',
+      openingTimes: [
+        {
+          content: `
+            Mo-Fr 09:00-18:00
+            Sa und So geschlossen
+            (Achtung verstärkte Sicherheitskontrollen)
+          `,
+        },
+      ],
+      imagesPath: '/img/politics',
+      images: ['Four Courts Dublin.png'],
+      description: `
+        Das Gebäude ist 1802 im neoklassizistischen Stil von James Gandon erbaut worden. 
+        Seit dieser Zeit wird es als Gerichtsgebäude benützt. 
+        Four Courts heisst es, weil die vier Gerichtshöfe darin untergebracht sind. 
+        Es sind dies der Oberste Gerichtshof (Supreme Court), das Oberste Zivilgericht (High Court), das Berufungsgericht der Stadt Dublin (Dublin Circuit) und das bis 2010 dort beheimatete Strafgericht (Central Criminal Court). 
+        Im Osteraufstand wurde der Four Courts von der Irish Republican Brotherhood belagert und von den britischen Truppen beschossen. 
+        Dabei wurde bei einem Angriff das Nationale Archiv getroffen, weshalb Dokumente aus fast 1000 Jahren verloren gingen. 
+        Darunter sind auch die Pläne des Architekten des Four Courts. 
+        Nach der Restauration wurde das Gebäude 1932 wieder geöffnet und die Gerichtshöfe zogen erneut ein. 
+        Es gibt öffentliche Gerichtsverhandlungen, bei denen der Besuch der Innenräume oder mindestens der beindruckenden Eingangshalle möglich ist.
+      `,
+    },
+    CITY_HALL,
+    {
+      id: 'irish-parliament-house-bank-of-ireland',
+      name: 'Irish Parliament House / Bank of Ireland',
+      address: 'College Green, Temple Bar, Dublin, Irland',
+      openingTimes: [
+        {
+          content: `
+            Mo-Fr 10:00-16:00
+            Do 10:00-17:00
+            (nur Teile, da im Gebrauch der Bank)
+          `,
+        },
+      ],
+      imagesPath: '/img/politics',
+      images: ['IMG_7391.JPG', 'IMG_7387.JPG'],
+      description: `
+        Das Gebäude wurde zwischen 1729 und 1739 vom Architekten Sir Edward Lovatt Pearce entworfen und realisiert. 
+        Speziell ist, dass dieses Gebäude keine Fenster hat und durch seine Grösse sehr imposant wirkt. 
+        Durch den Act of Union (1804) wurde das Gebäude nicht mehr vom Parlament gebraucht und wurde von der Bank of Ireland übernommen.
+      `,
+    },
+    {
+      id: 'leinster-house',
+      name: 'Leinster House',
+      address: 'Kildare Street, Dublin 2, Irland',
+      url: 'http://www.oireachtas.ie/parliament/',
+      urlText: 'www.oireachtas.ie/parliament',
+      openingTimes: [
+        {
+          content: `
+            Mo-Fr 08:00-21:30
+            Sa und So geschlossen
+            (Achtung verstärkte Sicherheitskontrollen)
+          `,
+        },
+      ],
+      guideDetails: `Mo und Fr 10:30 und 14:30
+        kostenlose Führung
+      `,
+      type: 'Parlamentshaus',
+      additionalInfo: 'Ziel von Protestmärschen und Kundgebungen',
+      imagesPath: '/img/politics',
+      images: ['Leinster House.png'],
+      description: `
+        Der ehemalige Herzogpalast ist Sitz des irischen Parlaments. 
+        Das Gebäude wurde 1745 bis 1747 erbaut als Residenzsitz für den Grafen von Kildare, den späteren Herzog der Provinz Leinster. 
+        Richtung Kildare Street präsentiert sich das Gebäude als Stadtpalast mit einem Parkplatz als Vorgarten. 
+        1924 erwarb der irische Staat das Leinster House, seitdem beherbergt es die beiden Kammern des irischen Parlaments.
+      `,
+    },
+    {
+      id: 'government-buildings',
+      name: 'Government Buildings',
+      address: 'Upper Merrion Street, Dublin 2, Irland',
+      url: 'https://www.taoiseach.gov.ie/eng/splash/',
+      urlText: 'www.taoiseach.gov.ie/eng/splash',
+      openingTimes: [
+        {
+          content: 'Nur mit Führung zu besichtigen.',
+        },
+      ],
+      guideDetails: `Sa 10:30, 11:30, 12:30 und 13:30 kostenlos
+        (Achtung Änderungen aufgrund aktueller Anlässe möglich)
+        (Karten am Sa ab 09:30 in der National Gallery erhältlich)
+      `,
+      type: 'Ministerium des Premierministers, die Ratskammer, Ort der Regierungssitzungen und Büro des Generalstaatsanwaltes.',
+      imagesPath: '/img/politics',
+      images: ['IMG_7588.JPG'],
+      description: `
+        Die Government Buildings (1904-1922) wurden von Sir Aston Webb und Thomas Manley entworfen und enthalten die Regierungsbüros. 
+        Heute sind das Ministerium des Premierministers, die Ratskammer, das Finanzministerium und das Büro des Generalstaatsanwalts in den Government Buildings untergebracht.
+      `,
+    },
+  ],
+};
 
+const SIGHT_SEEING_GUIDE: Guide = {
+  id: 'sight-seeing',
+  title: 'Sehenswertes',
+  walkTime: '40 min',
+  description: `
+    Die Tour startet bei der St. Patricks Cathedral, Irlands nationaler Kathedrale. 
+    Weiter geht es zum Dublin Castle, einer Burg aus dem Mittelalter. 
+    Ein paar Schritte weiter steht die City Hall, das historische Rathaus von Dublin. 
+    Von dort führt der Weg durch Temple Bar, das bekannteste Stadtviertel von Dublin auf der südlichen Seite des Flusses Liffey. 
+    Danach geht es durch den St. Stephens Greenpark zu etwas Kultur beim Little Museum of Dublin. 
+    Die Tour endet beim National Museum an der Kildare Street.
+  `,
+  places: [
+    ST_PATRICKS_CATHEDRAL,
+    DUBLIN_CASTLE,
+    CITY_HALL,
+    ST_STEPHENS_GREEN_PARK,
+    {
+      id: 'the-little-museum-of-dublin',
+      name: 'The Little Museum of Dublin',
+      address: "St Stephen's Green, Dublin 15, Irland",
+      url: 'https://www.littlemuseum.ie/',
+      urlText: 'www.littlemuseum.ie',
+      estimatedTime: '1h',
+      openingTimes: [
+        {
+          content: `Täglich 9:30-17:00
+            Di 8:00-17:00
+          ` 
+        }
+      ],
+      price: `Studierende: 8 \u20AC
+        Erwachsene: 10 \u20AC
+      `,
+      guideDetails: 'Immer zur vollen Stunde, im Eintrittspreis inbegriffen, empfohlen. Vorbestellung sehr empfohlen.',
+      additionalInfo: `
+        Das von aussen unscheinbare Museum überrascht mit einer interessanten Ausstellung über das 20. Jahrhundert in Dublin. 
+        Im Untergeschoss befindet sich ein kleines Café. 
+        Die Nachfrage ist sehr gross, es ist empfehlenswert, die Tickets vorab zu kaufen.
+      `,
+      imagesPath: '/img/worth-seeing',
+      images: ['The_Little_Museum_of_Dublin.jpg'],
+      description: `
+        Das Museum gehört zu den beliebtesten Museen der Stadt. 
+        Die Objekte, die ausgestellt sind, wurden ausschliesslich von Dubliner gespendet. 
+        Während eines Besuches kannst du viel über die Geschichte Irlands lernen. 
+        Vom Besuch der Queen Victoria, über interessante Anekdoten der Guides bis hin zur Erfolgsgeschichte der Band U2.
+      `
+    },
+    {
+      id: 'national-museum-an-der-kildare-street',
+      name: 'National Museum an der Kildare Street',
+      address: '2 Kildare Street, Dublin, Irland',
+      url: 'https://www.museum.ie/',
+      urlText: 'www.museum.ie',
+      estimatedTime: '1h',
+      openingTimes: [
+        {
+          content: `Di-Sa 10:00-17:00
+            So 14:00-17:00
+          ` 
+        }
+      ],
+      price: 'Eintritt frei',
+      type: 'Archäologisches Museum',
+      additionalInfo: `
+        Tipp: Achtung viel Publikum am Wochenende, während den irischen Schulferien und in der Hochsaison im Sommer. 
+        Es gibt ein Museumscafé.
+      `,
+      imagesPath: '/img/worth-seeing',
+      images: ['Dublin_Kildare_Street_National_Museum_of_Ireland.JPG'],
+      description: `
+        Zum National Museum gehören vier verschiedene Museen an unterschiedlichen Orten. 
+        Dasjenige an der Kildare Street ist das berühmteste. 
+        Die archäologische Sammlung zeigt die interessantesten Objekte der irischen Kultur. 
+        Zum Beispiel die "Schatzkammer" mit kunstgewerblichen Gegenständen aus dem Mittelalter oder Objekte zu den Wikingern in Irland.
+      `
+    },
+  ]
+}
 
 export const ALL_GUIDES = [
   ARCHITECTURE_GUIDE,
@@ -843,4 +1041,6 @@ export const ALL_GUIDES = [
   MUSIK_GUIDE,
   NIGHT_GUIDE,
   OASEN_GUIDE,
+  POLITIC_GUIDE,
+  SIGHT_SEEING_GUIDE,
 ];
