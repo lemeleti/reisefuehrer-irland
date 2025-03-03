@@ -1,0 +1,44 @@
+#root {
+  min-height: 100vh;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (orientation: portrait) {
+  body {
+    background-image: url('/img/IMG_3050-small.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+}
+
+@media (orientation: landscape) {
+  body {
+    background-image: url('/img/IMG_3049-small.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+}
+
+@media (min-width: 767px) and (orientation: portrait) {
+  body {
+    background-image: url('/img/IMG_3050-large.jpg');
+  }
+}
+
+@media (min-width: 767px) and (orientation: landscape) {
+  body {
+    background-image: url('/img/IMG_3049-large.jpg');
+  }
+}
