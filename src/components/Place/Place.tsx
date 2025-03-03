@@ -112,7 +112,7 @@ const Place: React.FC<{ place: PlaceProps }> = ({ place }) => {
 
       <Carousel
         slides={place.images}
-        path={`${import.meta.env.BASE_URL}${place.imagesPath}`}
+        path={`${window.location.origin}${import.meta.env.BASE_URL}${place.imagesPath}`}
         className="my-4"
       >
         <p className="text-left">
