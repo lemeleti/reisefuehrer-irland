@@ -1,50 +1,41 @@
-# React + TypeScript + Vite
+# Reisef&uuml;hrer Irland
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was created as a final project for the **Swiss Federal Vocational Baccalaureate** (German: *Berufsmaturität / BMS*). It provides multiple curated tour guides throughout Dublin, tailored to different traveler **interests**.
 
-Currently, two official plugins are available:
+Originally developed as a **PHP Single Page Application**, the project was later fully rewritten in **React** with **Tailwind CSS** to modernize the architecture and improve performance. Each tour now has its own dedicated page, instead of being loaded as part of a single SPA.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The website integrates the **Google Maps JavaScript API** and **Google Directions API** for rendering maps, showing points of interest, and displaying walking routes.  
 
-## Expanding the ESLint configuration
+The travel content itself was last updated on **02.02.2018**.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## 🚀 Getting Started
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+1️⃣ Clone the repository  
+```bash
+git clone https://github.com/lemeleti/reisefuehrer-irland.git
 ```
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
-
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
+2️⃣ Install dependencies  
+```bash
+npm install
 ```
+
+3️⃣ Start the development server  
+```bash
+npm run dev
+```
+
+Then open **http://localhost:5173** in your browser.
+
+> **Note:** A valid Google Maps API key is required.  
+> Add your key in the configuration/environment before running the project (see: VITE_GOOGLE_MAPS_API_KEY).
+
+## 🌐 Deployment (GitHub Pages)
+
+To deploy the project to GitHub Pages, run:
+
+```bash
+npm run deploy
+```
+
+This uses gh-pages to publish the dist/ folder to the gh-pages branch.
