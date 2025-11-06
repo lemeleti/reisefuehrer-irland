@@ -63,7 +63,7 @@ const HomePage: React.FC = () => {
             <p>Anabel, C&eacute;line, Leandro, Silke</p>
           </div>
           <div className="flex flex-col lg:flex-row gap-8 text-center">
-            <div className="flex flex-col flex-1">
+            <div className="flex flex-col flex-1 items-center">
               <FontAwesomeIcon icon={faEnvelope} className="text-4xl mb-3" />
               <a href="mailto:info@reisefuehrer-irland.ch">
                 info@reisefuehrer-irland.ch
